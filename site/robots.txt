@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /failed/
+Disallow: /tmp/
+Sitemap: https://image-knowledge-base.vercel.app/site/sitemap.xml

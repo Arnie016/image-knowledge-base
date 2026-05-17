@@ -1,0 +1,13 @@
+{
+  "excludedRunSlugs": {
+    "20260430-2152-mineral-sunscreen-reef-classroom": {
+      "reason": "Superseded by the tighter later reef-classroom run with clearer handled-paper, pavilion, and observation formats.",
+      "replacement": "20260430-2356-mineral-sunscreen-reef-classroom"
+    },
+    "20260430-1126-pocket-glacier-wrestling-sticker-league": {
+      "reason": "Superseded by the broader sticker-culture branch with stronger public-space scale and clearer venue logic.",
+      "replacement": "20260430-1127-pocket-glacier-wrestling-sticker-culture"
+    }
+  },
+  "excludedImageIds": {}
+}

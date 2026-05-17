@@ -1,0 +1,363 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Image Atlas | Speculative Design Reference Atlas</title>
+    <meta
+      name="description"
+      content="Browse a searchable atlas of niche generated images, visual packs, theme libraries, and document-to-explainer workflows."
+    />
+    <link rel="canonical" href="https://image-knowledge-base.vercel.app/site/" />
+    <meta property="og:title" content="Image Atlas | Speculative Design Reference Atlas" />
+    <meta
+      property="og:description"
+      content="A professional image browser for niche visual references, searchable themes, prompt cards, and agentic explainer packs."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <aside class="nav-rail">
+        <a class="brand-lockup" href="#home" data-page-link="home" aria-label="Image Atlas home">
+          <span class="brand-mark">IA</span>
+          <span class="brand-copy">
+            <strong>Image Atlas</strong>
+            <small>Niche image browser</small>
+          </span>
+        </a>
+
+        <nav class="rail-nav" aria-label="Primary navigation">
+          <button class="rail-link is-active" type="button" data-page-link="home">Overview</button>
+          <button class="rail-link" type="button" data-page-link="catalog">Browse</button>
+          <button class="rail-link" type="button" data-page-link="themes">Themes</button>
+          <button class="rail-link" type="button" data-page-link="education">Education</button>
+          <button class="rail-link" type="button" data-page-link="licensing">Licensing</button>
+        </nav>
+
+        <section class="rail-metrics" aria-label="Atlas metrics">
+          <article>
+            <strong id="proofImageCount">0</strong>
+            <span>public images</span>
+          </article>
+          <article>
+            <strong id="proofTopicCount">0</strong>
+            <span>search hooks</span>
+          </article>
+        </section>
+
+        <section class="rail-themes" aria-label="Recent themes">
+          <div class="rail-section-head">
+            <span>Recent runs</span>
+          </div>
+          <div id="navThemes" class="rail-theme-list"></div>
+        </section>
+      </aside>
+
+      <div class="surface-shell">
+        <header class="surface-header">
+          <div>
+            <p class="kicker" id="pageKicker">Image Atlas</p>
+            <h1 id="pageTitle">A cleaner way to browse niche image systems.</h1>
+          </div>
+          <div class="surface-actions">
+            <button class="action-pill" type="button" data-page-link="catalog">Open browser</button>
+            <button class="action-pill action-pill--quiet" type="button" data-page-link="education">Build explainers</button>
+          </div>
+        </header>
+
+        <main class="page-stack">
+          <section class="site-page is-active" data-page="home">
+            <section class="overview-hero">
+              <div class="overview-copy">
+                <p class="kicker">Agentic visual inventory</p>
+                <h2>Find a theme, open an image, move fast.</h2>
+                <p>
+                  Searchable runs, cleaner panels, faster selection, and an education lane for document-to-explainer packs.
+                </p>
+                <div class="hero-actions">
+                  <button class="action-link" type="button" data-page-link="catalog">Browse all images</button>
+                  <button class="action-link secondary" type="button" data-page-link="themes">Open theme library</button>
+                </div>
+              </div>
+              <div class="hero-wall" id="heroWall" aria-label="Featured images"></div>
+            </section>
+
+            <section class="lane-row" aria-label="Primary product lanes">
+              <article class="lane-card">
+                <span>Browse</span>
+                <strong>Dense image panels</strong>
+                <p>Grid, runs, and hooks without the long-scroll feed feel.</p>
+              </article>
+              <article class="lane-card">
+                <span>Themes</span>
+                <strong>Visual run cards</strong>
+                <p>Every theme gets a cover, supporting frames, and a direct open path.</p>
+              </article>
+              <article class="lane-card">
+                <span>Education</span>
+                <strong>Upload to explainers</strong>
+                <p>Turn notes, briefs, or lesson text into a pack of explanatory image ideas.</p>
+              </article>
+            </section>
+
+            <section class="preview-section">
+              <div class="section-head">
+                <div>
+                  <p class="kicker">Featured panels</p>
+                  <h3>High-signal images, not a feed.</h3>
+                </div>
+                <button class="text-link" type="button" data-page-link="catalog">View full browser</button>
+              </div>
+              <div id="homePreview" class="preview-grid"></div>
+            </section>
+          </section>
+
+          <section class="site-page" data-page="catalog">
+            <div class="catalog-shell">
+              <aside class="catalog-filters" aria-label="Browser controls">
+                <label class="search-block" for="searchInput">
+                  <span>Search</span>
+                  <input
+                    id="searchInput"
+                    type="search"
+                    placeholder="seed drawers, reef classroom kits, coffee comparison, map plates..."
+                    autocomplete="off"
+                  />
+                </label>
+
+                <div class="subtabs" aria-label="Browse view">
+                  <button class="subtab is-active" data-view="images" type="button">Images</button>
+                  <button class="subtab" data-view="runs" type="button">Runs</button>
+                  <button class="subtab" data-view="hooks" type="button">Hooks</button>
+                </div>
+
+                <div class="filter-row">
+                  <label class="select-block">
+                    <span>Sort</span>
+                    <select id="sortSelect">
+                      <option value="best">Best match</option>
+                      <option value="score">Top rubric</option>
+                      <option value="specificity">Specificity</option>
+                      <option value="usefulness">Usefulness</option>
+                      <option value="vibe">Vibe</option>
+                      <option value="newest">Newest</option>
+                      <option value="title">Title</option>
+                    </select>
+                  </label>
+                  <label class="toggle-check" for="showArchived">
+                    <input id="showArchived" type="checkbox" />
+                    <span>Show archived</span>
+                  </label>
+                </div>
+
+                <div class="filter-actions">
+                  <button id="clearFilters" class="text-link" type="button">Clear all</button>
+                </div>
+
+                <section class="filter-group">
+                  <div class="filter-headline">Rubric bands</div>
+                  <div id="bandFilters" class="filter-list"></div>
+                </section>
+
+                <section class="filter-group">
+                  <div class="filter-headline">Runs</div>
+                  <div id="runFilters" class="filter-list filter-list--compact"></div>
+                </section>
+
+                <section class="filter-group">
+                  <div class="filter-headline">Formats</div>
+                  <div id="taxonomyFilters" class="filter-list"></div>
+                </section>
+
+                <section class="filter-group">
+                  <div class="filter-headline">Topics</div>
+                  <label class="mini-search" for="topicSearch">
+                    <input id="topicSearch" type="search" placeholder="biology, toy, signage..." />
+                  </label>
+                  <div id="topicFilters" class="chip-list"></div>
+                </section>
+
+                <section class="filter-group">
+                  <div class="filter-headline">Specific hooks</div>
+                  <label class="mini-search" for="hookSearch">
+                    <input id="hookSearch" type="search" placeholder="caption rail, cloud cards..." />
+                  </label>
+                  <div id="hookFilters" class="chip-list chip-list--dense"></div>
+                </section>
+              </aside>
+
+              <section class="catalog-stage">
+                <div class="catalog-toolbar">
+                  <div class="section-head">
+                    <div>
+                      <p class="kicker">Browser</p>
+                      <h3>Open an image or run.</h3>
+                    </div>
+                  </div>
+                  <output id="resultCount">0 images</output>
+                </div>
+
+                <div id="summaryStrip" class="summary-strip"></div>
+                <div id="gallery" class="gallery-grid"></div>
+                <div id="emptyState" class="empty-state" hidden>
+                  <strong>No matches</strong>
+                  <p>Widen the query or remove a filter cluster.</p>
+                </div>
+              </section>
+            </div>
+          </section>
+
+          <section class="site-page" data-page="themes">
+            <section class="theme-library">
+              <div class="section-head">
+                <div>
+                  <p class="kicker">Theme library</p>
+                  <h3>Runs as visual entry points.</h3>
+                </div>
+                <button class="text-link" type="button" data-page-link="catalog">Open browser</button>
+              </div>
+              <div id="themeCards" class="theme-grid"></div>
+            </section>
+          </section>
+
+          <section class="site-page" data-page="education">
+            <section class="education-shell">
+              <div class="education-builder">
+                <div class="section-head">
+                  <div>
+                    <p class="kicker">Education mode</p>
+                    <h3>Upload notes. Get explainer image packs.</h3>
+                  </div>
+                </div>
+
+                <div class="upload-grid">
+                  <label class="upload-card" for="docUpload">
+                    <input id="docUpload" type="file" accept=".txt,.md,.csv,.json,.html,.pdf,.doc,.docx" />
+                    <strong>Drop a document</strong>
+                    <span>Text, markdown, csv, json, html. PDF and DOCX are best treated as beta input.</span>
+                  </label>
+
+                  <label class="text-block" for="docText">
+                    <span>Or paste source text</span>
+                    <textarea
+                      id="docText"
+                      placeholder="Paste a syllabus, lesson note, internal guide, deck summary, product brief, or study sheet..."
+                    ></textarea>
+                  </label>
+                </div>
+
+                <div class="builder-controls">
+                  <label class="select-block">
+                    <span>Audience</span>
+                    <select id="educationAudience">
+                      <option value="teachers and curriculum authors">Teachers</option>
+                      <option value="students preparing for exams">Students</option>
+                      <option value="internal training teams">Training teams</option>
+                      <option value="creative directors and researchers">Creative teams</option>
+                    </select>
+                  </label>
+                  <label class="select-block">
+                    <span>Goal</span>
+                    <select id="educationGoal">
+                      <option value="visual revision posters">Revision posters</option>
+                      <option value="comparison charts and labeled guides">Comparison charts</option>
+                      <option value="process diagrams and explainers">Process explainers</option>
+                      <option value="mixed explanatory pack">Mixed pack</option>
+                    </select>
+                  </label>
+                  <label class="select-block">
+                    <span>Explainers</span>
+                    <select id="educationPackSize">
+                      <option value="4">4</option>
+                      <option value="6" selected>6</option>
+                      <option value="8">8</option>
+                    </select>
+                  </label>
+                  <label class="select-block">
+                    <span>Preview renders</span>
+                    <select id="educationPreviewCount">
+                      <option value="0">0</option>
+                      <option value="1">1</option>
+                      <option value="2" selected>2</option>
+                      <option value="3">3</option>
+                    </select>
+                  </label>
+                </div>
+
+                <div class="builder-actions">
+                  <button id="generateEducationPack" class="action-link" type="button">Generate pack</button>
+                  <button id="clearEducation" class="action-link secondary" type="button">Reset</button>
+                </div>
+
+                <p id="educationStatus" class="status-line">No document loaded yet.</p>
+              </div>
+
+              <aside class="education-sidecar">
+                <span>What it does</span>
+                <strong>Agentic pack builder</strong>
+                <p>Reads your source material, extracts visual teaching opportunities, suggests search-shaped image ideas, and can request GPT Image previews.</p>
+                <div class="mini-points">
+                  <span>Revision posters</span>
+                  <span>Comparison charts</span>
+                  <span>Process cycles</span>
+                  <span>Training handouts</span>
+                </div>
+              </aside>
+            </section>
+
+            <section class="education-results-wrap">
+              <div class="section-head">
+                <div>
+                  <p class="kicker">Generated pack</p>
+                  <h3>Clickable outputs and preview renders.</h3>
+                </div>
+              </div>
+              <div id="educationResults" class="education-results empty">
+                <div class="empty-state">
+                  <strong>Nothing generated yet</strong>
+                  <p>Run the pack builder to get prompts, queries, and optional image previews.</p>
+                </div>
+              </div>
+            </section>
+          </section>
+
+          <section class="site-page" data-page="licensing">
+            <section class="license-grid">
+              <article class="license-card">
+                <span>Browse</span>
+                <strong>Public atlas</strong>
+                <p>Search, inspect prompts, and open tagged PNGs.</p>
+              </article>
+              <article class="license-card">
+                <span>Next</span>
+                <strong>Study packs</strong>
+                <p>Curated bundles for courses, teams, and niche search lanes.</p>
+              </article>
+              <article class="license-card">
+                <span>Next</span>
+                <strong>Agent workflows</strong>
+                <p>Prompt-to-pack, retrieval, and reuse flows built around the atlas.</p>
+              </article>
+            </section>
+          </section>
+        </main>
+      </div>
+
+      <aside id="inspectorPanel" class="inspector-panel" aria-label="Selected item details"></aside>
+    </div>
+
+    <div id="mobileScrim" class="mobile-scrim" hidden></div>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
