@@ -13,7 +13,7 @@
     <key>RunAtLoad</key>
     <true/>
     <key>StartInterval</key>
-    <integer>600</integer>
+    <integer>__START_INTERVAL__</integer>
     <key>WatchPaths</key>
     <array>
       <string>__SOURCE__/catalog/runs.jsonl</string>

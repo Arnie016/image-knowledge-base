@@ -13,7 +13,11 @@ elif [[ -f "$DEFAULT_SOURCE/catalog/runs.jsonl" && -f "$DEFAULT_SOURCE/catalog/i
 else
   SOURCE="$ROOT"
 fi
-MAX_NEW_RUNS="${IMAGE_ATLAS_PUBLIC_MAX_NEW_RUNS:-1}"
+MAX_NEW_RUNS="${IMAGE_ATLAS_PUBLIC_MAX_NEW_RUNS:-3}"
+MIN_IMAGES_PER_RUN="${IMAGE_ATLAS_PUBLIC_MIN_IMAGES_PER_RUN:-10}"
+MAX_IMAGES_PER_RUN="${IMAGE_ATLAS_PUBLIC_MAX_IMAGES_PER_RUN:-0}"
+MAX_NEW_IMAGES="${IMAGE_ATLAS_PUBLIC_MAX_NEW_IMAGES:-0}"
+USEFUL_RATIO_THRESHOLD="${IMAGE_ATLAS_PUBLIC_USEFUL_RATIO_THRESHOLD:-0.35}"
 
 mkdir -p "$ROOT/tmp"
 cd "$ROOT"
@@ -24,7 +28,11 @@ if [[ "$SOURCE" != "$ROOT" && -f "$SOURCE/catalog/runs.jsonl" && -f "$SOURCE/cat
   node "$ROOT/scripts/sync-public-atlas.mjs" \
     --source "$SOURCE" \
     --dest "$ROOT" \
-    --max-new-runs "$MAX_NEW_RUNS"
+    --max-new-runs "$MAX_NEW_RUNS" \
+    --min-images-per-run "$MIN_IMAGES_PER_RUN" \
+    --max-images-per-run "$MAX_IMAGES_PER_RUN" \
+    --max-new-images "$MAX_NEW_IMAGES" \
+    --useful-ratio-threshold "$USEFUL_RATIO_THRESHOLD"
 else
   echo "Running in self-publish mode from $ROOT"
 fi

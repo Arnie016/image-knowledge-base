@@ -126,6 +126,24 @@ ${recentRun ? `\n- **Run page:** [${recentRun.slug}](site/r/${recentRun.slug}/in
 3. Install the local launchd watcher for continuous GitHub publishing:
    \`./scripts/install-launch-agent.sh ../image-knowledge-base\`
 
+### Volume Profile
+
+- Default public sync now targets \`10+\` images per run and publishes up to \`3\` new runs per cycle.
+- Set \`IMAGE_ATLAS_PUBLIC_MAX_NEW_RUNS=0\` to allow unlimited new runs in one sync.
+- Set \`IMAGE_ATLAS_PUBLIC_MAX_NEW_IMAGES=200\` to cap one publish pass by image count instead of run count.
+- Set \`IMAGE_ATLAS_PUBLIC_SYNC_INTERVAL_SECONDS=300\` before installing the launch agent to publish every 5 minutes.
+- Set \`IMAGE_ATLAS_PUBLIC_MIN_IMAGES_PER_RUN=10\` to keep the public mirror focused on substantial batches.
+
+Example high-volume install:
+
+\`\`\`bash
+IMAGE_ATLAS_PUBLIC_MAX_NEW_RUNS=5 \\
+IMAGE_ATLAS_PUBLIC_MAX_NEW_IMAGES=120 \\
+IMAGE_ATLAS_PUBLIC_MIN_IMAGES_PER_RUN=10 \\
+IMAGE_ATLAS_PUBLIC_SYNC_INTERVAL_SECONDS=300 \\
+./scripts/install-launch-agent.sh ../image-knowledge-base
+\`\`\`
+
 ## Repo Layout
 
 - \`images/\`: published PNGs, grouped by date and run slug.

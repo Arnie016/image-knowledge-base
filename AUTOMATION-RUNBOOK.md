@@ -189,6 +189,31 @@ Dense images are encouraged, but density is not the only goal. A quiet single sc
 
 For film and animation branches, a strong run usually mixes at least three of these families: character turnaround or species sheet, expression or pose lineup, prop or costume detail plate, storyboard or beat page, camera/blocking guide, environment continuity board, edit or timing planner, and one cinematic proof frame that shows the asset language working in-scene.
 
+## Public-Facing Batch Standard
+
+The automation should treat `10` final PNGs as the normal public-ready floor for a successful run. Fewer than 10 is only acceptable when the run report explicitly marks the run as a scarce, expensive, or precision study.
+
+For broad practical lanes such as explainers, storyboard packs, continuity kits, doctrine sheets, pressure maps, and commercial prompt boards, prefer:
+
+- `10 to 16` images for a standard public run.
+- `12 to 24` images when the theme benefits from family breadth.
+- at least `3` visual families inside the batch so the run page feels substantial rather than repetitive.
+
+If a theme deserves far more coverage, do not dump hundreds of unrelated images into one flat run. Split the work into a coherent series of sibling runs with a shared series name, each individually searchable and each strong enough to stand as its own landing page.
+
+## Throughput and Scale
+
+The atlas should aim for volume without turning into sludge. When generation throughput is available, scale by batching coherent families instead of weakening prompts.
+
+Preferred scale-up pattern:
+
+- Queue a series, not a blob: for example `5` related runs with `10 to 20` images each instead of one shapeless `75` image drop.
+- Reuse the same research brief, audience, SEO lane, and continuity anchors across the sibling runs.
+- Vary the family focus across sibling runs: character, setting, prop, action, style, doctrine, timeline, or scenario.
+- Keep prompt cards dense and specific enough that each page remains useful on its own.
+
+When a user asks for "hundreds of images," interpret that as a request for a larger indexed corpus, not a license for generic bulk generation. The correct response is to increase run cadence, widen public sync windows, and produce series-based batches that preserve retrieval quality.
+
 ## Theme Selection Protocol
 
 Do not pick the first plausible theme. Generate a short internal slate of at least five candidate themes, each with a different scale or domain. Choose the one that best satisfies:
