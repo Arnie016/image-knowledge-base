@@ -6,13 +6,13 @@
     <title>Image Atlas | Speculative Design Reference Atlas</title>
     <meta
       name="description"
-      content="Browse a searchable atlas of niche generated images, visual packs, theme libraries, and document-to-explainer workflows."
+      content="Browse a searchable atlas of niche generated images, storyboard packs, commercial prompt boards, character sheets, and reusable visual workflows."
     />
     <link rel="canonical" href="https://image-knowledge-base.vercel.app/site/" />
     <meta property="og:title" content="Image Atlas | Speculative Design Reference Atlas" />
     <meta
       property="og:description"
-      content="A professional image browser for niche visual references, searchable themes, prompt cards, and agentic explainer packs."
+      content="A professional image browser for niche visual references, storyboard packs, prompt boards, prompt cards, and agentic reusable image workflows."
     />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -39,8 +39,8 @@
           <button class="rail-link is-active" type="button" data-page-link="home">Overview</button>
           <button class="rail-link" type="button" data-page-link="catalog">Browse</button>
           <button class="rail-link" type="button" data-page-link="themes">Themes</button>
-          <button class="rail-link" type="button" data-page-link="education">Education</button>
-          <button class="rail-link" type="button" data-page-link="licensing">Licensing</button>
+          <button class="rail-link" type="button" data-page-link="education">Builder</button>
+          <button class="rail-link" type="button" data-page-link="licensing">Workflows</button>
         </nav>
 
         <section class="rail-metrics" aria-label="Atlas metrics">
@@ -66,11 +66,11 @@
         <header class="surface-header">
           <div>
             <p class="kicker" id="pageKicker">Image Atlas</p>
-            <h1 id="pageTitle">A cleaner way to browse niche image systems.</h1>
+            <h1 id="pageTitle">An atlas for prompt boards, storyboards, and reusable image systems.</h1>
           </div>
           <div class="surface-actions">
             <button class="action-pill" type="button" data-page-link="catalog">Open browser</button>
-            <button class="action-pill action-pill--quiet" type="button" data-page-link="education">Build explainers</button>
+            <button class="action-pill action-pill--quiet" type="button" data-page-link="education">Build packs</button>
           </div>
         </header>
 
@@ -78,14 +78,14 @@
           <section class="site-page is-active" data-page="home">
             <section class="overview-hero">
               <div class="overview-copy">
-                <p class="kicker">Agentic visual inventory</p>
-                <h2>Find a theme, open an image, move fast.</h2>
+                <p class="kicker">Prompt-image workbench</p>
+                <h2>Build ad boards, character sheets, and motion-ready prompt packs.</h2>
                 <p>
-                  Searchable runs, cleaner panels, faster selection, and an education lane for document-to-explainer packs.
+                  Searchable image systems for commercial storyboards, mascot storytelling, product hero frames, labeled reference packs, and GPT-to-motion workflows instead of generic image feeds.
                 </p>
                 <div class="hero-actions">
                   <button class="action-link" type="button" data-page-link="catalog">Browse all images</button>
-                  <button class="action-link secondary" type="button" data-page-link="themes">Open theme library</button>
+                  <button class="action-link secondary" type="button" data-page-link="education">Open pack builder</button>
                 </div>
               </div>
               <div class="hero-wall" id="heroWall" aria-label="Featured images"></div>
@@ -93,20 +93,31 @@
 
             <section class="lane-row" aria-label="Primary product lanes">
               <article class="lane-card">
-                <span>Browse</span>
-                <strong>Dense image panels</strong>
-                <p>Grid, runs, and hooks without the long-scroll feed feel.</p>
+                <span>Commercials</span>
+                <strong>Shot-board retrieval</strong>
+                <p>Prompt boards, 15-second storyboards, product hero frames, and end-card references.</p>
               </article>
               <article class="lane-card">
-                <span>Themes</span>
-                <strong>Visual run cards</strong>
-                <p>Every theme gets a cover, supporting frames, and a direct open path.</p>
+                <span>Character systems</span>
+                <strong>Asset bibles</strong>
+                <p>Turnarounds, expression packs, species sheets, prop boards, and continuity anchors.</p>
               </article>
               <article class="lane-card">
-                <span>Education</span>
-                <strong>Upload to explainers</strong>
-                <p>Turn notes, briefs, or lesson text into a pack of explanatory image ideas.</p>
+                <span>Agent layer</span>
+                <strong>Brief to pack</strong>
+                <p>Type a prompt and get boards, hooks, tags, and reusable pack structures on the right rail.</p>
               </article>
+            </section>
+
+            <section class="preview-section">
+              <div class="section-head">
+                <div>
+                  <p class="kicker">Commercial workflows</p>
+                  <h3>Prompt-image packs for ads and film work.</h3>
+                </div>
+                <button class="text-link" type="button" data-page-link="education">Open builder</button>
+              </div>
+              <div id="taskPreview" class="task-grid"></div>
             </section>
 
             <section class="preview-section">
@@ -129,14 +140,14 @@
                   <input
                     id="searchInput"
                     type="search"
-                    placeholder="seed drawers, reef classroom kits, coffee comparison, map plates..."
+                    placeholder="storyboard beat page, mascot turnaround, product hero frame, chips commercial board..."
                     autocomplete="off"
                   />
                 </label>
 
                 <div class="subtabs" aria-label="Browse view">
-                  <button class="subtab is-active" data-view="images" type="button">Images</button>
-                  <button class="subtab" data-view="runs" type="button">Runs</button>
+                  <button class="subtab" data-view="images" type="button">Images</button>
+                  <button class="subtab is-active" data-view="runs" type="button">Runs</button>
                   <button class="subtab" data-view="hooks" type="button">Hooks</button>
                 </div>
 
@@ -200,12 +211,13 @@
                   <div class="section-head">
                     <div>
                       <p class="kicker">Browser</p>
-                      <h3>Open an image or run.</h3>
+                      <h3>Open a run, panel, or agent suggestion.</h3>
                     </div>
                   </div>
                   <output id="resultCount">0 images</output>
                 </div>
 
+                <div id="agentSuggestionStrip" class="agent-suggestion-strip"></div>
                 <div id="summaryStrip" class="summary-strip"></div>
                 <div id="gallery" class="gallery-grid"></div>
                 <div id="emptyState" class="empty-state" hidden>
@@ -234,8 +246,8 @@
               <div class="education-builder">
                 <div class="section-head">
                   <div>
-                    <p class="kicker">Education mode</p>
-                    <h3>Upload notes. Get explainer image packs.</h3>
+                    <p class="kicker">Pack builder</p>
+                    <h3>Upload a brief. Get storyboard, commercial, or explainer packs.</h3>
                   </div>
                 </div>
 
@@ -250,32 +262,41 @@
                     <span>Or paste source text</span>
                     <textarea
                       id="docText"
-                      placeholder="Paste a syllabus, lesson note, internal guide, deck summary, product brief, or study sheet..."
+                      placeholder="Paste a product brief, ad concept, short-film beat sheet, mascot notes, deck summary, lesson plan, or training guide..."
                     ></textarea>
                   </label>
                 </div>
 
                 <div class="builder-controls">
                   <label class="select-block">
+                    <span>Lane</span>
+                    <select id="educationLane">
+                      <option value="commercial">Commercial storyboard</option>
+                      <option value="film">Film asset bible</option>
+                      <option value="education">Education explainer</option>
+                      <option value="mixed">Mixed prompt pack</option>
+                    </select>
+                  </label>
+                  <label class="select-block">
                     <span>Audience</span>
                     <select id="educationAudience">
-                      <option value="teachers and curriculum authors">Teachers</option>
-                      <option value="students preparing for exams">Students</option>
-                      <option value="internal training teams">Training teams</option>
-                      <option value="creative directors and researchers">Creative teams</option>
+                      <option value="brand teams and ad creatives">Brand teams</option>
+                      <option value="product marketers and editors">Product marketers</option>
+                      <option value="indie filmmakers and storyboard artists">Filmmakers</option>
+                      <option value="teachers and training teams">Education and training</option>
                     </select>
                   </label>
                   <label class="select-block">
                     <span>Goal</span>
                     <select id="educationGoal">
-                      <option value="visual revision posters">Revision posters</option>
-                      <option value="comparison charts and labeled guides">Comparison charts</option>
-                      <option value="process diagrams and explainers">Process explainers</option>
-                      <option value="mixed explanatory pack">Mixed pack</option>
+                      <option value="15-second ad storyboard">15-second ad storyboard</option>
+                      <option value="prompt boards and hero frames">Prompt boards and hero frames</option>
+                      <option value="character, prop, and continuity sheets">Character, prop, and continuity sheets</option>
+                      <option value="mixed reusable pack">Mixed reusable pack</option>
                     </select>
                   </label>
                   <label class="select-block">
-                    <span>Explainers</span>
+                    <span>Outputs</span>
                     <select id="educationPackSize">
                       <option value="4">4</option>
                       <option value="6" selected>6</option>
@@ -303,13 +324,13 @@
 
               <aside class="education-sidecar">
                 <span>What it does</span>
-                <strong>Agentic pack builder</strong>
-                <p>Reads your source material, extracts visual teaching opportunities, suggests search-shaped image ideas, and can request GPT Image previews.</p>
+                <strong>Prompt-pack planner</strong>
+                <p>Reads your brief, extracts shots, prompt clusters, reusable boards, and can request GPT Image previews for commercial, film, or explainer work.</p>
                 <div class="mini-points">
-                  <span>Revision posters</span>
-                  <span>Comparison charts</span>
-                  <span>Process cycles</span>
-                  <span>Training handouts</span>
+                  <span>Storyboards</span>
+                  <span>Hero frames</span>
+                  <span>Character bibles</span>
+                  <span>Edit handoffs</span>
                 </div>
               </aside>
             </section>
@@ -318,13 +339,13 @@
               <div class="section-head">
                 <div>
                   <p class="kicker">Generated pack</p>
-                  <h3>Clickable outputs and preview renders.</h3>
+                  <h3>Reusable boards, prompts, and preview renders.</h3>
                 </div>
               </div>
               <div id="educationResults" class="education-results empty">
                 <div class="empty-state">
                   <strong>Nothing generated yet</strong>
-                  <p>Run the pack builder to get prompts, queries, and optional image previews.</p>
+                  <p>Run the builder to get prompts, search queries, board structures, and optional preview images.</p>
                 </div>
               </div>
             </section>
@@ -333,26 +354,42 @@
           <section class="site-page" data-page="licensing">
             <section class="license-grid">
               <article class="license-card">
-                <span>Browse</span>
+                <span>Retrieve</span>
                 <strong>Public atlas</strong>
-                <p>Search, inspect prompts, and open tagged PNGs.</p>
+                <p>Search, inspect prompts, and open tagged PNGs with a right-rail retrieval agent.</p>
               </article>
               <article class="license-card">
-                <span>Next</span>
-                <strong>Study packs</strong>
-                <p>Curated bundles for courses, teams, and niche search lanes.</p>
+                <span>Build</span>
+                <strong>Commercial and film packs</strong>
+                <p>Turn briefs into storyboard boards, character sheets, and prompt-image packs.</p>
               </article>
               <article class="license-card">
                 <span>Next</span>
                 <strong>Agent workflows</strong>
-                <p>Prompt-to-pack, retrieval, and reuse flows built around the atlas.</p>
+                <p>Prompt-to-pack, retrieval, motion handoff, and reuse flows built around the atlas.</p>
               </article>
             </section>
           </section>
         </main>
+
+        <form id="agentDock" class="agent-dock" aria-label="Atlas agent prompt bar">
+          <div class="agent-dock-copy">
+            <span>Atlas agent</span>
+            <strong>Ask for an ad board, character bible, shot pack, or useful visual reference.</strong>
+          </div>
+          <div class="agent-dock-input">
+            <input
+              id="agentPromptInput"
+              type="text"
+              placeholder="Build a 15-second chips commercial board, find mascot turnaround sheets, show hero end frames, retrieve storyboard-like packs..."
+              autocomplete="off"
+            />
+            <button id="agentPromptSend" type="submit">Ask</button>
+          </div>
+        </form>
       </div>
 
-      <aside id="inspectorPanel" class="inspector-panel" aria-label="Selected item details"></aside>
+      <aside id="inspectorPanel" class="inspector-panel" aria-label="Atlas agent and selected item context"></aside>
     </div>
 
     <div id="mobileScrim" class="mobile-scrim" hidden></div>

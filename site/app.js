@@ -12,29 +12,105 @@ const VALID_PAGES = new Set(["home", "catalog", "themes", "education", "licensin
 const PAGE_META = {
   home: {
     kicker: "Image Atlas",
-    title: "A cleaner way to browse niche image systems.",
+    title: "A cleaner way to browse prompt boards, storyboards, and useful labeled image systems.",
   },
   catalog: {
     kicker: "Browser",
-    title: "Open an image, theme, or search hook fast.",
+    title: "Agentic image wall for frames, boards, hooks, and prompt packs.",
   },
   themes: {
     kicker: "Theme library",
-    title: "Runs presented as visual navigation, not text dumps.",
+    title: "Runs presented as visual navigation, not PNG dumps.",
   },
   education: {
-    kicker: "Education mode",
-    title: "Document-to-explainer packs with agentic image planning.",
+    kicker: "Pack builder",
+    title: "Brief-to-storyboard, commercial, and explainer packs with agentic image planning.",
   },
   licensing: {
-    kicker: "Licensing",
-    title: "Free browsing now, higher-touch packs and agent flows next.",
+    kicker: "Workflows",
+    title: "Atlas retrieval, pack generation, and motion-ready reuse flows.",
   },
 };
 
+const AGENT_STARTER_PROMPTS = [
+  "build a 15-second snack commercial board",
+  "show mascot turnaround and expression sheets",
+  "find product hero end frames",
+  "turn this into a GPT to Seedance to CapCut pack",
+  "retrieve storyboard-like prompt images",
+];
+
+const WORKFLOW_CARD_BLUEPRINTS = [
+  {
+    kicker: "Commercial board",
+    title: "15-second ad sequence",
+    description: "Hook frame, medium action, texture beat, hero pack shot, and end-card tagline.",
+    prompt: "build a 15-second product commercial board",
+    chips: ["hook frame", "hero shot", "end frame"],
+  },
+  {
+    kicker: "Character pack",
+    title: "Mascot and species bible",
+    description: "Turnarounds, expression sheets, prop anchors, species notes, and continuity-safe costume details.",
+    prompt: "show mascot turnaround and species dossier images",
+    chips: ["turnaround", "expression pack", "species sheet"],
+  },
+  {
+    kicker: "Prompt system",
+    title: "Reusable prompt-image pack",
+    description: "Prompt boards that expose hooks, camera logic, materials, motion cues, and scene continuity.",
+    prompt: "find prompt-image boards for product storytelling",
+    chips: ["prompt board", "camera logic", "continuity"],
+  },
+  {
+    kicker: "Edit handoff",
+    title: "GPT to motion to edit",
+    description: "Boards that move cleanly from GPT image ideation into Seedance motion passes and CapCut editing.",
+    prompt: "turn this brief into a GPT to Seedance to CapCut pack",
+    chips: ["Seedance", "CapCut", "timing board"],
+  },
+];
+
+const MODE_KEYWORDS = {
+  commercial: ["ad", "ads", "advert", "commercial", "campaign", "product", "hero shot", "tagline", "end frame", "brand", "social", "ugc", "pack shot"],
+  film: ["storyboard", "story board", "shot", "scene", "sequence", "mascot", "character", "species", "expression", "turnaround", "film", "movie", "animation", "cinematic", "capcut", "seedance", "continuity", "beat"],
+  education: ["diagram", "chart", "guide", "labeled", "labelled", "poster", "explainer", "revision", "course", "training", "anatomy"],
+};
+
+const MODE_TAXONOMY_BOOSTS = {
+  commercial: {
+    "photorealistic-natural": 10,
+    "atlas-contact-sheet": 9,
+    "mixed-format": 9,
+    "illustration-story": 8,
+    "typographic-layout": 7,
+  },
+  film: {
+    "illustration-story": 10,
+    "atlas-contact-sheet": 9,
+    "mixed-format": 8,
+    "stylized-concept": 8,
+    "environment-concept": 6,
+  },
+  education: {
+    "scientific-educational": 10,
+    "infographic-diagram": 10,
+    "mixed-format": 6,
+  },
+  generic: {},
+};
+
+const CONTINUITY_ROLES = [
+  { id: "character", label: "Character" },
+  { id: "setting", label: "Setting" },
+  { id: "prop", label: "Prop" },
+  { id: "action", label: "Action" },
+  { id: "style", label: "Style" },
+];
+
 const state = {
   page: "home",
-  view: "images",
+  view: "runs",
   query: "",
   sort: "best",
   runs: new Set(),
@@ -46,6 +122,9 @@ const state = {
   hookQuery: "",
   showArchived: false,
   selection: null,
+  contextPins: [],
+  agentDraft: "",
+  agentMessages: [],
   educationFile: null,
   educationFileText: "",
   educationLoading: false,
@@ -66,6 +145,7 @@ const els = {
   proofTopicCount: document.querySelector("#proofTopicCount"),
   heroWall: document.querySelector("#heroWall"),
   homePreview: document.querySelector("#homePreview"),
+  taskPreview: document.querySelector("#taskPreview"),
   navThemes: document.querySelector("#navThemes"),
   themeCards: document.querySelector("#themeCards"),
   search: document.querySelector("#searchInput"),
@@ -79,11 +159,15 @@ const els = {
   topicFilters: document.querySelector("#topicFilters"),
   hookFilters: document.querySelector("#hookFilters"),
   bandFilters: document.querySelector("#bandFilters"),
+  agentSuggestionStrip: document.querySelector("#agentSuggestionStrip"),
   summary: document.querySelector("#summaryStrip"),
   count: document.querySelector("#resultCount"),
   gallery: document.querySelector("#gallery"),
   empty: document.querySelector("#emptyState"),
   inspector: document.querySelector("#inspectorPanel"),
+  agentDock: document.querySelector("#agentDock"),
+  agentPromptInput: document.querySelector("#agentPromptInput"),
+  agentPromptSend: document.querySelector("#agentPromptSend"),
   subtabs: [...document.querySelectorAll("[data-view]")],
   scrim: document.querySelector("#mobileScrim"),
   docUpload: document.querySelector("#docUpload"),
@@ -92,6 +176,7 @@ const els = {
   educationGoal: document.querySelector("#educationGoal"),
   educationPackSize: document.querySelector("#educationPackSize"),
   educationPreviewCount: document.querySelector("#educationPreviewCount"),
+  educationLane: document.querySelector("#educationLane"),
   educationStatus: document.querySelector("#educationStatus"),
   educationResults: document.querySelector("#educationResults"),
   generateEducationPack: document.querySelector("#generateEducationPack"),
@@ -345,7 +430,6 @@ function renderNavThemes() {
 function renderHeroWall() {
   if (!els.heroWall) return;
   const featured = [...publicImages]
-    .filter((image) => ["environment-concept", "mixed-format", "atlas-contact-sheet", "product-mockup", "photorealistic-natural"].includes(image.taxonomy))
     .sort((a, b) => b.rubric.total - a.rubric.total || (b.timestamp || "").localeCompare(a.timestamp || ""))
     .slice(0, 6);
   els.heroWall.innerHTML = featured
@@ -379,6 +463,31 @@ function renderHomePreview() {
         </span>
       </button>
     `)
+    .join("");
+}
+
+function renderTaskPreview() {
+  if (!els.taskPreview) return;
+  const featured = [...publicImages]
+    .sort((a, b) => b.rubric.total - a.rubric.total || (b.timestamp || "").localeCompare(a.timestamp || ""))
+    .slice(0, WORKFLOW_CARD_BLUEPRINTS.length);
+  els.taskPreview.innerHTML = WORKFLOW_CARD_BLUEPRINTS
+    .map((item, index) => {
+      const image = featured[index] ?? featured[0] ?? null;
+      return `
+      <button class="task-card task-card--workflow" type="button" data-agent-prompt-chip="${escapeHtml(item.prompt)}">
+        <span class="task-card-media">
+          ${image ? `<img src="${escapeHtml(image.pngPath)}" alt="${escapeHtml(item.title)}" loading="lazy" />` : ""}
+        </span>
+        <span class="task-card-body">
+          <em>${escapeHtml(item.kicker)}</em>
+          <strong>${escapeHtml(item.title)}</strong>
+          <p>${escapeHtml(item.description)}</p>
+          <span class="signal-row">${item.chips.map((chip) => `<span class="signal-tag">${escapeHtml(chip)}</span>`).join("")}</span>
+        </span>
+      </button>
+    `;
+    })
     .join("");
 }
 
@@ -465,6 +574,304 @@ function renderHookButtons() {
     .join("");
 }
 
+function selectedImage() {
+  if (state.selection?.type !== "image") return null;
+  return data.images.find((item) => item.id === state.selection.id) ?? null;
+}
+
+function selectedRun() {
+  if (state.selection?.type === "run") return runSummaryMap.get(state.selection.id) ?? null;
+  const image = selectedImage();
+  return image ? runSummaryMap.get(image.runSlug) ?? null : null;
+}
+
+function latestAgentReply() {
+  return [...state.agentMessages].reverse().find((message) => message.role === "assistant") ?? null;
+}
+
+function pinnedImages() {
+  return state.contextPins
+    .map((pin) => {
+      const image = data.images.find((item) => item.id === pin.imageId);
+      return image ? { ...pin, image } : null;
+    })
+    .filter(Boolean);
+}
+
+function continuityRoleMeta(role) {
+  return CONTINUITY_ROLES.find((item) => item.id === role) ?? { id: role, label: role };
+}
+
+function pinImageToRole(imageId, role) {
+  if (!imageId || !role) return;
+  const image = data.images.find((item) => item.id === imageId);
+  if (!image) return;
+  state.contextPins = [
+    ...state.contextPins.filter((pin) => pin.role !== role && pin.imageId !== imageId),
+    { role, imageId },
+  ];
+}
+
+function removeContextPin(role) {
+  state.contextPins = state.contextPins.filter((pin) => pin.role !== role);
+}
+
+function contextKitSummary() {
+  return pinnedImages().map((pin) => `${continuityRoleMeta(pin.role).label}: ${pin.image.title}`);
+}
+
+function continuityPromptSeed() {
+  const summary = contextKitSummary();
+  if (!summary.length) return "build a five-image continuity pack";
+  return `build a five-image continuity pack using ${summary.join(", ")}`;
+}
+
+function detectAgentMode(prompt) {
+  const normalized = normalize(prompt);
+  if (MODE_KEYWORDS.commercial.some((term) => normalized.includes(term))) return "commercial";
+  if (MODE_KEYWORDS.film.some((term) => normalized.includes(term))) return "film";
+  if (MODE_KEYWORDS.education.some((term) => normalized.includes(term))) return "education";
+  return "generic";
+}
+
+function modePromptChips(mode) {
+  if (mode === "commercial") {
+    return [
+      "show me a 6-frame spot",
+      "give me hero product frames",
+      "retrieve end-card ideas",
+      "find texture and impact beats",
+    ];
+  }
+  if (mode === "film") {
+    return [
+      "show character turnaround sheets",
+      "build a beat page",
+      "find continuity boards",
+      "give me edit handoff frames",
+    ];
+  }
+  if (mode === "education") {
+    return [
+      "give me more labeled charts",
+      "show anatomy plates",
+      "find process diagrams",
+      "stay in poster mode",
+    ];
+  }
+  return AGENT_STARTER_PROMPTS;
+}
+
+function modeBriefFields(mode) {
+  if (mode === "commercial") {
+    return [
+      "Hook frame",
+      "Subject or product hero",
+      "Texture or impact beat",
+      "End frame with tagline space",
+    ];
+  }
+  if (mode === "film") {
+    return [
+      "Character identity",
+      "Species or role anchors",
+      "Beat or sequence purpose",
+      "Continuity-safe props and costume cues",
+    ];
+  }
+  if (mode === "education") {
+    return [
+      "Question to answer",
+      "Label hierarchy",
+      "Audience skill level",
+      "Format and scan pattern",
+    ];
+  }
+  return [
+    "Task",
+    "Visual format",
+    "Specific hooks",
+    "Reuse direction",
+  ];
+}
+
+function modePlanSteps(mode, query, contextImage) {
+  const subject = contextImage?.title ?? query;
+  if (mode === "commercial") {
+    return [
+      `Open with a high-contrast hook frame for ${subject}.`,
+      "Move to a medium interaction shot that reveals the subject or product clearly.",
+      "Add one impact or texture beat with particles, motion, or tactile detail.",
+      "Land on a clean hero composition with pack shot or primary subject centered.",
+      "Reserve a final end frame for tagline, CTA, or logo-safe copy space.",
+    ];
+  }
+  if (mode === "film") {
+    return [
+      `Lock the subject identity for ${subject} with silhouette, props, and costume anchors.`,
+      "Build a turnaround or expression layer before pushing into full scenes.",
+      "Map one short beat page with shot size, camera angle, and emotional turn.",
+      "Add a continuity board that repeats landmarks, props, and time-of-day logic.",
+      "Finish with a motion or edit handoff board for Seedance or CapCut assembly.",
+    ];
+  }
+  if (mode === "education") {
+    return [
+      `Name the exact question that ${subject} should answer.`,
+      "Choose one repeatable labeled format instead of mixing everything at once.",
+      "Use short hooks, direct comparison, and clear scan order.",
+      "Reserve one panel for context or deployment in the real world.",
+    ];
+  }
+  return [
+    "Start from the clearest image with concrete hooks.",
+    "Expand to a reusable board, page, or pack instead of a single beauty shot.",
+    "Keep the labels concrete so the atlas can retrieve similar assets later.",
+  ];
+}
+
+function chooseContinuityCandidate(role, recommendedImages, pins, leadImage) {
+  const pinned = pins.find((pin) => pin.role === role)?.image;
+  if (pinned) return pinned;
+
+  const preferred = recommendedImages.find((image) => {
+    if (role === "character") return ["illustration-story", "stylized-concept", "photorealistic-natural"].includes(image.taxonomy);
+    if (role === "setting") return ["environment-concept", "photorealistic-natural", "mixed-format"].includes(image.taxonomy);
+    if (role === "prop") return ["atlas-contact-sheet", "speculative-object", "mixed-format"].includes(image.taxonomy);
+    if (role === "action") return ["illustration-story", "photorealistic-natural", "mixed-format"].includes(image.taxonomy);
+    if (role === "style") return image.runSlug === (leadImage?.runSlug ?? "");
+    return false;
+  });
+
+  return preferred ?? recommendedImages[0] ?? leadImage ?? null;
+}
+
+function buildContinuityPlan(mode, query, recommendedImages, pins) {
+  const leadImage = recommendedImages[0] ?? null;
+  const slots = [
+    { role: "character", label: "Character anchor", reason: "Lock silhouette, face logic, and costume cues." },
+    { role: "setting", label: "Setting anchor", reason: "Fix the world, weather, architecture, and time of day." },
+    { role: "prop", label: "Prop or weapon board", reason: "Keep the key object consistent across shots." },
+    { role: "action", label: "Action beat", reason: "Show how the character behaves with the object in-scene." },
+    { role: "style", label: "Continuity check", reason: "Repeat the material language, shot feel, and framing rules." },
+  ];
+
+  return slots.map((slot) => {
+    const image = chooseContinuityCandidate(slot.role, recommendedImages, pins, leadImage);
+    return {
+      ...slot,
+      imageId: image?.id ?? null,
+      title: image?.title ?? `Missing ${slot.label.toLowerCase()}`,
+      note: slot.reason,
+    };
+  });
+}
+
+function buildAgentReply(prompt) {
+  const query = prompt.trim();
+  const queryParts = queryPartsFrom(query);
+  const contextRunSlug = selectedRun()?.slug ?? null;
+  const contextImage = selectedImage();
+  const pins = pinnedImages();
+  const mode = detectAgentMode(query);
+  const taxonomyBoosts = MODE_TAXONOMY_BOOSTS[mode] ?? MODE_TAXONOMY_BOOSTS.generic;
+  const contextRunSlugs = new Set(pins.map((pin) => pin.image.runSlug));
+  const contextHooks = new Set(pins.flatMap((pin) => pin.image.specificHooks));
+  const contextTopics = new Set(pins.flatMap((pin) => pin.image.topics));
+
+  const ranked = publicImages
+    .map((image) => {
+      const stats = queryParts.length
+        ? queryStats(image, queryParts)
+        : { matchedTerms: 0, score: image.rubric.total / 10, phraseMatch: false };
+      let score = stats.score + image.rubric.dimensions.usefulness * 4;
+      if (contextRunSlug && image.runSlug === contextRunSlug) score += 8;
+      if (contextImage && contextImage.id === image.id) score += 6;
+      if (contextRunSlugs.has(image.runSlug)) score += 10;
+      score += image.specificHooks.filter((hook) => contextHooks.has(hook)).length * 3;
+      score += image.topics.filter((topic) => contextTopics.has(topic)).length * 2;
+      score += taxonomyBoosts[image.taxonomy] ?? 0;
+      return { image, score, matchedTerms: stats.matchedTerms, phraseMatch: stats.phraseMatch };
+    })
+    .sort((a, b) => b.score - a.score || b.image.rubric.total - a.image.rubric.total);
+
+  const images = ranked
+    .filter((entry) => !queryParts.length || entry.phraseMatch || entry.matchedTerms > 0)
+    .slice(0, 6)
+    .map((entry) => entry.image);
+
+  const fallbackImages = ranked.slice(0, 6).map((entry) => entry.image);
+  const recommendedImages = images.length ? images : fallbackImages;
+  const runCounts = new Map();
+  const hookCounts = new Map();
+  const topicCounts = new Map();
+  const taxonomyCounts = new Map();
+
+  for (const image of recommendedImages) {
+    runCounts.set(image.runSlug, (runCounts.get(image.runSlug) ?? 0) + 1);
+    taxonomyCounts.set(image.taxonomy, (taxonomyCounts.get(image.taxonomy) ?? 0) + 1);
+    for (const hook of image.specificHooks.slice(0, 4)) {
+      hookCounts.set(hook, (hookCounts.get(hook) ?? 0) + 1);
+    }
+    for (const topic of image.topics.slice(0, 4)) {
+      topicCounts.set(topic, (topicCounts.get(topic) ?? 0) + 1);
+    }
+  }
+
+  const recommendedRuns = [...runCounts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .map(([slug]) => runSummaryMap.get(slug))
+    .filter(Boolean)
+    .slice(0, 3);
+  const recommendedHooks = [...hookCounts.entries()].sort((a, b) => b[1] - a[1]).map(([hook]) => hook).slice(0, 8);
+  const recommendedTopics = [...topicCounts.entries()].sort((a, b) => b[1] - a[1]).map(([topic]) => topic).slice(0, 6);
+  const recommendedTaxonomies = [...taxonomyCounts.entries()].sort((a, b) => b[1] - a[1]).map(([taxonomy]) => taxonomy).slice(0, 4);
+
+  const leadRun = recommendedRuns[0];
+  const leadImage = recommendedImages[0];
+  const overviewParts = [];
+  if (mode === "commercial") overviewParts.push("I am treating this as a commercial-board query.");
+  if (mode === "film") overviewParts.push("I am treating this as a film-asset and storyboard query.");
+  if (mode === "education") overviewParts.push("I am treating this as a labeled explainer query.");
+  if (leadRun) overviewParts.push(`The strongest cluster is in ${leadRun.theme}.`);
+  if (recommendedTaxonomies.length) overviewParts.push(`The best formats here are ${recommendedTaxonomies.join(", ")}.`);
+  if (leadImage) overviewParts.push(`Start with ${leadImage.title} if you want the fastest relevant entry point.`);
+  if (recommendedHooks.length) overviewParts.push(`Useful labels include ${recommendedHooks.slice(0, 4).join(", ")}.`);
+  if (pins.length) overviewParts.push(`Pinned continuity context: ${contextKitSummary().join(" · ")}.`);
+
+  return {
+    role: "assistant",
+    mode,
+    query,
+    overview: overviewParts.join(" "),
+    imageIds: recommendedImages.map((image) => image.id),
+    runSlugs: recommendedRuns.map((run) => run.slug),
+    hooks: recommendedHooks,
+    topics: recommendedTopics,
+    taxonomies: recommendedTaxonomies,
+    briefFields: modeBriefFields(mode),
+    planSteps: modePlanSteps(mode, query, contextImage),
+    contextSummary: contextKitSummary(),
+    continuityPlan: buildContinuityPlan(mode, query, recommendedImages, pins),
+    followups: modePromptChips(mode),
+  };
+}
+
+function renderAgentSuggestionStrip() {
+  if (!els.agentSuggestionStrip) return;
+  const reply = latestAgentReply();
+  if (reply?.hooks?.length) {
+    els.agentSuggestionStrip.innerHTML = reply.hooks
+      .slice(0, 6)
+      .map((hook) => `<button class="agent-chip" type="button" data-agent-hook="${escapeHtml(hook)}">${escapeHtml(hook)}</button>`)
+      .join("");
+    return;
+  }
+  els.agentSuggestionStrip.innerHTML = AGENT_STARTER_PROMPTS.slice(0, 6)
+    .map((prompt) => `<button class="agent-chip" type="button" data-agent-prompt-chip="${escapeHtml(prompt)}">${escapeHtml(prompt)}</button>`)
+    .join("");
+}
+
 function renderSummary(images) {
   if (!els.summary) return;
   const visibleRuns = new Set(images.map((image) => image.runSlug)).size;
@@ -499,7 +906,7 @@ function renderGallery(images) {
     return;
   }
 
-  els.gallery.className = "gallery-grid";
+  els.gallery.className = "gallery-grid gallery-grid--image-wall";
   els.gallery.innerHTML = images.map(imageCard).join("");
 }
 
@@ -518,169 +925,220 @@ function usageIdeas(image) {
 
 function renderInspector() {
   if (!els.inspector) return;
-  if (!state.selection) {
-    els.inspector.innerHTML = `
-      <div class="inspector-empty">
-        <strong>Nothing selected</strong>
-        <p>Open an image or a run to inspect it here.</p>
-      </div>
-    `;
-    els.body.classList.remove("has-selection");
-    if (els.scrim) els.scrim.hidden = true;
-    return;
-  }
-
-  let html = "";
-
-  if (state.selection.type === "image") {
-    const image = data.images.find((item) => item.id === state.selection.id);
-    if (!image) {
-      state.selection = null;
-      renderInspector();
-      return;
-    }
-
-    const editBrief = [
-      `Edit or extend this image: ${image.title}.`,
-      `Theme: ${image.runTheme}.`,
-      `Keep these hooks: ${image.specificHooks.slice(0, 8).join(", ")}.`,
-      image.compositionNotes ? `Composition: ${image.compositionNotes}` : "",
-      image.learningValue ? `Goal: ${image.learningValue}` : "",
-    ].filter(Boolean).join("\n");
-
-    html = `
-      <div class="inspector-body">
-        <div class="inspector-head">
+  const reply = latestAgentReply();
+  const image = selectedImage();
+  const run = selectedRun();
+  const pins = pinnedImages();
+  const selectionCard = image
+    ? `
+      <article class="agent-context-card">
+        <div class="agent-context-head">
           <div>
             <p class="kicker">${escapeHtml(image.taxonomy)}</p>
-            <h2>${escapeHtml(image.title)}</h2>
+            <h3>${escapeHtml(image.title)}</h3>
             <p>${escapeHtml(image.runTheme)}</p>
           </div>
-          <button class="inspector-close" type="button" data-close-inspector aria-label="Close inspector">×</button>
+          <button class="inspector-close" type="button" data-clear-selection aria-label="Clear selected context">×</button>
         </div>
-
-        <figure class="inspector-figure">
+        <figure class="agent-context-figure">
           <img src="${escapeHtml(image.pngPath)}" alt="${escapeHtml(image.title)}" />
         </figure>
-
+        <div class="signal-row">
+          ${image.specificHooks.slice(0, 6).map((hook) => `<button class="agent-chip" type="button" data-agent-hook="${escapeHtml(hook)}">${escapeHtml(hook)}</button>`).join("")}
+        </div>
+        <div class="context-pin-row">
+          ${CONTINUITY_ROLES.map((role) => {
+            const active = state.contextPins.some((pin) => pin.role === role.id && pin.imageId === image.id) ? " is-active" : "";
+            return `<button class="agent-chip context-role-chip${active}" type="button" data-pin-image="${escapeHtml(image.id)}" data-pin-role="${escapeHtml(role.id)}">${escapeHtml(role.label)}</button>`;
+          }).join("")}
+        </div>
         <div class="detail-actions">
-          <button class="action-link" type="button" data-download-watermarked="${escapeHtml(image.id)}">Download tagged PNG</button>
           <button class="action-link secondary" type="button" data-copy-prompt="${escapeHtml(image.id)}">Copy prompt</button>
           <button class="action-link secondary" type="button" data-copy-brief="${escapeHtml(image.id)}">Copy brief</button>
         </div>
-
-        <section class="inspector-section">
-          <h3>Hooks</h3>
-          <div class="signal-row">
-            ${image.specificHooks.map((hook) => `<span class="signal-tag">${escapeHtml(hook)}</span>`).join("")}
+      </article>
+    `
+    : run
+      ? `
+        <article class="agent-context-card">
+          <div class="agent-context-head">
+            <div>
+              <p class="kicker">${escapeHtml(run.timestamp?.slice(0, 10) ?? "")}</p>
+              <h3>${escapeHtml(run.theme)}</h3>
+              <p>${plural(run.publicImageCount, "image")} · ${run.averageScore} avg rubric</p>
+            </div>
+            <button class="inspector-close" type="button" data-clear-selection aria-label="Clear selected context">×</button>
           </div>
-        </section>
-
-        <section class="inspector-section">
-          <h3>Use it for</h3>
-          <p>${escapeHtml(usageIdeas(image))}</p>
-        </section>
-
-        <section class="inspector-section">
-          <h3>Learning value</h3>
-          <p>${escapeHtml(image.learningValue || "No learning note recorded.")}</p>
-        </section>
-
-        <section class="inspector-section">
-          <h3>Composition</h3>
-          <p>${escapeHtml(image.compositionNotes || image.formatNotes || "No composition note recorded.")}</p>
-        </section>
-
-        <section class="inspector-section">
-          <h3>Scale and links</h3>
-          <div class="tag-row">
-            ${image.scaleTags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}
+          <div class="signal-row">
+            ${run.topHooks.slice(0, 6).map((hook) => `<button class="agent-chip" type="button" data-agent-hook="${escapeHtml(hook)}">${escapeHtml(hook)}</button>`).join("")}
           </div>
           <div class="detail-actions">
-            <a class="action-link secondary" href="${escapeHtml(image.detailPath)}">Static page</a>
-            <a class="action-link secondary" href="${escapeHtml(image.promptPath)}" target="_blank" rel="noreferrer">Prompt card</a>
-            <a class="action-link secondary" href="${escapeHtml(image.reportPath)}" target="_blank" rel="noreferrer">Run report</a>
+            <button class="action-link secondary" type="button" data-open-run="${escapeHtml(run.slug)}">Browse this run</button>
           </div>
-        </section>
+        </article>
+      `
+      : "";
 
-        <details class="inspector-section">
-          <summary>Prompt extract</summary>
-          <div class="prompt-box">${escapeHtml(image.finalPrompt.slice(0, 2200))}</div>
-        </details>
-
-        <details class="inspector-section">
-          <summary>Edit brief</summary>
-          <div class="prompt-box">${escapeHtml(editBrief)}</div>
-        </details>
-      </div>
-    `;
-  } else if (state.selection.type === "run") {
-    const run = runSummaryMap.get(state.selection.id);
-    if (!run) {
-      state.selection = null;
-      renderInspector();
-      return;
-    }
-
-    html = `
-      <div class="inspector-body">
-        <div class="inspector-head">
-          <div>
-            <p class="kicker">${escapeHtml(run.timestamp?.slice(0, 10) ?? "")}</p>
-            <h2>${escapeHtml(run.theme)}</h2>
-            <p>${plural(run.publicImageCount, "image")} · ${run.averageScore} average rubric</p>
-          </div>
-          <button class="inspector-close" type="button" data-close-inspector aria-label="Close inspector">×</button>
+  const contextKit = `
+    <article class="agent-context-card context-kit">
+      <div class="agent-context-head">
+        <div>
+          <p class="kicker">Continuity kit</p>
+          <h3>Five-image context memory</h3>
+          <p>Pin a character, setting, prop, action, and style reference so every next prompt stays coherent.</p>
         </div>
-
-        ${run.cover ? `
-          <figure class="inspector-figure">
-            <img src="${escapeHtml(run.cover.pngPath)}" alt="${escapeHtml(run.theme)}" />
-          </figure>
-        ` : ""}
-
-        <div class="run-actions">
-          <button class="action-link" type="button" data-open-run="${escapeHtml(run.slug)}">Browse this run</button>
-          <a class="action-link secondary" href="${escapeHtml(`./${run.cover?.runPath ?? `r/${run.slug}/`}`)}">Run page</a>
-          <a class="action-link secondary" href="${escapeHtml(run.reportPath)}" target="_blank" rel="noreferrer">Run report</a>
-        </div>
-
-        <section class="inspector-section">
-          <h3>Top hooks</h3>
-          <div class="signal-row">
-            ${run.topHooks.map((hook) => `<span class="signal-tag">${escapeHtml(hook)}</span>`).join("")}
-          </div>
-        </section>
-
-        <section class="inspector-section">
-          <h3>Formats</h3>
-          <div class="tag-row">
-            ${run.taxonomies.map((taxonomy) => `<span class="tag">${escapeHtml(taxonomy)}</span>`).join("")}
-          </div>
-        </section>
-
-        <section class="inspector-section">
-          <h3>Preview panels</h3>
-          <div class="thumb-row">
-            ${run.previews.map((image) => `
-              <button class="thumb-button" type="button" data-image-id="${escapeHtml(image.id)}">
-                <img src="${escapeHtml(image.pngPath)}" alt="${escapeHtml(image.title)}" loading="lazy" />
-              </button>
-            `).join("")}
-          </div>
-        </section>
-
-        <section class="inspector-section">
-          <h3>Panel titles</h3>
-          <p class="run-note">${escapeHtml(run.imageTitles.join(" · "))}</p>
-        </section>
       </div>
-    `;
-  }
+      <div class="context-kit-grid">
+        ${CONTINUITY_ROLES.map((role) => {
+          const pin = pins.find((item) => item.role === role.id);
+          return `
+            <article class="context-slot ${pin ? "has-pin" : ""}">
+              <span class="context-slot-label">${escapeHtml(role.label)}</span>
+              ${pin ? `
+                <button class="context-slot-body" type="button" data-agent-image="${escapeHtml(pin.image.id)}">
+                  <img src="${escapeHtml(pin.image.pngPath)}" alt="${escapeHtml(pin.image.title)}" loading="lazy" />
+                  <strong>${escapeHtml(pin.image.title)}</strong>
+                  <span>${escapeHtml(pin.image.runTheme)}</span>
+                </button>
+                <button class="text-link" type="button" data-remove-pin="${escapeHtml(role.id)}">Remove</button>
+              ` : `
+                <div class="context-slot-empty">Pin from the selected image.</div>
+              `}
+            </article>
+          `;
+        }).join("")}
+      </div>
+      <div class="detail-actions">
+        <button class="action-link secondary" type="button" data-copy-context-brief>Copy continuity brief</button>
+        <button class="action-link secondary" type="button" data-agent-prompt-chip="${escapeHtml(continuityPromptSeed())}">Generate continuity pack</button>
+      </div>
+    </article>
+  `;
 
-  els.inspector.innerHTML = html;
-  els.body.classList.add("has-selection");
-  if (els.scrim) els.scrim.hidden = false;
+  const starter = `
+    <article class="agent-message agent-message--assistant">
+      <p class="kicker">Atlas agent</p>
+      <strong>Ask for an ad board, character bible, prompt-image pack, or labeled reference set.</strong>
+      <p>I will retrieve matching runs, images, hooks, and board structures from the atlas and keep the session on the right side.</p>
+      <div class="signal-row">
+        ${AGENT_STARTER_PROMPTS.map((prompt) => `<button class="agent-chip" type="button" data-agent-prompt-chip="${escapeHtml(prompt)}">${escapeHtml(prompt)}</button>`).join("")}
+      </div>
+    </article>
+  `;
+
+  const conversation = state.agentMessages.length
+    ? state.agentMessages.map((message) => {
+      if (message.role === "user") {
+        return `
+          <article class="agent-message agent-message--user">
+            <p class="kicker">You</p>
+            <p>${escapeHtml(message.text)}</p>
+          </article>
+        `;
+      }
+      const recommendedImages = message.imageIds.map((id) => data.images.find((item) => item.id === id)).filter(Boolean);
+      const recommendedRuns = message.runSlugs.map((slug) => runSummaryMap.get(slug)).filter(Boolean);
+      const continuityPlan = (message.continuityPlan ?? []).map((slot) => ({
+        ...slot,
+        image: data.images.find((item) => item.id === slot.imageId) ?? null,
+      }));
+      return `
+        <article class="agent-message agent-message--assistant">
+          <p class="kicker">Atlas agent</p>
+          <p>${escapeHtml(message.overview)}</p>
+          ${message.contextSummary?.length ? `
+            <section class="agent-result-group">
+              <h4>Pinned context</h4>
+              <div class="tag-row">
+                ${message.contextSummary.map((line) => `<span class="tag">${escapeHtml(line)}</span>`).join("")}
+              </div>
+            </section>
+          ` : ""}
+          <section class="agent-result-group">
+            <h4>Suggested runs</h4>
+            <div class="agent-run-list">
+              ${recommendedRuns.map((item) => `<button class="agent-pill" type="button" data-agent-run="${escapeHtml(item.slug)}">${escapeHtml(item.theme)}</button>`).join("")}
+            </div>
+          </section>
+          <section class="agent-result-group">
+            <h4>Labels to try</h4>
+            <div class="signal-row">
+              ${message.hooks.map((hook) => `<button class="agent-chip" type="button" data-agent-hook="${escapeHtml(hook)}">${escapeHtml(hook)}</button>`).join("")}
+            </div>
+          </section>
+          <section class="agent-result-group">
+            <h4>Brief fields</h4>
+            <div class="brief-grid">
+              ${(message.briefFields ?? []).map((field) => `<span class="brief-card">${escapeHtml(field)}</span>`).join("")}
+            </div>
+          </section>
+          <section class="agent-result-group">
+            <h4>Board structure</h4>
+            <ol class="agent-plan-list">
+              ${(message.planSteps ?? []).map((step) => `<li>${escapeHtml(step)}</li>`).join("")}
+            </ol>
+          </section>
+          <section class="agent-result-group">
+            <h4>Continuity plan</h4>
+            <div class="continuity-plan-grid">
+              ${continuityPlan.map((slot) => `
+                <button class="continuity-plan-card" type="button" ${slot.image ? `data-agent-image="${escapeHtml(slot.image.id)}"` : ""}>
+                  ${slot.image ? `<img src="${escapeHtml(slot.image.pngPath)}" alt="${escapeHtml(slot.title)}" loading="lazy" />` : ""}
+                  <span class="continuity-plan-meta">
+                    <em>${escapeHtml(slot.label)}</em>
+                    <strong>${escapeHtml(slot.title)}</strong>
+                    <span>${escapeHtml(slot.note)}</span>
+                  </span>
+                </button>
+              `).join("")}
+            </div>
+          </section>
+          <section class="agent-result-group">
+            <h4>Recommended panels</h4>
+            <div class="agent-thumb-grid">
+              ${recommendedImages.map((item) => `
+                <button class="agent-thumb" type="button" data-agent-image="${escapeHtml(item.id)}">
+                  <img src="${escapeHtml(item.pngPath)}" alt="${escapeHtml(item.title)}" loading="lazy" />
+                  <span>${escapeHtml(item.title)}</span>
+                </button>
+              `).join("")}
+            </div>
+          </section>
+          <section class="agent-result-group">
+            <h4>Format filters</h4>
+            <div class="tag-row">
+              ${message.taxonomies.map((taxonomy) => `<button class="tag" type="button" data-agent-taxonomy="${escapeHtml(taxonomy)}">${escapeHtml(taxonomy)}</button>`).join("")}
+            </div>
+          </section>
+          <section class="agent-result-group">
+            <h4>Next prompts</h4>
+            <div class="signal-row">
+              ${(message.followups ?? []).map((followup) => `<button class="agent-chip" type="button" data-agent-prompt-chip="${escapeHtml(followup)}">${escapeHtml(followup)}</button>`).join("")}
+            </div>
+          </section>
+        </article>
+      `;
+    }).join("")
+    : starter;
+
+  els.inspector.innerHTML = `
+    <div class="inspector-body agent-panel-body">
+      <div class="inspector-head agent-panel-head">
+        <div>
+          <p class="kicker">Agentic retrieval</p>
+          <h2>Chat over prompt images</h2>
+          <p>Bottom prompt in, right-rail boards, tags, and pack structure out.</p>
+        </div>
+      </div>
+      ${selectionCard}
+      ${contextKit}
+      <div class="agent-conversation">${conversation}</div>
+    </div>
+  `;
+
+  const shouldOpen = Boolean(state.selection) || Boolean(state.agentMessages.length);
+  els.body.classList.toggle("has-selection", shouldOpen);
+  if (els.scrim) els.scrim.hidden = !shouldOpen;
 }
 
 function renderPages() {
@@ -704,6 +1162,7 @@ function render() {
   renderSubtabs();
   renderHomeMetrics();
   renderHeroWall();
+  renderTaskPreview();
   renderHomePreview();
   renderNavThemes();
   renderThemeCards();
@@ -712,6 +1171,7 @@ function render() {
   renderBandFilters();
   renderTopicButtons();
   renderHookButtons();
+  renderAgentSuggestionStrip();
 
   const images = filteredImages();
   renderSummary(images);
@@ -775,7 +1235,7 @@ function renderEducationResults() {
     els.educationResults.innerHTML = `
       <div class="empty-state">
         <strong>Nothing generated yet</strong>
-        <p>Run the pack builder to get prompts, search queries, and preview renders.</p>
+        <p>Run the pack builder to get prompts, search queries, board structures, and preview renders.</p>
       </div>
     `;
     return;
@@ -800,9 +1260,10 @@ function renderEducationResults() {
       </div>
       <div class="builder-output-side">
         <div class="tag-row">
+          <span class="tag">${escapeHtml(result.lane ?? "mixed")}</span>
           <span class="tag">${escapeHtml(result.audience ?? "")}</span>
           <span class="tag">${escapeHtml(result.goal ?? "")}</span>
-          <span class="tag">${plural((result.explainers ?? []).length, "explainer")}</span>
+          <span class="tag">${plural((result.explainers ?? []).length, "output")}</span>
         </div>
       </div>
     </article>
@@ -813,7 +1274,7 @@ function renderEducationResults() {
           <div class="builder-output-body">
             <div class="builder-output-header">
               <div>
-                <p class="kicker">${escapeHtml(item.format || "Explainer")}</p>
+                <p class="kicker">${escapeHtml(item.format || "Output")}</p>
                 <strong>${escapeHtml(item.title)}</strong>
               </div>
               <button class="copy-button" type="button" data-copy-explainer="${index}">Copy prompt</button>
@@ -970,10 +1431,17 @@ async function buildEducationPack() {
     const payload = {
       documentText,
       fileName: state.educationFile?.name ?? null,
+      lane: els.educationLane?.value ?? "commercial",
       audience: els.educationAudience?.value ?? "teachers and curriculum authors",
       goal: els.educationGoal?.value ?? "mixed explanatory pack",
       packSize: Number(els.educationPackSize?.value ?? 6),
       previewCount: Number(els.educationPreviewCount?.value ?? 2),
+      contextKit: pinnedImages().map((pin) => ({
+        role: pin.role,
+        title: pin.image.title,
+        runTheme: pin.image.runTheme,
+        hooks: pin.image.specificHooks.slice(0, 8),
+      })),
     };
 
     if (els.educationStatus) els.educationStatus.textContent = "Generating explainer pack with preview prompts...";
@@ -998,7 +1466,7 @@ async function buildEducationPack() {
 
     state.educationResult = normalized;
     if (els.educationStatus) {
-      els.educationStatus.textContent = `Generated ${normalized.explainers.length} explainers${normalized.previews.length ? ` and ${normalized.previews.length} preview renders` : ""}.`;
+      els.educationStatus.textContent = `Generated ${normalized.explainers.length} outputs${normalized.previews.length ? ` and ${normalized.previews.length} preview renders` : ""}.`;
     }
     renderEducationResults();
   } catch (error) {
@@ -1009,9 +1477,37 @@ async function buildEducationPack() {
   }
 }
 
+function submitAgentPrompt(prompt) {
+  const value = prompt.trim();
+  if (!value) return;
+  state.agentDraft = "";
+  state.agentMessages.push({ role: "user", text: value });
+  const reply = buildAgentReply(value);
+  state.agentMessages.push(reply);
+  state.query = value;
+  state.view = "images";
+  if (els.search) els.search.value = value;
+  if (els.agentPromptInput) els.agentPromptInput.value = "";
+  if (reply.runSlugs[0]) {
+    state.selection = { type: "run", id: reply.runSlugs[0] };
+  } else if (reply.imageIds[0]) {
+    state.selection = { type: "image", id: reply.imageIds[0] };
+  }
+  setPage("catalog");
+}
+
 els.search?.addEventListener("input", (event) => {
   state.query = event.target.value;
   render();
+});
+
+els.agentPromptInput?.addEventListener("input", (event) => {
+  state.agentDraft = event.target.value;
+});
+
+els.agentDock?.addEventListener("submit", (event) => {
+  event.preventDefault();
+  submitAgentPrompt(els.agentPromptInput?.value ?? "");
 });
 
 els.sort?.addEventListener("change", (event) => {
@@ -1100,6 +1596,71 @@ document.addEventListener("click", async (event) => {
     return;
   }
 
+  const promptChip = target.closest("[data-agent-prompt-chip]");
+  if (promptChip) {
+    submitAgentPrompt(promptChip.dataset.agentPromptChip ?? "");
+    return;
+  }
+
+  const pinButton = target.closest("[data-pin-image][data-pin-role]");
+  if (pinButton) {
+    pinImageToRole(pinButton.dataset.pinImage, pinButton.dataset.pinRole);
+    renderInspector();
+    return;
+  }
+
+  const removePin = target.closest("[data-remove-pin]");
+  if (removePin) {
+    removeContextPin(removePin.dataset.removePin);
+    renderInspector();
+    return;
+  }
+
+  const agentRun = target.closest("[data-agent-run]");
+  if (agentRun) {
+    const runSlug = agentRun.dataset.agentRun;
+    state.runs.clear();
+    state.runs.add(runSlug);
+    state.view = "images";
+    setSelection("run", runSlug);
+    setPage("catalog");
+    render();
+    return;
+  }
+
+  const agentImage = target.closest("[data-agent-image]");
+  if (agentImage) {
+    state.view = "images";
+    setSelection("image", agentImage.dataset.agentImage);
+    setPage("catalog");
+    render();
+    return;
+  }
+
+  const agentHook = target.closest("[data-agent-hook]");
+  if (agentHook) {
+    const hook = agentHook.dataset.agentHook;
+    state.view = "images";
+    state.hooks.clear();
+    state.hooks.add(hook);
+    state.query = "";
+    if (els.search) els.search.value = "";
+    setPage("catalog");
+    render();
+    return;
+  }
+
+  const agentTaxonomy = target.closest("[data-agent-taxonomy]");
+  if (agentTaxonomy) {
+    const taxonomy = agentTaxonomy.dataset.agentTaxonomy;
+    state.view = "images";
+    state.taxonomies.clear();
+    state.taxonomies.add(taxonomy);
+    setPage("catalog");
+    render();
+    return;
+  }
+
   const hookSelect = target.closest("[data-hook-select]");
   if (hookSelect) {
     const hook = hookSelect.dataset.hookSelect;
@@ -1140,6 +1701,13 @@ document.addEventListener("click", async (event) => {
     return;
   }
 
+  const clearSelectionButton = target.closest("[data-clear-selection]");
+  if (clearSelectionButton) {
+    clearSelection();
+    render();
+    return;
+  }
+
   if (target === els.scrim) {
     clearSelection();
     return;
@@ -1159,8 +1727,22 @@ document.addEventListener("click", async (event) => {
       `Edit or extend this image: ${image?.title}.`,
       `Theme: ${image?.runTheme}.`,
       `Specific hooks: ${image?.specificHooks.slice(0, 12).join(", ")}.`,
+      state.contextPins.length ? `Continuity context: ${contextKitSummary().join(" | ")}.` : "",
       image?.learningValue ? `Learning value: ${image.learningValue}.` : "",
       image?.compositionNotes ? `Composition: ${image.compositionNotes}.` : "",
+    ].filter(Boolean).join("\n");
+    await copyText(brief);
+    return;
+  }
+
+  const copyContextBrief = target.closest("[data-copy-context-brief]");
+  if (copyContextBrief) {
+    const pins = pinnedImages();
+    const brief = [
+      "Build a continuity-safe image pack for a short film or ad.",
+      pins.length ? `Pinned context: ${contextKitSummary().join(" | ")}.` : "",
+      "Required outputs: character sheet, setting sheet, prop or weapon sheet, action-in-setting frame, and style continuity frame.",
+      "Keep the same subject identity, costume cues, prop details, environment logic, and material language across every image.",
     ].filter(Boolean).join("\n");
     await copyText(brief);
     return;

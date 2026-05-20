@@ -20,6 +20,8 @@ Each run must make the archive more useful for one or more niche groups. It shou
 
 Practical explainer plates are first-class outputs. A useful image can be a beautiful, structured visual reference like a "types of coffee" chart, a nitrogen cycle poster, a lab safety diagram, a tool taxonomy, a cooking method comparison, a language grammar map, a music theory reference, a materials guide, or a classroom science process plate. These should be designed as polished searchable knowledge artifacts: clear title, labeled parts, concise definitions, coherent layout, real-world examples, and enough visual specificity that teachers, students, creators, or agents can retrieve and reuse them.
 
+Film and animation preproduction assets are also first-class outputs when they are concrete and reusable. High-value examples include character turnaround sheets, mascot species dossiers, expression packs, prop handling references, storyboard beat pages, camera blocking boards, shot-continuity contact sheets, animation-pose ladders, scene-to-scene edit planners, and post-production handoff boards. These should behave like production assets for filmmakers, storyboard artists, previsualization teams, animation directors, game-cinematic designers, and editors rather than like generic fandom art or moodboards.
+
 The automation may explore art direction, UI design, diagrams, browser-game assets, film frames, visual encyclopedias, posters, packaging systems, speculative product families, scientific diagrams, interiors, vehicles, maps, fashion artifacts, editorial spreads, architectural studies, icon systems, storyboards, comic panels, operating-room diagrams, food systems, jewelry studies, maps of imaginary places, invented instruments, material boards, type-safe layouts, mechanical cutaways, ecological scenes, field notebooks, signage, city fragments, rituals, manufacturing lines, shop windows, toys, museum displays, spacecraft interiors, folk craft, failed prototypes, educational plates, infographics, and any other imageable subject that is safe and useful.
 
 Do not let the accumulated memory become a cage. Memory should prevent stale repetition, not prevent surprise.
@@ -54,6 +56,13 @@ Every run must create a pre-generation research brief before the first image pro
 - `Existing-corpus gap`: what is missing or overrepresented in recent runs.
 - `Five candidate themes`: each with a different scale, domain, or format.
 - `Selected theme rationale`: why this theme is useful, searchable, niche-relevant, and non-random.
+
+If the run is a film, animation, mascot, or story-world branch, the research brief must also define:
+
+- `Production asset lane`: character bible, species dossier, storyboard pack, animation reference, edit-planning kit, prop bible, environment continuity pack, or another concrete film asset family.
+- `Narrative continuity value`: what a director, editor, animator, or story agent should be able to infer or preserve across the set.
+- `Shot or beat scope`: whether the run serves one sequence, one character, one location, or one larger story world.
+- `Toolchain handoff`: which downstream tools or stages the asset is intended to support, such as GPT image iteration, Seedance motion generation, CapCut editing, previs, game cinematic planning, or voice-directed prompt mutation.
 
 The research brief should behave like product discovery for images. It should ask: who is this for, what problem does it solve, what vocabulary will make it findable, what pages will Google and local search expose, and what would a downstream agent do with the metadata?
 
@@ -178,6 +187,8 @@ Reference explainer formats count as valuable variety when they are genuinely us
 
 Dense images are encouraged, but density is not the only goal. A quiet single scene can be valuable if it explores a new scale, mood, or composition.
 
+For film and animation branches, a strong run usually mixes at least three of these families: character turnaround or species sheet, expression or pose lineup, prop or costume detail plate, storyboard or beat page, camera/blocking guide, environment continuity board, edit or timing planner, and one cinematic proof frame that shows the asset language working in-scene.
+
 ## Theme Selection Protocol
 
 Do not pick the first plausible theme. Generate a short internal slate of at least five candidate themes, each with a different scale or domain. Choose the one that best satisfies:
@@ -200,6 +211,7 @@ Candidate theme types:
 - `scale leap`: jump from objects to landscapes, rooms to microstructures, or UIs to public space.
 - `hybrid`: combine two distant domains, such as courtroom x board game, pastry x space habitat, textile x weather radar.
 - `anti-last-run`: intentionally avoid the last run's palette, scale, materials, and composition.
+- `production pack`: build a reusable asset bundle for character, animation, game-cinematic, or film-preproduction work with explicit continuity metadata.
 
 Record the chosen theme, discarded candidates, and reason for selection in the research note.
 
@@ -274,6 +286,15 @@ Each card must include:
 
 If the output was partial, explain what failed and whether the PNG should be treated as final, exploratory, or rejected.
 
+When the run serves film, animation, mascot, or story-world production, also capture concise structured metadata below the required sections whenever it helps future retrieval:
+
+- `Character or subject identity`: name, role, age band, silhouette traits, species, costume anchors, and key props.
+- `Performance or motion cues`: expression range, pose logic, action loop, timing, or animation emphasis.
+- `Scene or shot purpose`: beat summary, shot function, camera angle, blocking logic, or continuity role.
+- `Toolchain context`: intended downstream use such as GPT image iteration, Seedance motion pass, CapCut edit planning, previs board, or game cinematic reference.
+
+These additions should stay concrete and searchable. Prefer production nouns like `front turnaround`, `reaction pose`, `paddle prop`, `torii courtyard sunrise`, `training montage beat`, or `CapCut timing board` over vague notes like `cute anime energy`.
+
 ## Research Notes
 
 Create one research note per run:
@@ -346,6 +367,7 @@ Avoid:
 - Producing only educational posters.
 - Letting UIs become generic SaaS dashboards.
 - Letting diagrams become flat classroom posters unless that is the chosen format.
+- Letting story or mascot branches collapse into generic anime screenshots, empty character glamor, fandom moodboards, or text-poor hero posters without production metadata.
 - Dense in-image text unless text rendering is the experiment.
 - Overwriting previous outputs.
 
@@ -356,6 +378,7 @@ Across any four consecutive successful runs, the corpus should include:
 - At least one run outside logistics, field science, conservation, or back-room operations.
 - At least one run whose primary scale is not tabletop or room.
 - At least one run with a narrative, entertainment, editorial, fashion, game, architecture, food, map, toy, or public-space component.
+- At least one run that can serve a film, animation, mascot, or story-preproduction workflow when recent runs have skewed too far toward generic operational explainers.
 - At least one run influenced by a local skill or plugin Markdown file beyond the ImageGen skill.
 - At least one image that is not an atlas, UI, material board, workflow table, tool sheet, notebook, or environment closer.
 

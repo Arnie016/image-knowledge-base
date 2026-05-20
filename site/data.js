@@ -1,9 +1,9 @@
 window.IMAGE_KB = {
-  "generatedAt": "2026-05-17T15:45:14.496Z",
-  "imageCount": 10,
-  "publicImageCount": 10,
+  "generatedAt": "2026-05-20T10:39:51.910Z",
+  "imageCount": 20,
+  "publicImageCount": 20,
   "archivedImageCount": 0,
-  "runCount": 1,
+  "runCount": 2,
   "rubric": {
     "version": "2026-05-06-v1",
     "scale": "1-5 per dimension, weighted to 100 overall",
@@ -69,40 +69,96 @@ window.IMAGE_KB = {
   "taxonomies": [
     [
       "scientific-educational",
-      4
+      8
     ],
     [
       "infographic-diagram",
-      2
+      4
     ],
     [
       "photorealistic-natural",
-      2
+      4
     ],
     [
       "atlas-contact-sheet",
-      1
+      2
     ],
     [
       "mixed-format",
-      1
+      2
     ]
   ],
   "topics": [
+    [
+      "logos",
+      20
+    ],
+    [
+      "labels",
+      17
+    ],
+    [
+      "short",
+      15
+    ],
+    [
+      "matte",
+      13
+    ],
+    [
+      "chart",
+      12
+    ],
+    [
+      "like",
+      12
+    ],
+    [
+      "steel",
+      12
+    ],
+    [
+      "mood",
+      11
+    ],
+    [
+      "bakery",
+      10
+    ],
     [
       "bike",
       10
     ],
     [
-      "logos",
+      "buttercream",
       10
+    ],
+    [
+      "guide",
+      10
+    ],
+    [
+      "poster",
+      10
+    ],
+    [
+      "brushed",
+      9
     ],
     [
       "commuter",
       9
     ],
     [
-      "steel",
+      "comparison",
+      9
+    ],
+    [
+      "reference",
+      9
+    ],
+    [
+      "stainless",
       9
     ],
     [
@@ -114,7 +170,7 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "labels",
+      "paper",
       8
     ],
     [
@@ -122,15 +178,27 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "matte",
+      "cake",
       7
     ],
     [
-      "short",
+      "direct",
       7
     ],
     [
-      "chart",
+      "frosting",
+      7
+    ],
+    [
+      "piping",
+      7
+    ],
+    [
+      "scientific-educational",
+      7
+    ],
+    [
+      "decorating",
       6
     ],
     [
@@ -138,23 +206,39 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "pastry",
+      6
+    ],
+    [
+      "photography",
+      6
+    ],
+    [
+      "bench",
+      5
+    ],
+    [
       "brake",
       5
     ],
     [
-      "like",
+      "including",
       5
     ],
     [
-      "mood",
+      "parchment",
       5
     ],
     [
-      "poster",
+      "pink",
       5
     ],
     [
-      "reference",
+      "rack",
+      5
+    ],
+    [
+      "repeated",
       5
     ],
     [
@@ -166,23 +250,55 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "tip",
+      5
+    ],
+    [
+      "bags",
+      4
+    ],
+    [
+      "bakery-box",
+      4
+    ],
+    [
       "black",
       4
     ],
     [
-      "comparison",
+      "couplers",
       4
     ],
     [
-      "direct",
+      "framing",
       4
     ],
     [
-      "guide",
+      "green",
+      4
+    ],
+    [
+      "how",
+      4
+    ],
+    [
+      "infographic-diagram",
       4
     ],
     [
       "levers",
+      4
+    ],
+    [
+      "metal",
+      4
+    ],
+    [
+      "petal",
+      4
+    ],
+    [
+      "piped",
       4
     ],
     [
@@ -194,15 +310,27 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "star",
+      4
+    ],
+    [
+      "tips",
+      4
+    ],
+    [
       "tire",
       4
+    ],
+    [
+      "accents",
+      3
     ],
     [
       "asphalt",
       3
     ],
     [
-      "brushed",
+      "border",
       3
     ],
     [
@@ -218,6 +346,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "color",
+      3
+    ],
+    [
       "context",
       3
     ],
@@ -226,23 +358,83 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "drop",
+      3
+    ],
+    [
+      "flower",
+      3
+    ],
+    [
       "hardware",
       3
     ],
     [
-      "paper",
+      "overhead",
       3
     ],
     [
-      "rack",
+      "pale",
       3
     ],
     [
-      "scientific-educational",
+      "photorealistic-natural",
+      3
+    ],
+    [
+      "pistachio",
+      3
+    ],
+    [
+      "practical",
+      3
+    ],
+    [
+      "reusable",
+      3
+    ],
+    [
+      "ridges",
+      3
+    ],
+    [
+      "round",
+      3
+    ],
+    [
+      "setup",
+      3
+    ],
+    [
+      "shell",
+      3
+    ],
+    [
+      "split",
+      3
+    ],
+    [
+      "station",
+      3
+    ],
+    [
+      "strawberry",
+      3
+    ],
+    [
+      "test",
       3
     ],
     [
       "tube",
+      3
+    ],
+    [
+      "wall",
+      3
+    ],
+    [
+      "white",
       3
     ],
     [
@@ -270,7 +462,31 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "bench",
+      "atlas-contact-sheet",
+      2
+    ],
+    [
+      "bag",
+      2
+    ],
+    [
+      "bead",
+      2
+    ],
+    [
+      "benches",
+      2
+    ],
+    [
+      "bin",
+      2
+    ],
+    [
+      "blush",
+      2
+    ],
+    [
+      "borders",
       2
     ],
     [
@@ -294,6 +510,14 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "classroom",
+      2
+    ],
+    [
+      "clipped",
+      2
+    ],
+    [
       "clutter",
       2
     ],
@@ -302,7 +526,35 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "cocoa",
+      2
+    ],
+    [
       "cogs",
+      2
+    ],
+    [
+      "column",
+      2
+    ],
+    [
+      "commercial",
+      2
+    ],
+    [
+      "compact",
+      2
+    ],
+    [
+      "connects",
+      2
+    ],
+    [
+      "cooling",
+      2
+    ],
+    [
+      "cutaway",
       2
     ],
     [
@@ -310,7 +562,23 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "framing",
+      "disciplined",
+      2
+    ],
+    [
+      "each",
+      2
+    ],
+    [
+      "edge",
+      2
+    ],
+    [
+      "evidence",
+      2
+    ],
+    [
+      "finishing",
       2
     ],
     [
@@ -326,15 +594,23 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "how",
+      "inside",
       2
     ],
     [
-      "infographic-diagram",
+      "jars",
       2
     ],
     [
       "keys",
+      2
+    ],
+    [
+      "kit",
+      2
+    ],
+    [
+      "leaf",
       2
     ],
     [
@@ -354,7 +630,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "materials",
+      2
+    ],
+    [
       "mini",
+      2
+    ],
+    [
+      "minimal",
+      2
+    ],
+    [
+      "mixed-format",
+      2
+    ],
+    [
+      "nozzle",
+      2
+    ],
+    [
+      "nozzles",
       2
     ],
     [
@@ -363,6 +659,10 @@ window.IMAGE_KB = {
     ],
     [
       "oily",
+      2
+    ],
+    [
+      "open",
       2
     ],
     [
@@ -386,15 +686,11 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "pastry-school",
+      2
+    ],
+    [
       "patch",
-      2
-    ],
-    [
-      "photography",
-      2
-    ],
-    [
-      "photorealistic-natural",
       2
     ],
     [
@@ -402,7 +698,19 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "practical",
+      "plastic",
+      2
+    ],
+    [
+      "plate",
+      2
+    ],
+    [
+      "practice",
+      2
+    ],
+    [
+      "process",
       2
     ],
     [
@@ -410,19 +718,47 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "repeated",
-      2
-    ],
-    [
       "rim",
       2
     ],
     [
-      "spare",
+      "rosette",
       2
     ],
     [
-      "split",
+      "ruffle",
+      2
+    ],
+    [
+      "sample",
+      2
+    ],
+    [
+      "scraper",
+      2
+    ],
+    [
+      "section",
+      2
+    ],
+    [
+      "sequence",
+      2
+    ],
+    [
+      "shelves",
+      2
+    ],
+    [
+      "side",
+      2
+    ],
+    [
+      "silver",
+      2
+    ],
+    [
+      "spare",
       2
     ],
     [
@@ -431,6 +767,30 @@ window.IMAGE_KB = {
     ],
     [
       "stand",
+      2
+    ],
+    [
+      "tall",
+      2
+    ],
+    [
+      "teaching",
+      2
+    ],
+    [
+      "textures",
+      2
+    ],
+    [
+      "tools",
+      2
+    ],
+    [
+      "training",
+      2
+    ],
+    [
+      "troubleshooting",
       2
     ],
     [
@@ -450,11 +810,23 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "accents",
+      "acetate",
+      1
+    ],
+    [
+      "across",
+      1
+    ],
+    [
+      "adding",
       1
     ],
     [
       "adjuster",
+      1
+    ],
+    [
+      "air",
       1
     ],
     [
@@ -466,6 +838,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "angle",
+      1
+    ],
+    [
       "ankle",
       1
     ],
@@ -474,11 +850,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "answer",
+      1
+    ],
+    [
+      "answering",
+      1
+    ],
+    [
       "any",
       1
     ],
     [
+      "applied",
+      1
+    ],
+    [
       "applying",
+      1
+    ],
+    [
+      "apricot",
       1
     ],
     [
@@ -490,11 +882,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "atlas-contact-sheet",
-      1
-    ],
-    [
-      "bag",
+      "arrows",
       1
     ],
     [
@@ -506,11 +894,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "bay",
+      "basketweave",
       1
     ],
     [
-      "bead",
+      "bay",
       1
     ],
     [
@@ -522,7 +910,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "bin",
+      "boards",
       1
     ],
     [
@@ -542,11 +930,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "boxes",
+      1
+    ],
+    [
       "brakes",
       1
     ],
     [
       "bristles",
+      1
+    ],
+    [
+      "brown",
       1
     ],
     [
@@ -558,7 +954,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "bubbles",
+      1
+    ],
+    [
       "cables",
+      1
+    ],
+    [
+      "cafe",
+      1
+    ],
+    [
+      "cake-finishing",
+      1
+    ],
+    [
+      "cakes",
       1
     ],
     [
@@ -570,6 +982,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cardboard",
+      1
+    ],
+    [
+      "cards",
+      1
+    ],
+    [
       "case",
       1
     ],
@@ -578,7 +998,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cell",
+      1
+    ],
+    [
       "cells",
+      1
+    ],
+    [
+      "center-ring",
       1
     ],
     [
@@ -614,6 +1042,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "classic",
+      1
+    ],
+    [
       "cleaner",
       1
     ],
@@ -622,7 +1054,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "clipped",
+      "closed",
       1
     ],
     [
@@ -630,7 +1062,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "compact",
+      "complete",
       1
     ],
     [
@@ -638,15 +1070,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "composition",
+      1
+    ],
+    [
       "concrete",
       1
     ],
     [
-      "connects",
+      "consistency",
       1
     ],
     [
       "contact",
+      1
+    ],
+    [
+      "corner",
+      1
+    ],
+    [
+      "corrective",
+      1
+    ],
+    [
+      "coupler",
       1
     ],
     [
@@ -658,6 +1106,18 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cuffing",
+      1
+    ],
+    [
+      "cupcake",
+      1
+    ],
+    [
+      "cupcakes",
+      1
+    ],
+    [
       "curb",
       1
     ],
@@ -666,15 +1126,23 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "cutaway",
-      1
-    ],
-    [
       "day",
       1
     ],
     [
+      "decorators",
+      1
+    ],
+    [
+      "definition",
+      1
+    ],
+    [
       "design",
+      1
+    ],
+    [
+      "different",
       1
     ],
     [
@@ -686,7 +1154,23 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "disciplined",
+      "dispenser",
+      1
+    ],
+    [
+      "documentary",
+      1
+    ],
+    [
+      "dome",
+      1
+    ],
+    [
+      "drawer",
+      1
+    ],
+    [
+      "drawers",
       1
     ],
     [
@@ -694,7 +1178,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "drop",
+      "drooping",
       1
     ],
     [
@@ -714,7 +1198,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "evidence",
+      "evenly",
       1
     ],
     [
@@ -730,6 +1214,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "failed",
+      1
+    ],
+    [
+      "failures",
+      1
+    ],
+    [
       "feeler-card",
       1
     ],
@@ -738,7 +1230,35 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "fill",
+      1
+    ],
+    [
+      "filled",
+      1
+    ],
+    [
+      "finishes",
+      1
+    ],
+    [
+      "flat",
+      1
+    ],
+    [
       "floor",
+      1
+    ],
+    [
+      "floral",
+      1
+    ],
+    [
+      "flower-related",
+      1
+    ],
+    [
+      "foliage",
       1
     ],
     [
@@ -758,7 +1278,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "gel-color",
+      1
+    ],
+    [
       "gives",
+      1
+    ],
+    [
+      "glass",
       1
     ],
     [
@@ -770,11 +1298,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "greasy",
+      "grass",
       1
     ],
     [
-      "green",
+      "greasy",
       1
     ],
     [
@@ -798,6 +1326,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "hold",
+      1
+    ],
+    [
       "hooks",
       1
     ],
@@ -810,7 +1342,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "including",
+      "icing",
       1
     ],
     [
@@ -818,7 +1350,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "ink",
+      1
+    ],
+    [
       "inner",
+      1
+    ],
+    [
+      "inserting",
       1
     ],
     [
@@ -830,7 +1370,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "kit",
+      "kitchen",
+      1
+    ],
+    [
+      "label",
       1
     ],
     [
@@ -850,7 +1394,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "liners",
+      1
+    ],
+    [
       "lines",
+      1
+    ],
+    [
+      "loading",
       1
     ],
     [
@@ -874,23 +1426,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "materials",
-      1
-    ],
-    [
-      "metal",
-      1
-    ],
-    [
-      "minimal",
+      "melting",
       1
     ],
     [
       "mint",
-      1
-    ],
-    [
-      "mixed-format",
       1
     ],
     [
@@ -902,6 +1442,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "nail",
+      1
+    ],
+    [
+      "names",
+      1
+    ],
+    [
       "nipples",
       1
     ],
@@ -910,7 +1458,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "overhead",
+      "offset",
+      1
+    ],
+    [
+      "offset-spatula",
+      1
+    ],
+    [
+      "overmixed",
+      1
+    ],
+    [
+      "paired",
       1
     ],
     [
@@ -926,7 +1486,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "peach",
+      1
+    ],
+    [
+      "pearl",
+      1
+    ],
+    [
       "pegboard",
+      1
+    ],
+    [
+      "per",
       1
     ],
     [
@@ -934,15 +1506,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "petals",
+      1
+    ],
+    [
+      "photographed",
+      1
+    ],
+    [
       "pinch",
       1
     ],
     [
-      "plastic",
+      "piping-bag",
       1
     ],
     [
-      "plate",
+      "piping-tip",
+      1
+    ],
+    [
+      "planning",
       1
     ],
     [
@@ -966,7 +1550,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "process",
+      "presentation",
+      1
+    ],
+    [
+      "printed",
+      1
+    ],
+    [
+      "props",
       1
     ],
     [
@@ -990,7 +1582,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "ragged",
+      1
+    ],
+    [
       "rain",
+      1
+    ],
+    [
+      "real",
+      1
+    ],
+    [
+      "recognizable",
       1
     ],
     [
@@ -1018,11 +1622,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "rope",
+      1
+    ],
+    [
+      "rose",
+      1
+    ],
+    [
       "roughening",
       1
     ],
     [
+      "round-tip",
+      1
+    ],
+    [
+      "row",
+      1
+    ],
+    [
       "rub",
+      1
+    ],
+    [
+      "rustic",
       1
     ],
     [
@@ -1031,6 +1655,14 @@ window.IMAGE_KB = {
     ],
     [
       "saddle-bag",
+      1
+    ],
+    [
+      "same",
+      1
+    ],
+    [
+      "scallop",
       1
     ],
     [
@@ -1046,23 +1678,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "section",
-      1
-    ],
-    [
-      "sequence",
-      1
-    ],
-    [
-      "setup",
-      1
-    ],
-    [
       "sheets",
-      1
-    ],
-    [
-      "shell",
       1
     ],
     [
@@ -1070,7 +1686,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "shows",
+      1
+    ],
+    [
       "sidewall",
+      1
+    ],
+    [
+      "six-panel",
       1
     ],
     [
@@ -1078,11 +1702,39 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "smears",
+      1
+    ],
+    [
+      "smoother",
+      1
+    ],
+    [
+      "soft",
+      1
+    ],
+    [
+      "spaced",
+      1
+    ],
+    [
+      "spatial",
+      1
+    ],
+    [
+      "spatula",
+      1
+    ],
+    [
+      "spiral",
+      1
+    ],
+    [
       "spokes",
       1
     ],
     [
-      "station",
+      "stacked",
       1
     ],
     [
@@ -1094,11 +1746,47 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "stiff",
+      1
+    ],
+    [
+      "stiffness",
+      1
+    ],
+    [
+      "storage",
+      1
+    ],
+    [
       "strap",
       1
     ],
     [
       "street",
+      1
+    ],
+    [
+      "strips",
+      1
+    ],
+    [
+      "styles",
+      1
+    ],
+    [
+      "swatches",
+      1
+    ],
+    [
+      "swipes",
+      1
+    ],
+    [
+      "swirl",
+      1
+    ],
+    [
+      "swoop",
       1
     ],
     [
@@ -1110,7 +1798,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "teaching",
+      "taxonomy",
       1
     ],
     [
@@ -1126,7 +1814,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "tile",
+      1
+    ],
+    [
+      "tiled",
+      1
+    ],
+    [
       "tiny",
+      1
+    ],
+    [
+      "title",
+      1
+    ],
+    [
+      "tool",
       1
     ],
     [
@@ -1134,7 +1838,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "tools",
+      "top",
+      1
+    ],
+    [
+      "trainers",
       1
     ],
     [
@@ -1142,7 +1850,23 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "troubleshooting",
+      "tray",
+      1
+    ],
+    [
+      "tubs",
+      1
+    ],
+    [
+      "turntable",
+      1
+    ],
+    [
+      "twisting",
+      1
+    ],
+    [
+      "uses",
       1
     ],
     [
@@ -1151,6 +1875,10 @@ window.IMAGE_KB = {
     ],
     [
       "wait",
+      1
+    ],
+    [
+      "wash",
       1
     ],
     [
@@ -1172,6 +1900,18 @@ window.IMAGE_KB = {
   ],
   "hooks": [
     [
+      "buttercream white",
+      8
+    ],
+    [
+      "bakery-box cream",
+      4
+    ],
+    [
+      "matte poster paper",
+      4
+    ],
+    [
       "safety orange",
       4
     ],
@@ -1180,8 +1920,20 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "pistachio green",
+      3
+    ],
+    [
       "rubber black",
       3
+    ],
+    [
+      "stainless silver",
+      3
+    ],
+    [
+      "blush pink",
+      2
     ],
     [
       "chain-oil amber",
@@ -1192,11 +1944,31 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "leaf tip",
+      2
+    ],
+    [
       "matte cream paper",
       2
     ],
     [
       "oxidized steel",
+      2
+    ],
+    [
+      "petal tip",
+      2
+    ],
+    [
+      "piped buttercream ridges",
+      2
+    ],
+    [
+      "piping bags",
+      2
+    ],
+    [
+      "round tip",
       2
     ],
     [
@@ -1212,7 +1984,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "with tiled wall",
+      2
+    ],
+    [
       "a repair stand in the present day",
+      1
+    ],
+    [
+      "adding metal tip",
+      1
+    ],
+    [
+      "air bubbles",
       1
     ],
     [
@@ -1225,6 +2009,14 @@ window.IMAGE_KB = {
     ],
     [
       "barrel adjuster",
+      1
+    ],
+    [
+      "bead border",
+      1
+    ],
+    [
+      "bead borders",
       1
     ],
     [
@@ -1260,7 +2052,51 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "brushed stainless nozzles",
+      1
+    ],
+    [
+      "brushed stainless steel piping tips",
+      1
+    ],
+    [
+      "brushed steel",
+      1
+    ],
+    [
+      "brushed steel benches",
+      1
+    ],
+    [
+      "brushed steel coupler and nozzle",
+      1
+    ],
+    [
+      "brushed steel nozzles",
+      1
+    ],
+    [
+      "buttercream ridges",
+      1
+    ],
+    [
+      "buttercream smears",
+      1
+    ],
+    [
+      "buttercream swatches",
+      1
+    ],
+    [
       "cable path",
+      1
+    ],
+    [
+      "cake boxes",
+      1
+    ],
+    [
+      "cardboard cake boxes",
       1
     ],
     [
@@ -1288,11 +2124,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "closed star tip",
+      1
+    ],
+    [
+      "cocoa brown label ink",
+      1
+    ],
+    [
+      "commercial pastry-school decorating station inside a teaching kitchen",
+      1
+    ],
+    [
       "commuter hi-vis yellow accents",
       1
     ],
     [
       "Connects chain-checker readings",
+      1
+    ],
+    [
+      "Connects petal",
       1
     ],
     [
@@ -1324,11 +2176,39 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "disciplined decorating kit including reusable piping bags",
+      1
+    ],
+    [
       "disciplined emergency saddle-bag kit including spare tube",
       1
     ],
     [
+      "drop flower",
+      1
+    ],
+    [
+      "drop flower tip",
+      1
+    ],
+    [
+      "each applied as a rosette",
+      1
+    ],
+    [
+      "filled bags",
+      1
+    ],
+    [
+      "flat rustic swoop",
+      1
+    ],
+    [
       "floor pump",
+      1
+    ],
+    [
+      "frosting tubs",
       1
     ],
     [
@@ -1360,7 +2240,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "including classic swirl",
+      1
+    ],
+    [
+      "including shell border",
+      1
+    ],
+    [
       "inner tube",
+      1
+    ],
+    [
+      "inserting a coupler",
+      1
+    ],
+    [
+      "inserting coupler",
       1
     ],
     [
@@ -1376,7 +2272,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "loading buttercream",
+      1
+    ],
+    [
+      "loading frosting",
+      1
+    ],
+    [
       "lube bottle applying one drop per roller",
+      1
+    ],
+    [
+      "matte posters",
+      1
+    ],
+    [
+      "matte presentation board",
+      1
+    ],
+    [
+      "medium buttercream",
+      1
+    ],
+    [
+      "metal tips",
       1
     ],
     [
@@ -1396,7 +2316,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "offset spatulas",
+      1
+    ],
+    [
+      "offset-spatula swipes",
+      1
+    ],
+    [
       "oily chain links",
+      1
+    ],
+    [
+      "open star tip",
+      1
+    ],
+    [
+      "overhead rack",
+      1
+    ],
+    [
+      "overmixed color",
       1
     ],
     [
@@ -1404,11 +2344,55 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "pale apricot",
+      1
+    ],
+    [
+      "pale peach",
+      1
+    ],
+    [
+      "pale strawberry pink",
+      1
+    ],
+    [
+      "paper cupcake liners",
+      1
+    ],
+    [
+      "parchment paper",
+      1
+    ],
+    [
+      "pastry-school troubleshooting corner inside a commercial decorating classroom",
+      1
+    ],
+    [
       "patch kit",
       1
     ],
     [
+      "pearl border",
+      1
+    ],
+    [
       "perforated pegboard",
+      1
+    ],
+    [
+      "piped buttercream failures",
+      1
+    ],
+    [
+      "piped buttercream petals",
+      1
+    ],
+    [
+      "piped buttercream swatches",
+      1
+    ],
+    [
+      "piping-bag rack",
       1
     ],
     [
@@ -1424,7 +2408,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "practice cakes",
+      1
+    ],
+    [
+      "printed reference boards",
+      1
+    ],
+    [
       "puncture check in a water basin",
+      1
+    ],
+    [
+      "ragged star piping",
       1
     ],
     [
@@ -1436,11 +2432,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "reusable piping bag plastic",
+      1
+    ],
+    [
+      "reusable piping bags",
+      1
+    ],
+    [
       "Reveals how tire",
       1
     ],
     [
       "rim wall",
+      1
+    ],
+    [
+      "rope border",
+      1
+    ],
+    [
+      "rope borders",
+      1
+    ],
+    [
+      "rose tip",
       1
     ],
     [
@@ -1456,6 +2472,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "ruffle dome",
+      1
+    ],
+    [
+      "rustic swoop",
+      1
+    ],
+    [
       "safety orange accent marks",
       1
     ],
@@ -1468,7 +2492,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "scraper set",
+      1
+    ],
+    [
       "scratched paint",
+      1
+    ],
+    [
+      "scratched stainless bench",
+      1
+    ],
+    [
+      "scratched stainless steel",
       1
     ],
     [
@@ -1477,6 +2513,22 @@ window.IMAGE_KB = {
     ],
     [
       "seatpost clamp bolt",
+      1
+    ],
+    [
+      "shell border",
+      1
+    ],
+    [
+      "Shows how soft",
+      1
+    ],
+    [
+      "spiral dome",
+      1
+    ],
+    [
+      "split buttercream",
       1
     ],
     [
@@ -1489,6 +2541,14 @@ window.IMAGE_KB = {
     ],
     [
       "spoke wrench",
+      1
+    ],
+    [
+      "stainless bench",
+      1
+    ],
+    [
+      "stainless benches",
       1
     ],
     [
@@ -1505,6 +2565,30 @@ window.IMAGE_KB = {
     ],
     [
       "steel tether cables",
+      1
+    ],
+    [
+      "stiff buttercream",
+      1
+    ],
+    [
+      "stiff buttercream hold different edge definition across rosette",
+      1
+    ],
+    [
+      "strawberry pink",
+      1
+    ],
+    [
+      "strawberry pink accents",
+      1
+    ],
+    [
+      "tall bakery spiral",
+      1
+    ],
+    [
+      "taxonomy of flower-related piping nozzles including petal tip",
       1
     ],
     [
@@ -1532,11 +2616,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "translucent piping bags",
+      1
+    ],
+    [
       "tube pull",
       1
     ],
     [
       "tube rubber",
+      1
+    ],
+    [
+      "twisting the top",
+      1
+    ],
+    [
+      "under-bench drawer storage for tips and couplers",
       1
     ],
     [
@@ -1552,6 +2648,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "wire shelves",
+      1
+    ],
+    [
       "with clear visibility on the cage",
       1
     ],
@@ -1563,7 +2663,7 @@ window.IMAGE_KB = {
   "bands": [
     [
       "signature",
-      10
+      20
     ]
   ],
   "runs": [
@@ -1575,6 +2675,17 @@ window.IMAGE_KB = {
       "status": "success",
       "reportPath": "../run-reports/20260514-0205-bicycle-repair-commuter-reference-sheets.md",
       "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0205-bicycle-repair-commuter-reference-sheets.md",
+      "publicImageCount": 10,
+      "archivedImageCount": 0
+    },
+    {
+      "slug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "theme": "Bakery Icing Tip Comparison Wall",
+      "imageCount": 10,
+      "status": "success",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
       "publicImageCount": 10,
       "archivedImageCount": 0
     }
@@ -2623,6 +3734,1073 @@ window.IMAGE_KB = {
       "compositionNotes": "The side cutaway keeps tire tread, tube pocket, spoke nipple, cassette cogs, disc rotor, brake caliper, frame dropout, and rack stay readable as one spatial anatomy system.",
       "formatNotes": "Less-common section plate for queries like bicycle wheel cross section diagram, rear wheel brake anatomy, and commuter bike rear wheel cutaway. Short labels only; the prompt card preserves the canonical terminology.",
       "searchText": "commuter rear wheel and brake section cutaway mixed-format bicycle repair commuter reference sheets 20260514-0205-bicycle-repair-commuter-reference-sheets use case: mixed-format\nasset type: final png for an image research knowledge base\nprimary request: polished bicycle anatomy cutaway answering the query \"bicycle wheel cross section diagram\"\nscene/backdrop: a side-section teaching plate of a commuter bicycle rear wheel assembly mounted on a workshop board in the present day\nsubject: one readable commuter rear wheel and brake cutaway showing tire tread, inner tube, rim wall, spoke nipples, spokes, hub shell, cassette cogs, chain path, disc rotor, brake caliper, fender edge, axle, and rack stay relation, short labels only, no logos\nstyle/medium: realistic technical-section illustration rendered like a photographed model-making board, mixing true bicycle materials with clean cutaway logic\ncomposition/framing: square side cutaway plate with the whole rear wheel quadrant, frame dropout, brake hardware, and fender relation visible, clear stacked organization from tire surface inward to hub and rotor\nlighting/mood: bright neutral workshop light, precise, practical, spatial-planning mood\ncolor palette: rubber black, oxidized steel, chain-oil amber, matte cream board, safety orange callout dots, brushed aluminum, commuter mint accents\nmaterials/textures: cut rubber tire, tube rubber, aluminum rim section, steel spokes, cassette teeth, brake rotor steel, matte board, grease smudges, taped corner tabs\ntext (verbatim): \"tire\" \"tube\" \"rim\"\nconstraints: useful anatomy reference for bike co-op trainers and urban design learners, short labels only, no brand logos, no watermark, no tiny paragraphs\navoid: patent blueprint style, glossy product launch render, futuristic concept bike, motorcycle hardware drift, dense manual text reveals how tire, tube, rim, spokes, hub, cassette, rotor, caliper, fender, and rack stay fit together in a commuter rear-wheel assembly. the side cutaway keeps tire tread, tube pocket, spoke nipple, cassette cogs, disc rotor, brake caliper, frame dropout, and rack stay readable as one spatial anatomy system. less-common section plate for queries like bicycle wheel cross section diagram, rear wheel brake anatomy, and commuter bike rear wheel cutaway. short labels only; the prompt card preserves the canonical terminology. inner tube rim wall spoke nipples hub shell cut rubber tire tube rubber aluminum rim section rubber black oxidized steel chain-oil amber reveals how tire architecture object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260514-0105-bakery-icing-tip-comparison-wall-01",
+      "runSlug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "runTheme": "Bakery Icing Tip Comparison Wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "index": 1,
+      "title": "Piping Tip Names And Uses Chart",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "tip",
+        "piping",
+        "star",
+        "chart",
+        "leaf",
+        "poster",
+        "round",
+        "tips",
+        "bakery",
+        "buttercream",
+        "drop",
+        "frosting",
+        "petal",
+        "basketweave",
+        "cake",
+        "closed",
+        "decorating",
+        "flower",
+        "labels",
+        "nozzle",
+        "pastry",
+        "sample",
+        "short",
+        "stainless",
+        "steel",
+        "brushed",
+        "cocoa",
+        "column",
+        "comparison",
+        "green",
+        "icing",
+        "like",
+        "logos",
+        "matte",
+        "names",
+        "open",
+        "paper",
+        "per",
+        "photography",
+        "pink",
+        "pistachio",
+        "scientific-educational",
+        "strawberry",
+        "swatches",
+        "textures",
+        "tile",
+        "title",
+        "uses"
+      ],
+      "specificHooks": [
+        "closed star tip",
+        "round tip",
+        "petal tip",
+        "leaf tip",
+        "brushed stainless steel piping tips",
+        "buttercream swatches",
+        "matte poster paper",
+        "buttercream white",
+        "strawberry pink",
+        "pistachio green"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/01-piping-tip-names-and-uses-chart.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/01-piping-tip-names-and-uses-chart.png",
+      "promptPath": "../prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/01-piping-tip-names-and-uses-chart.prompt.md",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/01-piping-tip-names-and-uses-chart.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "detailPath": "i/20260514-0105-bakery-icing-tip-comparison-wall-01/",
+      "runPath": "r/20260514-0105-bakery-icing-tip-comparison-wall/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an image research knowledge base\nPrimary request: polished pastry training chart answering the query \"piping tips chart\"\nScene/backdrop: straight-on cake decorating classroom poster mounted on a bakery tile wall in the present day\nSubject: a clear taxonomy of common cake decorating nozzles including open star tip, closed star tip, round tip, petal tip, leaf tip, basketweave tip, and drop flower tip, each paired with a visible frosting sample, short labels only, no logos\nStyle/medium: realistic educational chart photographed as a printed pastry-school teaching poster with crisp bakery tool photography and restrained diagram overlays\nComposition/framing: square comparison board with a bold title band, evenly spaced tip columns, one metal nozzle and one frosting texture sample per column, immediate at-a-glance contrast\nLighting/mood: bright pastry-lab overhead light, practical, clean, instructional tone\nColor palette: buttercream white, strawberry pink, pistachio green, cocoa brown, bakery-box cream, stainless steel silver, pale apricot, raspberry red accents\nMaterials/textures: brushed stainless steel piping tips, buttercream swatches, matte poster paper, glazed subway tile, parchment smears, clip rail\nText (verbatim): \"STAR\" \"ROUND\" \"PETAL\" \"LEAF\" \"DROP\"\nConstraints: direct answer image for pastry students and bakery trainers, short labels only, no brand logos, no watermark, no tiny paragraphs\nAvoid: luxury patisserie advertising, wedding magazine romance, pastel scrapbook craft styling, influencer dessert photography, generic baking clutter",
+      "learningValue": "Matches visible nozzle silhouettes to usable frosting textures so a decorator can identify an open star tip, closed star tip, round tip, petal tip, leaf tip, basketweave tip, and drop flower tip without reading a long worksheet.",
+      "compositionNotes": "The board keeps one nozzle and one frosting proof per column, which makes hooks like basketweave strip, drop flower sample, cocoa round bead, and leaf piping immediately scannable at thumbnail size.",
+      "formatNotes": "Search-first pastry reference poster for queries like piping tips chart, icing tip names and uses, and cake decorating tips guide. Short labels only; exact text beyond the title should be treated as non-critical.",
+      "searchText": "piping tip names and uses chart scientific-educational bakery icing tip comparison wall 20260514-0105-bakery-icing-tip-comparison-wall use case: scientific-educational\nasset type: final png for an image research knowledge base\nprimary request: polished pastry training chart answering the query \"piping tips chart\"\nscene/backdrop: straight-on cake decorating classroom poster mounted on a bakery tile wall in the present day\nsubject: a clear taxonomy of common cake decorating nozzles including open star tip, closed star tip, round tip, petal tip, leaf tip, basketweave tip, and drop flower tip, each paired with a visible frosting sample, short labels only, no logos\nstyle/medium: realistic educational chart photographed as a printed pastry-school teaching poster with crisp bakery tool photography and restrained diagram overlays\ncomposition/framing: square comparison board with a bold title band, evenly spaced tip columns, one metal nozzle and one frosting texture sample per column, immediate at-a-glance contrast\nlighting/mood: bright pastry-lab overhead light, practical, clean, instructional tone\ncolor palette: buttercream white, strawberry pink, pistachio green, cocoa brown, bakery-box cream, stainless steel silver, pale apricot, raspberry red accents\nmaterials/textures: brushed stainless steel piping tips, buttercream swatches, matte poster paper, glazed subway tile, parchment smears, clip rail\ntext (verbatim): \"star\" \"round\" \"petal\" \"leaf\" \"drop\"\nconstraints: direct answer image for pastry students and bakery trainers, short labels only, no brand logos, no watermark, no tiny paragraphs\navoid: luxury patisserie advertising, wedding magazine romance, pastel scrapbook craft styling, influencer dessert photography, generic baking clutter matches visible nozzle silhouettes to usable frosting textures so a decorator can identify an open star tip, closed star tip, round tip, petal tip, leaf tip, basketweave tip, and drop flower tip without reading a long worksheet. the board keeps one nozzle and one frosting proof per column, which makes hooks like basketweave strip, drop flower sample, cocoa round bead, and leaf piping immediately scannable at thumbnail size. search-first pastry reference poster for queries like piping tips chart, icing tip names and uses, and cake decorating tips guide. short labels only; exact text beyond the title should be treated as non-critical. closed star tip round tip petal tip leaf tip brushed stainless steel piping tips buttercream swatches matte poster paper buttercream white strawberry pink pistachio green page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260514-0105-bakery-icing-tip-comparison-wall-02",
+      "runSlug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "runTheme": "Bakery Icing Tip Comparison Wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "index": 2,
+      "title": "Buttercream Stiffness Comparison Guide",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "buttercream",
+        "comparison",
+        "stiff",
+        "consistency",
+        "poster",
+        "soft",
+        "bakery",
+        "rosette",
+        "shell",
+        "border",
+        "chart",
+        "edge",
+        "frosting",
+        "guide",
+        "labels",
+        "petal",
+        "ridges",
+        "short",
+        "stainless",
+        "stiffness",
+        "test",
+        "accents",
+        "across",
+        "applied",
+        "apricot",
+        "bench",
+        "cake",
+        "color",
+        "definition",
+        "different",
+        "each",
+        "hold",
+        "how",
+        "logos",
+        "matte",
+        "offset-spatula",
+        "pale",
+        "paper",
+        "pastry",
+        "photography",
+        "pink",
+        "repeated",
+        "same",
+        "scientific-educational",
+        "shows",
+        "strawberry",
+        "swipes",
+        "white"
+      ],
+      "specificHooks": [
+        "medium buttercream",
+        "stiff buttercream",
+        "each applied as a rosette",
+        "shell border",
+        "buttercream ridges",
+        "offset-spatula swipes",
+        "matte poster paper",
+        "buttercream white",
+        "pale apricot",
+        "strawberry pink accents",
+        "Shows how soft",
+        "stiff buttercream hold different edge definition across rosette"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/02-buttercream-stiffness-comparison-guide.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/02-buttercream-stiffness-comparison-guide.png",
+      "promptPath": "../prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/02-buttercream-stiffness-comparison-guide.prompt.md",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/02-buttercream-stiffness-comparison-guide.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "detailPath": "i/20260514-0105-bakery-icing-tip-comparison-wall-02/",
+      "runPath": "r/20260514-0105-bakery-icing-tip-comparison-wall/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an image research knowledge base\nPrimary request: polished bakery training guide answering the query \"buttercream consistency chart\"\nScene/backdrop: straight-on pastry lab comparison poster hanging beside a stainless prep bench in the present day\nSubject: three main buttercream stiffness states shown with the same frosting color and the same test motions: soft buttercream, medium buttercream, and stiff buttercream, each applied as a rosette, shell border, and petal test, short labels only, no logos\nStyle/medium: realistic educational chart photographed as a printed cake-decorating teaching poster with crisp frosting texture photography and subtle diagram arrows\nComposition/framing: square three-column comparison board with one dominant consistency example per column and repeated test shapes underneath for immediate comparison\nLighting/mood: bright clean pastry-school light, practical, analytical, frosting-lab tone\nColor palette: buttercream white, pale apricot, strawberry pink accents, stainless silver, bakery-box cream, cocoa brown notation lines\nMaterials/textures: buttercream ridges, offset-spatula swipes, matte poster paper, stainless bench edge, parchment smear samples, bakery clips\nText (verbatim): \"SOFT\" \"MEDIUM\" \"STIFF\"\nConstraints: direct answer image for pastry students and bakery trainers, short labels only, no brand logos, no watermark, no tiny paragraphs\nAvoid: glossy dessert ad styling, wedding cake romance, scrapbook craft layout, influencer kitchen photography, cluttered recipe text",
+      "learningValue": "Shows how soft, medium, and stiff buttercream hold different edge definition across rosette, shell border, and petal tests so bakers can choose the right consistency before decorating.",
+      "compositionNotes": "The repeated three-test structure makes the stiffness differences readable through buttercream ridges, shell collapse, and petal sharpness instead of relying on paragraph explanations.",
+      "formatNotes": "Search-first consistency comparison poster for queries like buttercream consistency chart, soft vs stiff buttercream, and cake frosting guide. Short labels only; exact text should be treated as supportive rather than canonical.",
+      "searchText": "buttercream stiffness comparison guide scientific-educational bakery icing tip comparison wall 20260514-0105-bakery-icing-tip-comparison-wall use case: scientific-educational\nasset type: final png for an image research knowledge base\nprimary request: polished bakery training guide answering the query \"buttercream consistency chart\"\nscene/backdrop: straight-on pastry lab comparison poster hanging beside a stainless prep bench in the present day\nsubject: three main buttercream stiffness states shown with the same frosting color and the same test motions: soft buttercream, medium buttercream, and stiff buttercream, each applied as a rosette, shell border, and petal test, short labels only, no logos\nstyle/medium: realistic educational chart photographed as a printed cake-decorating teaching poster with crisp frosting texture photography and subtle diagram arrows\ncomposition/framing: square three-column comparison board with one dominant consistency example per column and repeated test shapes underneath for immediate comparison\nlighting/mood: bright clean pastry-school light, practical, analytical, frosting-lab tone\ncolor palette: buttercream white, pale apricot, strawberry pink accents, stainless silver, bakery-box cream, cocoa brown notation lines\nmaterials/textures: buttercream ridges, offset-spatula swipes, matte poster paper, stainless bench edge, parchment smear samples, bakery clips\ntext (verbatim): \"soft\" \"medium\" \"stiff\"\nconstraints: direct answer image for pastry students and bakery trainers, short labels only, no brand logos, no watermark, no tiny paragraphs\navoid: glossy dessert ad styling, wedding cake romance, scrapbook craft layout, influencer kitchen photography, cluttered recipe text shows how soft, medium, and stiff buttercream hold different edge definition across rosette, shell border, and petal tests so bakers can choose the right consistency before decorating. the repeated three-test structure makes the stiffness differences readable through buttercream ridges, shell collapse, and petal sharpness instead of relying on paragraph explanations. search-first consistency comparison poster for queries like buttercream consistency chart, soft vs stiff buttercream, and cake frosting guide. short labels only; exact text should be treated as supportive rather than canonical. medium buttercream stiff buttercream each applied as a rosette shell border buttercream ridges offset-spatula swipes matte poster paper buttercream white pale apricot strawberry pink accents shows how soft stiff buttercream hold different edge definition across rosette page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260514-0105-bakery-icing-tip-comparison-wall-03",
+      "runSlug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "runTheme": "Bakery Icing Tip Comparison Wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "index": 3,
+      "title": "Star Tip Versus Round Tip Border Board",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "border",
+        "tip",
+        "bead",
+        "borders",
+        "round",
+        "star",
+        "buttercream",
+        "comparison",
+        "nozzles",
+        "rope",
+        "cake",
+        "shell",
+        "textures",
+        "bakery",
+        "frosting",
+        "labels",
+        "like",
+        "pearl",
+        "scallop",
+        "short",
+        "brown",
+        "brushed",
+        "cocoa",
+        "column",
+        "direct",
+        "edge",
+        "framing",
+        "guide",
+        "including",
+        "infographic-diagram",
+        "ink",
+        "label",
+        "logos",
+        "matte",
+        "metal",
+        "mood",
+        "paired",
+        "pale",
+        "pastry",
+        "peach",
+        "photographed",
+        "piped",
+        "practical",
+        "presentation",
+        "ridges",
+        "round-tip",
+        "row",
+        "stainless"
+      ],
+      "specificHooks": [
+        "including shell border",
+        "rope border",
+        "bead border",
+        "pearl border",
+        "piped buttercream ridges",
+        "brushed steel nozzles",
+        "matte presentation board",
+        "buttercream white",
+        "pale peach",
+        "cocoa brown label ink",
+        "rope borders",
+        "bead borders"
+      ],
+      "scaleTags": [
+        "page",
+        "tabletop"
+      ],
+      "pngPath": "../images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/03-star-tip-versus-round-tip-border-board.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/03-star-tip-versus-round-tip-border-board.png",
+      "promptPath": "../prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/03-star-tip-versus-round-tip-border-board.prompt.md",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/03-star-tip-versus-round-tip-border-board.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "detailPath": "i/20260514-0105-bakery-icing-tip-comparison-wall-03/",
+      "runPath": "r/20260514-0105-bakery-icing-tip-comparison-wall/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an image research knowledge base\nPrimary request: polished cake decorating comparison board answering the query \"star tip vs round tip frosting guide\"\nScene/backdrop: overhead bakery counter display board photographed on a stainless pastry table in the present day\nSubject: side-by-side border pattern comparisons made with star tips and round tips, including shell border, rope border, bead border, pearl border, and scallop edge, with paired metal nozzles, short labels only, no logos\nStyle/medium: realistic educational comparison board photographed like a pastry-school demo surface with crisp frosting textures and restrained layout marks\nComposition/framing: square split board with a left star-tip column and right round-tip column, five repeated border rows for direct texture comparison, immediate at-a-glance contrast\nLighting/mood: bright bakery work light, hands-on, practical teaching mood\nColor palette: buttercream white, pale peach, cocoa brown label ink, stainless silver, bakery-box cream, soft raspberry accent lines\nMaterials/textures: piped buttercream ridges, brushed steel nozzles, matte presentation board, parchment scraps, turntable scuffs, offset-spatula traces\nText (verbatim): \"STAR\" \"ROUND\" \"SHELL\" \"BEAD\"\nConstraints: direct answer image for pastry students and cake decorators, short labels only, no brand logos, no watermark, no tiny paragraphs\nAvoid: luxury patisserie styling, romantic wedding cake photography, pastel craft-blog collage, generic baking clutter, dense recipe text",
+      "learningValue": "Compares how star and round nozzles change shell borders, rope borders, bead borders, pearl borders, and scallop edges on the same board surface.",
+      "compositionNotes": "The split-board framing keeps star-tip textures and round-tip textures aligned row by row, giving the search page strong hooks like rope border, bead border, scallop edge, and paired metal nozzles.",
+      "formatNotes": "Practical border comparison board for queries like star tip vs round tip frosting guide, cake border piping techniques chart, and border patterns buttercream. Short labels only; any in-image text should be treated as approximate.",
+      "searchText": "star tip versus round tip border board infographic-diagram bakery icing tip comparison wall 20260514-0105-bakery-icing-tip-comparison-wall use case: infographic-diagram\nasset type: final png for an image research knowledge base\nprimary request: polished cake decorating comparison board answering the query \"star tip vs round tip frosting guide\"\nscene/backdrop: overhead bakery counter display board photographed on a stainless pastry table in the present day\nsubject: side-by-side border pattern comparisons made with star tips and round tips, including shell border, rope border, bead border, pearl border, and scallop edge, with paired metal nozzles, short labels only, no logos\nstyle/medium: realistic educational comparison board photographed like a pastry-school demo surface with crisp frosting textures and restrained layout marks\ncomposition/framing: square split board with a left star-tip column and right round-tip column, five repeated border rows for direct texture comparison, immediate at-a-glance contrast\nlighting/mood: bright bakery work light, hands-on, practical teaching mood\ncolor palette: buttercream white, pale peach, cocoa brown label ink, stainless silver, bakery-box cream, soft raspberry accent lines\nmaterials/textures: piped buttercream ridges, brushed steel nozzles, matte presentation board, parchment scraps, turntable scuffs, offset-spatula traces\ntext (verbatim): \"star\" \"round\" \"shell\" \"bead\"\nconstraints: direct answer image for pastry students and cake decorators, short labels only, no brand logos, no watermark, no tiny paragraphs\navoid: luxury patisserie styling, romantic wedding cake photography, pastel craft-blog collage, generic baking clutter, dense recipe text compares how star and round nozzles change shell borders, rope borders, bead borders, pearl borders, and scallop edges on the same board surface. the split-board framing keeps star-tip textures and round-tip textures aligned row by row, giving the search page strong hooks like rope border, bead border, scallop edge, and paired metal nozzles. practical border comparison board for queries like star tip vs round tip frosting guide, cake border piping techniques chart, and border patterns buttercream. short labels only; any in-image text should be treated as approximate. including shell border rope border bead border pearl border piped buttercream ridges brushed steel nozzles matte presentation board buttercream white pale peach cocoa brown label ink rope borders bead borders page tabletop",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260514-0105-bakery-icing-tip-comparison-wall-04",
+      "runSlug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "runTheme": "Bakery Icing Tip Comparison Wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "index": 4,
+      "title": "Buttercream Flower Tip Taxonomy",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "tip",
+        "flower",
+        "buttercream",
+        "leaf",
+        "chart",
+        "drop",
+        "petal",
+        "piping",
+        "labels",
+        "nozzles",
+        "poster",
+        "rose",
+        "cake",
+        "floral",
+        "grass",
+        "pastry",
+        "petals",
+        "ruffle",
+        "short",
+        "stainless",
+        "taxonomy",
+        "tips",
+        "bakery",
+        "blush",
+        "brushed",
+        "cell",
+        "comparison",
+        "connects",
+        "decorators",
+        "each",
+        "flower-related",
+        "foliage",
+        "green",
+        "guide",
+        "including",
+        "like",
+        "logos",
+        "matte",
+        "mood",
+        "paper",
+        "pink",
+        "piped",
+        "pistachio",
+        "reference",
+        "sample",
+        "scientific-educational",
+        "wall",
+        "white"
+      ],
+      "specificHooks": [
+        "taxonomy of flower-related piping nozzles including petal tip",
+        "leaf tip",
+        "drop flower tip",
+        "rose tip",
+        "brushed stainless nozzles",
+        "piped buttercream petals",
+        "matte poster paper",
+        "buttercream white",
+        "blush pink",
+        "pistachio green",
+        "Connects petal",
+        "drop flower"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/04-buttercream-flower-tip-taxonomy.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/04-buttercream-flower-tip-taxonomy.png",
+      "promptPath": "../prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/04-buttercream-flower-tip-taxonomy.prompt.md",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/04-buttercream-flower-tip-taxonomy.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "detailPath": "i/20260514-0105-bakery-icing-tip-comparison-wall-04/",
+      "runPath": "r/20260514-0105-bakery-icing-tip-comparison-wall/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an image research knowledge base\nPrimary request: polished pastry reference chart answering the query \"buttercream flower tips chart\"\nScene/backdrop: straight-on cake decorating teaching poster clipped to a bakery rail in the present day\nSubject: a taxonomy of flower-related piping nozzles including petal tip, leaf tip, drop flower tip, rose tip, ruffle tip, and grass tip, each paired with one visible frosting flower or foliage sample, short labels only, no logos\nStyle/medium: realistic educational chart photographed as a printed pastry-school reference poster with crisp metal-tip photography and restrained botanical-style layout\nComposition/framing: square chart with six balanced cells, each cell showing one nozzle above and one buttercream flower or leaf sample below, immediate at-a-glance comparison\nLighting/mood: bright pastry-classroom light, calm, organized, instructional mood\nColor palette: buttercream white, blush pink, pistachio green, marigold yellow, raspberry red accents, bakery-box cream, stainless silver\nMaterials/textures: brushed stainless nozzles, piped buttercream petals, matte poster paper, pastry clips, parchment flecks, tile wall\nText (verbatim): \"PETAL\" \"LEAF\" \"ROSE\" \"RUFFLE\"\nConstraints: direct answer image for pastry students and decorators, short labels only, no brand logos, no watermark, no tiny paragraphs\nAvoid: luxury floral cake advertising, wedding magazine romance, scrapbook craft styling, generic baking clutter, dense recipe text",
+      "learningValue": "Connects petal, leaf, drop flower, rose, ruffle, and grass tips to recognizable buttercream flower or foliage outcomes for decorators building floral cakes.",
+      "compositionNotes": "The one-nozzle and one-sample cell structure makes the image searchable through hooks like buttercream petals, leaf piping, grass tip fringe, and drop flower blossom without demanding long labels.",
+      "formatNotes": "Search-first floral piping guide for queries like buttercream flower tips chart, cake flower piping guide, and leaf tip buttercream. Short labels only; exact text should be treated as supportive.",
+      "searchText": "buttercream flower tip taxonomy scientific-educational bakery icing tip comparison wall 20260514-0105-bakery-icing-tip-comparison-wall use case: scientific-educational\nasset type: final png for an image research knowledge base\nprimary request: polished pastry reference chart answering the query \"buttercream flower tips chart\"\nscene/backdrop: straight-on cake decorating teaching poster clipped to a bakery rail in the present day\nsubject: a taxonomy of flower-related piping nozzles including petal tip, leaf tip, drop flower tip, rose tip, ruffle tip, and grass tip, each paired with one visible frosting flower or foliage sample, short labels only, no logos\nstyle/medium: realistic educational chart photographed as a printed pastry-school reference poster with crisp metal-tip photography and restrained botanical-style layout\ncomposition/framing: square chart with six balanced cells, each cell showing one nozzle above and one buttercream flower or leaf sample below, immediate at-a-glance comparison\nlighting/mood: bright pastry-classroom light, calm, organized, instructional mood\ncolor palette: buttercream white, blush pink, pistachio green, marigold yellow, raspberry red accents, bakery-box cream, stainless silver\nmaterials/textures: brushed stainless nozzles, piped buttercream petals, matte poster paper, pastry clips, parchment flecks, tile wall\ntext (verbatim): \"petal\" \"leaf\" \"rose\" \"ruffle\"\nconstraints: direct answer image for pastry students and decorators, short labels only, no brand logos, no watermark, no tiny paragraphs\navoid: luxury floral cake advertising, wedding magazine romance, scrapbook craft styling, generic baking clutter, dense recipe text connects petal, leaf, drop flower, rose, ruffle, and grass tips to recognizable buttercream flower or foliage outcomes for decorators building floral cakes. the one-nozzle and one-sample cell structure makes the image searchable through hooks like buttercream petals, leaf piping, grass tip fringe, and drop flower blossom without demanding long labels. search-first floral piping guide for queries like buttercream flower tips chart, cake flower piping guide, and leaf tip buttercream. short labels only; exact text should be treated as supportive. taxonomy of flower-related piping nozzles including petal tip leaf tip drop flower tip rose tip brushed stainless nozzles piped buttercream petals matte poster paper buttercream white blush pink pistachio green connects petal drop flower page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260514-0105-bakery-icing-tip-comparison-wall-05",
+      "runSlug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "runTheme": "Bakery Icing Tip Comparison Wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "index": 5,
+      "title": "How To Fill A Piping Bag Poster",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "bag",
+        "coupler",
+        "piping",
+        "buttercream",
+        "poster",
+        "process",
+        "tip",
+        "fill",
+        "how",
+        "inserting",
+        "loading",
+        "parchment",
+        "reusable",
+        "bakery",
+        "labels",
+        "metal",
+        "setup",
+        "short",
+        "stainless",
+        "twisting",
+        "adding",
+        "arrows",
+        "bakery-box",
+        "brushed",
+        "cuffing",
+        "decorating",
+        "direct",
+        "frosting",
+        "glass",
+        "guide",
+        "infographic-diagram",
+        "logos",
+        "mood",
+        "nozzle",
+        "pale",
+        "photography",
+        "pink",
+        "plastic",
+        "repeated",
+        "sequence",
+        "six-panel",
+        "smears",
+        "steel",
+        "strawberry",
+        "tall",
+        "test",
+        "top",
+        "training"
+      ],
+      "specificHooks": [
+        "loading buttercream",
+        "inserting coupler",
+        "adding metal tip",
+        "twisting the top",
+        "reusable piping bag plastic",
+        "brushed steel coupler and nozzle",
+        "buttercream smears",
+        "bakery-box cream",
+        "buttercream white",
+        "pale strawberry pink",
+        "loading frosting",
+        "inserting a coupler"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/05-how-to-fill-a-piping-bag-poster.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/05-how-to-fill-a-piping-bag-poster.png",
+      "promptPath": "../prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/05-how-to-fill-a-piping-bag-poster.prompt.md",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/05-how-to-fill-a-piping-bag-poster.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "detailPath": "i/20260514-0105-bakery-icing-tip-comparison-wall-05/",
+      "runPath": "r/20260514-0105-bakery-icing-tip-comparison-wall/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an image research knowledge base\nPrimary request: polished process poster answering the query \"how to fill a piping bag visual guide\"\nScene/backdrop: straight-on pastry-school process poster pinned above a stainless decorating bench in the present day\nSubject: a six-step piping bag setup sequence showing cuffing the bag over a tall glass, loading buttercream, inserting coupler, adding metal tip, twisting the top, and testing pressure on parchment, short labels only, no logos, one reusable piping bag and one coupler clearly visible\nStyle/medium: realistic educational process diagram photographed as a printed bakery training poster with crisp tool photography and subtle arrows\nComposition/framing: square six-panel process grid with repeated hands and tools, bold title band, concise visual sequencing, immediate at-a-glance workflow\nLighting/mood: bright pastry-lab light, procedural, clean, no-nonsense training mood\nColor palette: bakery-box cream, buttercream white, pale strawberry pink, stainless silver, cocoa brown linework, soft apricot arrows\nMaterials/textures: reusable piping bag plastic, brushed steel coupler and nozzle, buttercream smears, matte poster paper, parchment sheets, stainless worktop\nText (verbatim): \"CUFF\" \"FILL\" \"TIP\" \"TWIST\" \"TEST\"\nConstraints: direct answer image for pastry students and bakery trainers, short labels only, no brand logos, no watermark, no tiny paragraphs\nAvoid: cute scrapbook recipe graphics, influencer kitchen lifestyle photography, luxury dessert styling, cluttered ingredient spread, dense instruction text",
+      "learningValue": "Shows the practical sequence of cuffing the bag over a tall glass, loading frosting, inserting a coupler, attaching a metal tip, twisting the bag, and pressure-testing on parchment.",
+      "compositionNotes": "The repeated six-panel workflow keeps coupler setup, reusable bag folding, twist grip, and parchment test strip visually distinct so the process reads quickly on a search page.",
+      "formatNotes": "Direct process-cycle poster for queries like how to fill a piping bag, piping bag setup visual guide, and how to use coupler cake decorating. Short labels only; full teaching copy lives in the prompt card, not in the image.",
+      "searchText": "how to fill a piping bag poster infographic-diagram bakery icing tip comparison wall 20260514-0105-bakery-icing-tip-comparison-wall use case: infographic-diagram\nasset type: final png for an image research knowledge base\nprimary request: polished process poster answering the query \"how to fill a piping bag visual guide\"\nscene/backdrop: straight-on pastry-school process poster pinned above a stainless decorating bench in the present day\nsubject: a six-step piping bag setup sequence showing cuffing the bag over a tall glass, loading buttercream, inserting coupler, adding metal tip, twisting the top, and testing pressure on parchment, short labels only, no logos, one reusable piping bag and one coupler clearly visible\nstyle/medium: realistic educational process diagram photographed as a printed bakery training poster with crisp tool photography and subtle arrows\ncomposition/framing: square six-panel process grid with repeated hands and tools, bold title band, concise visual sequencing, immediate at-a-glance workflow\nlighting/mood: bright pastry-lab light, procedural, clean, no-nonsense training mood\ncolor palette: bakery-box cream, buttercream white, pale strawberry pink, stainless silver, cocoa brown linework, soft apricot arrows\nmaterials/textures: reusable piping bag plastic, brushed steel coupler and nozzle, buttercream smears, matte poster paper, parchment sheets, stainless worktop\ntext (verbatim): \"cuff\" \"fill\" \"tip\" \"twist\" \"test\"\nconstraints: direct answer image for pastry students and bakery trainers, short labels only, no brand logos, no watermark, no tiny paragraphs\navoid: cute scrapbook recipe graphics, influencer kitchen lifestyle photography, luxury dessert styling, cluttered ingredient spread, dense instruction text shows the practical sequence of cuffing the bag over a tall glass, loading frosting, inserting a coupler, attaching a metal tip, twisting the bag, and pressure-testing on parchment. the repeated six-panel workflow keeps coupler setup, reusable bag folding, twist grip, and parchment test strip visually distinct so the process reads quickly on a search page. direct process-cycle poster for queries like how to fill a piping bag, piping bag setup visual guide, and how to use coupler cake decorating. short labels only; full teaching copy lives in the prompt card, not in the image. loading buttercream inserting coupler adding metal tip twisting the top reusable piping bag plastic brushed steel coupler and nozzle buttercream smears bakery-box cream buttercream white pale strawberry pink loading frosting inserting a coupler page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260514-0105-bakery-icing-tip-comparison-wall-06",
+      "runSlug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "runTheme": "Bakery Icing Tip Comparison Wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "index": 6,
+      "title": "Cupcake Swirl And Rosette Guide",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "cupcake",
+        "bakery",
+        "swirl",
+        "dome",
+        "rosette",
+        "ruffle",
+        "buttercream",
+        "comparison",
+        "guide",
+        "paper",
+        "rustic",
+        "spiral",
+        "swoop",
+        "classic",
+        "frosting",
+        "labels",
+        "poster",
+        "short",
+        "angle",
+        "blush",
+        "center-ring",
+        "chart",
+        "direct",
+        "finishes",
+        "flat",
+        "green",
+        "including",
+        "liners",
+        "logos",
+        "matte",
+        "pastry",
+        "photography",
+        "pink",
+        "piped",
+        "pistachio",
+        "recognizable",
+        "repeated",
+        "ridges",
+        "scientific-educational",
+        "side",
+        "stainless",
+        "styles",
+        "tall",
+        "trainers",
+        "white",
+        "accents",
+        "answer",
+        "answering"
+      ],
+      "specificHooks": [
+        "including classic swirl",
+        "tall bakery spiral",
+        "flat rustic swoop",
+        "ruffle dome",
+        "piped buttercream ridges",
+        "paper cupcake liners",
+        "matte poster paper",
+        "buttercream white",
+        "blush pink",
+        "pistachio green",
+        "spiral dome",
+        "rustic swoop"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/06-cupcake-swirl-and-rosette-guide.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/06-cupcake-swirl-and-rosette-guide.png",
+      "promptPath": "../prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/06-cupcake-swirl-and-rosette-guide.prompt.md",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/06-cupcake-swirl-and-rosette-guide.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "detailPath": "i/20260514-0105-bakery-icing-tip-comparison-wall-06/",
+      "runPath": "r/20260514-0105-bakery-icing-tip-comparison-wall/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an image research knowledge base\nPrimary request: polished pastry training sheet answering the query \"cupcake swirl styles guide\"\nScene/backdrop: straight-on bakery teaching poster clipped beside a cupcake finishing shelf in the present day\nSubject: six recognizable cupcake frosting finishes compared side by side, including classic swirl, rosette, tall bakery spiral, flat rustic swoop, ruffle dome, and filled center ring, each on matching plain cupcakes with short labels only, no logos\nStyle/medium: realistic educational chart photographed as a printed cake-decorating guide with crisp cupcake photography and restrained layout marks\nComposition/framing: square six-cell comparison board with one finished cupcake per cell, repeated scale and angle for direct comparison, immediate at-a-glance contrast\nLighting/mood: bright pastry-case light, practical, friendly, instructional tone\nColor palette: buttercream white, blush pink, pistachio green, cocoa brown, bakery-box cream, pale yellow cake, stainless silver accents\nMaterials/textures: piped buttercream ridges, paper cupcake liners, matte poster paper, bakery clips, faint crumb texture, stainless rack edges\nText (verbatim): \"SWIRL\" \"ROSETTE\" \"RUFFLE\"\nConstraints: direct answer image for pastry students and bakery trainers, short labels only, no brand logos, no watermark, no tiny paragraphs\nAvoid: cute bakery branding, glossy dessert-ad photography, wedding cupcake romance, scrapbook craft layout, dense recipe text",
+      "learningValue": "Compares recognizable bakery-counter cupcake finishes so trainers can point to a classic swirl, rosette, spiral dome, rustic swoop, ruffle dome, or center-ring finish.",
+      "compositionNotes": "The repeated cupcake angle keeps frosting height, rosette curl, center-ring cavity, and ruffle dome shape legible while avoiding lifestyle distractions.",
+      "formatNotes": "Search-first cupcake style comparison sheet for queries like cupcake swirl styles guide, cupcake frosting designs chart, and rosette cupcake piping. Short labels only; canonical terminology is preserved here in the prompt card.",
+      "searchText": "cupcake swirl and rosette guide scientific-educational bakery icing tip comparison wall 20260514-0105-bakery-icing-tip-comparison-wall use case: scientific-educational\nasset type: final png for an image research knowledge base\nprimary request: polished pastry training sheet answering the query \"cupcake swirl styles guide\"\nscene/backdrop: straight-on bakery teaching poster clipped beside a cupcake finishing shelf in the present day\nsubject: six recognizable cupcake frosting finishes compared side by side, including classic swirl, rosette, tall bakery spiral, flat rustic swoop, ruffle dome, and filled center ring, each on matching plain cupcakes with short labels only, no logos\nstyle/medium: realistic educational chart photographed as a printed cake-decorating guide with crisp cupcake photography and restrained layout marks\ncomposition/framing: square six-cell comparison board with one finished cupcake per cell, repeated scale and angle for direct comparison, immediate at-a-glance contrast\nlighting/mood: bright pastry-case light, practical, friendly, instructional tone\ncolor palette: buttercream white, blush pink, pistachio green, cocoa brown, bakery-box cream, pale yellow cake, stainless silver accents\nmaterials/textures: piped buttercream ridges, paper cupcake liners, matte poster paper, bakery clips, faint crumb texture, stainless rack edges\ntext (verbatim): \"swirl\" \"rosette\" \"ruffle\"\nconstraints: direct answer image for pastry students and bakery trainers, short labels only, no brand logos, no watermark, no tiny paragraphs\navoid: cute bakery branding, glossy dessert-ad photography, wedding cupcake romance, scrapbook craft layout, dense recipe text compares recognizable bakery-counter cupcake finishes so trainers can point to a classic swirl, rosette, spiral dome, rustic swoop, ruffle dome, or center-ring finish. the repeated cupcake angle keeps frosting height, rosette curl, center-ring cavity, and ruffle dome shape legible while avoiding lifestyle distractions. search-first cupcake style comparison sheet for queries like cupcake swirl styles guide, cupcake frosting designs chart, and rosette cupcake piping. short labels only; canonical terminology is preserved here in the prompt card. including classic swirl tall bakery spiral flat rustic swoop ruffle dome piped buttercream ridges paper cupcake liners matte poster paper buttercream white blush pink pistachio green spiral dome rustic swoop page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260514-0105-bakery-icing-tip-comparison-wall-07",
+      "runSlug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "runTheme": "Bakery Icing Tip Comparison Wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "index": 7,
+      "title": "Cake Decorating Tools Tray Reference",
+      "taxonomy": "atlas-contact-sheet",
+      "topics": [
+        "tip",
+        "decorating",
+        "piping",
+        "bags",
+        "tool",
+        "tools",
+        "bakery",
+        "cake",
+        "kit",
+        "parchment",
+        "reference",
+        "tray",
+        "buttercream",
+        "flower",
+        "gel-color",
+        "jars",
+        "like",
+        "minimal",
+        "nail",
+        "scraper",
+        "stainless",
+        "star",
+        "tips",
+        "turntable",
+        "acetate",
+        "atlas-contact-sheet",
+        "bakery-box",
+        "brushed",
+        "chart",
+        "couplers",
+        "disciplined",
+        "evenly",
+        "including",
+        "logos",
+        "metal",
+        "open",
+        "overhead",
+        "paper",
+        "petal",
+        "practice",
+        "props",
+        "reusable",
+        "round",
+        "silver",
+        "smoother",
+        "spaced",
+        "spatula",
+        "steel"
+      ],
+      "specificHooks": [
+        "disciplined decorating kit including reusable piping bags",
+        "open star tip",
+        "round tip",
+        "petal tip",
+        "brushed steel",
+        "translucent piping bags",
+        "parchment paper",
+        "stainless silver",
+        "bakery-box cream",
+        "buttercream white",
+        "piping bags",
+        "metal tips"
+      ],
+      "scaleTags": [
+        "object",
+        "tabletop"
+      ],
+      "pngPath": "../images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.png",
+      "promptPath": "../prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.prompt.md",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "detailPath": "i/20260514-0105-bakery-icing-tip-comparison-wall-07/",
+      "runPath": "r/20260514-0105-bakery-icing-tip-comparison-wall/",
+      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an image research knowledge base\nPrimary request: polished overhead reference image answering the query \"cake decorating tools chart\"\nScene/backdrop: top-down pastry-school tool tray laid out on a stainless bakery worktable in the present day\nSubject: a disciplined decorating kit including reusable piping bags, couplers, open star tip, round tip, petal tip, leaf tip, turntable, offset spatula, bench scraper, acetate smoother, gel-color jars, flower nail, parchment triangles, and a small practice board, no logos, minimal or no text\nStyle/medium: realistic contact-sheet style tool reference photographed like a professional culinary training board with strong object clarity\nComposition/framing: square overhead tray layout with evenly spaced tools, one dominant central turntable, clean negative gaps, immediate scan-friendly organization\nLighting/mood: bright neutral bakery prep light, practical, crisp, object-study tone\nColor palette: stainless silver, bakery-box cream, buttercream white, blush pink, pistachio green, cocoa brown, pale apricot tool accents\nMaterials/textures: brushed steel, translucent piping bags, parchment paper, matte plastic scraper, silicone spatula handle, buttercream smears, scratched worktable\nConstraints: direct answer image for pastry students and bakery trainers, no brand logos, no watermark, no lifestyle clutter, minimal text only\nAvoid: retail catalog glamour, influencer kitchen props, cute baking props, pastel scrapbook styling, unrelated mixing ingredients",
+      "learningValue": "Identifies the core decorating kit through a single organized tray containing couplers, piping bags, metal tips, a flower nail, scraper set, gel-color jars, and a practice board.",
+      "compositionNotes": "The centered turntable and evenly spaced tool zones keep hooks like flower nail, parchment triangles, acetate smoother, gel-color jars, and star tip easy to retrieve from thumbnails and local search.",
+      "formatNotes": "Search-first tool atlas for queries like cake decorating tools chart, cake decorating kit reference, and piping tips and tools. Minimal text only; the object arrangement carries most of the teaching value.",
+      "searchText": "cake decorating tools tray reference atlas-contact-sheet bakery icing tip comparison wall 20260514-0105-bakery-icing-tip-comparison-wall use case: atlas-contact-sheet\nasset type: final png for an image research knowledge base\nprimary request: polished overhead reference image answering the query \"cake decorating tools chart\"\nscene/backdrop: top-down pastry-school tool tray laid out on a stainless bakery worktable in the present day\nsubject: a disciplined decorating kit including reusable piping bags, couplers, open star tip, round tip, petal tip, leaf tip, turntable, offset spatula, bench scraper, acetate smoother, gel-color jars, flower nail, parchment triangles, and a small practice board, no logos, minimal or no text\nstyle/medium: realistic contact-sheet style tool reference photographed like a professional culinary training board with strong object clarity\ncomposition/framing: square overhead tray layout with evenly spaced tools, one dominant central turntable, clean negative gaps, immediate scan-friendly organization\nlighting/mood: bright neutral bakery prep light, practical, crisp, object-study tone\ncolor palette: stainless silver, bakery-box cream, buttercream white, blush pink, pistachio green, cocoa brown, pale apricot tool accents\nmaterials/textures: brushed steel, translucent piping bags, parchment paper, matte plastic scraper, silicone spatula handle, buttercream smears, scratched worktable\nconstraints: direct answer image for pastry students and bakery trainers, no brand logos, no watermark, no lifestyle clutter, minimal text only\navoid: retail catalog glamour, influencer kitchen props, cute baking props, pastel scrapbook styling, unrelated mixing ingredients identifies the core decorating kit through a single organized tray containing couplers, piping bags, metal tips, a flower nail, scraper set, gel-color jars, and a practice board. the centered turntable and evenly spaced tool zones keep hooks like flower nail, parchment triangles, acetate smoother, gel-color jars, and star tip easy to retrieve from thumbnails and local search. search-first tool atlas for queries like cake decorating tools chart, cake decorating kit reference, and piping tips and tools. minimal text only; the object arrangement carries most of the teaching value. disciplined decorating kit including reusable piping bags open star tip round tip petal tip brushed steel translucent piping bags parchment paper stainless silver bakery-box cream buttercream white piping bags metal tips object tabletop",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260514-0105-bakery-icing-tip-comparison-wall-08",
+      "runSlug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "runTheme": "Bakery Icing Tip Comparison Wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "index": 8,
+      "title": "Frosting Trouble Signs Training Wall",
+      "taxonomy": "photorealistic-natural",
+      "topics": [
+        "wall",
+        "buttercream",
+        "troubleshooting",
+        "bench",
+        "classroom",
+        "frosting",
+        "piping",
+        "stainless",
+        "air",
+        "bakery",
+        "color",
+        "split",
+        "teaching",
+        "training",
+        "bags",
+        "bubbles",
+        "corner",
+        "couplers",
+        "cupcakes",
+        "decorating",
+        "failures",
+        "overmixed",
+        "printed",
+        "ragged",
+        "short",
+        "star",
+        "test",
+        "tiled",
+        "bakery-box",
+        "boards",
+        "borders",
+        "cafe",
+        "commercial",
+        "composition",
+        "corrective",
+        "documentary",
+        "drooping",
+        "evidence",
+        "failed",
+        "inside",
+        "labels",
+        "like",
+        "logos",
+        "matte",
+        "melting",
+        "mood",
+        "parchment",
+        "pastry-school"
+      ],
+      "specificHooks": [
+        "ragged star piping",
+        "air bubbles",
+        "split buttercream",
+        "overmixed color",
+        "pastry-school troubleshooting corner inside a commercial decorating classroom",
+        "with tiled wall",
+        "stainless bench",
+        "printed reference boards",
+        "matte posters",
+        "piped buttercream failures",
+        "scratched stainless bench",
+        "bakery-box cream"
+      ],
+      "scaleTags": [
+        "room",
+        "page"
+      ],
+      "pngPath": "../images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/08-frosting-trouble-signs-training-wall.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/08-frosting-trouble-signs-training-wall.png",
+      "promptPath": "../prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/08-frosting-trouble-signs-training-wall.prompt.md",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/08-frosting-trouble-signs-training-wall.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "detailPath": "i/20260514-0105-bakery-icing-tip-comparison-wall-08/",
+      "runPath": "r/20260514-0105-bakery-icing-tip-comparison-wall/",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an image research knowledge base\nPrimary request: realistic bakery training wall answering the query \"frosting troubleshooting poster\"\nScene/backdrop: a pastry-school troubleshooting corner inside a commercial decorating classroom, with tiled wall, stainless bench, printed reference boards, and practice cupcakes in the present day\nSubject: one wall-mounted training board comparing frosting failures such as drooping rosettes, ragged star piping, air bubbles, split buttercream, overmixed color, and melting borders, surrounded by failed sample cupcakes, test swatches, piping bags, couplers, and a labeled correction rail with short words only, no logos\nStyle/medium: realistic documentary interior photograph of a bakery teaching station with tangible printed guides and physical frosting evidence\nComposition/framing: square room-view composition with the training board as the main subject, bench-level proof objects below, enough surrounding classroom context to read as a real teaching corner\nLighting/mood: bright overhead bakery light, practical, corrective, work-in-progress teaching mood\nColor palette: bakery-box cream, buttercream white, dusty pink, pistachio green, cocoa brown, stainless silver, pale apricot notes\nMaterials/textures: matte posters, piped buttercream failures, scratched stainless bench, reusable piping bags, parchment test strips, plastic couplers, tiled wall\nText (verbatim): \"AIR\" \"SPLIT\" \"MELT\" \"FIX\"\nConstraints: real bakery-training evidence, short labels only, no brand logos, no watermark, no decorative cafe styling\nAvoid: cozy cafe lifestyle scene, luxury pastry ad photography, scrapbook classroom decor, unreadable dense text, generic kitchen clutter",
+      "learningValue": "Turns common failure states such as drooping rosettes, ragged star piping, air bubbles, split buttercream, overmixed color, and melting borders into a searchable corrective teaching wall.",
+      "compositionNotes": "The wall board dominates the frame while the bench adds physical proof objects like failed sample cupcakes, couplers, parchment test strips, and filled bags, which makes the image useful for both troubleshooting and classroom setup queries.",
+      "formatNotes": "Documentary training-wall view for queries like frosting troubleshooting poster, cake decorating mistakes chart, and buttercream troubleshooting. Short labels only; exact text should be treated as exploratory.",
+      "searchText": "frosting trouble signs training wall photorealistic-natural bakery icing tip comparison wall 20260514-0105-bakery-icing-tip-comparison-wall use case: photorealistic-natural\nasset type: final png for an image research knowledge base\nprimary request: realistic bakery training wall answering the query \"frosting troubleshooting poster\"\nscene/backdrop: a pastry-school troubleshooting corner inside a commercial decorating classroom, with tiled wall, stainless bench, printed reference boards, and practice cupcakes in the present day\nsubject: one wall-mounted training board comparing frosting failures such as drooping rosettes, ragged star piping, air bubbles, split buttercream, overmixed color, and melting borders, surrounded by failed sample cupcakes, test swatches, piping bags, couplers, and a labeled correction rail with short words only, no logos\nstyle/medium: realistic documentary interior photograph of a bakery teaching station with tangible printed guides and physical frosting evidence\ncomposition/framing: square room-view composition with the training board as the main subject, bench-level proof objects below, enough surrounding classroom context to read as a real teaching corner\nlighting/mood: bright overhead bakery light, practical, corrective, work-in-progress teaching mood\ncolor palette: bakery-box cream, buttercream white, dusty pink, pistachio green, cocoa brown, stainless silver, pale apricot notes\nmaterials/textures: matte posters, piped buttercream failures, scratched stainless bench, reusable piping bags, parchment test strips, plastic couplers, tiled wall\ntext (verbatim): \"air\" \"split\" \"melt\" \"fix\"\nconstraints: real bakery-training evidence, short labels only, no brand logos, no watermark, no decorative cafe styling\navoid: cozy cafe lifestyle scene, luxury pastry ad photography, scrapbook classroom decor, unreadable dense text, generic kitchen clutter turns common failure states such as drooping rosettes, ragged star piping, air bubbles, split buttercream, overmixed color, and melting borders into a searchable corrective teaching wall. the wall board dominates the frame while the bench adds physical proof objects like failed sample cupcakes, couplers, parchment test strips, and filled bags, which makes the image useful for both troubleshooting and classroom setup queries. documentary training-wall view for queries like frosting troubleshooting poster, cake decorating mistakes chart, and buttercream troubleshooting. short labels only; exact text should be treated as exploratory. ragged star piping air bubbles split buttercream overmixed color pastry-school troubleshooting corner inside a commercial decorating classroom with tiled wall stainless bench printed reference boards matte posters piped buttercream failures scratched stainless bench bakery-box cream room page",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260514-0105-bakery-icing-tip-comparison-wall-09",
+      "runSlug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "runTheme": "Bakery Icing Tip Comparison Wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "index": 9,
+      "title": "Pastry School Decorating Station",
+      "taxonomy": "photorealistic-natural",
+      "topics": [
+        "station",
+        "decorating",
+        "stainless",
+        "bags",
+        "piping",
+        "setup",
+        "kitchen",
+        "pastry",
+        "pastry-school",
+        "reference",
+        "border",
+        "buttercream",
+        "cake",
+        "cakes",
+        "cards",
+        "classroom",
+        "color",
+        "commercial",
+        "couplers",
+        "guide",
+        "parchment",
+        "practice",
+        "reusable",
+        "scraper",
+        "shelves",
+        "strips",
+        "wall",
+        "bakery",
+        "benches",
+        "chart",
+        "clipped",
+        "complete",
+        "cooling",
+        "finishing",
+        "framing",
+        "inside",
+        "jars",
+        "labels",
+        "like",
+        "logos",
+        "mood",
+        "offset",
+        "overhead",
+        "photorealistic-natural",
+        "piped",
+        "piping-tip",
+        "rack",
+        "real"
+      ],
+      "specificHooks": [
+        "practice cakes",
+        "piping bags",
+        "offset spatulas",
+        "scraper set",
+        "commercial pastry-school decorating station inside a teaching kitchen",
+        "with tiled wall",
+        "stainless benches",
+        "overhead rack",
+        "scratched stainless steel",
+        "reusable piping bags",
+        "piped buttercream swatches",
+        "stainless silver"
+      ],
+      "scaleTags": [
+        "room",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/09-pastry-school-decorating-station.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/09-pastry-school-decorating-station.png",
+      "promptPath": "../prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/09-pastry-school-decorating-station.prompt.md",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/09-pastry-school-decorating-station.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "detailPath": "i/20260514-0105-bakery-icing-tip-comparison-wall-09/",
+      "runPath": "r/20260514-0105-bakery-icing-tip-comparison-wall/",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an image research knowledge base\nPrimary request: realistic pastry classroom reference image answering the query \"cake decorating station setup\"\nScene/backdrop: a commercial pastry-school decorating station inside a teaching kitchen, with tiled wall, stainless benches, overhead rack, and cooling shelves in the present day\nSubject: one complete cake-finishing station arranged for training with a turntable, practice cakes, piping bags, offset spatulas, scraper set, small frosting guide cards, color jars, couplers, parchment strips, sample border board, and a clipped piping-tip chart nearby, no logos\nStyle/medium: realistic documentary interior photograph of a working bakery classroom station prepared for student instruction\nComposition/framing: square waist-height room view centered on the station, strong foreground work surface, enough surrounding shelves and charts to read as a real pastry-school setup\nLighting/mood: bright commercial kitchen light, focused, ready-for-class, practical mood\nColor palette: stainless silver, bakery-box cream, buttercream white, blush pink, pistachio green, cocoa brown, pale apricot notes\nMaterials/textures: scratched stainless steel, reusable piping bags, piped buttercream swatches, matte guide cards, wire racks, parchment strips, plastic couplers\nText (verbatim): \"TIP\" \"BAG\" \"TEST\"\nConstraints: searchable real-world training reference, short labels only, no brand logos, no watermark, no decorative cafe styling\nAvoid: cozy home kitchen look, luxury pastry ad photography, cluttered ingredient prep, scrapbook classroom decor, generic cookware display",
+      "learningValue": "Shows how a complete pastry-school finishing station organizes turntables, practice cakes, piping bags, scraper sets, guide cards, couplers, color jars, and border samples before class starts.",
+      "compositionNotes": "The waist-height framing keeps the station readable as a reusable setup reference while still surfacing concrete hooks like cooling shelves, clipped piping-tip chart, border sample board, and parchment strips.",
+      "formatNotes": "Real training-room setup reference for queries like cake decorating station setup, pastry school decorating station, and cake finishing bench ideas. Short labels only; the environment carries the instructional value.",
+      "searchText": "pastry school decorating station photorealistic-natural bakery icing tip comparison wall 20260514-0105-bakery-icing-tip-comparison-wall use case: photorealistic-natural\nasset type: final png for an image research knowledge base\nprimary request: realistic pastry classroom reference image answering the query \"cake decorating station setup\"\nscene/backdrop: a commercial pastry-school decorating station inside a teaching kitchen, with tiled wall, stainless benches, overhead rack, and cooling shelves in the present day\nsubject: one complete cake-finishing station arranged for training with a turntable, practice cakes, piping bags, offset spatulas, scraper set, small frosting guide cards, color jars, couplers, parchment strips, sample border board, and a clipped piping-tip chart nearby, no logos\nstyle/medium: realistic documentary interior photograph of a working bakery classroom station prepared for student instruction\ncomposition/framing: square waist-height room view centered on the station, strong foreground work surface, enough surrounding shelves and charts to read as a real pastry-school setup\nlighting/mood: bright commercial kitchen light, focused, ready-for-class, practical mood\ncolor palette: stainless silver, bakery-box cream, buttercream white, blush pink, pistachio green, cocoa brown, pale apricot notes\nmaterials/textures: scratched stainless steel, reusable piping bags, piped buttercream swatches, matte guide cards, wire racks, parchment strips, plastic couplers\ntext (verbatim): \"tip\" \"bag\" \"test\"\nconstraints: searchable real-world training reference, short labels only, no brand logos, no watermark, no decorative cafe styling\navoid: cozy home kitchen look, luxury pastry ad photography, cluttered ingredient prep, scrapbook classroom decor, generic cookware display shows how a complete pastry-school finishing station organizes turntables, practice cakes, piping bags, scraper sets, guide cards, couplers, color jars, and border samples before class starts. the waist-height framing keeps the station readable as a reusable setup reference while still surfacing concrete hooks like cooling shelves, clipped piping-tip chart, border sample board, and parchment strips. real training-room setup reference for queries like cake decorating station setup, pastry school decorating station, and cake finishing bench ideas. short labels only; the environment carries the instructional value. practice cakes piping bags offset spatulas scraper set commercial pastry-school decorating station inside a teaching kitchen with tiled wall stainless benches overhead rack scratched stainless steel reusable piping bags piped buttercream swatches stainless silver room object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260514-0105-bakery-icing-tip-comparison-wall-10",
+      "runSlug": "20260514-0105-bakery-icing-tip-comparison-wall",
+      "runTheme": "Bakery Icing Tip Comparison Wall",
+      "timestamp": "2026-05-14T01:05:04+08:00",
+      "index": 10,
+      "title": "Cake Finishing Bench Section Cutaway",
+      "taxonomy": "mixed-format",
+      "topics": [
+        "cake",
+        "bakery",
+        "section",
+        "boxes",
+        "bench",
+        "rack",
+        "shelves",
+        "bags",
+        "couplers",
+        "cutaway",
+        "decorating",
+        "frosting",
+        "storage",
+        "tips",
+        "tubs",
+        "wash",
+        "buttercream",
+        "labels",
+        "like",
+        "parchment",
+        "piping-bag",
+        "short",
+        "station",
+        "bakery-box",
+        "benches",
+        "bin",
+        "brushed",
+        "cake-finishing",
+        "cardboard",
+        "compact",
+        "cooling",
+        "dispenser",
+        "drawer",
+        "drawers",
+        "filled",
+        "finishing",
+        "logos",
+        "materials",
+        "mixed-format",
+        "mood",
+        "piping",
+        "planning",
+        "plate",
+        "reference",
+        "side",
+        "silver",
+        "spatial",
+        "stacked"
+      ],
+      "specificHooks": [
+        "under-bench drawer storage for tips and couplers",
+        "piping-bag rack",
+        "frosting tubs",
+        "cake boxes",
+        "brushed steel benches",
+        "wire shelves",
+        "cardboard cake boxes",
+        "stainless silver",
+        "bakery-box cream",
+        "buttercream white",
+        "filled bags"
+      ],
+      "scaleTags": [
+        "architecture",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/10-cake-finishing-bench-section-cutaway.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/10-cake-finishing-bench-section-cutaway.png",
+      "promptPath": "../prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/10-cake-finishing-bench-section-cutaway.prompt.md",
+      "reportPath": "../run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/10-cake-finishing-bench-section-cutaway.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260514-0105-bakery-icing-tip-comparison-wall.md",
+      "detailPath": "i/20260514-0105-bakery-icing-tip-comparison-wall-10/",
+      "runPath": "r/20260514-0105-bakery-icing-tip-comparison-wall/",
+      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an image research knowledge base\nPrimary request: polished spatial reference answering the query \"cake decorating station layout\"\nScene/backdrop: a cutaway side section of a commercial bakery cake-finishing bench and adjacent shelving in the present day\nSubject: one compact bakery decorating station shown in section with turntable work surface, under-bench drawer storage for tips and couplers, piping-bag rack, frosting tubs, cake boxes, cooling rack shelves, wash bin, parchment dispenser, and a small clipped training chart, short labels only, no logos\nStyle/medium: realistic architectural-section style illustration rendered like a photographed model-making board, mixing true bakery materials with clean section logic\nComposition/framing: square side cutaway plate with the full bench, shelves, and storage zones visible, clear stacked organization from countertop to drawers to overhead rack\nLighting/mood: bright neutral pastry-lab light, precise, practical, spatial-planning mood\nColor palette: stainless silver, bakery-box cream, buttercream white, blush pink, pistachio green, cocoa brown, pale apricot accents\nMaterials/textures: brushed steel benches, wire shelves, cardboard cake boxes, plastic couplers, reusable piping bags, matte section board, buttercream tubs, parchment rolls\nText (verbatim): \"TIPS\" \"BAGS\" \"BOXES\" \"WASH\"\nConstraints: useful bakery planning reference, short labels only, no brand logos, no watermark, no tiny paragraphs\nAvoid: cozy cafe styling, glossy retail rendering, generic architectural office diagram, scrapbook decor, unrelated cooking prep clutter",
+      "learningValue": "Shows how a compact cake-finishing bench stores piping tips, couplers, filled bags, frosting tubs, cake boxes, wash bins, and cooling shelves in one believable bakery footprint.",
+      "compositionNotes": "The section plate exposes stacked storage zones from the turntable surface down to tip drawers and wash bin, which gives the archive strong hooks like piping-bag rack, cake-box shelf, parchment dispenser, and frosting tub line.",
+      "formatNotes": "Spatial planning cutaway for queries like cake decorating station layout, bakery finishing bench section, and cake decorating workstation. Short labels only; any in-image text should be treated as supportive.",
+      "searchText": "cake finishing bench section cutaway mixed-format bakery icing tip comparison wall 20260514-0105-bakery-icing-tip-comparison-wall use case: mixed-format\nasset type: final png for an image research knowledge base\nprimary request: polished spatial reference answering the query \"cake decorating station layout\"\nscene/backdrop: a cutaway side section of a commercial bakery cake-finishing bench and adjacent shelving in the present day\nsubject: one compact bakery decorating station shown in section with turntable work surface, under-bench drawer storage for tips and couplers, piping-bag rack, frosting tubs, cake boxes, cooling rack shelves, wash bin, parchment dispenser, and a small clipped training chart, short labels only, no logos\nstyle/medium: realistic architectural-section style illustration rendered like a photographed model-making board, mixing true bakery materials with clean section logic\ncomposition/framing: square side cutaway plate with the full bench, shelves, and storage zones visible, clear stacked organization from countertop to drawers to overhead rack\nlighting/mood: bright neutral pastry-lab light, precise, practical, spatial-planning mood\ncolor palette: stainless silver, bakery-box cream, buttercream white, blush pink, pistachio green, cocoa brown, pale apricot accents\nmaterials/textures: brushed steel benches, wire shelves, cardboard cake boxes, plastic couplers, reusable piping bags, matte section board, buttercream tubs, parchment rolls\ntext (verbatim): \"tips\" \"bags\" \"boxes\" \"wash\"\nconstraints: useful bakery planning reference, short labels only, no brand logos, no watermark, no tiny paragraphs\navoid: cozy cafe styling, glossy retail rendering, generic architectural office diagram, scrapbook decor, unrelated cooking prep clutter shows how a compact cake-finishing bench stores piping tips, couplers, filled bags, frosting tubs, cake boxes, wash bins, and cooling shelves in one believable bakery footprint. the section plate exposes stacked storage zones from the turntable surface down to tip drawers and wash bin, which gives the archive strong hooks like piping-bag rack, cake-box shelf, parchment dispenser, and frosting tub line. spatial planning cutaway for queries like cake decorating station layout, bakery finishing bench section, and cake decorating workstation. short labels only; any in-image text should be treated as supportive. under-bench drawer storage for tips and couplers piping-bag rack frosting tubs cake boxes brushed steel benches wire shelves cardboard cake boxes stainless silver bakery-box cream buttercream white filled bags architecture object",
       "curation": {
         "status": "public",
         "reason": "",

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>io.arnav.image-atlas-public-sync</string>
+    <key>ProgramArguments</key>
+    <array>
+      <string>__RUNNER__</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>__ROOT__</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StartInterval</key>
+    <integer>600</integer>
+    <key>WatchPaths</key>
+    <array>
+      <string>__SOURCE__/catalog/runs.jsonl</string>
+      <string>__SOURCE__/catalog/images.jsonl</string>
+    </array>
+    <key>StandardOutPath</key>
+    <string>__ROOT__/tmp/public-sync.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>__ROOT__/tmp/public-sync.err.log</string>
+  </dict>
+</plist>

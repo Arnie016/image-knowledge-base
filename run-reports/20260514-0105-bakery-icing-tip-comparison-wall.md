@@ -1,0 +1,21 @@
+# Run Report
+
+- Run slug: `20260514-0105-bakery-icing-tip-comparison-wall`
+- Timestamp: `2026-05-14T01:05:04+08:00`
+- Theme: Bakery Icing Tip Comparison Wall
+- Status: `success`
+- Freedom budget: `wide`
+- Primary scale: `object`
+- Secondary scale: `page`
+- PNG count: `10`
+- Visual families: core pastry-training explainers, process and tool references, plus real deployment and spatial proof views
+- Image folder: `image-knowledge-base/images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall`
+- Prompt folder: `image-knowledge-base/prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall`
+- Gallery website path: `image-knowledge-base/site/index.html`
+- Gallery refresh: `completed via node image-knowledge-base/scripts/build-site-data.mjs` with `780 public images` across `93 public runs`
+- SEO artifact status: `site/data.js`, `site/sitemap.xml`, and `site/robots.txt` were regenerated; 10 public per-image directories exist under `site/i/20260514-0105-bakery-icing-tip-comparison-wall-*`, and the public per-run directory exists under `site/r/20260514-0105-bakery-icing-tip-comparison-wall`.
+- Research note: `image-knowledge-base/research/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/research.md`
+- Catalog updates: `image-knowledge-base/catalog/runs.jsonl`, `image-knowledge-base/catalog/images.jsonl`
+- Skill/plugin Markdown consulted: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `presentations/SKILL.md`, `iconography-lab/SKILL.md`
+- Summary: This run answered direct pastry-training queries like `piping tips chart`, `buttercream consistency chart`, `frosting troubleshooting poster`, and `cake decorating station layout` with a coherent buttercream-and-stainless reference kit. The strongest gain was pairing searchable charts and tool trays with a troubleshooting wall and a station section cutaway, which makes the run useful to pastry instructors, bakery trainers, and agents looking for spatial or process-specific cake-decorating references.
+- Blockers: None.

@@ -62,10 +62,35 @@ async function openAIRequest(apiKey, payload) {
   return json;
 }
 
-function plannerPrompt({ documentText, audience, goal, packSize, fileName }) {
+function plannerPrompt({ documentText, audience, goal, lane, packSize, fileName, contextKit }) {
+  const laneInstructions = {
+    commercial: [
+      "- Treat this as a commercial and prompt-board planning task.",
+      "- Prefer outputs like storyboard page, hook frame board, product hero sheet, end-frame or tagline board, texture or motion beat sheet, and campaign prompt pack.",
+      "- Each output should help a creator make a short ad or social commercial from generated images.",
+      "- Keep hooks concrete and production-ready: shot size, pack shot, splash particles, reaction beat, hero composition, CTA-safe frame, tabletop gloss.",
+    ],
+    film: [
+      "- Treat this as a film or animation preproduction planning task.",
+      "- Prefer outputs like character turnaround sheet, expression pack, species dossier, prop board, continuity sheet, storyboard beat page, or edit handoff board.",
+      "- Each output should help a creator preserve identity, continuity, motion cues, and scene logic across a short film.",
+      "- Keep hooks concrete and production-ready: silhouette anchors, prop nouns, beat turn, shot angle, continuity markers, costume cues, Seedance motion handoff, CapCut timing board.",
+    ],
+    education: [
+      "- Treat this as an educational explainer planning task.",
+      "- Prefer outputs like comparison chart, process diagram, anatomy plate, revision poster, labeled guide, and visual taxonomy.",
+      "- Each output should be useful for search queries and classroom or training use.",
+      "- Keep hooks concrete and searchable.",
+    ],
+    mixed: [
+      "- Mix commercial boards, film-preproduction assets, and explainer-style references when the source material supports it.",
+      "- Keep the pack reusable for prompt iteration, motion handoff, and search-driven retrieval.",
+    ],
+  }[lane] ?? [];
+
   return [
-    "You are an agentic education image-pack planner.",
-    "Read the source material and design a pack of explanatory image ideas for a niche image service.",
+    "You are an agentic image-pack planner.",
+    "Read the source material and design a pack of reusable image ideas for a niche image service.",
     "Output JSON only with this exact schema:",
     "{",
     '  "packTitle": string,',
@@ -88,14 +113,18 @@ function plannerPrompt({ documentText, audience, goal, packSize, fileName }) {
     "}",
     "",
     "Rules:",
+    `- Lane: ${lane}`,
     `- Audience: ${audience}`,
     `- Goal: ${goal}`,
     `- Return exactly ${packSize} explainers.`,
-    "- The explainers should be useful for search queries and classroom or training use.",
-    "- Mix formats like comparison chart, process diagram, anatomy plate, revision poster, labeled guide, and visual taxonomy when relevant.",
+    ...laneInstructions,
+    "- Make the outputs useful for search queries and reuse, not just for one-off art direction.",
     "- Keep prompts specific and ready for GPT Image generation.",
     "- Keep hooks short, concrete, and searchable.",
     fileName ? `- Source file name: ${fileName}` : "",
+    contextKit?.length
+      ? `- Continuity context to preserve: ${contextKit.map((item) => `${item.role}: ${item.title} (${(item.hooks ?? []).join(", ")})`).join(" | ")}`
+      : "",
     "",
     "Source material:",
     documentText.slice(0, 20000),
@@ -104,9 +133,14 @@ function plannerPrompt({ documentText, audience, goal, packSize, fileName }) {
     .join("\n");
 }
 
-function imagePromptForExplainer(explainer, audience, goal) {
+function imagePromptForExplainer(explainer, audience, goal, lane) {
+  const laneLine = lane === "commercial"
+    ? "Make it feel usable as a commercial-board frame or prompt-image ad asset."
+    : lane === "film"
+      ? "Make it feel usable as a film-preproduction or animation-asset board."
+      : "Make it feel usable as a clear explanatory or training asset.";
   return [
-    `Create a polished explanatory image.`,
+    `Create a polished reusable image.`,
     `Audience: ${audience}.`,
     `Goal: ${goal}.`,
     `Title: ${explainer.title}.`,
@@ -115,6 +149,7 @@ function imagePromptForExplainer(explainer, audience, goal) {
     `Objective: ${explainer.objective}.`,
     `Search hooks: ${(explainer.hooks ?? []).join(", ")}.`,
     `Prompt brief: ${explainer.prompt}.`,
+    laneLine,
     "Make it highly legible, visually structured, and useful as a search landing image.",
     "Use short labels only. No logos. No watermark. No giant paragraphs.",
   ].join("\n");
@@ -133,6 +168,8 @@ module.exports = async (req, res) => {
     const raw = await readBody(req);
     const body = raw ? JSON.parse(raw) : {};
     const documentText = String(body.documentText ?? "").trim();
+    const lane = String(body.lane ?? "commercial").trim();
+    const contextKit = Array.isArray(body.contextKit) ? body.contextKit : [];
     const audience = String(body.audience ?? "teachers and curriculum authors").trim();
     const goal = String(body.goal ?? "mixed explanatory pack").trim();
     const fileName = body.fileName ? String(body.fileName) : null;
@@ -145,7 +182,7 @@ module.exports = async (req, res) => {
 
     const planPayload = {
       model: "gpt-5.5",
-      input: plannerPrompt({ documentText, audience, goal, packSize, fileName }),
+      input: plannerPrompt({ documentText, audience, goal, lane, packSize, fileName, contextKit }),
       max_output_tokens: 2400,
     };
 
@@ -160,7 +197,7 @@ module.exports = async (req, res) => {
       const explainer = explainers[index];
       const imageResponse = await openAIRequest(process.env.OPENAI_API_KEY, {
         model: "gpt-5.5",
-        input: imagePromptForExplainer(explainer, audience, goal),
+        input: imagePromptForExplainer(explainer, audience, goal, lane),
         tools: [{ type: "image_generation" }],
       });
 
@@ -180,9 +217,11 @@ module.exports = async (req, res) => {
     }
 
     return sendJson(res, 200, {
-      packTitle: plan.packTitle || "Explanatory Image Pack",
+      packTitle: plan.packTitle || "Reusable Image Pack",
+      lane,
       audience,
       goal,
+      contextKit,
       summary: plan.summary || "",
       searchQueries: Array.isArray(plan.searchQueries) ? plan.searchQueries.slice(0, 12) : [],
       explainers,
@@ -190,7 +229,7 @@ module.exports = async (req, res) => {
     });
   } catch (error) {
     return sendJson(res, 500, {
-      error: error.message || "Education pack generation failed.",
+      error: error.message || "Image pack generation failed.",
     });
   }
 };

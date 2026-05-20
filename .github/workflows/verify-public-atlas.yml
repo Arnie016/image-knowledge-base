@@ -1,0 +1,29 @@
+name: Verify Public Atlas
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Rebuild site data
+        run: node scripts/build-site-data.mjs
+
+      - name: Rebuild README
+        run: node scripts/build-readme.mjs
+
+      - name: Ensure generated files are committed
+        run: git diff --exit-code
