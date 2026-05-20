@@ -1,5 +1,5 @@
 window.IMAGE_KB = {
-  "generatedAt": "2026-05-20T16:17:01.977Z",
+  "generatedAt": "2026-05-20T16:22:18.355Z",
   "imageCount": 20,
   "publicImageCount": 20,
   "archivedImageCount": 0,
