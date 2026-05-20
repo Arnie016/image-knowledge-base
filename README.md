@@ -8,7 +8,7 @@
 
 | Public images | Public runs | Search hooks | Formats |
 | --- | --- | --- | --- |
-| 20 | 2 | 190 | 5 |
+| 30 | 3 | 282 | 11 |
 
 ## What This Repo Publishes
 
@@ -105,6 +105,66 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/01-lantern-kite-gecko-turnaround-sheet.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/01-lantern-kite-gecko-turnaround-sheet.png" alt="Lantern Kite Gecko Turnaround Sheet (character-bible)" width="100%" /></a>
+  <br /><strong>Lantern Kite Gecko Turnaround Sheet</strong>
+  <br /><sub>character-bible · one small rooftop gecko courier shown in front · three-quarter views with the same patched shoulder cape</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/02-lantern-kite-gecko-expression-and-reaction-pack.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/02-lantern-kite-gecko-expression-and-reaction-pack.png" alt="Lantern Kite Gecko Expression And Reaction Pack (animation-reference)" width="100%" /></a>
+  <br /><strong>Lantern Kite Gecko Expression And Reaction Pack</strong>
+  <br /><sub>animation-reference · annoyed repair face · slipping panic</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/03-rooftop-gecko-species-dossier-plate.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/03-rooftop-gecko-species-dossier-plate.png" alt="Rooftop Gecko Species Dossier Plate (species-dossier)" width="100%" /></a>
+  <br /><strong>Rooftop Gecko Species Dossier Plate</strong>
+  <br /><sub>species-dossier · tail ribbon counterbalance · satchel scale relation</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/04-kite-repair-satchel-and-costume-detail-plate.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/04-kite-repair-satchel-and-costume-detail-plate.png" alt="Kite Repair Satchel And Costume Detail Plate (character-bible)" width="100%" /></a>
+  <br /><strong>Kite Repair Satchel And Costume Detail Plate</strong>
+  <br /><sub>character-bible · couriers patched shoulder cape · rounded canvas satchel shown open and closed</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/05-rooftop-chase-storyboard-beat-page.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/05-rooftop-chase-storyboard-beat-page.png" alt="Rooftop Chase Storyboard Beat Page (storyboard-sequence)" width="100%" /></a>
+  <br /><strong>Rooftop Chase Storyboard Beat Page</strong>
+  <br /><sub>storyboard-sequence · sprinting across tiles · skidding along a gutter</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/06-bell-tower-rooftop-camera-blocking-board.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/06-bell-tower-rooftop-camera-blocking-board.png" alt="Bell Tower Rooftop Camera Blocking Board (film-preproduction)" width="100%" /></a>
+  <br /><strong>Bell Tower Rooftop Camera Blocking Board</strong>
+  <br /><sub>film-preproduction · over-shoulder pursuit · leap profile</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/07-kite-catch-animation-timing-ladder.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/07-kite-catch-animation-timing-ladder.png" alt="Kite Catch Animation Timing Ladder (animation-reference)" width="100%" /></a>
+  <br /><strong>Kite Catch Animation Timing Ladder</strong>
+  <br /><sub>animation-reference · launch stretch · airborne twist</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/08-dusk-rooftop-continuity-environment-sheet.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/08-dusk-rooftop-continuity-environment-sheet.png" alt="Dusk Rooftop Continuity Environment Sheet (film-preproduction)" width="100%" /></a>
+  <br /><strong>Dusk Rooftop Continuity Environment Sheet</strong>
+  <br /><sub>film-preproduction · one main rooftop elevation · one simple location plan</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/09-seedance-to-capcut-edit-planning-board.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/09-seedance-to-capcut-edit-planning-board.png" alt="Seedance To CapCut Edit Planning Board (film-preproduction)" width="100%" /></a>
+  <br /><strong>Seedance To CapCut Edit Planning Board</strong>
+  <br /><sub>film-preproduction · with clear order and short labels only · no logos</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/10-lantern-kite-recovery-cinematic-proof-frame.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/10-lantern-kite-recovery-cinematic-proof-frame.png" alt="Lantern Kite Recovery Cinematic Proof Frame (illustration-story)" width="100%" /></a>
+  <br /><strong>Lantern Kite Recovery Cinematic Proof Frame</strong>
+  <br /><sub>illustration-story · same cape patch · spool charm</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/08-bike-co-op-repair-stand-pegboard-reference.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/08-bike-co-op-repair-stand-pegboard-reference.png" alt="Bike Co-Op Repair Stand Pegboard Reference (photorealistic-natural)" width="100%" /></a>
   <br /><strong>Bike Co-Op Repair Stand Pegboard Reference</strong>
   <br /><sub>photorealistic-natural · floor pump · tire levers</sub>
@@ -154,11 +214,11 @@
 
 ## Current Seed Run
 
-- **Theme:** Bicycle Repair Commuter Reference Sheets
+- **Theme:** Lantern Kite Gecko Film Asset Bible
 
 - **Coverage:** 10 panels with prompt cards and a run report.
 
-- **Run page:** [20260514-0205-bicycle-repair-commuter-reference-sheets](site/r/20260514-0205-bicycle-repair-commuter-reference-sheets/index.html)
+- **Run page:** [20260521-0440-lantern-kite-gecko-film-asset-bible](site/r/20260521-0440-lantern-kite-gecko-film-asset-bible/index.html)
 
 ## Publish Automation
 

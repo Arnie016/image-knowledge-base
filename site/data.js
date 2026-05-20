@@ -1,9 +1,9 @@
 window.IMAGE_KB = {
-  "generatedAt": "2026-05-14T02:05:12+08:00",
-  "imageCount": 20,
-  "publicImageCount": 20,
+  "generatedAt": "2026-05-21T04:40:39+08:00",
+  "imageCount": 30,
+  "publicImageCount": 30,
   "archivedImageCount": 0,
-  "runCount": 2,
+  "runCount": 3,
   "rubric": {
     "version": "2026-05-06-v1",
     "scale": "1-5 per dimension, weighted to 100 overall",
@@ -80,37 +80,73 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "film-preproduction",
+      3
+    ],
+    [
+      "animation-reference",
+      2
+    ],
+    [
       "atlas-contact-sheet",
+      2
+    ],
+    [
+      "character-bible",
       2
     ],
     [
       "mixed-format",
       2
+    ],
+    [
+      "illustration-story",
+      1
+    ],
+    [
+      "species-dossier",
+      1
+    ],
+    [
+      "storyboard-sequence",
+      1
     ]
   ],
   "topics": [
     [
-      "logos",
-      20
-    ],
-    [
       "labels",
-      17
+      26
     ],
     [
       "short",
-      15
+      23
     ],
     [
       "matte",
-      13
+      22
+    ],
+    [
+      "logos",
+      21
+    ],
+    [
+      "mood",
+      21
+    ],
+    [
+      "paper",
+      17
+    ],
+    [
+      "like",
+      14
     ],
     [
       "chart",
       12
     ],
     [
-      "like",
+      "reference",
       12
     ],
     [
@@ -118,7 +154,11 @@ window.IMAGE_KB = {
       12
     ],
     [
-      "mood",
+      "guide",
+      11
+    ],
+    [
+      "repair",
       11
     ],
     [
@@ -130,11 +170,19 @@ window.IMAGE_KB = {
       10
     ],
     [
+      "brushed",
+      10
+    ],
+    [
       "buttercream",
       10
     ],
     [
-      "guide",
+      "gecko",
+      10
+    ],
+    [
+      "orange",
       10
     ],
     [
@@ -142,7 +190,7 @@ window.IMAGE_KB = {
       10
     ],
     [
-      "brushed",
+      "animation",
       9
     ],
     [
@@ -154,7 +202,7 @@ window.IMAGE_KB = {
       9
     ],
     [
-      "reference",
+      "gray",
       9
     ],
     [
@@ -166,15 +214,11 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "gray",
+      "direct",
       8
     ],
     [
-      "paper",
-      8
-    ],
-    [
-      "repair",
+      "kite",
       8
     ],
     [
@@ -182,7 +226,7 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "direct",
+      "cloth",
       7
     ],
     [
@@ -198,11 +242,23 @@ window.IMAGE_KB = {
       7
     ],
     [
+      "brass",
+      6
+    ],
+    [
+      "cape",
+      6
+    ],
+    [
       "decorating",
       6
     ],
     [
-      "orange",
+      "green",
+      6
+    ],
+    [
+      "lantern",
       6
     ],
     [
@@ -214,6 +270,10 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "across",
+      5
+    ],
+    [
       "bench",
       5
     ],
@@ -222,7 +282,23 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "catch",
+      5
+    ],
+    [
+      "character",
+      5
+    ],
+    [
+      "courier",
+      5
+    ],
+    [
       "including",
+      5
+    ],
+    [
+      "marks",
       5
     ],
     [
@@ -230,7 +306,15 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "patch",
+      5
+    ],
+    [
       "pink",
+      5
+    ],
+    [
+      "production",
       5
     ],
     [
@@ -239,6 +323,10 @@ window.IMAGE_KB = {
     ],
     [
       "repeated",
+      5
+    ],
+    [
+      "rooftop",
       5
     ],
     [
@@ -254,6 +342,10 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "accents",
+      4
+    ],
+    [
       "bags",
       4
     ],
@@ -262,7 +354,23 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "bell",
+      4
+    ],
+    [
       "black",
+      4
+    ],
+    [
+      "ceramic",
+      4
+    ],
+    [
+      "color",
+      4
+    ],
+    [
+      "continuity",
       4
     ],
     [
@@ -270,11 +378,15 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "framing",
+      "dusk",
       4
     ],
     [
-      "green",
+      "example",
+      4
+    ],
+    [
+      "framing",
       4
     ],
     [
@@ -286,11 +398,19 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "ledge",
+      4
+    ],
+    [
       "levers",
       4
     ],
     [
       "metal",
+      4
+    ],
+    [
+      "paint",
       4
     ],
     [
@@ -302,11 +422,35 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "plate",
+      4
+    ],
+    [
       "pump",
       4
     ],
     [
+      "roof",
+      4
+    ],
+    [
+      "room",
+      4
+    ],
+    [
       "rotor",
+      4
+    ],
+    [
+      "same",
+      4
+    ],
+    [
+      "satchel",
+      4
+    ],
+    [
+      "sequence",
       4
     ],
     [
@@ -322,7 +466,23 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "accents",
+      "action",
+      3
+    ],
+    [
+      "amber",
+      3
+    ],
+    [
+      "anatomy",
+      3
+    ],
+    [
+      "architecture",
+      3
+    ],
+    [
+      "arrows",
       3
     ],
     [
@@ -334,7 +494,19 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "bridge",
+      3
+    ],
+    [
       "caliper",
+      3
+    ],
+    [
+      "canvas",
+      3
+    ],
+    [
+      "cards",
       3
     ],
     [
@@ -346,11 +518,19 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "color",
+      "charm",
       3
     ],
     [
       "context",
+      3
+    ],
+    [
+      "costume",
+      3
+    ],
+    [
+      "design",
       3
     ],
     [
@@ -362,11 +542,51 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "each",
+      3
+    ],
+    [
+      "environment",
+      3
+    ],
+    [
+      "faded",
+      3
+    ],
+    [
+      "film-preproduction",
+      3
+    ],
+    [
       "flower",
       3
     ],
     [
+      "frame",
+      3
+    ],
+    [
+      "gouache",
+      3
+    ],
+    [
       "hardware",
+      3
+    ],
+    [
+      "keep",
+      3
+    ],
+    [
+      "landscape",
+      3
+    ],
+    [
+      "linework",
+      3
+    ],
+    [
+      "open",
       3
     ],
     [
@@ -375,6 +595,10 @@ window.IMAGE_KB = {
     ],
     [
       "pale",
+      3
+    ],
+    [
+      "patched",
       3
     ],
     [
@@ -410,7 +634,15 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "side",
+      3
+    ],
+    [
       "split",
+      3
+    ],
+    [
+      "spool",
       3
     ],
     [
@@ -418,7 +650,15 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "stock",
+      3
+    ],
+    [
       "strawberry",
+      3
+    ],
+    [
+      "terracotta",
       3
     ],
     [
@@ -442,6 +682,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "above",
+      2
+    ],
+    [
       "after",
       2
     ],
@@ -450,11 +694,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "amber",
+      "animation-reference",
       2
     ],
     [
-      "anatomy",
+      "around",
       2
     ],
     [
@@ -466,11 +710,23 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "backdrop",
+      2
+    ],
+    [
       "bag",
       2
     ],
     [
+      "bamboo",
+      2
+    ],
+    [
       "bead",
+      2
+    ],
+    [
+      "beat",
       2
     ],
     [
@@ -502,11 +758,43 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "card",
+      2
+    ],
+    [
+      "catching",
+      2
+    ],
+    [
+      "cell",
+      2
+    ],
+    [
+      "cells",
+      2
+    ],
+    [
       "chain-oil",
       2
     ],
     [
+      "character-bible",
+      2
+    ],
+    [
+      "charcoal",
+      2
+    ],
+    [
       "checker",
+      2
+    ],
+    [
+      "cinematic",
+      2
+    ],
+    [
+      "clamp",
       2
     ],
     [
@@ -515,6 +803,10 @@ window.IMAGE_KB = {
     ],
     [
       "clipped",
+      2
+    ],
+    [
+      "closed",
       2
     ],
     [
@@ -546,6 +838,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "composition",
+      2
+    ],
+    [
       "connects",
       2
     ],
@@ -566,7 +862,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "each",
+      "district",
       2
     ],
     [
@@ -574,7 +870,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "enough",
+      2
+    ],
+    [
       "evidence",
+      2
+    ],
+    [
+      "film",
       2
     ],
     [
@@ -582,7 +886,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "four",
+      2
+    ],
+    [
+      "front",
+      2
+    ],
+    [
+      "grain",
+      2
+    ],
+    [
+      "grease",
+      2
+    ],
+    [
       "gunmetal",
+      2
+    ],
+    [
+      "gutter",
       2
     ],
     [
@@ -591,6 +915,18 @@ window.IMAGE_KB = {
     ],
     [
       "hi-vis",
+      2
+    ],
+    [
+      "hold",
+      2
+    ],
+    [
+      "inset",
+      2
+    ],
+    [
+      "insets",
       2
     ],
     [
@@ -610,7 +946,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "knee",
+      2
+    ],
+    [
       "leaf",
+      2
+    ],
+    [
+      "leap",
       2
     ],
     [
@@ -622,11 +966,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "lube",
+      "location",
       2
     ],
     [
-      "marks",
+      "lube",
       2
     ],
     [
@@ -646,6 +990,22 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "moss",
+      2
+    ],
+    [
+      "motion",
+      2
+    ],
+    [
+      "narrow",
+      2
+    ],
+    [
+      "neutral",
+      2
+    ],
+    [
       "nozzle",
       2
     ],
@@ -662,10 +1022,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "open",
-      2
-    ],
-    [
       "oxidized",
       2
     ],
@@ -678,7 +1034,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "paint",
+      "parapets",
       2
     ],
     [
@@ -690,7 +1046,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "patch",
+      "pencil",
       2
     ],
     [
@@ -698,15 +1054,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "plan",
+      2
+    ],
+    [
+      "planning",
+      2
+    ],
+    [
+      "plaster",
+      2
+    ],
+    [
       "plastic",
       2
     ],
     [
-      "plate",
+      "practice",
       2
     ],
     [
-      "practice",
+      "printed",
       2
     ],
     [
@@ -715,6 +1083,18 @@ window.IMAGE_KB = {
     ],
     [
       "rear",
+      2
+    ],
+    [
+      "red",
+      2
+    ],
+    [
+      "relation",
+      2
+    ],
+    [
+      "ribbon",
       2
     ],
     [
@@ -730,7 +1110,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "saffron",
+      2
+    ],
+    [
       "sample",
+      2
+    ],
+    [
+      "scale",
       2
     ],
     [
@@ -742,7 +1130,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "sequence",
+      "sheets",
       2
     ],
     [
@@ -750,7 +1138,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "side",
+      "shot",
       2
     ],
     [
@@ -758,7 +1146,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "six-panel",
+      2
+    ],
+    [
       "spare",
+      2
+    ],
+    [
+      "spatial",
       2
     ],
     [
@@ -770,7 +1166,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "still",
+      2
+    ],
+    [
+      "tail",
+      2
+    ],
+    [
       "tall",
+      2
+    ],
+    [
+      "tea-house",
       2
     ],
     [
@@ -782,7 +1190,23 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "tile",
+      2
+    ],
+    [
+      "timing",
+      2
+    ],
+    [
+      "tiny",
+      2
+    ],
+    [
       "tools",
+      2
+    ],
+    [
+      "tower",
       2
     ],
     [
@@ -802,10 +1226,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "above",
-      1
-    ],
-    [
       "accent",
       1
     ],
@@ -814,7 +1234,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "across",
+      "acting",
       1
     ],
     [
@@ -830,6 +1250,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "airborne",
+      1
+    ],
+    [
+      "alert",
+      1
+    ],
+    [
       "alignment",
       1
     ],
@@ -838,11 +1266,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "along",
+      1
+    ],
+    [
       "angle",
       1
     ],
     [
+      "animators",
+      1
+    ],
+    [
       "ankle",
+      1
+    ],
+    [
+      "annotation",
+      1
+    ],
+    [
+      "annoyed",
       1
     ],
     [
@@ -855,6 +1299,10 @@ window.IMAGE_KB = {
     ],
     [
       "answering",
+      1
+    ],
+    [
+      "anticipation",
       1
     ],
     [
@@ -874,6 +1322,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "arcs",
+      1
+    ],
+    [
       "arm",
       1
     ],
@@ -882,7 +1334,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "arrows",
+      "artifact",
+      1
+    ],
+    [
+      "artists",
+      1
+    ],
+    [
+      "awl",
+      1
+    ],
+    [
+      "back",
       1
     ],
     [
@@ -906,7 +1370,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "bell-tower",
+      1
+    ],
+    [
       "bent",
+      1
+    ],
+    [
+      "blocking",
       1
     ],
     [
@@ -938,6 +1410,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "breaks",
+      1
+    ],
+    [
       "bristles",
       1
     ],
@@ -955,6 +1431,10 @@ window.IMAGE_KB = {
     ],
     [
       "bubbles",
+      1
+    ],
+    [
+      "built",
       1
     ],
     [
@@ -978,15 +1458,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "card",
+      "camera",
+      1
+    ],
+    [
+      "capcut",
       1
     ],
     [
       "cardboard",
-      1
-    ],
-    [
-      "cards",
       1
     ],
     [
@@ -995,14 +1475,6 @@ window.IMAGE_KB = {
     ],
     [
       "causing",
-      1
-    ],
-    [
-      "cell",
-      1
-    ],
-    [
-      "cells",
       1
     ],
     [
@@ -1018,7 +1490,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "changes",
+      1
+    ],
+    [
+      "chase",
+      1
+    ],
+    [
       "check",
+      1
+    ],
+    [
+      "chips",
       1
     ],
     [
@@ -1031,10 +1515,6 @@ window.IMAGE_KB = {
     ],
     [
       "civic",
-      1
-    ],
-    [
-      "clamp",
       1
     ],
     [
@@ -1054,11 +1534,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "closed",
+      "close",
       1
     ],
     [
       "common",
+      1
+    ],
+    [
+      "compartments",
       1
     ],
     [
@@ -1070,15 +1554,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "composition",
-      1
-    ],
-    [
       "concrete",
       1
     ],
     [
       "consistency",
+      1
+    ],
+    [
+      "consistent",
       1
     ],
     [
@@ -1090,7 +1574,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "corners",
+      1
+    ],
+    [
       "corrective",
+      1
+    ],
+    [
+      "counterbalance",
       1
     ],
     [
@@ -1098,7 +1590,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "couriers",
+      1
+    ],
+    [
+      "creature",
+      1
+    ],
+    [
+      "crops",
+      1
+    ],
+    [
       "cross",
+      1
+    ],
+    [
+      "cue",
       1
     ],
     [
@@ -1138,11 +1646,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "design",
+      "detail",
       1
     ],
     [
       "different",
+      1
+    ],
+    [
+      "director",
+      1
+    ],
+    [
+      "directors",
       1
     ],
     [
@@ -1166,11 +1682,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dominant",
+      1
+    ],
+    [
+      "dossier",
+      1
+    ],
+    [
       "drawer",
       1
     ],
     [
       "drawers",
+      1
+    ],
+    [
+      "drifting",
       1
     ],
     [
@@ -1186,11 +1714,35 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "duration",
+      1
+    ],
+    [
+      "edit",
+      1
+    ],
+    [
+      "editorial",
+      1
+    ],
+    [
+      "editors",
+      1
+    ],
+    [
       "educators",
       1
     ],
     [
+      "elevation",
+      1
+    ],
+    [
       "emergency",
+      1
+    ],
+    [
+      "engineers",
       1
     ],
     [
@@ -1202,11 +1754,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "example",
+      "expression",
       1
     ],
     [
       "eye-level",
+      1
+    ],
+    [
+      "fabric",
+      1
+    ],
+    [
+      "face",
       1
     ],
     [
@@ -1222,6 +1782,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "fantasy",
+      1
+    ],
+    [
+      "feel",
+      1
+    ],
+    [
       "feeler-card",
       1
     ],
@@ -1230,11 +1798,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "figure",
+      1
+    ],
+    [
       "fill",
       1
     ],
     [
       "filled",
+      1
+    ],
+    [
+      "finished",
       1
     ],
     [
@@ -1258,15 +1834,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "focused",
+      1
+    ],
+    [
       "foliage",
       1
     ],
     [
-      "frame",
+      "frames",
       1
     ],
     [
-      "front",
+      "frayed",
+      1
+    ],
+    [
+      "full",
       1
     ],
     [
@@ -1279,6 +1863,10 @@ window.IMAGE_KB = {
     ],
     [
       "gel-color",
+      1
+    ],
+    [
+      "ghosted",
       1
     ],
     [
@@ -1298,6 +1886,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "graphite",
+      1
+    ],
+    [
       "grass",
       1
     ],
@@ -1306,7 +1898,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "grid",
+      1
+    ],
+    [
+      "grip",
+      1
+    ],
+    [
       "grips",
+      1
+    ],
+    [
+      "half-body",
+      1
+    ],
+    [
+      "hand-drawn",
       1
     ],
     [
@@ -1326,10 +1934,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "hold",
-      1
-    ],
-    [
       "hooks",
       1
     ],
@@ -1343,6 +1947,14 @@ window.IMAGE_KB = {
     ],
     [
       "icing",
+      1
+    ],
+    [
+      "illustration-story",
+      1
+    ],
+    [
+      "in-scene",
       1
     ],
     [
@@ -1362,7 +1974,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "isolates",
+      1
+    ],
+    [
       "jockey",
+      1
+    ],
+    [
+      "jump",
       1
     ],
     [
@@ -1374,11 +1994,51 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "kite-recovery",
+      1
+    ],
+    [
+      "knot-tying",
+      1
+    ],
+    [
       "label",
       1
     ],
     [
+      "ladder",
+      1
+    ],
+    [
+      "landing",
+      1
+    ],
+    [
+      "landmark",
+      1
+    ],
+    [
+      "landmarks",
+      1
+    ],
+    [
       "lane",
+      1
+    ],
+    [
+      "launch",
+      1
+    ],
+    [
+      "laundry",
+      1
+    ],
+    [
+      "leaping",
+      1
+    ],
+    [
+      "left-to-right",
       1
     ],
     [
@@ -1406,7 +2066,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "location",
+      "logic",
       1
     ],
     [
@@ -1418,7 +2078,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "main",
+      1
+    ],
+    [
       "maintenance",
+      1
+    ],
+    [
+      "mascot",
+      1
+    ],
+    [
+      "masking",
       1
     ],
     [
@@ -1434,7 +2106,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "monster",
+      1
+    ],
+    [
+      "motion-study",
+      1
+    ],
+    [
       "mount",
+      1
+    ],
+    [
+      "moving",
       1
     ],
     [
@@ -1458,6 +2142,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "notes",
+      1
+    ],
+    [
       "offset",
       1
     ],
@@ -1466,11 +2154,39 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "order",
+      1
+    ],
+    [
+      "over-shoulder",
+      1
+    ],
+    [
       "overmixed",
       1
     ],
     [
+      "pack",
+      1
+    ],
+    [
       "paired",
+      1
+    ],
+    [
+      "pan",
+      1
+    ],
+    [
+      "panel",
+      1
+    ],
+    [
+      "panels",
+      1
+    ],
+    [
+      "panic",
       1
     ],
     [
@@ -1526,15 +2242,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "planning",
-      1
-    ],
-    [
       "plywood",
       1
     ],
     [
       "point",
+      1
+    ],
+    [
+      "poles",
+      1
+    ],
+    [
+      "pose",
       1
     ],
     [
@@ -1554,11 +2274,23 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "printed",
+      "profile",
+      1
+    ],
+    [
+      "proof",
+      1
+    ],
+    [
+      "prop",
       1
     ],
     [
       "props",
+      1
+    ],
+    [
+      "proud",
       1
     ],
     [
@@ -1567,6 +2299,10 @@ window.IMAGE_KB = {
     ],
     [
       "pull",
+      1
+    ],
+    [
+      "pulling",
       1
     ],
     [
@@ -1590,6 +2326,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "read",
+      1
+    ],
+    [
+      "readable",
+      1
+    ],
+    [
       "real",
       1
     ],
@@ -1598,11 +2342,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "recovery",
+      1
+    ],
+    [
       "reflective",
       1
     ],
     [
-      "relation",
+      "relieved",
       1
     ],
     [
@@ -1614,11 +2362,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "riders",
+      "restrained",
       1
     ],
     [
-      "room",
+      "riders",
       1
     ],
     [
@@ -1635,6 +2383,10 @@ window.IMAGE_KB = {
     ],
     [
       "round-tip",
+      1
+    ],
+    [
+      "rounded",
       1
     ],
     [
@@ -1658,15 +2410,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "same",
-      1
-    ],
-    [
       "scallop",
       1
     ],
     [
+      "scenic",
+      1
+    ],
+    [
       "scratched",
+      1
+    ],
+    [
+      "screenshot",
       1
     ],
     [
@@ -1678,11 +2434,23 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "sheets",
+      "seedance",
+      1
+    ],
+    [
+      "shadows",
       1
     ],
     [
       "shelter",
+      1
+    ],
+    [
+      "shoulder",
+      1
+    ],
+    [
+      "shown",
       1
     ],
     [
@@ -1694,11 +2462,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "six-panel",
+      "silhouette",
+      1
+    ],
+    [
+      "simple",
       1
     ],
     [
       "sizes",
+      1
+    ],
+    [
+      "slipping",
       1
     ],
     [
@@ -1714,11 +2490,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "software",
+      1
+    ],
+    [
       "spaced",
       1
     ],
     [
-      "spatial",
+      "spacing",
       1
     ],
     [
@@ -1726,7 +2506,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "species",
+      1
+    ],
+    [
       "spiral",
+      1
+    ],
+    [
+      "splints",
       1
     ],
     [
@@ -1758,6 +2546,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "storyboard",
+      1
+    ],
+    [
       "strap",
       1
     ],
@@ -1766,7 +2558,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "strings",
+      1
+    ],
+    [
+      "strip",
+      1
+    ],
+    [
       "strips",
+      1
+    ],
+    [
+      "studio",
       1
     ],
     [
@@ -1810,11 +2614,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "ties",
+      "three-quarter",
       1
     ],
     [
-      "tile",
+      "thumbnails",
+      1
+    ],
+    [
+      "ties",
       1
     ],
     [
@@ -1822,7 +2630,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "tiny",
+      "timeline",
+      1
+    ],
+    [
+      "timing-sheet",
       1
     ],
     [
@@ -1858,6 +2670,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "turnaround",
+      1
+    ],
+    [
       "turntable",
       1
     ],
@@ -1866,7 +2682,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "two",
+      1
+    ],
+    [
       "uses",
+      1
+    ],
+    [
+      "views",
       1
     ],
     [
@@ -1904,6 +2728,10 @@ window.IMAGE_KB = {
       8
     ],
     [
+      "cream paper",
+      5
+    ],
+    [
       "bakery-box cream",
       4
     ],
@@ -1916,7 +2744,23 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "terracotta orange",
+      4
+    ],
+    [
+      "terracotta roof red",
+      4
+    ],
+    [
       "asphalt gray",
+      3
+    ],
+    [
+      "canvas satchel weave",
+      3
+    ],
+    [
+      "ceramic roof tile",
       3
     ],
     [
@@ -1932,7 +2776,15 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "bell tower",
+      2
+    ],
+    [
       "blush pink",
+      2
+    ],
+    [
+      "brass spool charm",
       2
     ],
     [
@@ -1940,7 +2792,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "charcoal linework",
+      2
+    ],
+    [
+      "cloth cape",
+      2
+    ],
+    [
+      "faded saffron cloth",
+      2
+    ],
+    [
+      "grease pencil arrows",
+      2
+    ],
+    [
       "gunmetal gray",
+      2
+    ],
+    [
+      "lantern strings",
       2
     ],
     [
@@ -1949,6 +2821,26 @@ window.IMAGE_KB = {
     ],
     [
       "matte cream paper",
+      2
+    ],
+    [
+      "matte paper grain",
+      2
+    ],
+    [
+      "matte production paper",
+      2
+    ],
+    [
+      "moss green patch",
+      2
+    ],
+    [
+      "narrow bridge ledge",
+      2
+    ],
+    [
+      "no room scene",
       2
     ],
     [
@@ -1968,11 +2860,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "plaster wall",
+      2
+    ],
+    [
       "round tip",
       2
     ],
     [
       "rubber tube",
+      2
+    ],
+    [
+      "short labels only",
       2
     ],
     [
@@ -1988,6 +2888,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "a bell tower ledge above the street",
+      1
+    ],
+    [
       "a repair stand in the present day",
       1
     ],
@@ -2000,11 +2904,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "airborne twist",
+      1
+    ],
+    [
       "aluminum rim section",
       1
     ],
     [
+      "annoyed repair face",
+      1
+    ],
+    [
       "anodized steel gray",
+      1
+    ],
+    [
+      "bamboo kite repair tool relation",
       1
     ],
     [
@@ -2044,11 +2960,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "Breaks one recurring action into readable anticipation",
+      1
+    ],
+    [
+      "bridge ledge",
+      1
+    ],
+    [
       "brushed aluminum brake arms",
       1
     ],
     [
       "brushed bolts",
+      1
+    ],
+    [
+      "brushed brass spool",
       1
     ],
     [
@@ -2104,6 +3032,22 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "catch clamp",
+      1
+    ],
+    [
+      "catch close view",
+      1
+    ],
+    [
+      "catching the kite",
+      1
+    ],
+    [
+      "ceramic roof tile surfaces",
+      1
+    ],
+    [
       "chain checker",
       1
     ],
@@ -2128,6 +3072,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cloth cape stitching",
+      1
+    ],
+    [
       "cocoa brown label ink",
       1
     ],
@@ -2145,6 +3093,14 @@ window.IMAGE_KB = {
     ],
     [
       "Connects petal",
+      1
+    ],
+    [
+      "couriers patched shoulder cape",
+      1
+    ],
+    [
+      "cream dossier paper with subtle taped corners",
       1
     ],
     [
@@ -2192,7 +3148,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dusk rooftop district built around a tea-house roof",
+      1
+    ],
+    [
+      "dusk terracotta rooftop district with tea-house roof",
+      1
+    ],
+    [
       "each applied as a rosette",
+      1
+    ],
+    [
+      "faded saffron",
       1
     ],
     [
@@ -2205,6 +3173,18 @@ window.IMAGE_KB = {
     ],
     [
       "floor pump",
+      1
+    ],
+    [
+      "focused knot-tying",
+      1
+    ],
+    [
+      "focused repair",
+      1
+    ],
+    [
+      "frayed cloth stitching",
       1
     ],
     [
@@ -2221,6 +3201,18 @@ window.IMAGE_KB = {
     ],
     [
       "glue and patch placement",
+      1
+    ],
+    [
+      "gouache paint",
+      1
+    ],
+    [
+      "graphite gray",
+      1
+    ],
+    [
+      "graphite marks",
       1
     ],
     [
@@ -2260,7 +3252,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "Isolates the couriers cape",
+      1
+    ],
+    [
       "jockey wheels",
+      1
+    ],
+    [
+      "kite fabric still pulling in the wind",
+      1
+    ],
+    [
+      "lantern amber",
+      1
+    ],
+    [
+      "launch stretch",
+      1
+    ],
+    [
+      "leap profile",
+      1
+    ],
+    [
+      "leaping toward a bell tower ledge",
       1
     ],
     [
@@ -2284,11 +3300,35 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "masking tape",
+      1
+    ],
+    [
+      "matte board stock",
+      1
+    ],
+    [
+      "matte card stock",
+      1
+    ],
+    [
+      "matte gouache accents",
+      1
+    ],
+    [
       "matte posters",
       1
     ],
     [
       "matte presentation board",
+      1
+    ],
+    [
+      "matte stock paper",
+      1
+    ],
+    [
+      "matte storyboard paper",
       1
     ],
     [
@@ -2305,6 +3345,30 @@ window.IMAGE_KB = {
     ],
     [
       "mini pump",
+      1
+    ],
+    [
+      "motion arrows",
+      1
+    ],
+    [
+      "no logos",
+      1
+    ],
+    [
+      "no room environment",
+      1
+    ],
+    [
+      "no scenic environment",
+      1
+    ],
+    [
+      "no scenic room",
+      1
+    ],
+    [
+      "no software screenshot",
       1
     ],
     [
@@ -2328,7 +3392,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "one hand-drawn timeline strip",
+      1
+    ],
+    [
+      "one main rooftop elevation",
+      1
+    ],
+    [
+      "one simple location plan",
+      1
+    ],
+    [
+      "one small rooftop gecko courier shown in front",
+      1
+    ],
+    [
       "open star tip",
+      1
+    ],
+    [
+      "over-shoulder pursuit",
       1
     ],
     [
@@ -2396,6 +3480,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "plaster parapets",
+      1
+    ],
+    [
       "plastic tire levers",
       1
     ],
@@ -2412,6 +3500,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "present-day animation studio artifact feel",
+      1
+    ],
+    [
       "printed reference boards",
       1
     ],
@@ -2424,11 +3516,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "relieved kite catch",
+      1
+    ],
+    [
+      "repair awl",
+      1
+    ],
+    [
       "repair-stand mint",
       1
     ],
     [
       "resin brake pads",
+      1
+    ],
+    [
+      "restrained production annotation marks",
       1
     ],
     [
@@ -2441,6 +3545,10 @@ window.IMAGE_KB = {
     ],
     [
       "Reveals how tire",
+      1
+    ],
+    [
+      "ribbon tail as the production sheets",
       1
     ],
     [
@@ -2468,6 +3576,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "rounded canvas satchel",
+      1
+    ],
+    [
+      "rounded canvas satchel shown open and closed",
+      1
+    ],
+    [
       "rubber grips",
       1
     ],
@@ -2489,6 +3605,14 @@ window.IMAGE_KB = {
     ],
     [
       "safety yellow",
+      1
+    ],
+    [
+      "same cape patch",
+      1
+    ],
+    [
+      "satchel scale relation",
       1
     ],
     [
@@ -2520,7 +3644,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "short spatial labels only",
+      1
+    ],
+    [
       "Shows how soft",
+      1
+    ],
+    [
+      "Shows shot size",
+      1
+    ],
+    [
+      "skid landing",
+      1
+    ],
+    [
+      "skidding along a gutter",
+      1
+    ],
+    [
+      "slipping panic",
+      1
+    ],
+    [
+      "soft gouache paint",
       1
     ],
     [
@@ -2541,6 +3689,14 @@ window.IMAGE_KB = {
     ],
     [
       "spoke wrench",
+      1
+    ],
+    [
+      "spool charm",
+      1
+    ],
+    [
+      "sprinting across tiles",
       1
     ],
     [
@@ -2584,11 +3740,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "tail ribbon counterbalance",
+      1
+    ],
+    [
       "tall bakery spiral",
       1
     ],
     [
       "taxonomy of flower-related piping nozzles including petal tip",
+      1
+    ],
+    [
+      "terracotta and saffron still thumbnails",
+      1
+    ],
+    [
+      "terracotta skin notes",
       1
     ],
     [
@@ -2601,6 +3769,26 @@ window.IMAGE_KB = {
     ],
     [
       "tethered tire levers",
+      1
+    ],
+    [
+      "three-quarter views with the same patched shoulder cape",
+      1
+    ],
+    [
+      "timing chips",
+      1
+    ],
+    [
+      "timing-sheet paper",
+      1
+    ],
+    [
+      "tiny character scale cue only",
+      1
+    ],
+    [
+      "tiny color tabs",
       1
     ],
     [
@@ -2652,6 +3840,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "with clear order and short labels only",
+      1
+    ],
+    [
       "with clear visibility on the cage",
       1
     ],
@@ -2663,10 +3855,21 @@ window.IMAGE_KB = {
   "bands": [
     [
       "signature",
-      20
+      30
     ]
   ],
   "runs": [
+    {
+      "slug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "theme": "Lantern Kite Gecko Film Asset Bible",
+      "imageCount": 10,
+      "status": "success",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "publicImageCount": 10,
+      "archivedImageCount": 0
+    },
     {
       "slug": "20260514-0205-bicycle-repair-commuter-reference-sheets",
       "timestamp": "2026-05-14T02:05:12+08:00",
@@ -2691,6 +3894,1076 @@ window.IMAGE_KB = {
     }
   ],
   "images": [
+    {
+      "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-01",
+      "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "runTheme": "Lantern Kite Gecko Film Asset Bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "index": 1,
+      "title": "Lantern Kite Gecko Turnaround Sheet",
+      "taxonomy": "character-bible",
+      "topics": [
+        "gecko",
+        "animation",
+        "character",
+        "satchel",
+        "front",
+        "turnaround",
+        "views",
+        "back",
+        "brass",
+        "canvas",
+        "courier",
+        "labels",
+        "mascot",
+        "short",
+        "side",
+        "spool",
+        "cape",
+        "cloth",
+        "gouache",
+        "kite",
+        "matte",
+        "neutral",
+        "paper",
+        "patch",
+        "production",
+        "ribbon",
+        "same",
+        "silhouette",
+        "studio",
+        "tail",
+        "three-quarter",
+        "across",
+        "artifact",
+        "backdrop",
+        "character-bible",
+        "charm",
+        "consistent",
+        "direct",
+        "faded",
+        "feel",
+        "four",
+        "green",
+        "knee",
+        "lantern",
+        "mood",
+        "moss",
+        "orange",
+        "paint"
+      ],
+      "specificHooks": [
+        "one small rooftop gecko courier shown in front",
+        "three-quarter views with the same patched shoulder cape",
+        "rounded canvas satchel",
+        "brass spool charm",
+        "no room scene",
+        "present-day animation studio artifact feel",
+        "matte production paper",
+        "soft gouache paint",
+        "canvas satchel weave",
+        "terracotta orange",
+        "faded saffron cloth",
+        "moss green patch"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/01-lantern-kite-gecko-turnaround-sheet.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/01-lantern-kite-gecko-turnaround-sheet.png",
+      "promptPath": "../prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/01-lantern-kite-gecko-turnaround-sheet.prompt.md",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/01-lantern-kite-gecko-turnaround-sheet.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "detailPath": "i/20260521-0440-lantern-kite-gecko-film-asset-bible-01/",
+      "runPath": "r/20260521-0440-lantern-kite-gecko-film-asset-bible/",
+      "finalPrompt": "Use case: character-bible\nAsset type: final PNG for an indexed film-preproduction image knowledge base\nPrimary request: polished animation turnaround sheet answering the query \"mascot character turnaround sheet\" for one original gecko courier mascot\nScene/backdrop: neutral cream production-paper backdrop with faint taped registration marks, no room scene, present-day animation studio artifact feel\nSubject: one small rooftop gecko courier shown in front, side, back, and three-quarter views with the same patched shoulder cape, rounded canvas satchel, brass spool charm, knee wraps, splayed gecko toes, and ribbon tail extension, short view labels only\nStyle/medium: hand-painted animation preproduction sheet with crisp cel-shaded character rendering, matte gouache texture, clean line discipline, no living-artist imitation\nComposition/framing: tall vertical character sheet with four evenly spaced standing views, consistent scale, direct orthographic readability, strong silhouette separation\nLighting/mood: bright neutral studio light, practical, calm, exacting production mood\nColor palette: terracotta orange, faded saffron cloth, moss green patch, cream paper, brass gold, dusty teal shadows\nMaterials/textures: matte production paper, soft gouache paint, canvas satchel weave, cloth knee wraps, bamboo kite splint, brushed brass spool hardware\nText (verbatim): \"front\" \"side\" \"back\" \"3/4\"\nConstraints: useful for indie animation directors and storyboard artists, keep proportions consistent across all four views, short labels only, no logos, no watermark, no tiny paragraphs\nAvoid: anime pinup styling, toy-brand packaging, glossy plastic rendering, neon cyberpunk effects, franchise mascot mimicry",
+      "learningValue": "Locks the gecko courier's body proportions, satchel placement, cape patch, ribbon tail, and spool position across front, side, back, and three-quarter views so later storyboard and motion prompts can preserve the same silhouette.",
+      "compositionNotes": "Use a clean vertical production-sheet layout with repeated neutral poses, enough spacing for the tail ribbon and satchel silhouette, and short view labels only so the sheet reads as a proportion lock rather than a glamour poster.",
+      "formatNotes": "Direct preproduction reference sheet for queries like mascot character turnaround sheet, animation character turnaround reference, and front side back character sheet. Short labels only; full continuity language lives in the prompt card.",
+      "searchText": "lantern kite gecko turnaround sheet character-bible lantern kite gecko film asset bible 20260521-0440-lantern-kite-gecko-film-asset-bible use case: character-bible\nasset type: final png for an indexed film-preproduction image knowledge base\nprimary request: polished animation turnaround sheet answering the query \"mascot character turnaround sheet\" for one original gecko courier mascot\nscene/backdrop: neutral cream production-paper backdrop with faint taped registration marks, no room scene, present-day animation studio artifact feel\nsubject: one small rooftop gecko courier shown in front, side, back, and three-quarter views with the same patched shoulder cape, rounded canvas satchel, brass spool charm, knee wraps, splayed gecko toes, and ribbon tail extension, short view labels only\nstyle/medium: hand-painted animation preproduction sheet with crisp cel-shaded character rendering, matte gouache texture, clean line discipline, no living-artist imitation\ncomposition/framing: tall vertical character sheet with four evenly spaced standing views, consistent scale, direct orthographic readability, strong silhouette separation\nlighting/mood: bright neutral studio light, practical, calm, exacting production mood\ncolor palette: terracotta orange, faded saffron cloth, moss green patch, cream paper, brass gold, dusty teal shadows\nmaterials/textures: matte production paper, soft gouache paint, canvas satchel weave, cloth knee wraps, bamboo kite splint, brushed brass spool hardware\ntext (verbatim): \"front\" \"side\" \"back\" \"3/4\"\nconstraints: useful for indie animation directors and storyboard artists, keep proportions consistent across all four views, short labels only, no logos, no watermark, no tiny paragraphs\navoid: anime pinup styling, toy-brand packaging, glossy plastic rendering, neon cyberpunk effects, franchise mascot mimicry locks the gecko courier's body proportions, satchel placement, cape patch, ribbon tail, and spool position across front, side, back, and three-quarter views so later storyboard and motion prompts can preserve the same silhouette. use a clean vertical production-sheet layout with repeated neutral poses, enough spacing for the tail ribbon and satchel silhouette, and short view labels only so the sheet reads as a proportion lock rather than a glamour poster. direct preproduction reference sheet for queries like mascot character turnaround sheet, animation character turnaround reference, and front side back character sheet. short labels only; full continuity language lives in the prompt card. one small rooftop gecko courier shown in front three-quarter views with the same patched shoulder cape rounded canvas satchel brass spool charm no room scene present-day animation studio artifact feel matte production paper soft gouache paint canvas satchel weave terracotta orange faded saffron cloth moss green patch page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-02",
+      "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "runTheme": "Lantern Kite Gecko Film Asset Bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "index": 2,
+      "title": "Lantern Kite Gecko Expression And Reaction Pack",
+      "taxonomy": "animation-reference",
+      "topics": [
+        "acting",
+        "gecko",
+        "animation",
+        "annoyed",
+        "expression",
+        "focused",
+        "kite",
+        "reference",
+        "repair",
+        "alert",
+        "brass",
+        "catch",
+        "character",
+        "costume",
+        "courier",
+        "face",
+        "labels",
+        "matte",
+        "pack",
+        "paper",
+        "patch",
+        "proud",
+        "relieved",
+        "same",
+        "satchel",
+        "short",
+        "slipping",
+        "across",
+        "animation-reference",
+        "backdrop",
+        "brushed",
+        "canvas",
+        "cell",
+        "cells",
+        "composition",
+        "each",
+        "environment",
+        "faded",
+        "grain",
+        "green",
+        "keep",
+        "knot-tying",
+        "lantern",
+        "mood",
+        "moss",
+        "neutral",
+        "orange",
+        "panic"
+      ],
+      "specificHooks": [
+        "annoyed repair face",
+        "slipping panic",
+        "focused knot-tying",
+        "relieved kite catch",
+        "no scenic environment",
+        "matte paper grain",
+        "brushed brass spool",
+        "canvas satchel weave",
+        "faded saffron",
+        "terracotta orange",
+        "moss green patch",
+        "focused repair"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/02-lantern-kite-gecko-expression-and-reaction-pack.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/02-lantern-kite-gecko-expression-and-reaction-pack.png",
+      "promptPath": "../prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/02-lantern-kite-gecko-expression-and-reaction-pack.prompt.md",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/02-lantern-kite-gecko-expression-and-reaction-pack.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "detailPath": "i/20260521-0440-lantern-kite-gecko-film-asset-bible-02/",
+      "runPath": "r/20260521-0440-lantern-kite-gecko-film-asset-bible/",
+      "finalPrompt": "Use case: animation-reference\nAsset type: final PNG for an indexed film-preproduction image knowledge base\nPrimary request: polished character expression sheet answering the query \"animation expression sheet reference\" for the lantern-kite gecko courier\nScene/backdrop: neutral cream acting-sheet backdrop with subtle grease-pencil circles and tiny registration crosses, no scenic environment\nSubject: six clear acting poses of the same gecko courier showing alert crouch, annoyed repair face, slipping panic, focused knot-tying, relieved kite catch, and proud return, same costume and prop anchors in every cell, short labels only\nStyle/medium: hand-painted animation acting sheet with cel-shaded character rendering, matte gouache textures, clean contour lines, expressive face shapes\nComposition/framing: tall six-cell sheet with repeated scale and enough room for tail, hands, satchel, and torso gesture clarity, each cell isolated for acting comparison\nLighting/mood: bright neutral studio light, lively but disciplined, production-ready acting mood\nColor palette: faded saffron, terracotta orange, moss green patch, cream paper, brass gold, muted plum shadow accents\nMaterials/textures: matte paper grain, brushed brass spool, canvas satchel weave, soft cloth cape patch, chalk circle marks\nText (verbatim): \"alert\" \"annoyed\" \"slip\" \"focus\" \"relief\" \"proud\"\nConstraints: useful for indie animation acting reference, keep identity and costume locked across all cells, short labels only, no logos, no watermark, no dense text\nAvoid: chibi sticker vibe, fan-art poster composition, glamour beauty closeups, toy collectible packaging, franchise gecko lookalikes",
+      "learningValue": "Shows how the same gecko courier behaves across alert, annoyed, slipping, focused repair, relieved catch, and proud return states without losing costume or facial continuity.",
+      "compositionNotes": "Keep six acting cells with one dominant face-and-torso pose each, repeated scale, and readable tail and hand silhouettes so the pack works as an acting reference instead of a sticker grid.",
+      "formatNotes": "Search-first acting sheet for queries like animation expression sheet reference, mascot reaction pack, and character acting sheet example. Short labels only; canonical acting notes stay in the prompt card.",
+      "searchText": "lantern kite gecko expression and reaction pack animation-reference lantern kite gecko film asset bible 20260521-0440-lantern-kite-gecko-film-asset-bible use case: animation-reference\nasset type: final png for an indexed film-preproduction image knowledge base\nprimary request: polished character expression sheet answering the query \"animation expression sheet reference\" for the lantern-kite gecko courier\nscene/backdrop: neutral cream acting-sheet backdrop with subtle grease-pencil circles and tiny registration crosses, no scenic environment\nsubject: six clear acting poses of the same gecko courier showing alert crouch, annoyed repair face, slipping panic, focused knot-tying, relieved kite catch, and proud return, same costume and prop anchors in every cell, short labels only\nstyle/medium: hand-painted animation acting sheet with cel-shaded character rendering, matte gouache textures, clean contour lines, expressive face shapes\ncomposition/framing: tall six-cell sheet with repeated scale and enough room for tail, hands, satchel, and torso gesture clarity, each cell isolated for acting comparison\nlighting/mood: bright neutral studio light, lively but disciplined, production-ready acting mood\ncolor palette: faded saffron, terracotta orange, moss green patch, cream paper, brass gold, muted plum shadow accents\nmaterials/textures: matte paper grain, brushed brass spool, canvas satchel weave, soft cloth cape patch, chalk circle marks\ntext (verbatim): \"alert\" \"annoyed\" \"slip\" \"focus\" \"relief\" \"proud\"\nconstraints: useful for indie animation acting reference, keep identity and costume locked across all cells, short labels only, no logos, no watermark, no dense text\navoid: chibi sticker vibe, fan-art poster composition, glamour beauty closeups, toy collectible packaging, franchise gecko lookalikes shows how the same gecko courier behaves across alert, annoyed, slipping, focused repair, relieved catch, and proud return states without losing costume or facial continuity. keep six acting cells with one dominant face-and-torso pose each, repeated scale, and readable tail and hand silhouettes so the pack works as an acting reference instead of a sticker grid. search-first acting sheet for queries like animation expression sheet reference, mascot reaction pack, and character acting sheet example. short labels only; canonical acting notes stay in the prompt card. annoyed repair face slipping panic focused knot-tying relieved kite catch no scenic environment matte paper grain brushed brass spool canvas satchel weave faded saffron terracotta orange moss green patch focused repair page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-03",
+      "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "runTheme": "Lantern Kite Gecko Film Asset Bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "index": 3,
+      "title": "Rooftop Gecko Species Dossier Plate",
+      "taxonomy": "species-dossier",
+      "topics": [
+        "dossier",
+        "anatomy",
+        "gecko",
+        "paper",
+        "relation",
+        "satchel",
+        "scale",
+        "species",
+        "bamboo",
+        "creature",
+        "full",
+        "labels",
+        "plate",
+        "short",
+        "tail",
+        "cloth",
+        "color",
+        "courier",
+        "figure",
+        "gouache",
+        "grip",
+        "insets",
+        "kite",
+        "matte",
+        "production",
+        "restrained",
+        "ribbon",
+        "animation",
+        "annotation",
+        "brass",
+        "cape",
+        "corners",
+        "counterbalance",
+        "design",
+        "fantasy",
+        "grain",
+        "guide",
+        "like",
+        "linework",
+        "marks",
+        "monster",
+        "mood",
+        "notes",
+        "paint",
+        "repair",
+        "rooftop",
+        "room",
+        "scenic"
+      ],
+      "specificHooks": [
+        "tail ribbon counterbalance",
+        "satchel scale relation",
+        "bamboo kite repair tool relation",
+        "short labels only",
+        "cream dossier paper with subtle taped corners",
+        "tiny color tabs",
+        "restrained production annotation marks",
+        "no scenic room",
+        "matte paper grain",
+        "gouache paint",
+        "cloth cape stitching",
+        "terracotta skin notes"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/03-rooftop-gecko-species-dossier-plate.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/03-rooftop-gecko-species-dossier-plate.png",
+      "promptPath": "../prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/03-rooftop-gecko-species-dossier-plate.prompt.md",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/03-rooftop-gecko-species-dossier-plate.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "detailPath": "i/20260521-0440-lantern-kite-gecko-film-asset-bible-03/",
+      "runPath": "r/20260521-0440-lantern-kite-gecko-film-asset-bible/",
+      "finalPrompt": "Use case: species-dossier\nAsset type: final PNG for an indexed film-preproduction image knowledge base\nPrimary request: polished species dossier plate answering the query \"species dossier visual guide\" for one original rooftop gecko courier character\nScene/backdrop: cream dossier paper with subtle taped corners, tiny color tabs, and restrained production annotation marks, no scenic room\nSubject: one full gecko courier figure plus clear insets for grip anatomy, tail ribbon counterbalance, satchel scale relation, and bamboo kite repair tool relation, short labels only, no logos\nStyle/medium: creature design dossier rendered as hand-painted animation preproduction art with crisp linework, matte gouache fills, and restrained diagram overlays\nComposition/framing: vertical plate with one dominant full figure, smaller anatomy and scale insets arranged around it, immediate design-logic readability\nLighting/mood: neutral studio light, analytical, calm, buildable-species mood\nColor palette: terracotta skin notes, faded saffron cloth, moss green patch, cream paper, brass gold, bamboo tan, dusty charcoal linework\nMaterials/textures: matte paper grain, gouache paint, cloth cape stitching, canvas satchel, brushed brass spool, split bamboo splints\nText (verbatim): \"grip\" \"tail\" \"satchel\" \"awl\"\nConstraints: useful for animation directors and prompt engineers, keep the creature nonthreatening and buildable, short labels only, no watermark, no dense paragraphs\nAvoid: dragon fantasy drift, monster-hunter armor, biological gore, toy monster card styling, franchise creature mimicry",
+      "learningValue": "Explains the courier gecko's grip anatomy, tail ribbon rig, satchel scale, and repair-tool relation so later shots preserve believable movement and object handling.",
+      "compositionNotes": "Treat the page like a production dossier with one standing full figure, two anatomy insets, one scale comparison, and one tool-relation inset rather than a fantasy monster poster.",
+      "formatNotes": "Creature-production dossier for queries like species dossier visual guide, creature anatomy reference plate, and nonhuman mascot design sheet. Short labels only; full species logic is preserved here in metadata.",
+      "searchText": "rooftop gecko species dossier plate species-dossier lantern kite gecko film asset bible 20260521-0440-lantern-kite-gecko-film-asset-bible use case: species-dossier\nasset type: final png for an indexed film-preproduction image knowledge base\nprimary request: polished species dossier plate answering the query \"species dossier visual guide\" for one original rooftop gecko courier character\nscene/backdrop: cream dossier paper with subtle taped corners, tiny color tabs, and restrained production annotation marks, no scenic room\nsubject: one full gecko courier figure plus clear insets for grip anatomy, tail ribbon counterbalance, satchel scale relation, and bamboo kite repair tool relation, short labels only, no logos\nstyle/medium: creature design dossier rendered as hand-painted animation preproduction art with crisp linework, matte gouache fills, and restrained diagram overlays\ncomposition/framing: vertical plate with one dominant full figure, smaller anatomy and scale insets arranged around it, immediate design-logic readability\nlighting/mood: neutral studio light, analytical, calm, buildable-species mood\ncolor palette: terracotta skin notes, faded saffron cloth, moss green patch, cream paper, brass gold, bamboo tan, dusty charcoal linework\nmaterials/textures: matte paper grain, gouache paint, cloth cape stitching, canvas satchel, brushed brass spool, split bamboo splints\ntext (verbatim): \"grip\" \"tail\" \"satchel\" \"awl\"\nconstraints: useful for animation directors and prompt engineers, keep the creature nonthreatening and buildable, short labels only, no watermark, no dense paragraphs\navoid: dragon fantasy drift, monster-hunter armor, biological gore, toy monster card styling, franchise creature mimicry explains the courier gecko's grip anatomy, tail ribbon rig, satchel scale, and repair-tool relation so later shots preserve believable movement and object handling. treat the page like a production dossier with one standing full figure, two anatomy insets, one scale comparison, and one tool-relation inset rather than a fantasy monster poster. creature-production dossier for queries like species dossier visual guide, creature anatomy reference plate, and nonhuman mascot design sheet. short labels only; full species logic is preserved here in metadata. tail ribbon counterbalance satchel scale relation bamboo kite repair tool relation short labels only cream dossier paper with subtle taped corners tiny color tabs restrained production annotation marks no scenic room matte paper grain gouache paint cloth cape stitching terracotta skin notes page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-04",
+      "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "runTheme": "Lantern Kite Gecko Film Asset Bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "index": 4,
+      "title": "Kite Repair Satchel And Costume Detail Plate",
+      "taxonomy": "character-bible",
+      "topics": [
+        "satchel",
+        "plate",
+        "costume",
+        "paper",
+        "prop",
+        "cape",
+        "awl",
+        "bamboo",
+        "brass",
+        "canvas",
+        "cloth",
+        "kite",
+        "production",
+        "repair",
+        "spool",
+        "character",
+        "courier",
+        "labels",
+        "matte",
+        "patched",
+        "short",
+        "animation",
+        "cards",
+        "character-bible",
+        "charm",
+        "closed",
+        "compartments",
+        "continuity",
+        "couriers",
+        "detail",
+        "faded",
+        "frayed",
+        "gecko",
+        "half-body",
+        "inset",
+        "isolates",
+        "knee",
+        "landscape",
+        "mood",
+        "open",
+        "orange",
+        "reference",
+        "room",
+        "rounded",
+        "saffron",
+        "shoulder",
+        "shown",
+        "splints"
+      ],
+      "specificHooks": [
+        "couriers patched shoulder cape",
+        "rounded canvas satchel shown open and closed",
+        "brass spool charm",
+        "repair awl",
+        "no room scene",
+        "matte production paper",
+        "frayed cloth stitching",
+        "canvas satchel weave",
+        "cream paper",
+        "terracotta orange",
+        "faded saffron cloth",
+        "Isolates the couriers cape"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/04-kite-repair-satchel-and-costume-detail-plate.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/04-kite-repair-satchel-and-costume-detail-plate.png",
+      "promptPath": "../prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/04-kite-repair-satchel-and-costume-detail-plate.prompt.md",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/04-kite-repair-satchel-and-costume-detail-plate.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "detailPath": "i/20260521-0440-lantern-kite-gecko-film-asset-bible-04/",
+      "runPath": "r/20260521-0440-lantern-kite-gecko-film-asset-bible/",
+      "finalPrompt": "Use case: character-bible\nAsset type: final PNG for an indexed film-preproduction image knowledge base\nPrimary request: polished costume and prop plate answering the query \"character prop plate reference\" for the lantern-kite gecko courier\nScene/backdrop: handled cream production board with clipped swatches and restrained annotation marks, no room scene\nSubject: the courier's patched shoulder cape, rounded canvas satchel shown open and closed, brass spool charm, repair awl, bamboo splints, string cards, knee wraps, and patched paper kite fragments, short labels only\nStyle/medium: animation costume and prop plate rendered as tactile preproduction art with clean cel-shaded object painting, matte gouache, and soft paper grain\nComposition/framing: landscape plate with one half-body costume inset and a tidy array of separated tools and satchel compartments, generous spacing for object recognition\nLighting/mood: bright neutral workshop-style light, practical, exacting, handled-artifact mood\nColor palette: cream paper, terracotta orange, faded saffron cloth, moss green patch, brass gold, bamboo tan, charcoal twine, muted teal shadows\nMaterials/textures: matte production paper, frayed cloth stitching, canvas satchel weave, split bamboo, brushed brass, paper kite tears, wrapped cord\nText (verbatim): \"cape\" \"satchel\" \"spool\" \"awl\"\nConstraints: useful for costume, prop, and continuity teams, keep objects manufacturable and consistent with the character sheet, short labels only, no logos, no watermark\nAvoid: fantasy RPG inventory screen, game HUD chrome, toy blister packaging, luxury fashion flatlay, franchise merch cues",
+      "learningValue": "Isolates the courier's cape, satchel, spool, repair awl, bamboo splints, string cards, and knee wraps so costume and prop continuity survive shot changes.",
+      "compositionNotes": "Use a landscape accessory plate with one costume half-body inset on the left and a neat row of tools and satchel compartments on the right, keeping every object large enough to be searchable.",
+      "formatNotes": "Production prop plate for queries like character prop plate reference, costume detail plate animation, and satchel and tool design sheet. Short labels only; the canonical tool vocabulary stays in the prompt card.",
+      "searchText": "kite repair satchel and costume detail plate character-bible lantern kite gecko film asset bible 20260521-0440-lantern-kite-gecko-film-asset-bible use case: character-bible\nasset type: final png for an indexed film-preproduction image knowledge base\nprimary request: polished costume and prop plate answering the query \"character prop plate reference\" for the lantern-kite gecko courier\nscene/backdrop: handled cream production board with clipped swatches and restrained annotation marks, no room scene\nsubject: the courier's patched shoulder cape, rounded canvas satchel shown open and closed, brass spool charm, repair awl, bamboo splints, string cards, knee wraps, and patched paper kite fragments, short labels only\nstyle/medium: animation costume and prop plate rendered as tactile preproduction art with clean cel-shaded object painting, matte gouache, and soft paper grain\ncomposition/framing: landscape plate with one half-body costume inset and a tidy array of separated tools and satchel compartments, generous spacing for object recognition\nlighting/mood: bright neutral workshop-style light, practical, exacting, handled-artifact mood\ncolor palette: cream paper, terracotta orange, faded saffron cloth, moss green patch, brass gold, bamboo tan, charcoal twine, muted teal shadows\nmaterials/textures: matte production paper, frayed cloth stitching, canvas satchel weave, split bamboo, brushed brass, paper kite tears, wrapped cord\ntext (verbatim): \"cape\" \"satchel\" \"spool\" \"awl\"\nconstraints: useful for costume, prop, and continuity teams, keep objects manufacturable and consistent with the character sheet, short labels only, no logos, no watermark\navoid: fantasy rpg inventory screen, game hud chrome, toy blister packaging, luxury fashion flatlay, franchise merch cues isolates the courier's cape, satchel, spool, repair awl, bamboo splints, string cards, and knee wraps so costume and prop continuity survive shot changes. use a landscape accessory plate with one costume half-body inset on the left and a neat row of tools and satchel compartments on the right, keeping every object large enough to be searchable. production prop plate for queries like character prop plate reference, costume detail plate animation, and satchel and tool design sheet. short labels only; the canonical tool vocabulary stays in the prompt card. couriers patched shoulder cape rounded canvas satchel shown open and closed brass spool charm repair awl no room scene matte production paper frayed cloth stitching canvas satchel weave cream paper terracotta orange faded saffron cloth isolates the couriers cape page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-05",
+      "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "runTheme": "Lantern Kite Gecko Film Asset Bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "index": 5,
+      "title": "Rooftop Chase Storyboard Beat Page",
+      "taxonomy": "storyboard-sequence",
+      "topics": [
+        "storyboard",
+        "beat",
+        "roof",
+        "kite",
+        "paper",
+        "bell",
+        "lantern",
+        "ledge",
+        "rooftop",
+        "tower",
+        "across",
+        "action",
+        "animation",
+        "architecture",
+        "cloth",
+        "gecko",
+        "matte",
+        "panel",
+        "sequence",
+        "short",
+        "terracotta",
+        "along",
+        "amber",
+        "bridge",
+        "cape",
+        "catch",
+        "catching",
+        "ceramic",
+        "chase",
+        "cinematic",
+        "continuity",
+        "drifting",
+        "dusk",
+        "example",
+        "film",
+        "gutter",
+        "kite-recovery",
+        "labels",
+        "landmarks",
+        "landscape",
+        "leaping",
+        "marks",
+        "mood",
+        "panels",
+        "patched",
+        "red",
+        "shadows",
+        "six-panel"
+      ],
+      "specificHooks": [
+        "sprinting across tiles",
+        "skidding along a gutter",
+        "leaping toward a bell tower ledge",
+        "catching the kite",
+        "bridge ledge",
+        "bell tower",
+        "matte storyboard paper",
+        "ceramic roof tile",
+        "cloth cape",
+        "terracotta roof red",
+        "lantern amber",
+        "cream paper"
+      ],
+      "scaleTags": [
+        "page",
+        "architecture"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/05-rooftop-chase-storyboard-beat-page.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/05-rooftop-chase-storyboard-beat-page.png",
+      "promptPath": "../prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/05-rooftop-chase-storyboard-beat-page.prompt.md",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/05-rooftop-chase-storyboard-beat-page.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "detailPath": "i/20260521-0440-lantern-kite-gecko-film-asset-bible-05/",
+      "runPath": "r/20260521-0440-lantern-kite-gecko-film-asset-bible/",
+      "finalPrompt": "Use case: storyboard-sequence\nAsset type: final PNG for an indexed film-preproduction image knowledge base\nPrimary request: polished storyboard beat page answering the query \"storyboard beat page example\" for a short rooftop kite-recovery sequence\nScene/backdrop: cream storyboard paper with faint panel gutters and subtle registration marks, set in a dusk terracotta rooftop district with tea-house roof, bridge ledge, and bell tower\nSubject: six clear sequence panels showing the lantern-kite gecko spotting a drifting patched kite, sprinting across tiles, skidding along a gutter, leaping toward a bell tower ledge, catching the kite, and returning with it, same costume and prop anchors throughout\nStyle/medium: hand-painted storyboard page with cinematic animation frames, matte gouache texture, restrained linework, no speech bubbles\nComposition/framing: six-panel landscape page with deliberate shot-size variation from wide setup to medium action to close catch, architecture landmarks repeated for continuity\nLighting/mood: warm dusk lantern light with cool roof shadows, agile, suspenseful but playful short-film mood\nColor palette: terracotta roof red, lantern amber, cream paper, faded saffron cloth, moss patch green, twilight blue-gray shadows\nMaterials/textures: matte storyboard paper, ceramic roof tile, cloth cape, canvas satchel, patched paper kite, brass spool, chalk panel marks\nText (verbatim): \"1\" \"2\" \"3\" \"4\" \"5\" \"6\"\nConstraints: useful for indie animation beat planning, preserve character and roof continuity across all panels, short labels only, no watermark, no dense captions\nAvoid: manga speedline overload, superhero action splash page, comic speech balloons, cinematic letterbox poster art, franchise rooftop hero mimicry",
+      "learningValue": "Maps the gecko's full kite-recovery sequence from spotting the drifting kite to the bell-tower catch and return so downstream motion work has a coherent beat spine.",
+      "compositionNotes": "Keep a six-panel landscape board with strong progression in camera distance and architecture landmarks so the page reads even if most labels fail.",
+      "formatNotes": "Storyboard production page for queries like storyboard beat page example, animation chase storyboard reference, and short film storyboard page. Beat numbers can be supportive; the main clarity should come from panel action.",
+      "searchText": "rooftop chase storyboard beat page storyboard-sequence lantern kite gecko film asset bible 20260521-0440-lantern-kite-gecko-film-asset-bible use case: storyboard-sequence\nasset type: final png for an indexed film-preproduction image knowledge base\nprimary request: polished storyboard beat page answering the query \"storyboard beat page example\" for a short rooftop kite-recovery sequence\nscene/backdrop: cream storyboard paper with faint panel gutters and subtle registration marks, set in a dusk terracotta rooftop district with tea-house roof, bridge ledge, and bell tower\nsubject: six clear sequence panels showing the lantern-kite gecko spotting a drifting patched kite, sprinting across tiles, skidding along a gutter, leaping toward a bell tower ledge, catching the kite, and returning with it, same costume and prop anchors throughout\nstyle/medium: hand-painted storyboard page with cinematic animation frames, matte gouache texture, restrained linework, no speech bubbles\ncomposition/framing: six-panel landscape page with deliberate shot-size variation from wide setup to medium action to close catch, architecture landmarks repeated for continuity\nlighting/mood: warm dusk lantern light with cool roof shadows, agile, suspenseful but playful short-film mood\ncolor palette: terracotta roof red, lantern amber, cream paper, faded saffron cloth, moss patch green, twilight blue-gray shadows\nmaterials/textures: matte storyboard paper, ceramic roof tile, cloth cape, canvas satchel, patched paper kite, brass spool, chalk panel marks\ntext (verbatim): \"1\" \"2\" \"3\" \"4\" \"5\" \"6\"\nconstraints: useful for indie animation beat planning, preserve character and roof continuity across all panels, short labels only, no watermark, no dense captions\navoid: manga speedline overload, superhero action splash page, comic speech balloons, cinematic letterbox poster art, franchise rooftop hero mimicry maps the gecko's full kite-recovery sequence from spotting the drifting kite to the bell-tower catch and return so downstream motion work has a coherent beat spine. keep a six-panel landscape board with strong progression in camera distance and architecture landmarks so the page reads even if most labels fail. storyboard production page for queries like storyboard beat page example, animation chase storyboard reference, and short film storyboard page. beat numbers can be supportive; the main clarity should come from panel action. sprinting across tiles skidding along a gutter leaping toward a bell tower ledge catching the kite bridge ledge bell tower matte storyboard paper ceramic roof tile cloth cape terracotta roof red lantern amber cream paper page architecture",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-06",
+      "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "runTheme": "Lantern Kite Gecko Film Asset Bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "index": 6,
+      "title": "Bell Tower Rooftop Camera Blocking Board",
+      "taxonomy": "film-preproduction",
+      "topics": [
+        "blocking",
+        "camera",
+        "roof",
+        "rooftop",
+        "paper",
+        "short",
+        "spatial",
+        "arrows",
+        "catch",
+        "labels",
+        "shot",
+        "animation",
+        "bell",
+        "bridge",
+        "close",
+        "film-preproduction",
+        "frames",
+        "insets",
+        "ledge",
+        "matte",
+        "plan",
+        "profile",
+        "stock",
+        "across",
+        "around",
+        "artists",
+        "ceramic",
+        "charcoal",
+        "cloth",
+        "director",
+        "directors",
+        "dominant",
+        "dusk",
+        "film",
+        "four",
+        "frame",
+        "gecko",
+        "grease",
+        "inset",
+        "kite",
+        "lantern",
+        "leap",
+        "like",
+        "linework",
+        "mood",
+        "narrow",
+        "over-shoulder",
+        "pencil"
+      ],
+      "specificHooks": [
+        "over-shoulder pursuit",
+        "leap profile",
+        "catch close view",
+        "short spatial labels only",
+        "narrow bridge ledge",
+        "matte stock paper",
+        "grease pencil arrows",
+        "ceramic roof tile surfaces",
+        "cream paper",
+        "charcoal linework",
+        "terracotta roof red",
+        "Shows shot size"
+      ],
+      "scaleTags": [
+        "page",
+        "architecture"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/06-bell-tower-rooftop-camera-blocking-board.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/06-bell-tower-rooftop-camera-blocking-board.png",
+      "promptPath": "../prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/06-bell-tower-rooftop-camera-blocking-board.prompt.md",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/06-bell-tower-rooftop-camera-blocking-board.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "detailPath": "i/20260521-0440-lantern-kite-gecko-film-asset-bible-06/",
+      "runPath": "r/20260521-0440-lantern-kite-gecko-film-asset-bible/",
+      "finalPrompt": "Use case: film-preproduction\nAsset type: final PNG for an indexed film-preproduction image knowledge base\nPrimary request: polished camera blocking board answering the query \"camera blocking board animation\" for the lantern-kite gecko rooftop chase\nScene/backdrop: handled director's board on cream stock showing a tea-house roof, narrow bridge ledge, and bell tower catch point in the same dusk rooftop district\nSubject: one dominant roof-plan and shot-blocking diagram with four inset frames showing wide setup, over-shoulder pursuit, leap profile, and catch close view, short spatial labels only, no logos\nStyle/medium: cinematic animation blocking board with painted plan graphics, restrained grease-pencil arrows, and hand-rendered frame insets, matte production-art finish\nComposition/framing: landscape board with central plan diagram, inset frames around the edges, clear subject path and camera positions, immediate spatial readability\nLighting/mood: practical board-documentation light with warm dusk imagery inside the frame insets, controlled director-prep mood\nColor palette: cream paper, charcoal linework, terracotta roof red, lantern amber, twilight blue-gray, saffron cloth accents, chalk white arrows\nMaterials/textures: matte stock paper, grease pencil arrows, ceramic roof tile surfaces, plaster parapets, brass bell metal, cloth cape, patched kite paper\nText (verbatim): \"wide\" \"over\" \"profile\" \"close\"\nConstraints: useful for layout artists and directors, preserve the same rooftop geography across plan and insets, short labels only, no watermark, no dashboard-like modules\nAvoid: tactical military map styling, software UI chrome, dense technical paragraphs, generic floor-plan CAD look, cyberpunk neon rooftop drift",
+      "learningValue": "Shows shot size, camera angle, and subject relation across the tea-house roof, bridge ledge, and bell-tower catch point so directors and layout artists can preserve spatial logic.",
+      "compositionNotes": "Use one dominant roof-plan diagram plus four selected shot frames around it; the board should feel like a director's layout sheet rather than a SaaS dashboard.",
+      "formatNotes": "Search-first blocking board for queries like camera blocking board animation, shot blocking guide for short film, and rooftop blocking board reference. Keep labels short and spatial.",
+      "searchText": "bell tower rooftop camera blocking board film-preproduction lantern kite gecko film asset bible 20260521-0440-lantern-kite-gecko-film-asset-bible use case: film-preproduction\nasset type: final png for an indexed film-preproduction image knowledge base\nprimary request: polished camera blocking board answering the query \"camera blocking board animation\" for the lantern-kite gecko rooftop chase\nscene/backdrop: handled director's board on cream stock showing a tea-house roof, narrow bridge ledge, and bell tower catch point in the same dusk rooftop district\nsubject: one dominant roof-plan and shot-blocking diagram with four inset frames showing wide setup, over-shoulder pursuit, leap profile, and catch close view, short spatial labels only, no logos\nstyle/medium: cinematic animation blocking board with painted plan graphics, restrained grease-pencil arrows, and hand-rendered frame insets, matte production-art finish\ncomposition/framing: landscape board with central plan diagram, inset frames around the edges, clear subject path and camera positions, immediate spatial readability\nlighting/mood: practical board-documentation light with warm dusk imagery inside the frame insets, controlled director-prep mood\ncolor palette: cream paper, charcoal linework, terracotta roof red, lantern amber, twilight blue-gray, saffron cloth accents, chalk white arrows\nmaterials/textures: matte stock paper, grease pencil arrows, ceramic roof tile surfaces, plaster parapets, brass bell metal, cloth cape, patched kite paper\ntext (verbatim): \"wide\" \"over\" \"profile\" \"close\"\nconstraints: useful for layout artists and directors, preserve the same rooftop geography across plan and insets, short labels only, no watermark, no dashboard-like modules\navoid: tactical military map styling, software ui chrome, dense technical paragraphs, generic floor-plan cad look, cyberpunk neon rooftop drift shows shot size, camera angle, and subject relation across the tea-house roof, bridge ledge, and bell-tower catch point so directors and layout artists can preserve spatial logic. use one dominant roof-plan diagram plus four selected shot frames around it; the board should feel like a director's layout sheet rather than a saas dashboard. search-first blocking board for queries like camera blocking board animation, shot blocking guide for short film, and rooftop blocking board reference. keep labels short and spatial. over-shoulder pursuit leap profile catch close view short spatial labels only narrow bridge ledge matte stock paper grease pencil arrows ceramic roof tile surfaces cream paper charcoal linework terracotta roof red shows shot size page architecture",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-07",
+      "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "runTheme": "Lantern Kite Gecko Film Asset Bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "index": 7,
+      "title": "Kite Catch Animation Timing Ladder",
+      "taxonomy": "animation-reference",
+      "topics": [
+        "catch",
+        "ladder",
+        "timing",
+        "paper",
+        "animation",
+        "graphite",
+        "motion",
+        "pose",
+        "action",
+        "kite",
+        "accents",
+        "anticipation",
+        "arcs",
+        "gecko",
+        "gouache",
+        "labels",
+        "landing",
+        "launch",
+        "marks",
+        "matte",
+        "room",
+        "spacing",
+        "timing-sheet",
+        "airborne",
+        "animation-reference",
+        "animators",
+        "brass",
+        "breaks",
+        "cape",
+        "changes",
+        "clamp",
+        "cloth",
+        "courier",
+        "enough",
+        "environment",
+        "example",
+        "ghosted",
+        "gray",
+        "jump",
+        "keep",
+        "left-to-right",
+        "logic",
+        "mood",
+        "motion-study",
+        "orange",
+        "production",
+        "read",
+        "readable"
+      ],
+      "specificHooks": [
+        "launch stretch",
+        "airborne twist",
+        "catch clamp",
+        "skid landing",
+        "no room environment",
+        "timing-sheet paper",
+        "graphite marks",
+        "matte gouache accents",
+        "cream paper",
+        "graphite gray",
+        "terracotta orange",
+        "Breaks one recurring action into readable anticipation"
+      ],
+      "scaleTags": [
+        "page",
+        "abstract"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/07-kite-catch-animation-timing-ladder.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/07-kite-catch-animation-timing-ladder.png",
+      "promptPath": "../prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/07-kite-catch-animation-timing-ladder.prompt.md",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/07-kite-catch-animation-timing-ladder.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "detailPath": "i/20260521-0440-lantern-kite-gecko-film-asset-bible-07/",
+      "runPath": "r/20260521-0440-lantern-kite-gecko-film-asset-bible/",
+      "finalPrompt": "Use case: animation-reference\nAsset type: final PNG for an indexed film-preproduction image knowledge base\nPrimary request: polished animation timing ladder answering the query \"animation timing ladder example\" for a gecko courier leaping to catch a kite\nScene/backdrop: cream timing-sheet paper with faint peg-bar marks and light graphite frame guides, no room environment\nSubject: one left-to-right sequence of the same gecko courier moving through anticipation crouch, launch stretch, airborne twist, catch clamp, skid landing, and rebound settle, with ghosted motion arcs and short timing labels only\nStyle/medium: hand-painted animation timing sheet with cel-shaded pose drawings, matte gouache accents, crisp motion-spacing logic, clean production lines\nComposition/framing: wide horizontal pose ladder with generous spacing changes, visible motion path, and enough room to read tail, limbs, cape, and satchel swing\nLighting/mood: neutral production light, analytical, energetic, exacting motion-study mood\nColor palette: cream paper, graphite gray, terracotta orange, faded saffron cloth, moss green patch, brass gold, pale chalk white arcs\nMaterials/textures: timing-sheet paper, graphite marks, matte gouache accents, cloth cape, canvas satchel, brass spool, patched paper kite edge\nText (verbatim): \"anticipate\" \"jump\" \"catch\" \"land\"\nConstraints: useful for animators and motion designers, keep pose spacing clear and the character consistent, short labels only, no watermark, no dense frame-count tables\nAvoid: sports coaching infographic, anatomy textbook overlay, comic-book speedline clutter, glossy digital UI, franchise mascot action mimicry",
+      "learningValue": "Breaks one recurring action into readable anticipation, launch, airtime, catch, and landing poses so animators can preserve motion logic instead of improvising it from the storyboard alone.",
+      "compositionNotes": "Keep a left-to-right pose ladder with visible spacing changes and ghosted motion arcs, large enough to read body mechanics and tail counterbalance.",
+      "formatNotes": "Motion-study reference for queries like animation timing ladder example, action pose ladder reference, and jump catch timing sheet. Labels should be supportive, not required for comprehension.",
+      "searchText": "kite catch animation timing ladder animation-reference lantern kite gecko film asset bible 20260521-0440-lantern-kite-gecko-film-asset-bible use case: animation-reference\nasset type: final png for an indexed film-preproduction image knowledge base\nprimary request: polished animation timing ladder answering the query \"animation timing ladder example\" for a gecko courier leaping to catch a kite\nscene/backdrop: cream timing-sheet paper with faint peg-bar marks and light graphite frame guides, no room environment\nsubject: one left-to-right sequence of the same gecko courier moving through anticipation crouch, launch stretch, airborne twist, catch clamp, skid landing, and rebound settle, with ghosted motion arcs and short timing labels only\nstyle/medium: hand-painted animation timing sheet with cel-shaded pose drawings, matte gouache accents, crisp motion-spacing logic, clean production lines\ncomposition/framing: wide horizontal pose ladder with generous spacing changes, visible motion path, and enough room to read tail, limbs, cape, and satchel swing\nlighting/mood: neutral production light, analytical, energetic, exacting motion-study mood\ncolor palette: cream paper, graphite gray, terracotta orange, faded saffron cloth, moss green patch, brass gold, pale chalk white arcs\nmaterials/textures: timing-sheet paper, graphite marks, matte gouache accents, cloth cape, canvas satchel, brass spool, patched paper kite edge\ntext (verbatim): \"anticipate\" \"jump\" \"catch\" \"land\"\nconstraints: useful for animators and motion designers, keep pose spacing clear and the character consistent, short labels only, no watermark, no dense frame-count tables\navoid: sports coaching infographic, anatomy textbook overlay, comic-book speedline clutter, glossy digital ui, franchise mascot action mimicry breaks one recurring action into readable anticipation, launch, airtime, catch, and landing poses so animators can preserve motion logic instead of improvising it from the storyboard alone. keep a left-to-right pose ladder with visible spacing changes and ghosted motion arcs, large enough to read body mechanics and tail counterbalance. motion-study reference for queries like animation timing ladder example, action pose ladder reference, and jump catch timing sheet. labels should be supportive, not required for comprehension. launch stretch airborne twist catch clamp skid landing no room environment timing-sheet paper graphite marks matte gouache accents cream paper graphite gray terracotta orange breaks one recurring action into readable anticipation page abstract",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-08",
+      "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "runTheme": "Lantern Kite Gecko Film Asset Bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "index": 8,
+      "title": "Dusk Rooftop Continuity Environment Sheet",
+      "taxonomy": "film-preproduction",
+      "topics": [
+        "continuity",
+        "roof",
+        "rooftop",
+        "lantern",
+        "environment",
+        "location",
+        "plaster",
+        "tower",
+        "bell",
+        "bridge",
+        "dusk",
+        "labels",
+        "landmark",
+        "ledge",
+        "plan",
+        "short",
+        "strings",
+        "tea-house",
+        "architecture",
+        "character",
+        "elevation",
+        "film-preproduction",
+        "main",
+        "matte",
+        "poles",
+        "stock",
+        "animation",
+        "around",
+        "built",
+        "ceramic",
+        "crops",
+        "cue",
+        "district",
+        "gecko",
+        "gutter",
+        "landscape",
+        "laundry",
+        "mood",
+        "narrow",
+        "parapets",
+        "red",
+        "reference",
+        "scale",
+        "simple",
+        "terracotta",
+        "tile",
+        "tiny",
+        "two"
+      ],
+      "specificHooks": [
+        "one main rooftop elevation",
+        "one simple location plan",
+        "tiny character scale cue only",
+        "short labels only",
+        "dusk rooftop district built around a tea-house roof",
+        "narrow bridge ledge",
+        "bell tower",
+        "lantern strings",
+        "matte board stock",
+        "ceramic roof tile",
+        "plaster wall",
+        "terracotta roof red"
+      ],
+      "scaleTags": [
+        "page",
+        "architecture"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/08-dusk-rooftop-continuity-environment-sheet.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/08-dusk-rooftop-continuity-environment-sheet.png",
+      "promptPath": "../prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/08-dusk-rooftop-continuity-environment-sheet.prompt.md",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/08-dusk-rooftop-continuity-environment-sheet.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "detailPath": "i/20260521-0440-lantern-kite-gecko-film-asset-bible-08/",
+      "runPath": "r/20260521-0440-lantern-kite-gecko-film-asset-bible/",
+      "finalPrompt": "Use case: film-preproduction\nAsset type: final PNG for an indexed film-preproduction image knowledge base\nPrimary request: polished environment continuity sheet answering the query \"environment continuity sheet reference\" for the lantern-kite gecko rooftop sequence\nScene/backdrop: dusk rooftop district built around a tea-house roof, narrow bridge ledge, bell tower, lantern strings, laundry poles, and plaster parapets, presented as a handled continuity board on cream stock\nSubject: one main rooftop elevation, one simple location plan, and two landmark detail crops showing bell tower ledge and tea-house gutter, tiny character scale cue only, short labels only\nStyle/medium: painted animation environment continuity sheet with matte gouache architecture rendering, restrained plan graphics, and clean production-board hierarchy\nComposition/framing: landscape board with one dominant location view and smaller continuity inserts, architecture-first readability, strong landmark repetition\nLighting/mood: warm dusk lantern light with cool rooftop shadows, calm, exacting continuity mood\nColor palette: terracotta roof red, plaster cream, lantern amber, twilight blue-gray, moss green accents, charcoal linework\nMaterials/textures: matte board stock, ceramic roof tile, plaster wall, bamboo poles, cloth lantern strings, chalk route marks\nText (verbatim): \"roof\" \"bridge\" \"tower\" \"gutter\"\nConstraints: useful for layout and background-paint teams, preserve clear landmark geometry, short labels only, no watermark, no dense captions\nAvoid: travel-poster romance, urban map infographic styling, cyberpunk skyline overload, empty moodboard collage, fantasy palace drift",
+      "learningValue": "Fixes the tea-house roof, bridge ledge, bell tower, lantern strings, laundry poles, and plaster parapets so every later frame can re-use the same location landmarks.",
+      "compositionNotes": "Use a landscape environment sheet with one main elevation, one mini plan, and two close landmark crops; architecture should dominate over character posing.",
+      "formatNotes": "Location continuity board for queries like environment continuity sheet reference, animation location continuity board, and rooftop set continuity sheet. Keep labels short and landmark-focused.",
+      "searchText": "dusk rooftop continuity environment sheet film-preproduction lantern kite gecko film asset bible 20260521-0440-lantern-kite-gecko-film-asset-bible use case: film-preproduction\nasset type: final png for an indexed film-preproduction image knowledge base\nprimary request: polished environment continuity sheet answering the query \"environment continuity sheet reference\" for the lantern-kite gecko rooftop sequence\nscene/backdrop: dusk rooftop district built around a tea-house roof, narrow bridge ledge, bell tower, lantern strings, laundry poles, and plaster parapets, presented as a handled continuity board on cream stock\nsubject: one main rooftop elevation, one simple location plan, and two landmark detail crops showing bell tower ledge and tea-house gutter, tiny character scale cue only, short labels only\nstyle/medium: painted animation environment continuity sheet with matte gouache architecture rendering, restrained plan graphics, and clean production-board hierarchy\ncomposition/framing: landscape board with one dominant location view and smaller continuity inserts, architecture-first readability, strong landmark repetition\nlighting/mood: warm dusk lantern light with cool rooftop shadows, calm, exacting continuity mood\ncolor palette: terracotta roof red, plaster cream, lantern amber, twilight blue-gray, moss green accents, charcoal linework\nmaterials/textures: matte board stock, ceramic roof tile, plaster wall, bamboo poles, cloth lantern strings, chalk route marks\ntext (verbatim): \"roof\" \"bridge\" \"tower\" \"gutter\"\nconstraints: useful for layout and background-paint teams, preserve clear landmark geometry, short labels only, no watermark, no dense captions\navoid: travel-poster romance, urban map infographic styling, cyberpunk skyline overload, empty moodboard collage, fantasy palace drift fixes the tea-house roof, bridge ledge, bell tower, lantern strings, laundry poles, and plaster parapets so every later frame can re-use the same location landmarks. use a landscape environment sheet with one main elevation, one mini plan, and two close landmark crops; architecture should dominate over character posing. location continuity board for queries like environment continuity sheet reference, animation location continuity board, and rooftop set continuity sheet. keep labels short and landmark-focused. one main rooftop elevation one simple location plan tiny character scale cue only short labels only dusk rooftop district built around a tea-house roof narrow bridge ledge bell tower lantern strings matte board stock ceramic roof tile plaster wall terracotta roof red page architecture",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-09",
+      "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "runTheme": "Lantern Kite Gecko Film Asset Bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "index": 9,
+      "title": "Seedance To CapCut Edit Planning Board",
+      "taxonomy": "film-preproduction",
+      "topics": [
+        "planning",
+        "arrows",
+        "chips",
+        "motion",
+        "short",
+        "cards",
+        "edit",
+        "editorial",
+        "labels",
+        "shot",
+        "still",
+        "stock",
+        "strip",
+        "thumbnails",
+        "timeline",
+        "timing",
+        "capcut",
+        "card",
+        "duration",
+        "film-preproduction",
+        "gecko",
+        "grid",
+        "matte",
+        "order",
+        "printed",
+        "screenshot",
+        "sequence",
+        "software",
+        "beat",
+        "catch",
+        "charcoal",
+        "editors",
+        "engineers",
+        "grease",
+        "hand-drawn",
+        "hold",
+        "keep",
+        "leap",
+        "linework",
+        "logos",
+        "masking",
+        "mood",
+        "moving",
+        "pan",
+        "paper",
+        "pencil",
+        "saffron",
+        "seedance"
+      ],
+      "specificHooks": [
+        "with clear order and short labels only",
+        "no logos",
+        "motion arrows",
+        "timing chips",
+        "one hand-drawn timeline strip",
+        "no software screenshot",
+        "matte card stock",
+        "masking tape",
+        "grease pencil arrows",
+        "cream paper",
+        "charcoal linework",
+        "terracotta and saffron still thumbnails"
+      ],
+      "scaleTags": [
+        "page",
+        "abstract"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/09-seedance-to-capcut-edit-planning-board.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/09-seedance-to-capcut-edit-planning-board.png",
+      "promptPath": "../prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/09-seedance-to-capcut-edit-planning-board.prompt.md",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/09-seedance-to-capcut-edit-planning-board.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "detailPath": "i/20260521-0440-lantern-kite-gecko-film-asset-bible-09/",
+      "runPath": "r/20260521-0440-lantern-kite-gecko-film-asset-bible/",
+      "finalPrompt": "Use case: film-preproduction\nAsset type: final PNG for an indexed film-preproduction image knowledge base\nPrimary request: polished edit planning board answering the query \"CapCut edit planning board\" for a lantern-kite gecko short sequence moving from stills to motion\nScene/backdrop: tactile editorial board on cream stock with clipped shot cards, motion arrows, timing chips, and one hand-drawn timeline strip, no software screenshot\nSubject: printed still thumbnails of the gecko courier sequence connected to short beat cards for hold, pan, leap, catch, and settle, with clear order and short labels only, no logos\nStyle/medium: editorial planning board rendered as photographed production ephemera with painted still thumbnails, matte card stock, grease-pencil arrows, and restrained timing chips\nComposition/framing: landscape board with one horizontal timeline strip across the lower half and a shot-card grid above it, immediate cut-order readability\nLighting/mood: bright practical edit-bay light, organized, decisive, hands-on planning mood\nColor palette: cream paper, charcoal linework, terracotta and saffron still thumbnails, moss green tags, brass-gold duration chips, slate shadow accents\nMaterials/textures: matte card stock, masking tape, grease pencil arrows, printed frame cards, brushed brass timing chips, chalk notches\nText (verbatim): \"hold\" \"pan\" \"leap\" \"catch\" \"settle\"\nConstraints: useful for prompt engineers and motion editors, keep it tactile rather than software-like, short labels only, no watermark, no dense spreadsheets\nAvoid: SaaS dashboard UI, nonlinear editor screenshot mimicry, spreadsheet grid overload, glossy tech branding, esports overlay styling",
+      "learningValue": "Connects still-image beat IDs, motion-pass intent, shot duration, and cut order so prompt engineers and editors can bridge static boards into a short moving sequence.",
+      "compositionNotes": "Make it a tactile editorial board with printed shot cards, motion arrows, and duration chips, not a software interface. One timeline strip and one shot-card grid are enough.",
+      "formatNotes": "Editorial handoff board for queries like CapCut edit planning board, Seedance motion planning sheet, and shot continuity board for animation. Keep labels terse and beat-focused.",
+      "searchText": "seedance to capcut edit planning board film-preproduction lantern kite gecko film asset bible 20260521-0440-lantern-kite-gecko-film-asset-bible use case: film-preproduction\nasset type: final png for an indexed film-preproduction image knowledge base\nprimary request: polished edit planning board answering the query \"capcut edit planning board\" for a lantern-kite gecko short sequence moving from stills to motion\nscene/backdrop: tactile editorial board on cream stock with clipped shot cards, motion arrows, timing chips, and one hand-drawn timeline strip, no software screenshot\nsubject: printed still thumbnails of the gecko courier sequence connected to short beat cards for hold, pan, leap, catch, and settle, with clear order and short labels only, no logos\nstyle/medium: editorial planning board rendered as photographed production ephemera with painted still thumbnails, matte card stock, grease-pencil arrows, and restrained timing chips\ncomposition/framing: landscape board with one horizontal timeline strip across the lower half and a shot-card grid above it, immediate cut-order readability\nlighting/mood: bright practical edit-bay light, organized, decisive, hands-on planning mood\ncolor palette: cream paper, charcoal linework, terracotta and saffron still thumbnails, moss green tags, brass-gold duration chips, slate shadow accents\nmaterials/textures: matte card stock, masking tape, grease pencil arrows, printed frame cards, brushed brass timing chips, chalk notches\ntext (verbatim): \"hold\" \"pan\" \"leap\" \"catch\" \"settle\"\nconstraints: useful for prompt engineers and motion editors, keep it tactile rather than software-like, short labels only, no watermark, no dense spreadsheets\navoid: saas dashboard ui, nonlinear editor screenshot mimicry, spreadsheet grid overload, glossy tech branding, esports overlay styling connects still-image beat ids, motion-pass intent, shot duration, and cut order so prompt engineers and editors can bridge static boards into a short moving sequence. make it a tactile editorial board with printed shot cards, motion arrows, and duration chips, not a software interface. one timeline strip and one shot-card grid are enough. editorial handoff board for queries like capcut edit planning board, seedance motion planning sheet, and shot continuity board for animation. keep labels terse and beat-focused. with clear order and short labels only no logos motion arrows timing chips one hand-drawn timeline strip no software screenshot matte card stock masking tape grease pencil arrows cream paper charcoal linework terracotta and saffron still thumbnails page abstract",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-10",
+      "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
+      "runTheme": "Lantern Kite Gecko Film Asset Bible",
+      "timestamp": "2026-05-21T04:40:39+08:00",
+      "index": 10,
+      "title": "Lantern Kite Recovery Cinematic Proof Frame",
+      "taxonomy": "illustration-story",
+      "topics": [
+        "kite",
+        "roof",
+        "cinematic",
+        "frame",
+        "lantern",
+        "ledge",
+        "rooftop",
+        "character",
+        "gecko",
+        "proof",
+        "still",
+        "cape",
+        "continuity",
+        "patched",
+        "plaster",
+        "terracotta",
+        "action",
+        "bell",
+        "bell-tower",
+        "cloth",
+        "dusk",
+        "in-scene",
+        "paper",
+        "patch",
+        "production",
+        "same",
+        "sheets",
+        "spool",
+        "tea-house",
+        "above",
+        "animation",
+        "architecture",
+        "brass",
+        "catching",
+        "ceramic",
+        "charm",
+        "costume",
+        "design",
+        "district",
+        "enough",
+        "example",
+        "fabric",
+        "finished",
+        "illustration-story",
+        "mood",
+        "parapets",
+        "pulling",
+        "recovery"
+      ],
+      "specificHooks": [
+        "same cape patch",
+        "spool charm",
+        "ribbon tail as the production sheets",
+        "kite fabric still pulling in the wind",
+        "dusk terracotta rooftop district with tea-house roof",
+        "lantern strings",
+        "plaster parapets",
+        "a bell tower ledge above the street",
+        "ceramic roof tile",
+        "plaster wall",
+        "cloth cape",
+        "terracotta roof red"
+      ],
+      "scaleTags": [
+        "architecture",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/10-lantern-kite-recovery-cinematic-proof-frame.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/10-lantern-kite-recovery-cinematic-proof-frame.png",
+      "promptPath": "../prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/10-lantern-kite-recovery-cinematic-proof-frame.prompt.md",
+      "reportPath": "../run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/10-lantern-kite-recovery-cinematic-proof-frame.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-0440-lantern-kite-gecko-film-asset-bible.md",
+      "detailPath": "i/20260521-0440-lantern-kite-gecko-film-asset-bible-10/",
+      "runPath": "r/20260521-0440-lantern-kite-gecko-film-asset-bible/",
+      "finalPrompt": "Use case: illustration-story\nAsset type: final PNG for an indexed film-preproduction image knowledge base\nPrimary request: cinematic proof frame showing the lantern-kite gecko recovering a patched kite on a bell-tower ledge, answering the query \"character design in scene example\"\nScene/backdrop: dusk terracotta rooftop district with tea-house roof, lantern strings, plaster parapets, and a bell tower ledge above the street, warm evening air and visible roof geography\nSubject: the original gecko courier crouched on the bell-tower ledge after catching a patched paper kite, same cape patch, satchel, spool charm, and ribbon tail as the production sheets, kite fabric still pulling in the wind\nStyle/medium: finished animation keyframe rendered as hand-painted cinematic production art with cel-shaded character forms, matte gouache texture, and controlled atmospheric depth\nComposition/framing: wide cinematic frame with the gecko in the right third, tea-house roof and bridge ledge visible behind, enough scale to verify costume and action continuity, no title text\nLighting/mood: warm lantern dusk with cool rooftop shadows, relieved but still tense recovery mood\nColor palette: terracotta roof red, lantern amber, twilight blue-gray, faded saffron cloth, moss green patch, cream paper kite, brass gold accents\nMaterials/textures: ceramic roof tile, plaster wall, cloth cape, canvas satchel, patched paper kite, brushed brass spool, weathered bell metal\nConstraints: useful as in-scene proof for storyboard artists and motion designers, preserve the same character kit and rooftop landmarks as the supporting sheets, no logos, no watermark, no poster text\nAvoid: movie-poster typography, epic fantasy spectacle, glossy 3D game render, photoreal creature skin, franchise rooftop hero mimicry",
+      "learningValue": "Proves that the turnaround, acting, prop, and continuity boards all support one finished in-scene still with believable architecture, action, and emotional payoff.",
+      "compositionNotes": "Use a wide cinematic frame with the gecko catching and steadying the patched kite on the bell-tower ledge; the character should occupy enough of the frame to verify costume and pose continuity.",
+      "formatNotes": "In-scene proof frame for queries like cinematic proof frame animation reference, character design in scene example, and rooftop mascot cinematic still. No text required; the image should communicate through action and continuity.",
+      "searchText": "lantern kite recovery cinematic proof frame illustration-story lantern kite gecko film asset bible 20260521-0440-lantern-kite-gecko-film-asset-bible use case: illustration-story\nasset type: final png for an indexed film-preproduction image knowledge base\nprimary request: cinematic proof frame showing the lantern-kite gecko recovering a patched kite on a bell-tower ledge, answering the query \"character design in scene example\"\nscene/backdrop: dusk terracotta rooftop district with tea-house roof, lantern strings, plaster parapets, and a bell tower ledge above the street, warm evening air and visible roof geography\nsubject: the original gecko courier crouched on the bell-tower ledge after catching a patched paper kite, same cape patch, satchel, spool charm, and ribbon tail as the production sheets, kite fabric still pulling in the wind\nstyle/medium: finished animation keyframe rendered as hand-painted cinematic production art with cel-shaded character forms, matte gouache texture, and controlled atmospheric depth\ncomposition/framing: wide cinematic frame with the gecko in the right third, tea-house roof and bridge ledge visible behind, enough scale to verify costume and action continuity, no title text\nlighting/mood: warm lantern dusk with cool rooftop shadows, relieved but still tense recovery mood\ncolor palette: terracotta roof red, lantern amber, twilight blue-gray, faded saffron cloth, moss green patch, cream paper kite, brass gold accents\nmaterials/textures: ceramic roof tile, plaster wall, cloth cape, canvas satchel, patched paper kite, brushed brass spool, weathered bell metal\nconstraints: useful as in-scene proof for storyboard artists and motion designers, preserve the same character kit and rooftop landmarks as the supporting sheets, no logos, no watermark, no poster text\navoid: movie-poster typography, epic fantasy spectacle, glossy 3d game render, photoreal creature skin, franchise rooftop hero mimicry proves that the turnaround, acting, prop, and continuity boards all support one finished in-scene still with believable architecture, action, and emotional payoff. use a wide cinematic frame with the gecko catching and steadying the patched kite on the bell-tower ledge; the character should occupy enough of the frame to verify costume and pose continuity. in-scene proof frame for queries like cinematic proof frame animation reference, character design in scene example, and rooftop mascot cinematic still. no text required; the image should communicate through action and continuity. same cape patch spool charm ribbon tail as the production sheets kite fabric still pulling in the wind dusk terracotta rooftop district with tea-house roof lantern strings plaster parapets a bell tower ledge above the street ceramic roof tile plaster wall cloth cape terracotta roof red architecture object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
     {
       "id": "20260514-0205-bicycle-repair-commuter-reference-sheets-01",
       "runSlug": "20260514-0205-bicycle-repair-commuter-reference-sheets",
