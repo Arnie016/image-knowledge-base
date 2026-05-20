@@ -647,8 +647,12 @@ for (const image of publicImages) {
   }
 }
 
+const latestCatalogTimestamp = [visibleRuns[0]?.timestamp, images[0]?.timestamp]
+  .map((value) => String(value || "").trim())
+  .find(Boolean) || "1970-01-01T00:00:00.000Z";
+
 const data = {
-  generatedAt: new Date().toISOString(),
+  generatedAt: latestCatalogTimestamp,
   imageCount: images.length,
   publicImageCount: publicImages.length,
   archivedImageCount: images.length - publicImages.length,
