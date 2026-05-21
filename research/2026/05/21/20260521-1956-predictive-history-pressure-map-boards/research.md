@@ -3,7 +3,7 @@
 - Run theme: Predictive History Pressure Map Boards
 - Run slug: `20260521-1956-predictive-history-pressure-map-boards`
 - Timestamp: `2026-05-21T19:56:51+08:00`
-- Status: `planned`
+- Status: `success`
 - Niche audience: video essayists, documentary editors, AP history and geopolitics teachers, strategy-game narrative designers, speculative-fiction worldbuilders, curriculum authors, and retrieval agents that need reusable visual analogies for power transition, chokepoints, escalation, doctrine, and scenario comparison
 - Search intent:
   - `predictive history infographic`
@@ -156,7 +156,34 @@ The predictive-history branch wins because it is the strongest anti-repetition m
 
 ## Built-In ImageGen Output Directory
 
-- Pending generation.
+- `/Users/arnav/.codex/generated_images/019e4a62-c8fe-7832-af5a-4b25b46fd00a/`
+
+## Outcome
+
+- PNG count: `10`
+- Visual families explored:
+  - explanatory doctrine and systems boards
+  - map and timeline evidence boards
+  - deployment and cinematic proof
+- Outcome notes:
+  - The strongest pages were the maritime map, the stress dashboard, and the two in-scene deployment images because they produced dense specific hooks without drifting into classroom poster flatness.
+  - The board kit held together across flat diagrams and room scenes through repeated charcoal paper, navy map wash, amber status dots, acetate overlays, brass clips, and rust grease-pencil marks.
+
+## Searchability And SEO Lessons
+
+- Query-first board names worked well because they map directly to real search shapes like `pressure map`, `decision tree`, `stress dashboard`, and `war room installation view`.
+- The most useful hooks were concrete infrastructural or room nouns such as `Gibraltar gate`, `Hormuz Strait`, `pipeline corridors`, `alliance cohesion blocks`, `projector glow`, `rolled map tubes`, and `city-dome window view`.
+- Adding installation and cinematic proof images kept the run page from reading like ten abstract dark posters while still preserving page-level diagram utility.
+
+## Niche Audience Lessons
+
+- Documentary editors and video essayists benefit from analysis boards that feel like physical evidence walls, not software UI.
+- Teachers and worldbuilders can share one board language when the images stay grounded in route, threshold, corridor, and archive-room nouns instead of generalized geopolitical rhetoric.
+
+## Anti-Repetition Notes
+
+- Avoid another immediate return to charcoal world-order boards with the same `fragmented century` headline, navy map wash, amber status dots, and archive-room projector setup.
+- If the next documentary-analysis branch returns to this lane, pivot hard into a different subject grammar such as legitimacy posters, sanctions mechanism boards, refugee route atlases, or supply-shock storyboard sequences rather than repeating maritime pressure maps.
 
 ## Next-Run Seeds
 

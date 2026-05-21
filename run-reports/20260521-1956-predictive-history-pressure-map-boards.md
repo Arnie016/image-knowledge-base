@@ -1,0 +1,22 @@
+# Run Report
+
+- Run slug: `20260521-1956-predictive-history-pressure-map-boards`
+- Timestamp: `2026-05-21T19:56:51+08:00`
+- Theme: Predictive History Pressure Map Boards
+- Status: `success`
+- Freedom budget: `wild`
+- Primary scale: `page`
+- Secondary scale: `world`
+- PNG count: `10`
+- Visual families: doctrine and systems boards, map and timeline evidence boards, plus installation and cinematic proof images
+- Image folder: `image-knowledge-base/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards`
+- Prompt folder: `image-knowledge-base/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards`
+- Built-in ImageGen output directory: `/Users/arnav/.codex/generated_images/019e4a62-c8fe-7832-af5a-4b25b46fd00a/`
+- Gallery website path: `image-knowledge-base/site/index.html`
+- Gallery refresh: `completed via node image-knowledge-base/scripts/build-site-data.mjs` with `80 public images` across `7 public runs`
+- SEO artifact status: `site/data.js`, `site/sitemap.xml`, and `site/robots.txt` were regenerated; 10 public per-image directories exist under `site/i/20260521-1956-predictive-history-pressure-map-boards-*`, and the public per-run directory exists under `site/r/20260521-1956-predictive-history-pressure-map-boards`
+- Research note: `image-knowledge-base/research/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/research.md`
+- Catalog updates: `image-knowledge-base/catalog/runs.jsonl`, `image-knowledge-base/catalog/images.jsonl`
+- Skill/plugin Markdown consulted: `imagegen/SKILL.md`, `documents/SKILL.md`, `presentations/SKILL.md`, `trailer-director/SKILL.md`, `iconography-lab/SKILL.md`
+- Summary: This run opened a documentary-analysis lane that the recent corpus did not have. The most valuable hooks came from direct geopolitical and room nouns such as `Gibraltar gate`, `Hormuz Strait`, `pipeline corridors`, `alliance cohesion blocks`, `projector glow`, `rolled map tubes`, `war-room evidence wall`, and `city-dome window view`, which kept the set searchable for teachers, editors, and worldbuilders instead of collapsing into generic dark boards.
+- Blockers: None.
