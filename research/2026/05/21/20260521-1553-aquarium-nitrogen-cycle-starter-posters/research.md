@@ -1,0 +1,52 @@
+# Research Note
+
+- Run theme: Aquarium Nitrogen Cycle Starter Posters
+- Niche audience: beginner freshwater aquarists, local fish store trainers, middle-school and AP Biology teachers using aquarium examples, and pet-foster coordinators onboarding first-time tank keepers
+- Search intent queries: `aquarium nitrogen cycle diagram`, `fish tank cycling chart`, `fishless cycle timeline`, `ammonia nitrite nitrate chart aquarium`, `beneficial bacteria aquarium visual guide`, `aquarium filter media comparison chart`, `new tank syndrome infographic`, `aquarium test kit color guide`, `freshwater tank cycle poster`, `aquarium cycling mistakes infographic`, `pet store aquarium training poster`, `classroom aquarium nitrogen cycle example`
+- Agentic retrieval value: an agent should be able to retrieve direct answers for cycling steps, water-test interpretation, filter-media choices, bacteria habitat zones, and beginner setup errors without confusing this branch for generic chemistry posters or aquascape glamour shots
+- SEO lane and target collection query: `educational diagram` with run-level query `aquarium cycling visual guide set`
+- Freedom budget: `wide`
+- Primary and secondary scales: primary `page`, secondary `object`
+- Browser/search scale: education pages with strong single-image long-tail entry pages
+- Existing-corpus gap: recent successful runs skewed toward film preproduction and cosmetology training, with recurring cream-board classroom logic and almost no aquarium, hobby-science, aquatic ecology, water-chemistry, or pet-store-training material. The corpus also needs more images where invisible biological processes are made concrete without collapsing into generic school-poster language.
+- Five candidate themes considered:
+  - `aquarium nitrogen cycle starter posters`: page and object scales, hobby science, classroom-friendly, direct high-volume search queries, supports diagrams plus specimen plates plus staged proof images
+  - `relief print registration and brayer course plates`: page and tabletop scales, art-school tooling, good tactile nouns but less direct broad search demand than the aquarium cycle branch
+  - `beekeeping brood and hive inspection posters`: object and room scales, strong agricultural nouns, but current memory already has several field-kit and inspection-adjacent habits that risk repeating the operational tone
+  - `fruit tree grafting and pruning decision sheets`: page and landscape scales, useful horticulture queries, but the cycle/diagram format fit is weaker for a 10-image family than the aquarium lane
+  - `predictive history scenario boards`: page and world scales, visually rich and different, but the queue emphasis on practical explainers and the current corpus need for concrete search-answer pages made this a weaker immediate fit
+- Selected theme rationale: the aquarium cycle branch directly answers the practical explainer queue, opens a new science-and-hobby lane, supports three or more visual families, and yields precise search hooks such as `fishless cycle timeline`, `ceramic bio-ring`, `test vial color card`, `new tank syndrome`, and `beneficial bacteria colony surface`. It is also far enough from the last three successful runs in domain, palette, and subject matter to expand the atlas instead of repeating a house style.
+- Skill and plugin Markdown files consulted:
+  - `imagegen/SKILL.md`
+  - `imagegen/references/prompting.md`
+  - `documents/SKILL.md`
+  - `life-science-research/ncbi-pmc-skill/SKILL.md`
+- Visual and search lessons from consulted Markdown:
+  - `imagegen/SKILL.md`: keep the built-in path, issue one distinct generation call per image, and structure prompts with concrete labeled fields so the final cards can preserve retrieval metadata cleanly
+  - `imagegen/references/prompting.md`: keep prompts query-first with `Scene/backdrop`, `Subject`, and constraints in a fixed order; use short literal labels only when needed and avoid adding decorative props that dilute the search answer
+  - `documents/SKILL.md`: each poster should solve one teaching problem with repeated hierarchy and minimal dense paragraphs, which is important for cycling charts that otherwise drift into text-heavy worksheets
+  - `life-science-research/ncbi-pmc-skill/SKILL.md`: use narrow, evidence-like biological terminology rather than vague science language, so hooks stay concrete with phrases like `ammonia spike`, `nitrite peak`, `nitrate uptake`, `biofilm`, `filter sponge pore`, and `ceramic ring chamber`
+- Visual families planned:
+  - process posters and comparison charts
+  - equipment, specimen, and media plates
+  - deployed proof images such as training-wall, cutaway, and station views
+- Prompt variables planned:
+  - freshwater vs planted-tank emphasis
+  - poster vs tray vs section format
+  - store-training vs classroom vs home-startup context
+  - cool aquarium-glass palette vs amber wood and black lab-plastic accents
+  - short label density only, with canonical terminology preserved in prompt cards
+- What each image is meant to teach:
+  - `01` overall ammonia-to-nitrite-to-nitrate flow
+  - `02` fishless cycling timeline and testing rhythm
+  - `03` how ammonia, nitrite, and nitrate differ in source, danger, and response
+  - `04` where beneficial bacteria live across common filter media and tank surfaces
+  - `05` how cycle zones map onto a freshwater tank section
+  - `06` how common water-test tools and color cards relate during cycle tracking
+  - `07` common beginner mistakes that cause new tank syndrome
+  - `08` how live plants, hardscape, and maintenance choices stabilize the cycle
+  - `09` how a pet-store training wall could deploy the material in a real retail-learning context
+  - `10` how a cycling logbook and maintenance card set turns the branch into reusable paper tools rather than poster-only output
+- Successful patterns to aim for: short labels, repeated visual anatomy, bold water-chemistry nouns, visible test hardware, filter-media texture, and believable freshwater tank glass or plastic surfaces
+- Weak patterns to avoid: generic blue infographic gradients, reef-tank glamour, cute cartoon fish mascots, unreadable paragraphs, chemistry-class icon clutter, or another cream paper classroom-board palette that echoes the braiding run
+- Ideas for next runs: `beekeeping brood-and-hive-inspection-posters`, `relief-print-registration-and-brayer-course-plates`, `mushroom-lookalike-field-course-posters`, `freshwater-aquascape-pruning-reference-plates`, `aquarium-disease-symptom-comparison-guides`
