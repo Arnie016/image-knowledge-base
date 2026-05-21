@@ -7,23 +7,23 @@
 ```text
 Use case: infographic-diagram
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
-Primary request: step-by-step beekeeper poster answering the query "how to light bee smoker"
-Scene/backdrop: cream process poster with weathered apiary-tool accents and no room scene
-Subject: bee smoker body, burlap fuel, pine needles, kindling flame, cool white smoke, bellows squeeze, lid opening, and a final calm-smoke check beside a hive tool
-Style/medium: realistic process poster using documentary object photography with numbered stages and short labels only
-Composition/framing: tall vertical six-step process ladder with one large smoker per stage, directional arrows, and a final safe-smoke panel at the bottom
-Lighting/mood: crisp morning field light, practical, procedural, reassuring
-Color palette: galvanized silver, soot black, burlap tan, pine straw brown, smoke white, marigold step tabs, cream background
-Materials/textures: dented smoker metal, charred burlap fibers, pine needles, bellows leather, ash residue, matte process-board paper
-Text (verbatim): "DRY FUEL" "LIGHT" "PACK" "PUFF" "ADD FUEL" "COOL SMOKE"
-Constraints: short labels only, useful for backyard beekeepers and mentors, no logos, no watermark, no dramatic flames beyond the lighting stage
-Avoid: fireball spectacle, camping-stove styling, dense caution paragraphs, clip-art arrows, cute bee mascots
+Primary request: step-by-step beekeeping process poster answering the query "how to light bee smoker"
+Scene/backdrop: olive-gray workbench process poster with repeated smoker setup panels and no person visible
+Subject: six sequential smoker-lighting stages showing empty smoker can, crumpled paper starter, burlap layer, dry pine needles, glowing embers, smoke plume, closed cone lid, and nearby hive tool
+Style/medium: realistic process teaching poster with repeated hardware photography, simple arrows, short step labels, and no decorative illustration
+Composition/framing: tall six-row sequence with one stage per band, bold STEP numbers on the left, object transitions across each row, and a clean final state at the bottom
+Lighting/mood: soft shed light, calm, procedural, beginner-friendly
+Color palette: galvanized silver, leather-bellows brown, burlap tan, ember orange, smoke white, olive panel background
+Materials/textures: perforated smoker steel, leather bellows, crumpled paper, burlap weave, dry pine needles, ash embers, matte painted poster dividers
+Text (verbatim): "STEP 1" "STEP 2" "STEP 3" "STEP 4" "STEP 5" "STEP 6"
+Constraints: short step labels only, preserve one smoker body across the sequence, no watermark, no logo, no long text blocks
+Avoid: cartoon arrows, camping aesthetic drift, glossy product-shot polish, beekeeper lifestyle portraits, unreadable captions
 ```
 
-- Negative constraints: No dramatic fireball spectacle, no camping-stove styling, no dense caution paragraphs, no mascots.
-- Intended learning value: Breaks smoker use into repeatable stages so a beginner can distinguish dry fuel prep, ignition, packing, bellows use, topping up fuel, and the correct cool-smoke finish.
-- Composition notes: The ladder sequence keeps `burlap fuel`, `pine needles`, `bellows squeeze`, `cool white smoke`, and `safe-smoke finish` visible as one repeated object family rather than a vague lifestyle photo.
-- Format notes: Process poster for searches like `how to light bee smoker`, `bee smoker steps`, and `beekeeping smoker fuel guide`. Full canonical terminology lives here if visible text in the image is approximate.
+- Negative constraints: No cartoon arrows, no camping aesthetic drift, no glossy product-shot polish, no beekeeper portraits.
+- Intended learning value: Breaks smoker lighting into visible fuel layers and ember stages so a beginner can understand how paper, burlap, dry fuel, and airflow create cool inspection smoke.
+- Composition notes: The repeated smoker body across six rows makes `crumpled paper starter`, `burlap layer`, `dry pine needles`, `glowing embers`, `smoke plume`, and `closed cone lid` trackable without needing paragraphs.
+- Format notes: Process poster for `how to light bee smoker` and `beekeeping smoker steps`. The canonical instructions stay in the card, while the image keeps text minimal for search-thumbnail legibility.
 - Scale tags: `page`, `object`
 - Skill or plugin Markdown influences: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `presentations/SKILL.md`, `iconography-lab/SKILL.md`
 - File path of PNG: `image-knowledge-base/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.png`

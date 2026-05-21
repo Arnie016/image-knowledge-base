@@ -7,23 +7,23 @@
 ```text
 Use case: productivity-visual
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
-Primary request: paper-tool spread answering the query "beekeeping record sheet"
-Scene/backdrop: top-down wooden workbench with reusable hive-inspection paperwork laid out for real field use
-Subject: ring-bound frame marking card set, handwritten hive inspection logbook, queen sighting card, mite count card, nectar flow calendar card, small yard map card, pencil stub, and rusty steel ruler
-Style/medium: realistic documentary stationery photograph with light beekeeping annotation, not a flat vector mockup
-Composition/framing: wide top-down paper spread with the logbook centered, reference cards arranged around it, and visible wear marks that suggest repeated use
-Lighting/mood: warm workshop daylight, handled, practical, organized
-Color palette: honey cream paper, wax yellow marker blocks, graphite gray, weathered wood brown, muted green yard map, steel gray
-Materials/textures: ring binder metal, lightly stained paper cards, pencil wood, scratched ruler steel, grainy timber bench, matte printed forms
+Primary request: handled paper-tool spread answering the query "beekeeping record sheet"
+Scene/backdrop: warm wooden worktable with handled recordkeeping cards arranged around an open hive-inspection logbook
+Subject: ring-bound frame marking cards, brood and queen logbook table, queen sighting card, mite count card, nectar flow calendar, yard map card, pencil stub, and rusted ruler
+Style/medium: realistic paper-tool reference photograph with short readable headings, slight field wear, and no scrapbook styling
+Composition/framing: top-down stationery spread with the open logbook centered, side cards aligned vertically, and small field tools anchoring the lower edge
+Lighting/mood: warm afternoon shed light, calm, organized, archival
+Color palette: notebook cream, honey-stained ivory, graphite gray, faded sage map card, rust-brown ruler marks, dark walnut table
+Materials/textures: paper card stock, ring binders, pencil wood, rusted steel ruler, inked checkbox marks, lightly stained notebook pages
 Text (verbatim): "FRAME MARKING CARD" "DATE" "BROOD" "QUEEN" "MITES" "NOTES" "QUEEN SIGHTING" "MITE COUNT" "NECTAR FLOW CALENDAR" "YARD MAP"
-Constraints: short labels only, believable handwriting, useful for beekeeper recordkeeping and training, no logos, no watermark
-Avoid: digital app UI styling, pristine office stationery, scrapbook clutter, corporate template graphics, tiny unreadable note fields
+Constraints: keep text short and functional, preserve a believable backyard recordkeeping tone, no logo branding, no watermark, no decorative scrapbook clutter
+Avoid: planner-influencer styling, pastel stationery branding, overly polished office desk scene, generic spreadsheet screenshot, tiny unreadable form fields
 ```
 
-- Negative constraints: No app-UI styling, no pristine office stationery, no scrapbook clutter, no corporate-template graphics.
-- Intended learning value: Turns the run into reusable field paperwork by showing how brood scores, queen sightings, mite counts, nectar-flow timing, and hive location notes can live in one inspection record system.
-- Composition notes: The spread keeps `frame marking card`, `hive inspection logbook`, `queen sighting card`, `mite count card`, `nectar flow calendar`, `yard map card`, and `pencil stub` visible as concrete paper tools rather than generic notebook props.
-- Format notes: Recordkeeping spread for searches like `beekeeping record sheet`, `hive inspection logbook`, and `queen sighting card`. Exact text-heavy content should be treated as exploratory in-image, with canonical labels preserved here.
+- Negative constraints: No planner-influencer styling, no pastel stationery branding, no polished office desk scene, no spreadsheet screenshot.
+- Intended learning value: Shows how a beekeeper can track frame position, brood quality, queen sightings, mite counts, and nectar flow using simple reusable paper tools rather than memory alone.
+- Composition notes: The centered logbook and surrounding cards keep `frame marking card`, `queen sighting card`, `mite count card`, `nectar flow calendar`, `yard map card`, `pencil stub`, and `rusted ruler` available as discrete search hooks.
+- Format notes: Paper-tool reference for `beekeeping record sheet`, `hive inspection logbook`, and `frame marking card`. The canonical labels are stored here in case handwritten or small printed details vary.
 - Scale tags: `page`, `tabletop`
 - Skill or plugin Markdown influences: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `presentations/SKILL.md`, `iconography-lab/SKILL.md`
 - File path of PNG: `image-knowledge-base/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.png`

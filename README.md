@@ -8,7 +8,7 @@
 
 | Public images | Public runs | Search hooks | Formats |
 | --- | --- | --- | --- |
-| 60 | 6 | 589 | 12 |
+| 60 | 6 | 593 | 12 |
 
 ## What This Repo Publishes
 
@@ -23,19 +23,19 @@
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.png" alt="Healthy And Patchy Brood Pattern Chart (scientific-educational)" width="100%" /></a>
   <br /><strong>Healthy And Patchy Brood Pattern Chart</strong>
-  <br /><sub>scientific-educational · patchy brood pattern · capped brood field</sub>
+  <br /><sub>scientific-educational · two brood frames shown side by side · plus honey band</sub>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.png" alt="Capped Brood Honey And Pollen Frame Guide (scientific-educational)" width="100%" /></a>
   <br /><strong>Capped Brood Honey And Pollen Frame Guide</strong>
-  <br /><sub>scientific-educational · open larvae crescent · pollen band</sub>
+  <br /><sub>scientific-educational · pollen crescent · capped brood oval</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.png" alt="Queen Cups And Swarm Cells Poster (infographic-diagram)" width="100%" /></a>
   <br /><strong>Queen Cups And Swarm Cells Poster</strong>
-  <br /><sub>infographic-diagram · comparison of queen cups · charged queen cells</sub>
+  <br /><sub>infographic-diagram · close-up views of queen cups · queen cells</sub>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/04-beekeeping-inspection-tool-tray-reference.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/04-beekeeping-inspection-tool-tray-reference.png" alt="Beekeeping Inspection Tool Tray Reference (atlas-contact-sheet)" width="100%" /></a>
@@ -47,204 +47,204 @@
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.png" alt="Bee Smoker Lighting Steps Poster (infographic-diagram)" width="100%" /></a>
   <br /><strong>Bee Smoker Lighting Steps Poster</strong>
-  <br /><sub>infographic-diagram · bee smoker body · burlap fuel</sub>
+  <br /><sub>infographic-diagram · crumpled paper starter · burlap layer</sub>
 </td>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.png" alt="Bee Veil Gloves And Frame Grip Guide (scientific-educational)" width="100%" /></a>
-  <br /><strong>Bee Veil Gloves And Frame Grip Guide</strong>
-  <br /><sub>scientific-educational · round white bee veil hat · black veil mesh</sub>
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.png" alt="Varroa Monitoring Board Comparison Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Varroa Monitoring Board Comparison Guide</strong>
+  <br /><sub>scientific-educational · sticky board tray · screened bottom board</sub>
 </td>
 </tr>
 <tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.png" alt="Bee Veil Gloves And Frame Grip Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Bee Veil Gloves And Frame Grip Guide</strong>
+  <br /><sub>scientific-educational · long gauntlet gloves · ventilated leather gloves</sub>
+</td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png" alt="Aquarium Nitrogen Cycle Diagram Poster (scientific-educational)" width="100%" /></a>
   <br /><strong>Aquarium Nitrogen Cycle Diagram Poster</strong>
   <br /><sub>scientific-educational · decomposing food flakes · ammonia cloud</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/02-fishless-cycling-timeline-chart.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/02-fishless-cycling-timeline-chart.png" alt="Fishless Cycling Timeline Chart (infographic-diagram)" width="100%" /></a>
   <br /><strong>Fishless Cycling Timeline Chart</strong>
   <br /><sub>infographic-diagram · bottled ammonia dropper · thermometer strip</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.png" alt="Ammonia Nitrite Nitrate Comparison Guide (scientific-educational)" width="100%" /></a>
   <br /><strong>Ammonia Nitrite Nitrate Comparison Guide</strong>
   <br /><sub>scientific-educational · ammonia test vial · nitrite test vial</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/04-beneficial-bacteria-filter-media-taxonomy-plate.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/04-beneficial-bacteria-filter-media-taxonomy-plate.png" alt="Beneficial Bacteria Filter Media Taxonomy Plate (atlas-contact-sheet)" width="100%" /></a>
   <br /><strong>Beneficial Bacteria Filter Media Taxonomy Plate</strong>
   <br /><sub>atlas-contact-sheet · ceramic bio-rings · porous lava rock</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/06-aquarium-test-kit-color-reading-board.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/06-aquarium-test-kit-color-reading-board.png" alt="Aquarium Test Kit Color Reading Board (atlas-contact-sheet)" width="100%" /></a>
   <br /><strong>Aquarium Test Kit Color Reading Board</strong>
   <br /><sub>atlas-contact-sheet · ammonia test vial · nitrite test vial</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/07-new-tank-syndrome-mistakes-poster.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/07-new-tank-syndrome-mistakes-poster.png" alt="New Tank Syndrome Mistakes Poster (infographic-diagram)" width="100%" /></a>
   <br /><strong>New Tank Syndrome Mistakes Poster</strong>
   <br /><sub>infographic-diagram · adding too many fish at once · rinsing filter media under tap water</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.png" alt="Box Braids And Knotless Braids Chart (scientific-educational)" width="100%" /></a>
   <br /><strong>Box Braids And Knotless Braids Chart</strong>
   <br /><sub>scientific-educational · root start · braid hang</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.png" alt="Cornrow Parting Pattern Guide (scientific-educational)" width="100%" /></a>
   <br /><strong>Cornrow Parting Pattern Guide</strong>
   <br /><sub>scientific-educational · curved rows · side-swoop rows</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/03-braid-size-section-grid-poster.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/03-braid-size-section-grid-poster.png" alt="Braid Size Section Grid Poster (infographic-diagram)" width="100%" /></a>
   <br /><strong>Braid Size Section Grid Poster</strong>
   <br /><sub>infographic-diagram · large braid section squares at the top · matching finished braid thickness samples hanging below</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/04-feed-in-braid-sequence-poster.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/04-feed-in-braid-sequence-poster.png" alt="Feed In Braid Sequence Poster (infographic-diagram)" width="100%" /></a>
   <br /><strong>Feed In Braid Sequence Poster</strong>
   <br /><sub>infographic-diagram · close hand-and-mannequin demonstration of a feed-in cornrow · first added extension piece</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.png" alt="Tight Braid Warning Signs Chart (scientific-educational)" width="100%" /></a>
   <br /><strong>Tight Braid Warning Signs Chart</strong>
   <br /><sub>scientific-educational · smooth sections · slight scalp visibility versus redness</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/06-braiding-tool-tray-reference.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/06-braiding-tool-tray-reference.png" alt="Braiding Tool Tray Reference (atlas-contact-sheet)" width="100%" /></a>
   <br /><strong>Braiding Tool Tray Reference</strong>
   <br /><sub>atlas-contact-sheet · neatly arranged braiding tools including a rat-tail comb · wide-tooth comb</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/07-extension-fiber-blend-swatch-board.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/07-extension-fiber-blend-swatch-board.png" alt="Extension Fiber Blend Swatch Board (scientific-educational)" width="100%" /></a>
   <br /><strong>Extension Fiber Blend Swatch Board</strong>
   <br /><sub>scientific-educational · honey ombre · auburn blend</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/08-bead-cuff-and-endings-plate.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/08-bead-cuff-and-endings-plate.png" alt="Bead Cuff And Endings Plate (scientific-educational)" width="100%" /></a>
   <br /><strong>Bead Cuff And Endings Plate</strong>
   <br /><sub>scientific-educational · five finished braid-end samples mounted vertically · curled end</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/01-rim-brake-versus-disc-brake-comparison-chart.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/01-rim-brake-versus-disc-brake-comparison-chart.png" alt="Rim Brake Versus Disc Brake Comparison Chart (scientific-educational)" width="100%" /></a>
   <br /><strong>Rim Brake Versus Disc Brake Comparison Chart</strong>
   <br /><sub>scientific-educational · brake pads touching the rim · brake cable noodle</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/02-how-to-patch-a-bicycle-tube-poster.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/02-how-to-patch-a-bicycle-tube-poster.png" alt="How To Patch A Bicycle Tube Poster (infographic-diagram)" width="100%" /></a>
   <br /><strong>How To Patch A Bicycle Tube Poster</strong>
   <br /><sub>infographic-diagram · tube pull · puncture check in a water basin</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/03-bike-chain-wear-and-lubrication-guide.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/03-bike-chain-wear-and-lubrication-guide.png" alt="Bike Chain Wear And Lubrication Guide (scientific-educational)" width="100%" /></a>
   <br /><strong>Bike Chain Wear And Lubrication Guide</strong>
   <br /><sub>scientific-educational · cleaner chain after brushing · lube bottle applying one drop per roller</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/04-hex-key-sizes-and-bike-bolt-reference.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/04-hex-key-sizes-and-bike-bolt-reference.png" alt="Hex Key Sizes And Bike Bolt Reference (scientific-educational)" width="100%" /></a>
   <br /><strong>Hex Key Sizes And Bike Bolt Reference</strong>
   <br /><sub>scientific-educational · seatpost clamp bolt · bottle cage bolt</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/05-brake-pad-wear-and-rotor-rub-troubleshooting-board.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/05-brake-pad-wear-and-rotor-rub-troubleshooting-board.png" alt="Brake Pad Wear And Rotor Rub Troubleshooting Board (infographic-diagram)" width="100%" /></a>
   <br /><strong>Brake Pad Wear And Rotor Rub Troubleshooting Board</strong>
   <br /><sub>infographic-diagram · direct comparison of healthy brake pads · worn brake pads</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/06-front-and-rear-derailleur-anatomy-diagram.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/06-front-and-rear-derailleur-anatomy-diagram.png" alt="Front And Rear Derailleur Anatomy Diagram (scientific-educational)" width="100%" /></a>
   <br /><strong>Front And Rear Derailleur Anatomy Diagram</strong>
   <br /><sub>scientific-educational · cable path · barrel adjuster</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/07-saddle-bag-emergency-repair-kit-layout.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/07-saddle-bag-emergency-repair-kit-layout.png" alt="Saddle Bag Emergency Repair Kit Layout (atlas-contact-sheet)" width="100%" /></a>
   <br /><strong>Saddle Bag Emergency Repair Kit Layout</strong>
   <br /><sub>atlas-contact-sheet · disciplined emergency saddle-bag kit including spare tube · tire levers</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/01-piping-tip-names-and-uses-chart.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/01-piping-tip-names-and-uses-chart.png" alt="Piping Tip Names And Uses Chart (scientific-educational)" width="100%" /></a>
   <br /><strong>Piping Tip Names And Uses Chart</strong>
   <br /><sub>scientific-educational · closed star tip · round tip</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/02-buttercream-stiffness-comparison-guide.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/02-buttercream-stiffness-comparison-guide.png" alt="Buttercream Stiffness Comparison Guide (scientific-educational)" width="100%" /></a>
   <br /><strong>Buttercream Stiffness Comparison Guide</strong>
   <br /><sub>scientific-educational · medium buttercream · stiff buttercream</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/03-star-tip-versus-round-tip-border-board.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/03-star-tip-versus-round-tip-border-board.png" alt="Star Tip Versus Round Tip Border Board (infographic-diagram)" width="100%" /></a>
   <br /><strong>Star Tip Versus Round Tip Border Board</strong>
   <br /><sub>infographic-diagram · including shell border · rope border</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/04-buttercream-flower-tip-taxonomy.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/04-buttercream-flower-tip-taxonomy.png" alt="Buttercream Flower Tip Taxonomy (scientific-educational)" width="100%" /></a>
   <br /><strong>Buttercream Flower Tip Taxonomy</strong>
   <br /><sub>scientific-educational · taxonomy of flower-related piping nozzles including petal tip · leaf tip</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/05-how-to-fill-a-piping-bag-poster.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/05-how-to-fill-a-piping-bag-poster.png" alt="How To Fill A Piping Bag Poster (infographic-diagram)" width="100%" /></a>
   <br /><strong>How To Fill A Piping Bag Poster</strong>
   <br /><sub>infographic-diagram · loading buttercream · inserting coupler</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/06-cupcake-swirl-and-rosette-guide.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/06-cupcake-swirl-and-rosette-guide.png" alt="Cupcake Swirl And Rosette Guide (scientific-educational)" width="100%" /></a>
   <br /><strong>Cupcake Swirl And Rosette Guide</strong>
   <br /><sub>scientific-educational · including classic swirl · tall bakery spiral</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.png" alt="Cake Decorating Tools Tray Reference (atlas-contact-sheet)" width="100%" /></a>
   <br /><strong>Cake Decorating Tools Tray Reference</strong>
   <br /><sub>atlas-contact-sheet · disciplined decorating kit including reusable piping bags · open star tip</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.png" alt="Varroa Monitoring Board Comparison Guide (scientific-educational)" width="100%" /></a>
-  <br /><strong>Varroa Monitoring Board Comparison Guide</strong>
-  <br /><sub>scientific-educational · sticky board tray under screened bottom board · varroa mites on white count card</sub>
-</td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.png" alt="Langstroth Hive Box Section Diagram (mixed-format)" width="100%" /></a>
   <br /><strong>Langstroth Hive Box Section Diagram</strong>
-  <br /><sub>mixed-format · inner cover gap · honey super with capped frames</sub>
+  <br /><sub>mixed-format · honey super · queen excluder</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.png" alt="Apiary Inspection Station Setup (photorealistic-natural)" width="100%" /></a>
   <br /><strong>Apiary Inspection Station Setup</strong>
-  <br /><sub>photorealistic-natural · smoking bee smoker · notebook logbook</sub>
+  <br /><sub>photorealistic-natural · lit smoker sending a white plume · open brood frame on a frame holder</sub>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.png" alt="Hive Inspection Logbook And Frame Marking Cards (productivity-visual)" width="100%" /></a>
   <br /><strong>Hive Inspection Logbook And Frame Marking Cards</strong>
-  <br /><sub>productivity-visual · ring-bound frame marking card set · handwritten hive inspection logbook</sub>
+  <br /><sub>productivity-visual · ring-bound frame marking cards · brood and queen logbook table</sub>
 </td>
 </tr>
 <tr>
@@ -385,12 +385,12 @@
 
 | Panel | Human task | Labels |
 | --- | --- | --- |
-| Healthy And Patchy Brood Pattern Chart | Solid brood pattern, patchy brood pattern, honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row inset appear together on one comparison page for fast brood-frame reading | patchy brood pattern, capped brood field, pollen band |
-| Capped Brood Honey And Pollen Frame Guide | Gives a frame-reading checklist for distinguishing capped brood, eggs, larvae, pollen, honey, and empty comb so a new beekeeper can understand what a productive brood frame should contain | open larvae crescent, pollen band, honey cells |
-| Queen Cups And Swarm Cells Poster | Shows the difference between harmless queen cups and active queen cells, including edge placement and royal-jelly clues that matter during swarm-season inspections | comparison of queen cups, charged queen cells, swarm cells along lower frame edges |
-| Beekeeping Inspection Tool Tray Reference | Provides a concrete beginner hive-inspection kit so a trainer or new beekeeper can identify what each tool does before opening a hive | hive tool, frame grip, bee brush |
-| Bee Smoker Lighting Steps Poster | Breaks smoker use into repeatable stages so a beginner can distinguish dry fuel prep, ignition, packing, bellows use, topping up fuel, and the correct cool-smoke finish | bee smoker body, burlap fuel, pine needles |
-| Bee Veil Gloves And Frame Grip Guide | Compares common protective gear and handling aids so a new beekeeper can understand when to use veil mesh, nitrile gloves, leather gauntlets, frame grips, and queen-marking tools | round white bee veil hat, black veil mesh, nitrile gloves |
+| Healthy And Patchy Brood Pattern Chart | Shows the difference between a strong brood pattern and a patchy one while keeping honey band, pollen band, larvae, empty cells, and egg rows visible in the same frame so a beginner can read a brood frame more confidently | two brood frames shown side by side, plus honey band, pollen band |
+| Capped Brood Honey And Pollen Frame Guide | Gives one clean reference frame that separates honey, pollen, capped brood, larvae, eggs, and drawn comb while also clarifying how a queen cup differs from a queen cell | pollen crescent, capped brood oval, open larvae row |
+| Queen Cups And Swarm Cells Poster | Helps a beekeeper distinguish queen cups, swarm cells, supersedure cells, and opened queen cells so swarm preparation signs can be spotted during inspections | close-up views of queen cups, queen cells, swarm cells |
+| Beekeeping Inspection Tool Tray Reference | Turns a scattered beginner tool list into one searchable plate where each inspection tool, fuel bundle, glove choice, and hardware insert can be recognized at a glance | hive tool, frame grip, bee brush |
+| Bee Smoker Lighting Steps Poster | Breaks smoker lighting into visible fuel layers and ember stages so a beginner can understand how paper, burlap, dry fuel, and airflow create cool inspection smoke | crumpled paper starter, burlap layer, dry pine needles |
+| Varroa Monitoring Board Comparison Guide | Connects the sticky board, sugar roll jar, and mite count card into one visual workflow while showing what low and high varroa counts actually look like | sticky board tray, screened bottom board, sugar roll jar |
 
 ## Current Seed Run
 

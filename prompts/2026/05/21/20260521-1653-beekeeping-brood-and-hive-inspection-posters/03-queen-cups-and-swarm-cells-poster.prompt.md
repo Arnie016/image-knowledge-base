@@ -7,23 +7,23 @@
 ```text
 Use case: infographic-diagram
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
-Primary request: warning-sign poster answering the query "queen cup vs queen cell guide"
-Scene/backdrop: cream apiary lesson poster with no environment scene and clear specimen spacing
-Subject: comparison of queen cups, charged queen cells, swarm cells along lower frame edges, supersedure cells on the frame face, open peanut-shaped queen cell anatomy, and beekeeper warning icons for swarm preparation
-Style/medium: realistic beekeeping warning poster with specimen photography, short labels, and simple caution arrows
-Composition/framing: tall poster with four specimen columns, one enlarged queen cell cutaway, and a bottom strip showing frame-edge placement clues
-Lighting/mood: crisp teaching light, alert but not alarmist
-Color palette: wax beige, brood tan, caution marigold, propolis brown, charcoal text, paper cream
-Materials/textures: wax cell cups, rough comb edges, pine frame corners, matte poster board, subtle inked arrows
-Text (verbatim): "QUEEN CUP" "CHARGED CELL" "SWARM CELL" "SUPERSEDURE CELL" "FRAME EDGE" "LARVA + ROYAL JELLY"
-Constraints: short labels only, answer a beginner search query directly, no logos, no watermark, no mascot illustration
-Avoid: comic bees, dramatic swarming chaos, dense text blocks, flat vector clip art, farmhouse sign aesthetics
+Primary request: warning-style beekeeping poster answering the query "queen cell swarm signs"
+Scene/backdrop: cream inspection poster mounted against dark green apiary siding with no people present
+Subject: close-up views of queen cups, queen cells, swarm cells, supersedure cells, and opened queen cells with larvae, arranged as a warning board with high-contrast title bars and a short timing message
+Style/medium: realistic macro beekeeping poster with caution-sign hierarchy, short readable labels, and no novelty illustration style
+Composition/framing: tall poster grid with four comparison panels, one lower row of opened cells, bold top and bottom warning bands, and strong thumbnail structure
+Lighting/mood: overcast orchard light, alert, practical, field-training focused
+Color palette: wax tan, dark comb brown, muted hive green, caution orange, cream signboard, black type
+Materials/textures: wax queen cells, honeycomb walls, painted clapboard, matte sign enamel, pine frame wood
+Text (verbatim): "QUEEN CELL SWARM SIGNS" "QUEEN CUP" "QUEEN CELL" "SWARM CELL" "SUPERSEDURE" "OPEN" "SWARM MAY OCCUR WITHIN 7-10 DAYS"
+Constraints: keep labels short and bold, poster should answer swarm-prep queries immediately, no logos, no watermark, no paragraphs
+Avoid: cute bee graphics, rustic farmhouse quote poster styling, soft-focus floral meadow background, unreadable small copy, extra decorative arrows
 ```
 
-- Negative constraints: No mascot illustration, no swarm-chaos drama, no dense text blocks, no flat clip art.
-- Intended learning value: Shows the difference between harmless queen cups and active queen cells, including edge placement and royal-jelly clues that matter during swarm-season inspections.
-- Composition notes: The poster uses isolated specimen columns plus a frame-edge strip so `queen cup`, `charged queen cell`, `swarm cell`, `supersedure cell`, `frame edge`, and `royal jelly` remain separable at thumbnail scale.
-- Format notes: Warning-sign explainer for queries like `queen cup vs queen cell`, `swarm signs in hive`, and `queen cell identification chart`. Exact terminology belongs in this card even if in-image text is only partially precise.
+- Negative constraints: No cute bee graphics, no rustic quote-poster styling, no floral meadow blur, no unreadable small copy.
+- Intended learning value: Helps a beekeeper distinguish queen cups, swarm cells, supersedure cells, and opened queen cells so swarm preparation signs can be spotted during inspections.
+- Composition notes: The caution header, repeated cell closeups, and bottom timing bar surface hooks like `queen cup`, `charged queen cell`, `swarm cell`, `supersedure cell`, and `opened queen cell larva` in a single vertical landing page.
+- Format notes: Built as a direct warning poster for queries such as `queen cell swarm signs` and `queen cup vs queen cell guide`. Text remains short by design so the poster survives image search thumbnails.
 - Scale tags: `page`, `object`
 - Skill or plugin Markdown influences: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `presentations/SKILL.md`, `iconography-lab/SKILL.md`
 - File path of PNG: `image-knowledge-base/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.png`

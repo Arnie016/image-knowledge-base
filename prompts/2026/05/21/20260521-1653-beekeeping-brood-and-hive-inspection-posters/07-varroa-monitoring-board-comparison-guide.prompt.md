@@ -7,23 +7,23 @@
 ```text
 Use case: scientific-educational
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
-Primary request: mite-monitoring comparison guide answering the query "varroa mite monitoring board"
-Scene/backdrop: clean cream diagnostic board with one dark insert tray and companion testing tools
-Subject: sticky board tray under screened bottom board, varroa mites on white count card, sugar roll jar, alcohol wash cup, mite-count grid card, sample bees scoop, and a comparison strip for low, medium, and high mite drop
-Style/medium: realistic apiary diagnostic poster with specimen-level detail and restrained instructional labeling
-Composition/framing: wide horizontal comparison board with the sticky tray centered, companion tools arranged around it, and a right-side severity strip
-Lighting/mood: bright technical daylight, evidence-oriented, matter-of-fact
-Color palette: cream board, dark tray charcoal, mite rust brown, wax yellow, white count cards, galvanized accents
-Materials/textures: corrugated sticky board insert, screened mesh, plastic sample jars, paper count grid cards, tacky residue, worn beekeeping tools
-Text (verbatim): "STICKY BOARD" "SUGAR ROLL" "ALCOHOL WASH" "LOW DROP" "MEDIUM DROP" "HIGH DROP" "MITE COUNT"
-Constraints: short labels only, practical training image rather than veterinary brochure, no logos, no watermark, no fearmongering copy
-Avoid: horror closeups, red emergency graphics, unreadable tiny tables, cartoon parasites, laboratory sci-fi styling
+Primary request: practical mite-monitoring comparison board answering the query "varroa mite monitoring board"
+Scene/backdrop: dark inspection surface with three comparison columns and one bottom threshold strip
+Subject: sticky board tray, screened bottom board, sugar roll jar, powdered sugar cup, mite count card, sample cup with mites, and an infestation threshold guide showing low to high mite counts
+Style/medium: realistic beekeeping health-monitoring board with specimen-like macro detail, clean labels, and no clinical-lab overdesign
+Composition/framing: wide comparison chart with STICKY BOARD, SUGAR ROLL, and MITE COUNT columns across the top and a four-step threshold strip along the bottom
+Lighting/mood: neutral workshop light, analytical, practical, evidence-oriented
+Color palette: cream label cards, charcoal bench, sugar white, rust-brown mites, pine wood, warning red-orange threshold accents
+Materials/textures: sticky monitoring tray residue, wire screen bottom board, mason jar glass, powdered sugar dust, laminated mite count card, plastic sample cup
+Text (verbatim): "STICKY BOARD" "SUGAR ROLL" "MITE COUNT" "SCREENED BOTTOM BOARD" "INFESTATION THRESHOLD GUIDE" "LOW" "HIGH" "0-2 MITES" "3-10 MITES" "10-30 MITES" "30+ MITES"
+Constraints: short labels only, show real-looking mites and monitoring tools, no logos, no watermark, no dense paragraphs
+Avoid: horror close-up exaggeration, fake microscope lab styling, cartoon mites, generic white medical infographic background, unreadable tiny count text
 ```
 
-- Negative constraints: No horror closeups, no emergency red graphics, no unreadable tiny tables, no sci-fi lab styling.
-- Intended learning value: Compares the main beginner mite-monitoring methods and makes the sticky board, sugar roll, alcohol wash, and mite-count card legible as one diagnostic workflow.
-- Composition notes: The centered tray plus companion tools expose `sticky board insert`, `screened bottom board`, `sugar roll jar`, `alcohol wash cup`, `mite-count grid card`, and `severity strip` as separate hooks that a retrieval agent can reason over.
-- Format notes: Diagnostic comparison guide for queries like `varroa mite monitoring board`, `sugar roll vs alcohol wash`, and `mite count chart for bees`. The image is intentionally evidence-led rather than text-heavy.
+- Negative constraints: No horror close-up exaggeration, no fake microscope styling, no cartoon mites, no generic white medical infographic background.
+- Intended learning value: Connects the sticky board, sugar roll jar, and mite count card into one visual workflow while showing what low and high varroa counts actually look like.
+- Composition notes: The three-column layout and bottom threshold strip concentrate hooks like `sticky board tray`, `screened bottom board`, `sugar roll jar`, `mite count card`, `powdered sugar cup`, and `high mite count cluster` into one strong search page.
+- Format notes: Comparison board for queries such as `varroa mite monitoring board`, `sugar roll mite count guide`, and `beekeeping mite threshold chart`. Labels stay short so the board remains legible in image search.
 - Scale tags: `page`, `object`
 - Skill or plugin Markdown influences: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `presentations/SKILL.md`, `iconography-lab/SKILL.md`
 - File path of PNG: `image-knowledge-base/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.png`

@@ -7,23 +7,23 @@
 ```text
 Use case: atlas-contact-sheet
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
-Primary request: tool atlas answering the query "beekeeping tools chart"
-Scene/backdrop: top-down apiary tray on neutral cream board with no people and no room scene
-Subject: hive tool, frame grip, bee brush, smoker, burlap fuel, lighter, queen clip cage, marker pen, nitrile gloves, white veil hat, inspection notebook, sugar roll jar, alcohol wash cup, and entrance reducer hardware
-Style/medium: realistic contact-sheet style training plate with clean spacing, short labels, and tactile field-worn equipment
-Composition/framing: wide top-down tray layout with grouped tools, one smoker-fuel inset, and enough negative space to keep each item legible
-Lighting/mood: soft outdoor daylight, calm, prepared, field-ready
-Color palette: galvanized silver, pine wood, white veil mesh, wax yellow, red hive tool paint, burlap tan, cream board
-Materials/textures: scratched hive tool steel, burlap smoker fuel, mesh veil fabric, weathered notebook paper, galvanized smoker body, pine frame grip handles
-Text (verbatim): "HIVE TOOL" "FRAME GRIP" "SMOKER" "BEE BRUSH" "SUGAR ROLL JAR" "QUEEN CLIP"
-Constraints: short labels only, direct search-answer tool reference, no logos, no watermark, no decorative honey jars
-Avoid: ecommerce product glamour, farmhouse prop styling, cluttered workshop background, tiny unreadable tags, tactical camping gear drift
+Primary request: practical beekeeping tool atlas answering the query "beekeeping tools chart"
+Scene/backdrop: top-down dark canvas work surface with each tool spaced like a training tray and no room scene
+Subject: hive tool, smoker, frame grip, bee brush, uncapping fork, queen clip, marking pen, burlap smoker fuel, nitrile gloves, entrance reducer, metal excluder, and scraper with short name labels
+Style/medium: photorealistic object reference plate with restrained training-card labels and no retail packaging polish
+Composition/framing: wide top-down contact sheet with evenly spaced tools, one label tab per item, and enough negative space for clean silhouette reading
+Lighting/mood: soft workshop light, matter-of-fact, durable, field-ready
+Color palette: galvanized silver, smoker-bellows brown, burlap tan, nitrile blue, entrance-reducer wood, charcoal canvas, cream labels
+Materials/textures: scratched hive tool steel, wire smoker cage, leather bellows, wooden bee brush handle, burlap fibers, plastic queen clip, pine reducer block
+Text (verbatim): "HIVE TOOL" "SMOKER" "FRAME GRIP" "BEE BRUSH" "UNCAPPING FORK" "QUEEN CLIP" "MARKING PEN" "SMOKER FUEL" "NITRILE GLOVES" "ENTRANCE REDUCER" "EXCLUDER" "SCRAPER"
+Constraints: label only the core beginner tools, preserve clean silhouettes, no logo marks, no watermark, no crowded prop styling
+Avoid: ecommerce white-background product shot vibe, honey-brand packaging, lifestyle hands, decorative flowers, tiny unreadable labels
 ```
 
-- Negative constraints: No ecommerce glamour, no farmhouse props, no cluttered workshop background, no camping-gear drift.
-- Intended learning value: Provides a concrete beginner hive-inspection kit so a trainer or new beekeeper can identify what each tool does before opening a hive.
-- Composition notes: The tray format exposes `hive tool`, `frame grip`, `bee brush`, `smoker`, `burlap fuel`, `white veil mesh`, `sugar roll jar`, and `queen clip cage` as distinct retrieval hooks rather than blending them into one field scene.
-- Format notes: Tool-reference plate for searches like `beekeeping tools chart`, `what tools do I need for hive inspection`, and `bee smoker and hive tool guide`. The image is intentionally object-dense and label-light.
+- Negative constraints: No ecommerce product-shot vibe, no honey-brand packaging, no lifestyle hands, no decorative flowers.
+- Intended learning value: Turns a scattered beginner tool list into one searchable plate where each inspection tool, fuel bundle, glove choice, and hardware insert can be recognized at a glance.
+- Composition notes: The top-down tool spacing exposes `hive tool`, `smoker`, `frame grip`, `uncapping fork`, `queen clip`, `marking pen`, `entrance reducer`, `metal excluder`, and `burlap smoker fuel` as strong reusable hooks.
+- Format notes: Object atlas for queries like `beekeeping tools chart` and `hive inspection kit visual guide`. This is a training reference plate, not a product catalog or shopping page.
 - Scale tags: `object`, `tabletop`
 - Skill or plugin Markdown influences: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `presentations/SKILL.md`, `iconography-lab/SKILL.md`
 - File path of PNG: `image-knowledge-base/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/04-beekeeping-inspection-tool-tray-reference.png`
