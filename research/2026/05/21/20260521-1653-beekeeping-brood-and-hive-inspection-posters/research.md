@@ -1,0 +1,59 @@
+# Research Note
+
+- Run theme: Beekeeping Brood And Hive Inspection Posters
+- Niche audience: beginner backyard beekeepers, bee-club mentors, agricultural-extension trainers, school-garden coordinators, and farm-store staff who need concrete hive-inspection visuals rather than generic honey-brand imagery
+- Search intent queries: `beehive inspection checklist`, `brood pattern chart`, `bee eggs larvae capped brood chart`, `capped brood vs honey frame`, `queen cell swarm signs`, `how to light bee smoker`, `varroa mite monitoring board`, `beekeeping tools chart`, `langstroth hive box diagram`, `apiary inspection setup`, `beekeeping record sheet`, `queen cup vs queen cell guide`
+- Agentic retrieval value: an agent should be able to retrieve direct answers for brood-stage identification, frame reading, swarm-warning signs, smoker setup, mite monitoring, basic hive hardware, field-kit layout, and inspection recordkeeping without confusing this branch for decorative honey packaging or rustic farmhouse moodboards
+- SEO lane and target collection query: `educational diagram` with run-level query `beekeeping inspection visual guide set`
+- Freedom budget: `wide`
+- Primary and secondary scales: primary `page`, secondary `object`
+- Browser/search scale: single-image long-tail pages plus education and training-reference pages, supported by one coherent run collection page
+- Existing-corpus gap: the current public corpus has practical explainers in pastry, bicycle repair, braiding, and aquarium biology, but no beekeeping, apiary training, brood identification, or agricultural field-reference material. Recent explainer successes also leaned on clean interior boards; this branch should add wax comb, propolis, pine hive bodies, galvanized smoker metal, orchard-edge field context, and insect-biology comparison without sliding back into bureaucratic support-system habits.
+- Five candidate themes considered:
+  - `beekeeping brood and hive inspection posters`: page and object scales, agricultural biology, strong search vocabulary, supports charts, equipment plates, cutaways, and field proof images
+  - `relief print registration and brayer course plates`: tabletop and page scales, art-school tooling, tactile and visual, but slightly weaker direct long-tail query volume than beekeeping inspection queries
+  - `fruit tree grafting and pruning decision sheets`: page and landscape scales, horticulture teaching, good seasonal value, but less suited to a dense 10-image family with repeated proof objects
+  - `predictive history scenario boards`: page and abstract-system scales, distinctive mood and structure, but weaker fit for the current practical-explainer queue emphasis
+  - `mascot film asset bible for a maintenance bee courier`: character and architecture scales, useful for the film-asset queue, but the recent lantern-kite film branch means this would not expand the practical reference lane enough on this run
+- Selected theme rationale: the beekeeping branch answers practical explainer seeds directly while jumping into a new agricultural-training domain with concrete nouns like `brood frame`, `queen cup`, `hive tool`, `smoker burlap`, `varroa board`, `frame grip`, `pollen band`, and `entrance reducer`. It can support at least three visual families, has obvious long-tail search pages, and avoids repeating the cool white aquarium posters or cream cosmetology classroom boards from the last two public runs.
+- Skill and plugin Markdown files consulted:
+  - `imagegen/SKILL.md`
+  - `imagegen/references/prompting.md`
+  - `documents/SKILL.md`
+  - `presentations/SKILL.md`
+  - `iconography-lab/SKILL.md`
+- Visual and search lessons from consulted Markdown:
+  - `imagegen/SKILL.md`: stay on built-in ImageGen, generate one image per prompt, and preserve project-bound outputs by copying selected PNGs from `$HOME/.codex/generated_images/` into the workspace hierarchy
+  - `imagegen/references/prompting.md`: keep prompts query-first, use a stable field order, and specify short labels only when they serve the search answer directly
+  - `documents/SKILL.md`: each image should solve one inspection or identification problem with repeated hierarchy instead of collapsing into a crowded worksheet
+  - `presentations/SKILL.md`: the run should pass a contact-sheet test with distinct proof objects and visual rhythm across charts, plates, cutaway, and field-deployment scenes
+  - `iconography-lab/SKILL.md`: repeat a disciplined apiary identity kit of smoker, hive tool, pine supers, wax comb, white veil mesh, yellow pollen bands, burlap fuel, propolis smears, and galvanized hardware so the branch feels internally coherent without drifting into honey-brand packaging
+- Discarded candidates and why:
+  - `relief print registration and brayer course plates`: strong tactile promise, but better saved for a day without another biology-adjacent training branch near it
+  - `fruit tree grafting and pruning decision sheets`: good search fit, but the likely family would skew flatter and more seasonal than the beekeeping set
+  - `predictive history scenario boards`: still a good queue seed, but the practical explainer plate queue takes priority here
+  - `maintenance bee courier mascot bible`: useful, but too close to recent film-asset logic for this slot
+- Visual families planned:
+  - brood-identification and inspection posters
+  - equipment, hardware, and recordkeeping plates
+  - field deployment proof images including one cutaway and one apiary setup view
+- Prompt variables planned:
+  - brood-stage comparison versus warning-sign comparison
+  - poster, comparison grid, tray plate, cutaway, and documentary setup formats
+  - orchard-edge apiary versus neutral training-board context
+  - wax yellow, pine wood, propolis brown, smoke gray, galvanized silver, and marigold caution accents
+  - short label density only, with canonical terminology preserved in prompt cards rather than tiny paragraphs
+- What each image is meant to teach:
+  - `01` how to read a healthy brood pattern versus patchy brood
+  - `02` how eggs, larvae, capped brood, pollen, and honey differ on a frame face
+  - `03` how queen cups and queen cells signal swarm preparation
+  - `04` which tools belong in a beginner hive-inspection kit
+  - `05` how a Langstroth hive stacks brood box, honey super, inner cover, and entrance path in section
+  - `06` how to light and use a smoker step by step
+  - `07` how a varroa monitoring board, sugar roll jar, and mite count card relate during checks
+  - `08` how an outdoor inspection station is staged for a calm hive opening
+  - `09` how gloves, veils, frame grips, and marked queens can be compared as a field-reference plate
+  - `10` how a field logbook and frame-marking card spread turn the branch into reusable paper tools
+- Successful prompt patterns to aim for: repeated frame anatomy, visible comb geometry, clear pine-box joinery, short labels, realistic galvanized metal and burlap textures, outdoor orchard light for proof scenes, and direct comparison structures that remain legible at thumbnail scale
+- Weak patterns to avoid: generic honey jars, farmhouse kitchen styling, cute cartoon bees, logo-like bee mascots, dense unreadable paragraphs, beekeeper-lifestyle glamour, and another clean laminated classroom board that echoes the aquarium branch too closely
+- Next-run seeds: `relief-print-registration-and-brayer-course-plates`, `fruit-tree-grafting-and-pruning-decision-sheets`, `aquarium-quarantine-and-disease-symptom-guides`, `beekeeping-seasonal-supering-and-honey-harvest-plates`, `cinematography-shot-size-and-blocking-visual-guides`
