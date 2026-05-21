@@ -1,9 +1,9 @@
 window.IMAGE_KB = {
-  "generatedAt": "2026-05-21T19:56:51+08:00",
-  "imageCount": 80,
-  "publicImageCount": 80,
+  "generatedAt": "2026-05-22T02:20:09+08:00",
+  "imageCount": 91,
+  "publicImageCount": 91,
   "archivedImageCount": 0,
-  "runCount": 7,
+  "runCount": 8,
   "rubric": {
     "version": "2026-05-06-v1",
     "scale": "1-5 per dimension, weighted to 100 overall",
@@ -69,31 +69,31 @@ window.IMAGE_KB = {
   "taxonomies": [
     [
       "scientific-educational",
-      22
+      24
     ],
     [
       "infographic-diagram",
-      15
+      17
     ],
     [
       "photorealistic-natural",
-      10
+      11
     ],
     [
       "atlas-contact-sheet",
-      8
+      9
     ],
     [
       "mixed-format",
-      7
+      8
+    ],
+    [
+      "film-preproduction",
+      6
     ],
     [
       "data-visual",
       4
-    ],
-    [
-      "film-preproduction",
-      3
     ],
     [
       "productivity-visual",
@@ -108,6 +108,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "storyboard-sequence",
+      2
+    ],
+    [
       "environment-concept",
       1
     ],
@@ -118,28 +122,24 @@ window.IMAGE_KB = {
     [
       "species-dossier",
       1
-    ],
-    [
-      "storyboard-sequence",
-      1
     ]
   ],
   "topics": [
     [
       "labels",
-      63
+      70
     ],
     [
       "short",
-      52
-    ],
-    [
-      "paper",
-      37
+      56
     ],
     [
       "matte",
-      36
+      43
+    ],
+    [
+      "paper",
+      43
     ],
     [
       "like",
@@ -147,26 +147,34 @@ window.IMAGE_KB = {
     ],
     [
       "chart",
-      29
-    ],
-    [
-      "poster",
-      28
-    ],
-    [
-      "guide",
-      25
-    ],
-    [
-      "mood",
-      25
-    ],
-    [
-      "reference",
-      23
+      32
     ],
     [
       "charcoal",
+      31
+    ],
+    [
+      "poster",
+      31
+    ],
+    [
+      "mood",
+      29
+    ],
+    [
+      "guide",
+      27
+    ],
+    [
+      "reference",
+      24
+    ],
+    [
+      "comparison",
+      22
+    ],
+    [
+      "room",
       22
     ],
     [
@@ -174,11 +182,15 @@ window.IMAGE_KB = {
       21
     ],
     [
-      "comparison",
+      "scientific-educational",
+      21
+    ],
+    [
+      "amber",
       20
     ],
     [
-      "scientific-educational",
+      "direct",
       19
     ],
     [
@@ -191,34 +203,38 @@ window.IMAGE_KB = {
     ],
     [
       "frame",
-      16
+      18
     ],
     [
       "gray",
+      17
+    ],
+    [
+      "infographic-diagram",
+      17
+    ],
+    [
+      "arrows",
       16
     ],
     [
       "black",
-      15
+      16
     ],
     [
       "brown",
-      15
+      16
     ],
     [
-      "infographic-diagram",
-      15
+      "plate",
+      16
     ],
     [
       "steel",
       15
     ],
     [
-      "amber",
-      14
-    ],
-    [
-      "direct",
+      "color",
       14
     ],
     [
@@ -238,15 +254,23 @@ window.IMAGE_KB = {
       14
     ],
     [
-      "room",
-      14
+      "glass",
+      13
     ],
     [
-      "plate",
+      "map",
+      13
+    ],
+    [
+      "stock",
       13
     ],
     [
       "brushed",
+      12
+    ],
+    [
+      "green",
       12
     ],
     [
@@ -258,7 +282,11 @@ window.IMAGE_KB = {
       12
     ],
     [
-      "arrows",
+      "strip",
+      12
+    ],
+    [
+      "across",
       11
     ],
     [
@@ -266,19 +294,7 @@ window.IMAGE_KB = {
       11
     ],
     [
-      "color",
-      11
-    ],
-    [
-      "glass",
-      11
-    ],
-    [
-      "green",
-      11
-    ],
-    [
-      "map",
+      "bottom",
       11
     ],
     [
@@ -290,16 +306,8 @@ window.IMAGE_KB = {
       11
     ],
     [
-      "strip",
-      11
-    ],
-    [
       "tools",
       11
-    ],
-    [
-      "across",
-      10
     ],
     [
       "aquarium",
@@ -314,15 +322,23 @@ window.IMAGE_KB = {
       10
     ],
     [
-      "bottom",
-      10
-    ],
-    [
       "brood",
       10
     ],
     [
       "buttercream",
+      10
+    ],
+    [
+      "card",
+      10
+    ],
+    [
+      "cloth",
+      10
+    ],
+    [
+      "documentary",
       10
     ],
     [
@@ -338,8 +354,28 @@ window.IMAGE_KB = {
       10
     ],
     [
+      "photorealistic-natural",
+      10
+    ],
+    [
+      "practical",
+      10
+    ],
+    [
+      "section",
+      10
+    ],
+    [
+      "top-down",
+      10
+    ],
+    [
       "white",
       10
+    ],
+    [
+      "accents",
+      9
     ],
     [
       "acetate",
@@ -350,7 +386,19 @@ window.IMAGE_KB = {
       9
     ],
     [
+      "apartment",
+      9
+    ],
+    [
+      "atlas-contact-sheet",
+      9
+    ],
+    [
       "braiding",
+      9
+    ],
+    [
+      "camera",
       9
     ],
     [
@@ -362,7 +410,7 @@ window.IMAGE_KB = {
       9
     ],
     [
-      "cloth",
+      "clipped",
       9
     ],
     [
@@ -374,19 +422,39 @@ window.IMAGE_KB = {
       9
     ],
     [
-      "documentary",
-      9
-    ],
-    [
       "honey",
       9
     ],
     [
-      "photorealistic-natural",
+      "label",
+      9
+    ],
+    [
+      "linework",
+      9
+    ],
+    [
+      "marks",
+      9
+    ],
+    [
+      "pencil",
+      9
+    ],
+    [
+      "printed",
       9
     ],
     [
       "repeated",
+      9
+    ],
+    [
+      "row",
+      9
+    ],
+    [
+      "shot",
       9
     ],
     [
@@ -395,14 +463,6 @@ window.IMAGE_KB = {
     ],
     [
       "stainless",
-      9
-    ],
-    [
-      "stock",
-      9
-    ],
-    [
-      "top-down",
       9
     ],
     [
@@ -418,10 +478,6 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "atlas-contact-sheet",
-      8
-    ],
-    [
       "bee",
       8
     ],
@@ -434,15 +490,7 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "card",
-      8
-    ],
-    [
       "cells",
-      8
-    ],
-    [
-      "clipped",
       8
     ],
     [
@@ -458,6 +506,10 @@ window.IMAGE_KB = {
       8
     ],
     [
+      "each",
+      8
+    ],
+    [
       "evidence",
       8
     ],
@@ -466,7 +518,15 @@ window.IMAGE_KB = {
       8
     ],
     [
+      "framing",
+      8
+    ],
+    [
       "galvanized",
+      8
+    ],
+    [
+      "grain",
       8
     ],
     [
@@ -478,11 +538,11 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "label",
+      "lighting",
       8
     ],
     [
-      "marks",
+      "mixed-format",
       8
     ],
     [
@@ -494,15 +554,11 @@ window.IMAGE_KB = {
       8
     ],
     [
+      "photo",
+      8
+    ],
+    [
       "pine",
-      8
-    ],
-    [
-      "row",
-      8
-    ],
-    [
-      "section",
       8
     ],
     [
@@ -510,15 +566,27 @@ window.IMAGE_KB = {
       8
     ],
     [
+      "setup",
+      8
+    ],
+    [
       "test",
       8
     ],
     [
-      "accents",
+      "wall",
+      8
+    ],
+    [
+      "actor",
       7
     ],
     [
       "beginner",
+      7
+    ],
+    [
+      "blocking",
       7
     ],
     [
@@ -538,6 +606,18 @@ window.IMAGE_KB = {
       7
     ],
     [
+      "cutaway",
+      7
+    ],
+    [
+      "edge",
+      7
+    ],
+    [
+      "film-preproduction",
+      7
+    ],
+    [
       "fish",
       7
     ],
@@ -546,7 +626,19 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "mixed-format",
+      "grease-pencil",
+      7
+    ],
+    [
+      "insets",
+      7
+    ],
+    [
+      "lines",
+      7
+    ],
+    [
+      "materials",
       7
     ],
     [
@@ -558,7 +650,15 @@ window.IMAGE_KB = {
       7
     ],
     [
+      "photography",
+      7
+    ],
+    [
       "piping",
+      7
+    ],
+    [
+      "plastic",
       7
     ],
     [
@@ -574,11 +674,23 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "setup",
+      "search-answer",
+      7
+    ],
+    [
+      "showing",
+      7
+    ],
+    [
+      "side",
       7
     ],
     [
       "station",
+      7
+    ],
+    [
+      "teaching",
       7
     ],
     [
@@ -594,6 +706,18 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "border",
+      6
+    ],
+    [
+      "bottle",
+      6
+    ],
+    [
+      "box",
+      6
+    ],
+    [
       "cape",
       6
     ],
@@ -606,7 +730,7 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "cutaway",
+      "classroom",
       6
     ],
     [
@@ -614,7 +738,11 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "each",
+      "example",
+      6
+    ],
+    [
+      "film",
       6
     ],
     [
@@ -638,15 +766,15 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "lamp",
+      6
+    ],
+    [
       "lantern",
       6
     ],
     [
       "leather",
-      6
-    ],
-    [
-      "lighting",
       6
     ],
     [
@@ -658,15 +786,15 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "materials",
-      6
-    ],
-    [
       "media",
       6
     ],
     [
       "midnight",
+      6
+    ],
+    [
+      "muted",
       6
     ],
     [
@@ -686,15 +814,11 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "photography",
+      "planning",
       6
     ],
     [
-      "plastic",
-      6
-    ],
-    [
-      "practical",
+      "production",
       6
     ],
     [
@@ -702,7 +826,7 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "side",
+      "same",
       6
     ],
     [
@@ -714,7 +838,19 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "still",
+      6
+    ],
+    [
+      "tabs",
+      6
+    ],
+    [
       "tank",
+      6
+    ],
+    [
+      "tape",
       6
     ],
     [
@@ -726,19 +862,27 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "wall",
+      "warm",
       6
+    ],
+    [
+      "window",
+      6
+    ],
+    [
+      "action",
+      5
     ],
     [
       "ammonia",
       5
     ],
     [
-      "border",
+      "believable",
       5
     ],
     [
-      "bottle",
+      "boards",
       5
     ],
     [
@@ -758,11 +902,11 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "classroom",
+      "connects",
       5
     ],
     [
-      "connects",
+      "continuity",
       5
     ],
     [
@@ -770,19 +914,27 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "couch",
+      5
+    ],
+    [
       "courier",
       5
     ],
     [
-      "framing",
+      "dinner",
       5
     ],
     [
-      "grain",
+      "faded",
       5
     ],
     [
-      "grease-pencil",
+      "finished",
+      5
+    ],
+    [
+      "floor",
       5
     ],
     [
@@ -790,7 +942,7 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "insets",
+      "installation",
       5
     ],
     [
@@ -803,6 +955,14 @@ window.IMAGE_KB = {
     ],
     [
       "maps",
+      5
+    ],
+    [
+      "markers",
+      5
+    ],
+    [
+      "mini",
       5
     ],
     [
@@ -822,15 +982,15 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "overhead",
+      5
+    ],
+    [
       "parchment",
       5
     ],
     [
       "patch",
-      5
-    ],
-    [
-      "pencil",
       5
     ],
     [
@@ -842,15 +1002,7 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "printed",
-      5
-    ],
-    [
       "process",
-      5
-    ],
-    [
-      "production",
       5
     ],
     [
@@ -870,6 +1022,10 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "small",
+      5
+    ],
+    [
       "spare",
       5
     ],
@@ -878,7 +1034,7 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "teaching",
+      "tabletop",
       5
     ],
     [
@@ -890,11 +1046,15 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "warning",
+      5
+    ],
+    [
       "abstract",
       4
     ],
     [
-      "action",
+      "accent",
       4
     ],
     [
@@ -930,10 +1090,6 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "believable",
-      4
-    ],
-    [
       "bell",
       4
     ],
@@ -946,7 +1102,7 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "boards",
+      "boxes",
       4
     ],
     [
@@ -986,15 +1142,23 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "cinematic",
+      4
+    ],
+    [
+      "clip",
+      4
+    ],
+    [
       "closed",
       4
     ],
     [
-      "composition",
+      "compares",
       4
     ],
     [
-      "continuity",
+      "composition",
       4
     ],
     [
@@ -1030,19 +1194,11 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "edge",
-      4
-    ],
-    [
       "entrance",
       4
     ],
     [
       "environment",
-      4
-    ],
-    [
-      "example",
       4
     ],
     [
@@ -1054,11 +1210,15 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "fabric",
+      4
+    ],
+    [
       "field",
       4
     ],
     [
-      "finished",
+      "frames",
       4
     ],
     [
@@ -1090,10 +1250,6 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "installation",
-      4
-    ],
-    [
       "landscape",
       4
     ],
@@ -1110,15 +1266,7 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "lines",
-      4
-    ],
-    [
-      "linework",
-      4
-    ],
-    [
-      "markers",
+      "low",
       4
     ],
     [
@@ -1130,11 +1278,11 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "overhead",
+      "parts",
       4
     ],
     [
-      "parts",
+      "path",
       4
     ],
     [
@@ -1142,11 +1290,15 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "photo",
+      "pinned",
       4
     ],
     [
       "piped",
+      4
+    ],
+    [
+      "plan",
       4
     ],
     [
@@ -1174,6 +1326,14 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "red",
+      4
+    ],
+    [
+      "reusable",
+      4
+    ],
+    [
       "roof",
       4
     ],
@@ -1186,10 +1346,6 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "same",
-      4
-    ],
-    [
       "satchel",
       4
     ],
@@ -1198,11 +1354,11 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "search",
+      "screen",
       4
     ],
     [
-      "showing",
+      "search",
       4
     ],
     [
@@ -1211,6 +1367,10 @@ window.IMAGE_KB = {
     ],
     [
       "split",
+      4
+    ],
+    [
+      "square",
       4
     ],
     [
@@ -1230,15 +1390,15 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "tabletop",
-      4
-    ],
-    [
       "timeline",
       4
     ],
     [
       "timing",
+      4
+    ],
+    [
+      "tiny",
       4
     ],
     [
@@ -1254,11 +1414,11 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "veil",
+      "two",
       4
     ],
     [
-      "warning",
+      "veil",
       4
     ],
     [
@@ -1270,7 +1430,11 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "accent",
+      "above",
+      3
+    ],
+    [
+      "actors",
       3
     ],
     [
@@ -1278,7 +1442,15 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "angle",
+      3
+    ],
+    [
       "annotation",
+      3
+    ],
+    [
+      "apple",
       3
     ],
     [
@@ -1298,6 +1470,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "beat",
+      3
+    ],
+    [
       "biofilm",
       3
     ],
@@ -1310,11 +1486,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "box",
-      3
-    ],
-    [
-      "boxes",
+      "bold",
       3
     ],
     [
@@ -1362,15 +1534,15 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "cinematic",
-      3
-    ],
-    [
-      "clip",
+      "cinematography",
       3
     ],
     [
       "close",
+      3
+    ],
+    [
+      "close-up",
       3
     ],
     [
@@ -1390,10 +1562,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "compares",
-      3
-    ],
-    [
       "context",
       3
     ],
@@ -1406,6 +1574,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "cotton",
+      3
+    ],
+    [
       "cuffs",
       3
     ],
@@ -1414,7 +1586,19 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "curtained",
+      3
+    ],
+    [
       "cycling",
+      3
+    ],
+    [
+      "detail",
+      3
+    ],
+    [
+      "director",
       3
     ],
     [
@@ -1446,15 +1630,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "fabric",
-      3
-    ],
-    [
-      "faded",
-      3
-    ],
-    [
-      "film-preproduction",
+      "eyeline",
       3
     ],
     [
@@ -1466,6 +1642,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "floor-plan",
+      3
+    ],
+    [
       "flow",
       3
     ],
@@ -1474,11 +1654,19 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "folding",
+      3
+    ],
+    [
+      "foreground",
+      3
+    ],
+    [
       "fork",
       3
     ],
     [
-      "frames",
+      "furniture",
       3
     ],
     [
@@ -1498,6 +1686,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "grease",
+      3
+    ],
+    [
       "hair",
       3
     ],
@@ -1506,7 +1698,23 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "high",
+      3
+    ],
+    [
       "hold",
+      3
+    ],
+    [
+      "icons",
+      3
+    ],
+    [
+      "ink",
+      3
+    ],
+    [
+      "ivory",
       3
     ],
     [
@@ -1515,6 +1723,10 @@ window.IMAGE_KB = {
     ],
     [
       "kit",
+      3
+    ],
+    [
+      "kitchen",
       3
     ],
     [
@@ -1538,6 +1750,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "master",
+      3
+    ],
+    [
       "minimal",
       3
     ],
@@ -1550,15 +1766,23 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "off-white",
+      3
+    ],
+    [
+      "olive",
+      3
+    ],
+    [
+      "panel",
+      3
+    ],
+    [
       "paper-tool",
       3
     ],
     [
       "patched",
-      3
-    ],
-    [
-      "path",
       3
     ],
     [
@@ -1570,11 +1794,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "pistachio",
+      "photographed",
       3
     ],
     [
-      "planning",
+      "pistachio",
       3
     ],
     [
@@ -1586,15 +1810,15 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "positions",
+      3
+    ],
+    [
       "productivity-visual",
       3
     ],
     [
-      "red",
-      3
-    ],
-    [
-      "reusable",
+      "proof",
       3
     ],
     [
@@ -1642,6 +1866,14 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "shirt",
+      3
+    ],
+    [
+      "shoulder",
+      3
+    ],
+    [
       "shown",
       3
     ],
@@ -1654,7 +1886,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "small",
+      "six-panel",
+      3
+    ],
+    [
+      "size",
       3
     ],
     [
@@ -1678,7 +1914,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "still",
+      "storyboard",
       3
     ],
     [
@@ -1687,10 +1923,6 @@ window.IMAGE_KB = {
     ],
     [
       "stress",
-      3
-    ],
-    [
-      "tabs",
       3
     ],
     [
@@ -1710,11 +1942,15 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "threshold",
+      "them",
       3
     ],
     [
-      "tiny",
+      "three",
+      3
+    ],
+    [
+      "threshold",
       3
     ],
     [
@@ -1730,6 +1966,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "wash",
+      3
+    ],
+    [
       "water",
       3
     ],
@@ -1742,12 +1982,12 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "workshop",
+      "wood",
       3
     ],
     [
-      "above",
-      2
+      "workshop",
+      3
     ],
     [
       "active",
@@ -1798,6 +2038,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "architectural",
+      2
+    ],
+    [
       "archival",
       2
     ],
@@ -1818,15 +2062,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "back",
+      2
+    ],
+    [
       "bamboo",
       2
     ],
     [
       "band",
-      2
-    ],
-    [
-      "beat",
       2
     ],
     [
@@ -1866,10 +2110,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "bold",
-      2
-    ],
-    [
       "borders",
       2
     ],
@@ -1906,6 +2146,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "cardboard",
+      2
+    ],
+    [
       "catalog",
       2
     ],
@@ -1915,6 +2159,10 @@ window.IMAGE_KB = {
     ],
     [
       "chain-oil",
+      2
+    ],
+    [
+      "chair",
       2
     ],
     [
@@ -1943,10 +2191,6 @@ window.IMAGE_KB = {
     ],
     [
       "clapboard",
-      2
-    ],
-    [
-      "close-up",
       2
     ],
     [
@@ -2006,6 +2250,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "coverage",
+      2
+    ],
+    [
       "create",
       2
     ],
@@ -2023,6 +2271,10 @@ window.IMAGE_KB = {
     ],
     [
       "cuff",
+      2
+    ],
+    [
+      "curtain",
       2
     ],
     [
@@ -2050,11 +2302,23 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "detail",
+      "diagrams",
+      2
+    ],
+    [
+      "dialogue",
+      2
+    ],
+    [
+      "direction",
       2
     ],
     [
       "disciplined",
+      2
+    ],
+    [
+      "distance",
       2
     ],
     [
@@ -2067,6 +2331,10 @@ window.IMAGE_KB = {
     ],
     [
       "doctrine",
+      2
+    ],
+    [
+      "doorway",
       2
     ],
     [
@@ -2083,6 +2351,10 @@ window.IMAGE_KB = {
     ],
     [
       "duckbill",
+      2
+    ],
+    [
+      "dull",
       2
     ],
     [
@@ -2134,10 +2406,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "film",
-      2
-    ],
-    [
       "finger-jointed",
       2
     ],
@@ -2150,15 +2418,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "folding",
+      "flat",
       2
     ],
     [
       "food",
-      2
-    ],
-    [
-      "foreground",
       2
     ],
     [
@@ -2202,15 +2466,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "glow",
+      2
+    ],
+    [
       "glowing",
       2
     ],
     [
       "gold",
-      2
-    ],
-    [
-      "grease",
       2
     ],
     [
@@ -2238,10 +2502,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "high",
-      2
-    ],
-    [
       "history",
       2
     ],
@@ -2266,10 +2526,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "icons",
-      2
-    ],
-    [
       "infestation",
       2
     ],
@@ -2282,7 +2538,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "ivory",
+      "insert",
+      2
+    ],
+    [
+      "instructional",
       2
     ],
     [
@@ -2307,6 +2567,10 @@ window.IMAGE_KB = {
     ],
     [
       "knee",
+      2
+    ],
+    [
+      "ladder",
       2
     ],
     [
@@ -2366,10 +2630,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "low",
-      2
-    ],
-    [
       "lube",
       2
     ],
@@ -2386,11 +2646,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "marker",
+      2
+    ],
+    [
       "mason",
       2
     ],
     [
-      "mini",
+      "matched",
       2
     ],
     [
@@ -2418,10 +2682,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "muted",
-      2
-    ],
-    [
       "narrow",
       2
     ],
@@ -2446,7 +2706,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "off-white",
+      "offset",
       2
     ],
     [
@@ -2478,6 +2738,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "ots",
+      2
+    ],
+    [
       "oval",
       2
     ],
@@ -2502,10 +2766,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "panel",
-      2
-    ],
-    [
       "parapets",
       2
     ],
@@ -2526,19 +2786,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "photographed",
-      2
-    ],
-    [
-      "pinned",
-      2
-    ],
-    [
       "placement",
-      2
-    ],
-    [
-      "plan",
       2
     ],
     [
@@ -2574,11 +2822,23 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "preproduction",
+      2
+    ],
+    [
       "presentation",
       2
     ],
     [
+      "printouts",
+      2
+    ],
+    [
       "product",
+      2
+    ],
+    [
+      "profile",
       2
     ],
     [
@@ -2587,10 +2847,6 @@ window.IMAGE_KB = {
     ],
     [
       "projector",
-      2
-    ],
-    [
-      "proof",
       2
     ],
     [
@@ -2623,6 +2879,10 @@ window.IMAGE_KB = {
     ],
     [
       "reducer",
+      2
+    ],
+    [
+      "rehearsal",
       2
     ],
     [
@@ -2666,6 +2926,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "rough",
+      2
+    ],
+    [
       "routes",
       2
     ],
@@ -2675,6 +2939,10 @@ window.IMAGE_KB = {
     ],
     [
       "rusted",
+      2
+    ],
+    [
+      "safe",
       2
     ],
     [
@@ -2694,15 +2962,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "screen",
-      2
-    ],
-    [
       "screened",
       2
     ],
     [
-      "search-answer",
+      "seated",
       2
     ],
     [
@@ -2734,7 +2998,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "shot",
+      "shows",
       2
     ],
     [
@@ -2746,11 +3010,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "six-panel",
+      "skin",
       2
     ],
     [
       "smoker-bellows",
+      2
+    ],
+    [
+      "sofa",
       2
     ],
     [
@@ -2802,6 +3070,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "stills",
+      2
+    ],
+    [
       "storage",
       2
     ],
@@ -2850,10 +3122,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "tape",
-      2
-    ],
-    [
       "tea-house",
       2
     ],
@@ -2874,19 +3142,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "them",
-      2
-    ],
-    [
-      "three",
-      2
-    ],
-    [
       "tile",
       2
     ],
     [
       "tones",
+      2
+    ],
+    [
+      "toolkit",
       2
     ],
     [
@@ -2903,6 +3167,10 @@ window.IMAGE_KB = {
     ],
     [
       "traffic",
+      2
+    ],
+    [
+      "tripod",
       2
     ],
     [
@@ -2930,11 +3198,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "warm",
-      2
-    ],
-    [
-      "wash",
+      "view",
       2
     ],
     [
@@ -2951,10 +3215,6 @@ window.IMAGE_KB = {
     ],
     [
       "wheel",
-      2
-    ],
-    [
-      "wood",
       2
     ],
     [
@@ -2978,10 +3238,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "actor",
-      1
-    ],
-    [
       "add",
       1
     ],
@@ -2999,6 +3255,10 @@ window.IMAGE_KB = {
     ],
     [
       "adversary",
+      1
+    ],
+    [
+      "advertising",
       1
     ],
     [
@@ -3042,7 +3302,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "angle",
+      "angles",
       1
     ],
     [
@@ -3070,6 +3330,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "apartment-scene",
+      1
+    ],
+    [
       "api-style",
       1
     ],
@@ -3090,11 +3354,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "architectural",
+      "arcs",
       1
     ],
     [
-      "arcs",
+      "argument",
       1
     ],
     [
@@ -3107,6 +3371,10 @@ window.IMAGE_KB = {
     ],
     [
       "arrow",
+      1
+    ],
+    [
+      "arrow-callout",
       1
     ],
     [
@@ -3138,7 +3406,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "back",
+      "axis",
+      1
+    ],
+    [
+      "backs",
       1
     ],
     [
@@ -3198,6 +3470,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "between",
+      1
+    ],
+    [
       "binding",
       1
     ],
@@ -3207,10 +3483,6 @@ window.IMAGE_KB = {
     ],
     [
       "blend",
-      1
-    ],
-    [
-      "blocking",
       1
     ],
     [
@@ -3238,6 +3510,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "bounce",
+      1
+    ],
+    [
       "boxed",
       1
     ],
@@ -3251,6 +3527,10 @@ window.IMAGE_KB = {
     ],
     [
       "breaks",
+      1
+    ],
+    [
+      "broken",
       1
     ],
     [
@@ -3271,6 +3551,10 @@ window.IMAGE_KB = {
     ],
     [
       "bumps",
+      1
+    ],
+    [
+      "c-47",
       1
     ],
     [
@@ -3298,7 +3582,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "camera",
+      "cam",
+      1
+    ],
+    [
+      "camera-brand",
       1
     ],
     [
@@ -3307,10 +3595,6 @@ window.IMAGE_KB = {
     ],
     [
       "capcut",
-      1
-    ],
-    [
-      "cardboard",
       1
     ],
     [
@@ -3402,6 +3686,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "clearance",
+      1
+    ],
+    [
       "client",
       1
     ],
@@ -3443,6 +3731,10 @@ window.IMAGE_KB = {
     ],
     [
       "coffee",
+      1
+    ],
+    [
+      "coherence",
       1
     ],
     [
@@ -3494,6 +3786,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "compression",
+      1
+    ],
+    [
       "concrete",
       1
     ],
@@ -3530,7 +3826,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "containing",
+      1
+    ],
+    [
       "continental",
+      1
+    ],
+    [
+      "conversation",
       1
     ],
     [
@@ -3543,6 +3847,10 @@ window.IMAGE_KB = {
     ],
     [
       "coral",
+      1
+    ],
+    [
+      "cork",
       1
     ],
     [
@@ -3595,6 +3903,18 @@ window.IMAGE_KB = {
     ],
     [
       "cross",
+      1
+    ],
+    [
+      "cross-section",
+      1
+    ],
+    [
+      "crossed-line",
+      1
+    ],
+    [
+      "crossing",
       1
     ],
     [
@@ -3670,6 +3990,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "degree",
+      1
+    ],
+    [
       "delay",
       1
     ],
@@ -3690,15 +4014,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dialogue-scene",
+      1
+    ],
+    [
       "different",
       1
     ],
     [
-      "diplomatic",
+      "dining",
       1
     ],
     [
-      "director",
+      "diplomatic",
       1
     ],
     [
@@ -3718,11 +4046,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "display",
+      1
+    ],
+    [
+      "distortion",
+      1
+    ],
+    [
       "distribution",
       1
     ],
     [
+      "documentation",
+      1
+    ],
+    [
       "dominant",
+      1
+    ],
+    [
+      "door",
       1
     ],
     [
@@ -3751,10 +4095,6 @@ window.IMAGE_KB = {
     ],
     [
       "droppers",
-      1
-    ],
-    [
-      "dull",
       1
     ],
     [
@@ -3791,6 +4131,10 @@ window.IMAGE_KB = {
     ],
     [
       "emergency",
+      1
+    ],
+    [
+      "emotional",
       1
     ],
     [
@@ -3835,6 +4179,14 @@ window.IMAGE_KB = {
     ],
     [
       "expression",
+      1
+    ],
+    [
+      "extreme",
+      1
+    ],
+    [
+      "eye",
       1
     ],
     [
@@ -3938,15 +4290,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "flat",
-      1
-    ],
-    [
       "fleet",
-      1
-    ],
-    [
-      "floor",
       1
     ],
     [
@@ -3963,6 +4307,14 @@ window.IMAGE_KB = {
     ],
     [
       "foam",
+      1
+    ],
+    [
+      "focal",
+      1
+    ],
+    [
+      "focal-length",
       1
     ],
     [
@@ -4010,10 +4362,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "furniture",
-      1
-    ],
-    [
       "gap",
       1
     ],
@@ -4058,11 +4406,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "glazed",
+      "glance",
       1
     ],
     [
-      "glow",
+      "glazed",
       1
     ],
     [
@@ -4134,7 +4482,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "headroom",
+      1
+    ],
+    [
       "heater",
+      1
+    ],
+    [
+      "height",
+      1
+    ],
+    [
+      "heights",
       1
     ],
     [
@@ -4198,11 +4558,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "initial",
+      "indie",
       1
     ],
     [
-      "ink",
+      "initial",
       1
     ],
     [
@@ -4246,10 +4606,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "kitchen",
-      1
-    ],
-    [
       "kite-recovery",
       1
     ],
@@ -4263,10 +4619,6 @@ window.IMAGE_KB = {
     ],
     [
       "labeled",
-      1
-    ],
-    [
-      "ladder",
       1
     ],
     [
@@ -4318,6 +4670,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "legend",
+      1
+    ],
+    [
       "legends",
       1
     ],
@@ -4326,7 +4682,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "legs",
+      1
+    ],
+    [
+      "length",
+      1
+    ],
+    [
+      "lens",
+      1
+    ],
+    [
       "lets",
+      1
+    ],
+    [
+      "level",
       1
     ],
     [
@@ -4350,11 +4722,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "line",
+      1
+    ],
+    [
       "liners",
       1
     ],
     [
       "litter",
+      1
+    ],
+    [
+      "living",
       1
     ],
     [
@@ -4394,6 +4774,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "losing",
+      1
+    ],
+    [
       "lower",
       1
     ],
@@ -4430,11 +4814,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "mascot",
+      "marked",
       1
     ],
     [
-      "master",
+      "mascot",
       1
     ],
     [
@@ -4442,7 +4826,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "matched",
+      "match",
       1
     ],
     [
@@ -4498,6 +4882,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "most",
+      1
+    ],
+    [
       "motion-study",
       1
     ],
@@ -4507,6 +4895,10 @@ window.IMAGE_KB = {
     ],
     [
       "mounted",
+      1
+    ],
+    [
+      "movement",
       1
     ],
     [
@@ -4523,6 +4915,10 @@ window.IMAGE_KB = {
     ],
     [
       "names",
+      1
+    ],
+    [
+      "near",
       1
     ],
     [
@@ -4562,6 +4958,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "normal",
+      1
+    ],
+    [
       "note",
       1
     ],
@@ -4574,15 +4974,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "offset",
-      1
-    ],
-    [
       "offset-spatula",
       1
     ],
     [
       "ombre",
+      1
+    ],
+    [
+      "opposite",
+      1
+    ],
+    [
+      "other",
       1
     ],
     [
@@ -4598,6 +5002,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "over-the-shoulder",
+      1
+    ],
+    [
       "overfeeding",
       1
     ],
@@ -4610,7 +5018,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "pages",
+      1
+    ],
+    [
       "paired",
+      1
+    ],
+    [
+      "pairs",
       1
     ],
     [
@@ -4674,6 +5090,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "perspective",
+      1
+    ],
+    [
       "pet",
       1
     ],
@@ -4691,6 +5111,14 @@ window.IMAGE_KB = {
     ],
     [
       "photos",
+      1
+    ],
+    [
+      "physical",
+      1
+    ],
+    [
+      "pickup",
       1
     ],
     [
@@ -4734,11 +5162,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "pose",
+      "portrait",
       1
     ],
     [
-      "positions",
+      "portraits",
+      1
+    ],
+    [
+      "pose",
       1
     ],
     [
@@ -4763,10 +5195,6 @@ window.IMAGE_KB = {
     ],
     [
       "primary",
-      1
-    ],
-    [
-      "profile",
       1
     ],
     [
@@ -4795,6 +5223,10 @@ window.IMAGE_KB = {
     ],
     [
       "puncture",
+      1
+    ],
+    [
+      "push",
       1
     ],
     [
@@ -4870,11 +5302,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "reflections",
+      1
+    ],
+    [
       "reflective",
       1
     ],
     [
       "regional",
+      1
+    ],
+    [
+      "rehearsal-room",
       1
     ],
     [
@@ -4918,6 +5358,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "reverse",
+      1
+    ],
+    [
       "riders",
       1
     ],
@@ -4942,6 +5386,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "rolls",
+      1
+    ],
+    [
       "rooted",
       1
     ],
@@ -4951,10 +5399,6 @@ window.IMAGE_KB = {
     ],
     [
       "rose",
-      1
-    ],
-    [
-      "rough",
       1
     ],
     [
@@ -4982,6 +5426,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "rule",
+      1
+    ],
+    [
       "ruler-like",
       1
     ],
@@ -4999,10 +5447,6 @@ window.IMAGE_KB = {
     ],
     [
       "saddle-bag",
-      1
-    ],
-    [
-      "safe",
       1
     ],
     [
@@ -5038,6 +5482,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "script",
+      1
+    ],
+    [
       "sea",
       1
     ],
@@ -5062,7 +5510,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "set",
+      1
+    ],
+    [
+      "seven",
+      1
+    ],
+    [
       "shade",
+      1
+    ],
+    [
+      "shaping",
       1
     ],
     [
@@ -5090,19 +5550,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "shoulder",
-      1
-    ],
-    [
-      "shows",
-      1
-    ],
-    [
       "side-swoop",
       1
     ],
     [
       "sidewall",
+      1
+    ],
+    [
+      "sightline",
       1
     ],
     [
@@ -5118,6 +5574,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "single",
+      1
+    ],
+    [
+      "singles",
+      1
+    ],
+    [
       "sink",
       1
     ],
@@ -5126,15 +5590,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "size",
-      1
-    ],
-    [
       "sizes",
-      1
-    ],
-    [
-      "skin",
       1
     ],
     [
@@ -5198,6 +5654,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "spike",
+      1
+    ],
+    [
       "spine",
       1
     ],
@@ -5214,15 +5674,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "square",
-      1
-    ],
-    [
       "staff",
       1
     ],
     [
       "stalled",
+      1
+    ],
+    [
+      "standing",
+      1
+    ],
+    [
+      "stands",
       1
     ],
     [
@@ -5254,7 +5718,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "storyboard",
+      "storyboard-sequence",
       1
     ],
     [
@@ -5294,6 +5758,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "student",
+      1
+    ],
+    [
       "studio",
       1
     ],
@@ -5319,6 +5787,18 @@ window.IMAGE_KB = {
     ],
     [
       "summary",
+      1
+    ],
+    [
+      "surface",
+      1
+    ],
+    [
+      "surrounding",
+      1
+    ],
+    [
+      "sweater",
       1
     ],
     [
@@ -5367,6 +5847,10 @@ window.IMAGE_KB = {
     ],
     [
       "taxonomy",
+      1
+    ],
+    [
+      "telephoto",
       1
     ],
     [
@@ -5450,10 +5934,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "toolkit",
-      1
-    ],
-    [
       "trade",
       1
     ],
@@ -5506,6 +5986,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "tungsten",
+      1
+    ],
+    [
       "turnaround",
       1
     ],
@@ -5515,10 +5999,6 @@ window.IMAGE_KB = {
     ],
     [
       "twisting",
-      1
-    ],
-    [
-      "two",
       1
     ],
     [
@@ -5534,11 +6014,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "view",
+      "viewfinder",
       1
     ],
     [
       "vinyl",
+      1
+    ],
+    [
+      "visible",
       1
     ],
     [
@@ -5551,6 +6035,10 @@ window.IMAGE_KB = {
     ],
     [
       "wait",
+      1
+    ],
+    [
+      "walking",
       1
     ],
     [
@@ -5578,11 +6066,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "window",
+      "windows",
       1
     ],
     [
-      "windows",
+      "wine",
       1
     ],
     [
@@ -5612,12 +6100,16 @@ window.IMAGE_KB = {
   ],
   "hooks": [
     [
+      "cream paper",
+      10
+    ],
+    [
       "buttercream white",
       8
     ],
     [
-      "cream paper",
-      8
+      "charcoal linework",
+      7
     ],
     [
       "acetate overlays",
@@ -5688,7 +6180,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "charcoal linework",
+      "curtained window",
       3
     ],
     [
@@ -5697,6 +6189,10 @@ window.IMAGE_KB = {
     ],
     [
       "graphite gray",
+      3
+    ],
+    [
+      "grease-pencil arrows",
       3
     ],
     [
@@ -5816,6 +6312,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "charcoal ink",
+      2
+    ],
+    [
       "clear honey amber",
       2
     ],
@@ -5837,6 +6337,14 @@ window.IMAGE_KB = {
     ],
     [
       "Connects the sticky board",
+      2
+    ],
+    [
+      "cotton shirt",
+      2
+    ],
+    [
+      "couch edge",
       2
     ],
     [
@@ -6016,6 +6524,18 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "matte paper stock",
+      2
+    ],
+    [
+      "matte poster board",
+      2
+    ],
+    [
+      "matte printed board",
+      2
+    ],
+    [
       "matte production paper",
       2
     ],
@@ -6093,6 +6613,10 @@ window.IMAGE_KB = {
     ],
     [
       "paper card stock",
+      2
+    ],
+    [
+      "pencil floor-plan lines",
       2
     ],
     [
@@ -6400,11 +6924,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "amber lamp",
+      1
+    ],
+    [
+      "amber lamp glow",
+      1
+    ],
+    [
       "ammonia cloud",
       1
     ],
     [
+      "an insert pickup without losing eyeline coherence",
+      1
+    ],
+    [
       "analyst silhouettes",
+      1
+    ],
+    [
+      "angle guide",
       1
     ],
     [
@@ -6413,6 +6953,10 @@ window.IMAGE_KB = {
     ],
     [
       "anodized steel gray",
+      1
+    ],
+    [
+      "apple boxes",
       1
     ],
     [
@@ -6433,6 +6977,10 @@ window.IMAGE_KB = {
     ],
     [
       "auburn blend",
+      1
+    ],
+    [
+      "background compression in one glance",
       1
     ],
     [
@@ -6481,6 +7029,18 @@ window.IMAGE_KB = {
     ],
     [
       "blonde tip mix",
+      1
+    ],
+    [
+      "blue and red spike tape rolls",
+      1
+    ],
+    [
+      "blue tape X marks for blocking",
+      1
+    ],
+    [
+      "bold camera axis line between them",
       1
     ],
     [
@@ -6612,6 +7172,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "camera distance",
+      1
+    ],
+    [
       "cardboard cake boxes",
       1
     ],
@@ -6660,6 +7224,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "chair backs",
+      1
+    ],
+    [
+      "charcoal black labels",
+      1
+    ],
+    [
       "charcoal chairs",
       1
     ],
@@ -6684,6 +7256,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "charcoal marker",
+      1
+    ],
+    [
       "charcoal tabletop",
       1
     ],
@@ -6693,6 +7269,10 @@ window.IMAGE_KB = {
     ],
     [
       "charcoal text",
+      1
+    ],
+    [
+      "charcoal typography",
       1
     ],
     [
@@ -6760,6 +7340,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cloth tape",
+      1
+    ],
+    [
       "coated color card stock",
       1
     ],
@@ -6781,6 +7365,10 @@ window.IMAGE_KB = {
     ],
     [
       "commuter hi-vis yellow accents",
+      1
+    ],
+    [
+      "Compares the most reusable dialogue-scene camera angles",
       1
     ],
     [
@@ -6816,7 +7404,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cork board",
+      1
+    ],
+    [
+      "cork brown",
+      1
+    ],
+    [
+      "cotton sweater",
+      1
+    ],
+    [
       "couriers patched shoulder cape",
+      1
+    ],
+    [
+      "cream card stock",
       1
     ],
     [
@@ -6825,6 +7429,18 @@ window.IMAGE_KB = {
     ],
     [
       "cream presentation board",
+      1
+    ],
+    [
+      "cream printouts",
+      1
+    ],
+    [
+      "cream stock",
+      1
+    ],
+    [
+      "cream tabletop documentation board photographed from above",
       1
     ],
     [
@@ -6920,6 +7536,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "directors cardboard viewfinder",
+      1
+    ],
+    [
       "dirty cassette teeth",
       1
     ],
@@ -6960,6 +7580,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dull blue tape tabs",
+      1
+    ],
+    [
       "dull navy",
       1
     ],
@@ -6988,7 +7612,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "EXTREME CLOSE-UP",
+      1
+    ],
+    [
+      "EYELINE OFFSET",
+      1
+    ],
+    [
+      "fabric shirt wrinkles",
+      1
+    ],
+    [
       "faction tension meters",
+      1
+    ],
+    [
+      "faded blue tape",
+      1
+    ],
+    [
+      "faded blue tape accents",
       1
     ],
     [
@@ -7056,6 +7700,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "floor map",
+      1
+    ],
+    [
       "floor pump",
       1
     ],
@@ -7069,6 +7717,10 @@ window.IMAGE_KB = {
     ],
     [
       "folded neck strip",
+      1
+    ],
+    [
+      "folding table",
       1
     ],
     [
@@ -7104,6 +7756,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "glass reflections",
+      1
+    ],
+    [
       "glass test vials",
       1
     ],
@@ -7136,7 +7792,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "grease-pencil arrows",
+      "grease pencil",
       1
     ],
     [
@@ -7161,6 +7817,10 @@ window.IMAGE_KB = {
     ],
     [
       "hi-vis yellow",
+      1
+    ],
+    [
+      "HIGH ANGLE",
       1
     ],
     [
@@ -7220,11 +7880,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "ivory paper",
+      1
+    ],
+    [
       "jars of sponge and ceramic media",
       1
     ],
     [
       "jockey wheels",
+      1
+    ],
+    [
+      "kitchen doorway",
+      1
+    ],
+    [
+      "kitchen doorway visible",
       1
     ],
     [
@@ -7249,6 +7921,10 @@ window.IMAGE_KB = {
     ],
     [
       "laminated teaching board",
+      1
+    ],
+    [
+      "lamp amber",
       1
     ],
     [
@@ -7300,6 +7976,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "LOW ANGLE",
+      1
+    ],
+    [
       "lube bottle applying one drop per roller",
       1
     ],
@@ -7313,6 +7993,10 @@ window.IMAGE_KB = {
     ],
     [
       "maritime order doctrine",
+      1
+    ],
+    [
+      "marker arrows",
       1
     ],
     [
@@ -7348,11 +8032,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "matte paper stock",
+      "matte photo insets",
       1
     ],
     [
-      "matte poster board",
+      "matte photo stills",
+      1
+    ],
+    [
+      "matte plastic",
       1
     ],
     [
@@ -7385,6 +8073,10 @@ window.IMAGE_KB = {
     ],
     [
       "medium buttercream",
+      1
+    ],
+    [
+      "MEDIUM CLOSE-UP",
       1
     ],
     [
@@ -7432,6 +8124,22 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "muted green sofa",
+      1
+    ],
+    [
+      "muted olive furniture",
+      1
+    ],
+    [
+      "muted olive sofa",
+      1
+    ],
+    [
+      "muted olive upholstery",
+      1
+    ],
+    [
       "nearby test tray",
       1
     ],
@@ -7468,6 +8176,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "no surrounding room",
+      1
+    ],
+    [
+      "normal perspective",
+      1
+    ],
+    [
       "nylon brush bristles",
       1
     ],
@@ -7488,6 +8204,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "off-white storyboard page pinned flat",
+      1
+    ],
+    [
       "offset spatulas",
       1
     ],
@@ -7497,6 +8217,14 @@ window.IMAGE_KB = {
     ],
     [
       "oily chain links",
+      1
+    ],
+    [
+      "one actor stands",
+      1
+    ],
+    [
+      "one apartment dinner conversation broken into MASTER",
       1
     ],
     [
@@ -7525,6 +8253,10 @@ window.IMAGE_KB = {
     ],
     [
       "open star tip",
+      1
+    ],
+    [
+      "OVER SHOULDER",
       1
     ],
     [
@@ -7568,6 +8300,18 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "paper floor plan",
+      1
+    ],
+    [
+      "paper printouts",
+      1
+    ],
+    [
+      "paper stock",
+      1
+    ],
+    [
       "parchment paper",
       1
     ],
@@ -7588,7 +8332,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "pencil linework",
+      1
+    ],
+    [
+      "pencil section lines",
+      1
+    ],
+    [
       "perforated pegboard",
+      1
+    ],
+    [
+      "photo still grain",
+      1
+    ],
+    [
+      "photo still insets",
+      1
+    ],
+    [
+      "pinned apartment-scene planning materials",
       1
     ],
     [
@@ -7676,6 +8440,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "practical floor lamp",
+      1
+    ],
+    [
+      "practical lamp shaping the scene",
+      1
+    ],
+    [
       "practice cakes",
       1
     ],
@@ -7692,7 +8464,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "printed board",
+      1
+    ],
+    [
       "printed reference boards",
+      1
+    ],
+    [
+      "printed teaching board",
       1
     ],
     [
@@ -7824,6 +8604,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "rough paper",
+      1
+    ],
+    [
       "roughening the tube",
       1
     ],
@@ -7861,6 +8645,10 @@ window.IMAGE_KB = {
     ],
     [
       "rustic swoop",
+      1
+    ],
+    [
+      "safe camera positions on one side",
       1
     ],
     [
@@ -7920,6 +8708,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "section plate",
+      1
+    ],
+    [
       "shell border",
       1
     ],
@@ -7948,6 +8740,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "SINGLE A",
+      1
+    ],
+    [
+      "SINGLE B",
+      1
+    ],
+    [
       "siphon hose",
       1
     ],
@@ -7957,6 +8757,10 @@ window.IMAGE_KB = {
     ],
     [
       "skidding along a gutter",
+      1
+    ],
+    [
+      "skin detail",
       1
     ],
     [
@@ -8052,6 +8856,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "square dining table",
+      1
+    ],
+    [
       "stacked indicator panels",
       1
     ],
@@ -8089,6 +8897,10 @@ window.IMAGE_KB = {
     ],
     [
       "stiff buttercream hold different edge definition across rosette",
+      1
+    ],
+    [
+      "storyboard paper grain",
       1
     ],
     [
@@ -8144,6 +8956,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "tape tabs",
+      1
+    ],
+    [
       "taped annotation slips",
       1
     ],
@@ -8152,7 +8968,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "taped photo printouts",
+      1
+    ],
+    [
       "taxonomy of flower-related piping nozzles including petal tip",
+      1
+    ],
+    [
+      "telephoto compression",
       1
     ],
     [
@@ -8177,6 +9001,10 @@ window.IMAGE_KB = {
     ],
     [
       "tethered tire levers",
+      1
+    ],
+    [
+      "then a final wide with emotional distance",
       1
     ],
     [
@@ -8264,6 +9092,18 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "two actors marked A and B",
+      1
+    ],
+    [
+      "two actors seated at dinner",
+      1
+    ],
+    [
+      "two actors seated opposite each other",
+      1
+    ],
+    [
       "under-bench drawer storage for tips and couplers",
       1
     ],
@@ -8284,7 +9124,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "wall display containing a shot size chart",
+      1
+    ],
+    [
       "war-room evidence wall",
+      1
+    ],
+    [
+      "warm amber practical light",
       1
     ],
     [
@@ -8297,6 +9145,22 @@ window.IMAGE_KB = {
     ],
     [
       "warm gray tabletop with no room scene",
+      1
+    ],
+    [
+      "warm gray wash",
+      1
+    ],
+    [
+      "warm lamp amber",
+      1
+    ],
+    [
+      "warm table lamp",
+      1
+    ],
+    [
+      "warm wood table",
       1
     ],
     [
@@ -8348,7 +9212,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "wine glass",
+      1
+    ],
+    [
       "wire shelves",
+      1
+    ],
+    [
+      "with a wine bottle",
       1
     ],
     [
@@ -8357,6 +9229,14 @@ window.IMAGE_KB = {
     ],
     [
       "with clear visibility on the cage",
+      1
+    ],
+    [
+      "with the same couch",
+      1
+    ],
+    [
+      "wood grain",
       1
     ],
     [
@@ -8387,10 +9267,21 @@ window.IMAGE_KB = {
   "bands": [
     [
       "signature",
-      80
+      91
     ]
   ],
   "runs": [
+    {
+      "slug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "theme": "Cinematography Shot Size And Blocking Visual Guides",
+      "imageCount": 11,
+      "status": "success",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "publicImageCount": 11,
+      "archivedImageCount": 0
+    },
     {
       "slug": "20260521-1956-predictive-history-pressure-map-boards",
       "timestamp": "2026-05-21T19:56:51+08:00",
@@ -8481,6 +9372,1166 @@ window.IMAGE_KB = {
     }
   ],
   "images": [
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-01",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 1,
+      "title": "Shot Size Ladder Reference Poster",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "close-up",
+        "extreme",
+        "shot",
+        "size",
+        "cinematography",
+        "lamp",
+        "poster",
+        "actor",
+        "apartment",
+        "labels",
+        "ladder",
+        "room",
+        "teaching",
+        "black",
+        "camera",
+        "chart",
+        "couch",
+        "curtained",
+        "same",
+        "window",
+        "amber",
+        "back",
+        "border",
+        "chair",
+        "charcoal",
+        "color",
+        "comparison",
+        "cotton",
+        "dinner",
+        "direct",
+        "each",
+        "frames",
+        "headroom",
+        "matte",
+        "mood",
+        "muted",
+        "olive",
+        "photo",
+        "printed",
+        "reference",
+        "scientific-educational",
+        "search-answer",
+        "seven",
+        "shirt",
+        "short",
+        "sofa",
+        "square",
+        "stills"
+      ],
+      "specificHooks": [
+        "MEDIUM CLOSE-UP",
+        "EXTREME CLOSE-UP",
+        "with the same couch",
+        "curtained window",
+        "printed teaching board",
+        "matte photo stills",
+        "cotton shirt",
+        "charcoal black labels",
+        "warm lamp amber",
+        "muted olive sofa"
+      ],
+      "scaleTags": [
+        "page",
+        "room"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-01/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished cinematography teaching poster answering the query \"shot size chart cinematography\"\nScene/backdrop: neutral cream film-school teaching board with a thin black tape border and no surrounding room scene\nSubject: one actor seated beside a square apartment dinner table shown in a ladder of seven frames labeled EXTREME WIDE, WIDE, MEDIUM WIDE, MEDIUM, MEDIUM CLOSE-UP, CLOSE-UP, and EXTREME CLOSE-UP, with the same couch, curtained window, table lamp, chair back, plate, and shoulder line visible according to each shot size\nStyle/medium: realistic live-action cinematography reference poster using believable still-photo frames and clean short labels only\nComposition/framing: wide horizontal comparison chart with seven evenly spaced frame windows, each showing the same actor and room from the appropriate camera distance, plus a small bottom strip for headroom and looking-room notes\nLighting/mood: practical tungsten apartment light, calm instructional mood, no stylized color grading\nColor palette: cream board, charcoal black labels, warm lamp amber, muted olive sofa, walnut table, off-white curtain\nMaterials/textures: printed teaching board, matte photo stills, cotton shirt, lamp shade linen, wood table grain, taped border edges\nText (verbatim): \"EXTREME WIDE\" \"WIDE\" \"MEDIUM WIDE\" \"MEDIUM\" \"MEDIUM CLOSE-UP\" \"CLOSE-UP\" \"EXTREME CLOSE-UP\"\nConstraints: direct search-answer image for film students and indie directors, no logos, no watermark, no dense paragraphs\nAvoid: festival poster collage, camera brand advertising, neon HUD overlays, tiny text, glossy glamour styling",
+      "learningValue": "Shows how one actor and one apartment scene scale from extreme wide to extreme close-up without changing story geography, which makes the shot-size ladder easier to remember and apply.",
+      "compositionNotes": "The repeated couch, curtained window, square table, lamp glow, chair back, and actor posture keep extreme wide, medium close-up, headroom, looking room, apartment dinner scene, and shot size ladder all queryable from one page.",
+      "formatNotes": "Direct search-answer comparison poster for queries like shot size chart cinematography and camera shot sizes visual guide. Short labels are intentional; canonical terminology lives in this card if generated text varies.",
+      "searchText": "shot size ladder reference poster scientific-educational cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished cinematography teaching poster answering the query \"shot size chart cinematography\"\nscene/backdrop: neutral cream film-school teaching board with a thin black tape border and no surrounding room scene\nsubject: one actor seated beside a square apartment dinner table shown in a ladder of seven frames labeled extreme wide, wide, medium wide, medium, medium close-up, close-up, and extreme close-up, with the same couch, curtained window, table lamp, chair back, plate, and shoulder line visible according to each shot size\nstyle/medium: realistic live-action cinematography reference poster using believable still-photo frames and clean short labels only\ncomposition/framing: wide horizontal comparison chart with seven evenly spaced frame windows, each showing the same actor and room from the appropriate camera distance, plus a small bottom strip for headroom and looking-room notes\nlighting/mood: practical tungsten apartment light, calm instructional mood, no stylized color grading\ncolor palette: cream board, charcoal black labels, warm lamp amber, muted olive sofa, walnut table, off-white curtain\nmaterials/textures: printed teaching board, matte photo stills, cotton shirt, lamp shade linen, wood table grain, taped border edges\ntext (verbatim): \"extreme wide\" \"wide\" \"medium wide\" \"medium\" \"medium close-up\" \"close-up\" \"extreme close-up\"\nconstraints: direct search-answer image for film students and indie directors, no logos, no watermark, no dense paragraphs\navoid: festival poster collage, camera brand advertising, neon hud overlays, tiny text, glossy glamour styling shows how one actor and one apartment scene scale from extreme wide to extreme close-up without changing story geography, which makes the shot-size ladder easier to remember and apply. the repeated couch, curtained window, square table, lamp glow, chair back, and actor posture keep extreme wide, medium close-up, headroom, looking room, apartment dinner scene, and shot size ladder all queryable from one page. direct search-answer comparison poster for queries like shot size chart cinematography and camera shot sizes visual guide. short labels are intentional; canonical terminology lives in this card if generated text varies. medium close-up extreme close-up with the same couch curtained window printed teaching board matte photo stills cotton shirt charcoal black labels warm lamp amber muted olive sofa page room",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-02",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 2,
+      "title": "Camera Angle And Eyeline Guide",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "angle",
+        "eyeline",
+        "camera",
+        "shoulder",
+        "chart",
+        "guide",
+        "high",
+        "lamp",
+        "low",
+        "offset",
+        "actor",
+        "curtain",
+        "eye",
+        "framing",
+        "grain",
+        "level",
+        "poster",
+        "profile",
+        "amber",
+        "angles",
+        "apartment",
+        "arrow-callout",
+        "charcoal",
+        "cinematography",
+        "compares",
+        "cotton",
+        "dialogue-scene",
+        "direct",
+        "edge",
+        "film",
+        "infographic-diagram",
+        "labels",
+        "linework",
+        "match",
+        "matte",
+        "mood",
+        "most",
+        "photo",
+        "printed",
+        "reusable",
+        "room",
+        "row",
+        "search-answer",
+        "shirt",
+        "shot",
+        "showing",
+        "still",
+        "stock"
+      ],
+      "specificHooks": [
+        "HIGH ANGLE",
+        "LOW ANGLE",
+        "OVER SHOULDER",
+        "EYELINE OFFSET",
+        "matte printed board",
+        "photo still grain",
+        "cotton shirt",
+        "cream stock",
+        "charcoal linework",
+        "lamp amber",
+        "Compares the most reusable dialogue-scene camera angles"
+      ],
+      "scaleTags": [
+        "page",
+        "room"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/02-camera-angle-and-eyeline-guide.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/02-camera-angle-and-eyeline-guide.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/02-camera-angle-and-eyeline-guide.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/02-camera-angle-and-eyeline-guide.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-02/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished camera angle and eyeline teaching guide answering the queries \"camera angle chart for film students\" and \"eyeline match visual guide\"\nScene/backdrop: cream instructional poster board with no surrounding room scene\nSubject: six realistic live-action stills of the same apartment dinner-scene actor demonstrating EYE LEVEL, HIGH ANGLE, LOW ANGLE, PROFILE, OVER SHOULDER, and EYELINE OFFSET, plus a slim arrow-callout strip showing where the camera sits relative to the actor and scene partner\nStyle/medium: realistic cinematography education chart with believable still-photo frames, clean grid, and short uppercase labels only\nComposition/framing: two-row poster with the top row for angle examples and the bottom row for simple overhead eyeline arrows and shoulder-line mini diagrams, with the couch, lamp, window curtain, and table edge repeating for continuity\nLighting/mood: warm tungsten apartment practicals, focused classroom mood, subtle natural contrast\nColor palette: cream stock, charcoal linework, lamp amber, olive sofa, walnut table, pale curtain\nMaterials/textures: matte printed board, photo still grain, cotton shirt, wood grain, paper edge wear\nText (verbatim): \"EYE LEVEL\" \"HIGH ANGLE\" \"LOW ANGLE\" \"PROFILE\" \"OVER SHOULDER\" \"EYELINE OFFSET\"\nConstraints: direct search-answer image for indie directors and teachers, no logos, no watermark, no dense paragraphs\nAvoid: festival poster styling, dramatic action-movie poses, camera-brand product-ad language, neon overlays, unreadable micro text",
+      "learningValue": "Compares the most reusable dialogue-scene camera angles while also showing how eyeline placement and shoulder framing affect viewer orientation.",
+      "compositionNotes": "The repeated actor, lamp, window curtain, over-shoulder framing, profile view, and arrow-callout strip expose hooks like eye level shot, high angle, low angle, eyeline offset, over shoulder, and camera angle chart.",
+      "formatNotes": "Direct search-answer teaching plate for camera angle chart for film students and eyeline match visual guide. The graphic stays text-light so the nearby prompt-card terminology can carry the canonical labels.",
+      "searchText": "camera angle and eyeline guide infographic-diagram cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished camera angle and eyeline teaching guide answering the queries \"camera angle chart for film students\" and \"eyeline match visual guide\"\nscene/backdrop: cream instructional poster board with no surrounding room scene\nsubject: six realistic live-action stills of the same apartment dinner-scene actor demonstrating eye level, high angle, low angle, profile, over shoulder, and eyeline offset, plus a slim arrow-callout strip showing where the camera sits relative to the actor and scene partner\nstyle/medium: realistic cinematography education chart with believable still-photo frames, clean grid, and short uppercase labels only\ncomposition/framing: two-row poster with the top row for angle examples and the bottom row for simple overhead eyeline arrows and shoulder-line mini diagrams, with the couch, lamp, window curtain, and table edge repeating for continuity\nlighting/mood: warm tungsten apartment practicals, focused classroom mood, subtle natural contrast\ncolor palette: cream stock, charcoal linework, lamp amber, olive sofa, walnut table, pale curtain\nmaterials/textures: matte printed board, photo still grain, cotton shirt, wood grain, paper edge wear\ntext (verbatim): \"eye level\" \"high angle\" \"low angle\" \"profile\" \"over shoulder\" \"eyeline offset\"\nconstraints: direct search-answer image for indie directors and teachers, no logos, no watermark, no dense paragraphs\navoid: festival poster styling, dramatic action-movie poses, camera-brand product-ad language, neon overlays, unreadable micro text compares the most reusable dialogue-scene camera angles while also showing how eyeline placement and shoulder framing affect viewer orientation. the repeated actor, lamp, window curtain, over-shoulder framing, profile view, and arrow-callout strip expose hooks like eye level shot, high angle, low angle, eyeline offset, over shoulder, and camera angle chart. direct search-answer teaching plate for camera angle chart for film students and eyeline match visual guide. the graphic stays text-light so the nearby prompt-card terminology can carry the canonical labels. high angle low angle over shoulder eyeline offset matte printed board photo still grain cotton shirt cream stock charcoal linework lamp amber compares the most reusable dialogue-scene camera angles page room",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-03",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 3,
+      "title": "24mm 50mm 85mm Lens Portrait Strip",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "compression",
+        "camera",
+        "comparison",
+        "lens",
+        "distance",
+        "matched",
+        "portrait",
+        "room",
+        "actor",
+        "distortion",
+        "framing",
+        "lamp",
+        "normal",
+        "perspective",
+        "plate",
+        "strip",
+        "across",
+        "amber",
+        "apartment",
+        "camera-brand",
+        "charcoal",
+        "cinematography",
+        "color",
+        "detail",
+        "diagrams",
+        "direct",
+        "fabric",
+        "focal",
+        "focal-length",
+        "glance",
+        "green",
+        "instructional",
+        "labels",
+        "length",
+        "matte",
+        "muted",
+        "portraits",
+        "printed",
+        "same",
+        "scientific-educational",
+        "search-answer",
+        "shirt",
+        "short",
+        "showing",
+        "skin",
+        "sofa",
+        "telephoto",
+        "three"
+      ],
+      "specificHooks": [
+        "normal perspective",
+        "telephoto compression",
+        "matte printed board",
+        "skin detail",
+        "fabric shirt wrinkles",
+        "charcoal typography",
+        "amber lamp",
+        "muted green sofa",
+        "camera distance",
+        "background compression in one glance"
+      ],
+      "scaleTags": [
+        "page",
+        "body"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/03-24mm-50mm-85mm-lens-portrait-strip.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/03-24mm-50mm-85mm-lens-portrait-strip.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/03-24mm-50mm-85mm-lens-portrait-strip.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/03-24mm-50mm-85mm-lens-portrait-strip.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-03/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: matched focal-length comparison plate answering the query \"lens focal length comparison portrait\"\nScene/backdrop: cream comparison board with no room beyond the image strip\nSubject: the same seated actor at the same apartment dinner table photographed in three matched portraits labeled 24MM, 50MM, and 85MM, clearly showing wide-lens distortion, normal perspective, and telephoto compression, with small side insets of camera distance changing across the room\nStyle/medium: realistic cinematography education plate using live-action still photography and short labels only\nComposition/framing: wide three-panel strip across the center, each panel aligned so the actor face fills similar screen space while background compression changes, with a lower band of tiny room diagrams showing camera placement and actor position\nLighting/mood: warm practical lamp light with realistic indoor shadow falloff, neutral instructional tone\nColor palette: cream board, charcoal typography, amber lamp, muted green sofa, walnut wood, off-white walls\nMaterials/textures: matte printed board, skin detail, fabric shirt wrinkles, wood grain, paper tape\nText (verbatim): \"24MM\" \"50MM\" \"85MM\"\nConstraints: direct search-answer image for film students, no logos, no watermark, no camera-brand mentions, no dense paragraphs\nAvoid: glossy lens advertisement style, dramatic blockbuster grading, neon color, tiny unreadable notes, collage clutter",
+      "learningValue": "Demonstrates focal-length behavior through matched framing so viewers can compare distortion, camera distance, and background compression in one glance.",
+      "compositionNotes": "The three matched portraits and mini room diagrams keep 24mm distortion, 50mm normal perspective, 85mm compression, camera distance, apartment portrait, and lens comparison searchable without drifting into camera-brand marketing.",
+      "formatNotes": "Direct search-answer lens-comparison plate for lens focal length comparison portrait and related film-school queries. Short numeric labels are deliberate; the prompt card stores the full instructional framing.",
+      "searchText": "24mm 50mm 85mm lens portrait strip scientific-educational cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: matched focal-length comparison plate answering the query \"lens focal length comparison portrait\"\nscene/backdrop: cream comparison board with no room beyond the image strip\nsubject: the same seated actor at the same apartment dinner table photographed in three matched portraits labeled 24mm, 50mm, and 85mm, clearly showing wide-lens distortion, normal perspective, and telephoto compression, with small side insets of camera distance changing across the room\nstyle/medium: realistic cinematography education plate using live-action still photography and short labels only\ncomposition/framing: wide three-panel strip across the center, each panel aligned so the actor face fills similar screen space while background compression changes, with a lower band of tiny room diagrams showing camera placement and actor position\nlighting/mood: warm practical lamp light with realistic indoor shadow falloff, neutral instructional tone\ncolor palette: cream board, charcoal typography, amber lamp, muted green sofa, walnut wood, off-white walls\nmaterials/textures: matte printed board, skin detail, fabric shirt wrinkles, wood grain, paper tape\ntext (verbatim): \"24mm\" \"50mm\" \"85mm\"\nconstraints: direct search-answer image for film students, no logos, no watermark, no camera-brand mentions, no dense paragraphs\navoid: glossy lens advertisement style, dramatic blockbuster grading, neon color, tiny unreadable notes, collage clutter demonstrates focal-length behavior through matched framing so viewers can compare distortion, camera distance, and background compression in one glance. the three matched portraits and mini room diagrams keep 24mm distortion, 50mm normal perspective, 85mm compression, camera distance, apartment portrait, and lens comparison searchable without drifting into camera-brand marketing. direct search-answer lens-comparison plate for lens focal length comparison portrait and related film-school queries. short numeric labels are deliberate; the prompt card stores the full instructional framing. normal perspective telephoto compression matte printed board skin detail fabric shirt wrinkles charcoal typography amber lamp muted green sofa camera distance background compression in one glance page body",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-04",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 4,
+      "title": "180 Degree Rule Overhead Diagram",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "line",
+        "camera",
+        "rule",
+        "degree",
+        "direction",
+        "floor-plan",
+        "safe",
+        "screen",
+        "side",
+        "axis",
+        "positions",
+        "insets",
+        "instructional",
+        "shows",
+        "still",
+        "warm",
+        "action",
+        "apartment",
+        "arrows",
+        "between",
+        "bold",
+        "bottom",
+        "charcoal",
+        "crossed-line",
+        "crossing",
+        "dinner",
+        "direct",
+        "furniture",
+        "icons",
+        "infographic-diagram",
+        "lines",
+        "linework",
+        "matte",
+        "mood",
+        "muted",
+        "olive",
+        "overhead",
+        "pairs",
+        "pencil",
+        "photo",
+        "poster",
+        "search-answer",
+        "short",
+        "shot",
+        "square",
+        "them",
+        "two",
+        "warning"
+      ],
+      "specificHooks": [
+        "bold camera axis line between them",
+        "safe camera positions on one side",
+        "matte poster board",
+        "pencil floor-plan lines",
+        "photo still insets",
+        "charcoal linework",
+        "muted olive furniture",
+        "warm wood table"
+      ],
+      "scaleTags": [
+        "page",
+        "room"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/04-180-degree-rule-overhead-diagram.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/04-180-degree-rule-overhead-diagram.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/04-180-degree-rule-overhead-diagram.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/04-180-degree-rule-overhead-diagram.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-04/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: clear 180 degree rule teaching diagram answering the query \"180 degree rule diagram\"\nScene/backdrop: cream instructional board with a crisp overhead apartment floor-plan diagram\nSubject: two actors facing each other across a square dinner table, a bold camera axis line between them, safe camera positions on one side, a warning example showing what crossing the line does to screen direction, plus tiny frame-pair examples of left-looking and right-looking eyelines\nStyle/medium: polished film-school diagram mixing realistic miniature floor-plan illustration with small live-action frame insets and short uppercase labels only\nComposition/framing: left half shows the safe side of the line with camera icons and arrows, right side shows a crossed-line mistake panel, and the bottom strip shows two shot pairs preserving and breaking screen direction\nLighting/mood: neutral instructional mood with gentle warm apartment cues, high legibility\nColor palette: cream board, charcoal linework, muted olive furniture, warm wood table, amber accent arrows, faded blue tape marks\nMaterials/textures: matte poster board, pencil floor-plan lines, photo still insets, paper edge wear\nText (verbatim): \"THE 180 DEGREE RULE\" \"SAFE SIDE\" \"CROSSED LINE\" \"AXIS\" \"CAMERA POSITIONS\" \"PRESERVES SCREEN DIRECTION\" \"BREAKS SCREEN DIRECTION\"\nConstraints: direct search-answer image for film teachers and indie crews, no logos, no watermark, no dense paragraphs\nAvoid: flashy neon graphics, software UI look, camera-brand ad styling, cluttered micro text, action-movie spectacle",
+      "learningValue": "Explains the line of action through both floor-plan logic and shot-pair consequences, which makes the screen-direction rule easier to remember under production pressure.",
+      "compositionNotes": "The axis line, safe camera icons, crossed-line warning, square dinner table, actor A and B positions, and bottom eyeline pairs expose hooks like 180 degree rule, line of action, screen direction, crossing the line, and dialogue scene diagram.",
+      "formatNotes": "Direct search-answer diagram for 180 degree rule diagram. The image uses short instructional headings; exact label fidelity is still best treated as exploratory unless manually verified.",
+      "searchText": "180 degree rule overhead diagram infographic-diagram cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: clear 180 degree rule teaching diagram answering the query \"180 degree rule diagram\"\nscene/backdrop: cream instructional board with a crisp overhead apartment floor-plan diagram\nsubject: two actors facing each other across a square dinner table, a bold camera axis line between them, safe camera positions on one side, a warning example showing what crossing the line does to screen direction, plus tiny frame-pair examples of left-looking and right-looking eyelines\nstyle/medium: polished film-school diagram mixing realistic miniature floor-plan illustration with small live-action frame insets and short uppercase labels only\ncomposition/framing: left half shows the safe side of the line with camera icons and arrows, right side shows a crossed-line mistake panel, and the bottom strip shows two shot pairs preserving and breaking screen direction\nlighting/mood: neutral instructional mood with gentle warm apartment cues, high legibility\ncolor palette: cream board, charcoal linework, muted olive furniture, warm wood table, amber accent arrows, faded blue tape marks\nmaterials/textures: matte poster board, pencil floor-plan lines, photo still insets, paper edge wear\ntext (verbatim): \"the 180 degree rule\" \"safe side\" \"crossed line\" \"axis\" \"camera positions\" \"preserves screen direction\" \"breaks screen direction\"\nconstraints: direct search-answer image for film teachers and indie crews, no logos, no watermark, no dense paragraphs\navoid: flashy neon graphics, software ui look, camera-brand ad styling, cluttered micro text, action-movie spectacle explains the line of action through both floor-plan logic and shot-pair consequences, which makes the screen-direction rule easier to remember under production pressure. the axis line, safe camera icons, crossed-line warning, square dinner table, actor a and b positions, and bottom eyeline pairs expose hooks like 180 degree rule, line of action, screen direction, crossing the line, and dialogue scene diagram. direct search-answer diagram for 180 degree rule diagram. the image uses short instructional headings; exact label fidelity is still best treated as exploratory unless manually verified. bold camera axis line between them safe camera positions on one side matte poster board pencil floor-plan lines photo still insets charcoal linework muted olive furniture warm wood table page room",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 94,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 4,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-05",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 5,
+      "title": "Shot Reverse Shot Coverage Board",
+      "taxonomy": "film-preproduction",
+      "topics": [
+        "coverage",
+        "insert",
+        "shot",
+        "single",
+        "arrows",
+        "master",
+        "paper",
+        "ots",
+        "planning",
+        "apartment",
+        "conversation",
+        "diagrams",
+        "dinner",
+        "direction",
+        "eyeline",
+        "pickup",
+        "reverse",
+        "room",
+        "still",
+        "broken",
+        "charcoal",
+        "clipped",
+        "coherence",
+        "dialogue",
+        "dull",
+        "film-preproduction",
+        "floor-plan",
+        "frame",
+        "grease-pencil",
+        "indie",
+        "ink",
+        "labels",
+        "losing",
+        "matte",
+        "mini",
+        "photo",
+        "practical",
+        "preproduction",
+        "printouts",
+        "screen",
+        "setup",
+        "short",
+        "singles",
+        "small",
+        "stills",
+        "stock",
+        "surrounding",
+        "tabs"
+      ],
+      "specificHooks": [
+        "one apartment dinner conversation broken into MASTER",
+        "SINGLE A",
+        "SINGLE B",
+        "no surrounding room",
+        "matte paper stock",
+        "taped photo printouts",
+        "grease-pencil arrows",
+        "cream paper",
+        "charcoal ink",
+        "dull blue tape tabs",
+        "an insert pickup without losing eyeline coherence"
+      ],
+      "scaleTags": [
+        "page",
+        "room"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/05-shot-reverse-shot-coverage-board.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/05-shot-reverse-shot-coverage-board.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/05-shot-reverse-shot-coverage-board.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/05-shot-reverse-shot-coverage-board.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-05/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: film-preproduction\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical shot-reverse-shot planning board answering the query \"shot reverse shot setup diagram\"\nScene/backdrop: cream paper planning board with clipped frame stills and small floor diagrams, no surrounding room\nSubject: one apartment dinner conversation broken into MASTER, OTS A, OTS B, SINGLE A, SINGLE B, and INSERT, with arrows showing coverage flow and matching eyeline direction, plus small note boxes for screen direction and insert timing using only very short labels\nStyle/medium: realistic preproduction board that looks like an indie director's clean planning sheet, mixing still frames, floor-plan mini diagrams, and tape-tab callouts\nComposition/framing: central two-column layout with frame still on top and overhead map below for each coverage type, with bold coverage-path arrows connecting master to singles to insert pickup\nLighting/mood: warm tungsten apartment realism with tidy instructional board presentation\nColor palette: cream paper, charcoal ink, dull blue tape tabs, amber arrows, olive sofa, walnut table\nMaterials/textures: matte paper stock, taped photo printouts, grease-pencil arrows, subtle paper wrinkles\nText (verbatim): \"MASTER\" \"OTS A\" \"OTS B\" \"SINGLE A\" \"SINGLE B\" \"INSERT\"\nConstraints: direct search-answer image for film students and indie crews, no logos, no watermark, no camera-brand advertising, no dense paragraphs\nAvoid: festival poster moodboard, glossy movie still montage, neon effects, unreadable notes, abstract theory language",
+      "learningValue": "Shows how a dialogue scene expands from master coverage into over-the-shoulder shots, singles, and an insert pickup without losing eyeline coherence.",
+      "compositionNotes": "The clipped stills, floor-plan mini diagrams, coverage arrows, master, OTS, single, insert, screen direction, and dinner conversation keep the board legible as both a planning surface and a search result.",
+      "formatNotes": "Practical preproduction sheet for shot reverse shot setup diagram and dialogue scene coverage board. Short labels are deliberate; the canonical coverage vocabulary is preserved here even if the image text varies.",
+      "searchText": "shot reverse shot coverage board film-preproduction cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: film-preproduction\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical shot-reverse-shot planning board answering the query \"shot reverse shot setup diagram\"\nscene/backdrop: cream paper planning board with clipped frame stills and small floor diagrams, no surrounding room\nsubject: one apartment dinner conversation broken into master, ots a, ots b, single a, single b, and insert, with arrows showing coverage flow and matching eyeline direction, plus small note boxes for screen direction and insert timing using only very short labels\nstyle/medium: realistic preproduction board that looks like an indie director's clean planning sheet, mixing still frames, floor-plan mini diagrams, and tape-tab callouts\ncomposition/framing: central two-column layout with frame still on top and overhead map below for each coverage type, with bold coverage-path arrows connecting master to singles to insert pickup\nlighting/mood: warm tungsten apartment realism with tidy instructional board presentation\ncolor palette: cream paper, charcoal ink, dull blue tape tabs, amber arrows, olive sofa, walnut table\nmaterials/textures: matte paper stock, taped photo printouts, grease-pencil arrows, subtle paper wrinkles\ntext (verbatim): \"master\" \"ots a\" \"ots b\" \"single a\" \"single b\" \"insert\"\nconstraints: direct search-answer image for film students and indie crews, no logos, no watermark, no camera-brand advertising, no dense paragraphs\navoid: festival poster moodboard, glossy movie still montage, neon effects, unreadable notes, abstract theory language shows how a dialogue scene expands from master coverage into over-the-shoulder shots, singles, and an insert pickup without losing eyeline coherence. the clipped stills, floor-plan mini diagrams, coverage arrows, master, ots, single, insert, screen direction, and dinner conversation keep the board legible as both a planning surface and a search result. practical preproduction sheet for shot reverse shot setup diagram and dialogue scene coverage board. short labels are deliberate; the canonical coverage vocabulary is preserved here even if the image text varies. one apartment dinner conversation broken into master single a single b no surrounding room matte paper stock taped photo printouts grease-pencil arrows cream paper charcoal ink dull blue tape tabs an insert pickup without losing eyeline coherence page room",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-06",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 6,
+      "title": "Living Room Blocking Floor Map",
+      "taxonomy": "film-preproduction",
+      "topics": [
+        "blocking",
+        "tape",
+        "arrows",
+        "cam",
+        "floor",
+        "plan",
+        "camera",
+        "dining",
+        "paper",
+        "couch",
+        "door",
+        "doorway",
+        "kitchen",
+        "marks",
+        "path",
+        "room",
+        "square",
+        "top-down",
+        "accents",
+        "actors",
+        "apartment",
+        "charcoal",
+        "clearance",
+        "direct",
+        "faded",
+        "film-preproduction",
+        "floor-plan",
+        "furniture",
+        "grease-pencil",
+        "labels",
+        "legend",
+        "legs",
+        "lines",
+        "linework",
+        "living",
+        "map",
+        "marked",
+        "pencil",
+        "planning",
+        "positions",
+        "rehearsal",
+        "search-answer",
+        "stock",
+        "tiny",
+        "tripod",
+        "two",
+        "walking",
+        "window"
+      ],
+      "specificHooks": [
+        "square dining table",
+        "kitchen doorway",
+        "two actors marked A and B",
+        "blue tape X marks for blocking",
+        "paper stock",
+        "pencil floor-plan lines",
+        "grease-pencil arrows",
+        "cream paper",
+        "charcoal linework",
+        "faded blue tape accents"
+      ],
+      "scaleTags": [
+        "page",
+        "room"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/06-living-room-blocking-floor-map.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/06-living-room-blocking-floor-map.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/06-living-room-blocking-floor-map.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/06-living-room-blocking-floor-map.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-06/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: film-preproduction\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: overhead blocking plan answering the query \"camera blocking floor plan\"\nScene/backdrop: clean top-down apartment living room and dining nook on a pale cream drafting board\nSubject: a square dining table, couch, window, lamp, kitchen doorway, two actors marked A and B, blue tape X marks for blocking, four numbered camera positions, walking path arrows, and small obstacle icons for tripod legs, chair pullback, and door clearance\nStyle/medium: realistic preproduction floor-map plate drawn like a director's blocking diagram with a slight hand-drafted feel and crisp labels\nComposition/framing: centered top-down plan with a legend strip around the edges and three tiny inset frames showing how positions 1, 2, 3, and 4 translate into live-action views\nLighting/mood: neutral drafting-board clarity with subtle warm apartment cues\nColor palette: cream paper, charcoal linework, faded blue tape accents, amber path arrows, walnut furniture, olive couch\nMaterials/textures: paper stock, pencil floor-plan lines, grease-pencil arrows, tape tabs, wood texture in miniature furniture\nText (verbatim): \"A\" \"B\" \"CAM 1\" \"CAM 2\" \"CAM 3\" \"CAM 4\" \"MARK\" \"WINDOW\" \"DOOR\"\nConstraints: direct search-answer image for blocking practice, no logos, no watermark, no dense paragraphs\nAvoid: video game minimap look, software UI panels, glossy architectural rendering, cluttered micro text, action-scene chaos",
+      "learningValue": "Translates actor movement and camera placement into a readable floor plan so directors can test blocking before rehearsal.",
+      "compositionNotes": "The top-down couch, square dining table, kitchen doorway, blue tape X marks, CAM 1, walking path arrows, tripod legs, and door clearance provide precise retrieval hooks for blocking and rehearsal planning.",
+      "formatNotes": "Direct search-answer floor map for camera blocking floor plan and blocking diagram film. The tiny legend and labels are intentionally brief; the full planning terms live in this prompt card.",
+      "searchText": "living room blocking floor map film-preproduction cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: film-preproduction\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: overhead blocking plan answering the query \"camera blocking floor plan\"\nscene/backdrop: clean top-down apartment living room and dining nook on a pale cream drafting board\nsubject: a square dining table, couch, window, lamp, kitchen doorway, two actors marked a and b, blue tape x marks for blocking, four numbered camera positions, walking path arrows, and small obstacle icons for tripod legs, chair pullback, and door clearance\nstyle/medium: realistic preproduction floor-map plate drawn like a director's blocking diagram with a slight hand-drafted feel and crisp labels\ncomposition/framing: centered top-down plan with a legend strip around the edges and three tiny inset frames showing how positions 1, 2, 3, and 4 translate into live-action views\nlighting/mood: neutral drafting-board clarity with subtle warm apartment cues\ncolor palette: cream paper, charcoal linework, faded blue tape accents, amber path arrows, walnut furniture, olive couch\nmaterials/textures: paper stock, pencil floor-plan lines, grease-pencil arrows, tape tabs, wood texture in miniature furniture\ntext (verbatim): \"a\" \"b\" \"cam 1\" \"cam 2\" \"cam 3\" \"cam 4\" \"mark\" \"window\" \"door\"\nconstraints: direct search-answer image for blocking practice, no logos, no watermark, no dense paragraphs\navoid: video game minimap look, software ui panels, glossy architectural rendering, cluttered micro text, action-scene chaos translates actor movement and camera placement into a readable floor plan so directors can test blocking before rehearsal. the top-down couch, square dining table, kitchen doorway, blue tape x marks, cam 1, walking path arrows, tripod legs, and door clearance provide precise retrieval hooks for blocking and rehearsal planning. direct search-answer floor map for camera blocking floor plan and blocking diagram film. the tiny legend and labels are intentionally brief; the full planning terms live in this prompt card. square dining table kitchen doorway two actors marked a and b blue tape x marks for blocking paper stock pencil floor-plan lines grease-pencil arrows cream paper charcoal linework faded blue tape accents page room",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-07",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 7,
+      "title": "Apartment Dinner Scene Section Plate",
+      "taxonomy": "mixed-format",
+      "topics": [
+        "section",
+        "apartment",
+        "blocking",
+        "camera",
+        "plate",
+        "practical",
+        "lamp",
+        "wall",
+        "actors",
+        "apple",
+        "bounce",
+        "curtained",
+        "floor",
+        "insets",
+        "room",
+        "showing",
+        "sightline",
+        "teaching",
+        "warm",
+        "window",
+        "amber",
+        "architectural",
+        "arrows",
+        "box",
+        "card",
+        "charcoal",
+        "couch",
+        "cross-section",
+        "cutaway",
+        "dinner",
+        "each",
+        "edge",
+        "film-preproduction",
+        "framing",
+        "height",
+        "heights",
+        "labels",
+        "lines",
+        "linework",
+        "low",
+        "matte",
+        "mixed-format",
+        "muted",
+        "olive",
+        "opposite",
+        "other",
+        "ots",
+        "paper"
+      ],
+      "specificHooks": [
+        "two actors seated opposite each other",
+        "curtained window",
+        "practical floor lamp",
+        "couch edge",
+        "printed board",
+        "pencil section lines",
+        "matte photo insets",
+        "charcoal linework",
+        "warm amber practical light",
+        "muted olive upholstery"
+      ],
+      "scaleTags": [
+        "page",
+        "room"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/07-apartment-dinner-scene-section-plate.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/07-apartment-dinner-scene-section-plate.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/07-apartment-dinner-scene-section-plate.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/07-apartment-dinner-scene-section-plate.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-07/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: cinematic set cross-section plate answering the query \"apartment scene blocking section\"\nScene/backdrop: clean side-on architectural cutaway of a modest apartment dining room built as a practical teaching plate on cream paper\nSubject: cross-section showing a square dinner table, two actors seated opposite each other, curtained window, practical floor lamp, couch edge, camera positions at different heights, tripod, apple boxes, key-light bounce card, and sightline arrows from camera to actors\nStyle/medium: realistic architectural-section teaching plate blended with film-preproduction annotations and short uppercase labels only\nComposition/framing: wide side-section spanning wall to wall, with three small inset frames below showing how low, eye-level, and over-the-shoulder camera heights read on screen\nLighting/mood: warm tungsten apartment realism, calm instructional precision\nColor palette: cream board, charcoal linework, warm amber practical light, muted olive upholstery, walnut wood, pale wall paint\nMaterials/textures: printed board, pencil section lines, matte photo insets, wood grain, curtain fabric, paper labels\nText (verbatim): \"LOW\" \"EYE LEVEL\" \"OTS\" \"LAMP\" \"BOUNCE\" \"APPLE BOX\"\nConstraints: direct search-answer image for blocking and camera-height lessons, no logos, no watermark, no dense paragraphs\nAvoid: sterile architecture rendering, glossy ad style, neon graphics, unreadable notes, generic interior-design moodboard",
+      "learningValue": "Connects blocking diagrams to camera height and sightline reality by showing a full room section with live-action framing examples underneath.",
+      "compositionNotes": "The side-on wall cutaway, curtained window, floor lamp, bounce card, apple box, tripod, sightline arrows, and low-versus-eye-level insets expose hooks like set section, camera height, OTS, blocking section, and apartment scene.",
+      "formatNotes": "Less-common hybrid format combining architectural section and film-preproduction plate. It is meant to answer apartment scene blocking section while remaining visually useful as a teaching poster.",
+      "searchText": "apartment dinner scene section plate mixed-format cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: cinematic set cross-section plate answering the query \"apartment scene blocking section\"\nscene/backdrop: clean side-on architectural cutaway of a modest apartment dining room built as a practical teaching plate on cream paper\nsubject: cross-section showing a square dinner table, two actors seated opposite each other, curtained window, practical floor lamp, couch edge, camera positions at different heights, tripod, apple boxes, key-light bounce card, and sightline arrows from camera to actors\nstyle/medium: realistic architectural-section teaching plate blended with film-preproduction annotations and short uppercase labels only\ncomposition/framing: wide side-section spanning wall to wall, with three small inset frames below showing how low, eye-level, and over-the-shoulder camera heights read on screen\nlighting/mood: warm tungsten apartment realism, calm instructional precision\ncolor palette: cream board, charcoal linework, warm amber practical light, muted olive upholstery, walnut wood, pale wall paint\nmaterials/textures: printed board, pencil section lines, matte photo insets, wood grain, curtain fabric, paper labels\ntext (verbatim): \"low\" \"eye level\" \"ots\" \"lamp\" \"bounce\" \"apple box\"\nconstraints: direct search-answer image for blocking and camera-height lessons, no logos, no watermark, no dense paragraphs\navoid: sterile architecture rendering, glossy ad style, neon graphics, unreadable notes, generic interior-design moodboard connects blocking diagrams to camera height and sightline reality by showing a full room section with live-action framing examples underneath. the side-on wall cutaway, curtained window, floor lamp, bounce card, apple box, tripod, sightline arrows, and low-versus-eye-level insets expose hooks like set section, camera height, ots, blocking section, and apartment scene. less-common hybrid format combining architectural section and film-preproduction plate. it is meant to answer apartment scene blocking section while remaining visually useful as a teaching poster. two actors seated opposite each other curtained window practical floor lamp couch edge printed board pencil section lines matte photo insets charcoal linework warm amber practical light muted olive upholstery page room",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-08",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 8,
+      "title": "Director Viewfinder Tape Marks And Apple Boxes Atlas",
+      "taxonomy": "atlas-contact-sheet",
+      "topics": [
+        "tape",
+        "viewfinder",
+        "paper",
+        "apple",
+        "blocking",
+        "spike",
+        "box",
+        "cardboard",
+        "director",
+        "floor",
+        "plan",
+        "script",
+        "c-47",
+        "grease",
+        "marker",
+        "matte",
+        "pencil",
+        "red",
+        "tabletop",
+        "above",
+        "actor",
+        "atlas-contact-sheet",
+        "card",
+        "charcoal",
+        "clip",
+        "cloth",
+        "color",
+        "documentation",
+        "faded",
+        "film",
+        "label",
+        "labels",
+        "markers",
+        "mini",
+        "pages",
+        "photographed",
+        "photography",
+        "physical",
+        "plastic",
+        "practical",
+        "rolls",
+        "rough",
+        "set",
+        "small",
+        "stock",
+        "surface",
+        "tabs",
+        "toolkit"
+      ],
+      "specificHooks": [
+        "directors cardboard viewfinder",
+        "blue and red spike tape rolls",
+        "paper floor plan",
+        "grease pencil",
+        "cream tabletop documentation board photographed from above",
+        "cloth tape",
+        "matte plastic",
+        "rough paper",
+        "cream card stock",
+        "faded blue tape",
+        "charcoal marker"
+      ],
+      "scaleTags": [
+        "object",
+        "tabletop"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/08-director-viewfinder-tape-marks-and-apple-boxes-atlas.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/08-director-viewfinder-tape-marks-and-apple-boxes-atlas.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/08-director-viewfinder-tape-marks-and-apple-boxes-atlas.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/08-director-viewfinder-tape-marks-and-apple-boxes-atlas.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-08/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: object atlas answering the query \"director blocking toolkit\"\nScene/backdrop: cream tabletop documentation board photographed from above\nSubject: a director's cardboard viewfinder, blue and red spike tape rolls, paper floor plan, grease pencil, dry-erase marker, folded scene script pages, apple box scale block, C-47 clothespins, gaffer tape tabs, mini actor markers, and lens label cards arranged neatly as a teaching atlas\nStyle/medium: realistic production-object contact sheet with sharp top-down photography and short labels only\nComposition/framing: tidy grid of 10 to 12 objects with a narrow side strip showing how the viewfinder frames wide, medium, and close compositions, with small label tabs and no long text\nLighting/mood: soft neutral studio daylight with practical set-prep realism, not glossy product-ad light\nColor palette: cream card stock, faded blue tape, charcoal marker, kraft script paper, matte black viewfinder, brass clip accents\nMaterials/textures: cardboard, cloth tape, matte plastic, rough paper, metal clip, worn wooden apple box surface\nText (verbatim): \"VIEWFINDER\" \"SPIKE TAPE\" \"FLOOR PLAN\" \"SCRIPT\" \"APPLE BOX\" \"C-47\"\nConstraints: direct search-answer image for indie crews and film teachers, no logos, no watermark, no dense paragraphs\nAvoid: luxury flatlay styling, brand photography polish, neon color, clutter, unreadable tiny labels",
+      "learningValue": "Identifies the small physical tools that turn abstract blocking advice into practical set work.",
+      "compositionNotes": "The top-down atlas preserves cardboard viewfinder, blue spike tape, red spike tape, paper floor plan, grease pencil, scene script pages, apple box, C-47, and mini actor markers as distinct searchable objects.",
+      "formatNotes": "Object-atlas reference for director blocking toolkit and film set blocking tools. The contact-sheet layout helps the site surface multiple physical nouns from one image page.",
+      "searchText": "director viewfinder tape marks and apple boxes atlas atlas-contact-sheet cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: object atlas answering the query \"director blocking toolkit\"\nscene/backdrop: cream tabletop documentation board photographed from above\nsubject: a director's cardboard viewfinder, blue and red spike tape rolls, paper floor plan, grease pencil, dry-erase marker, folded scene script pages, apple box scale block, c-47 clothespins, gaffer tape tabs, mini actor markers, and lens label cards arranged neatly as a teaching atlas\nstyle/medium: realistic production-object contact sheet with sharp top-down photography and short labels only\ncomposition/framing: tidy grid of 10 to 12 objects with a narrow side strip showing how the viewfinder frames wide, medium, and close compositions, with small label tabs and no long text\nlighting/mood: soft neutral studio daylight with practical set-prep realism, not glossy product-ad light\ncolor palette: cream card stock, faded blue tape, charcoal marker, kraft script paper, matte black viewfinder, brass clip accents\nmaterials/textures: cardboard, cloth tape, matte plastic, rough paper, metal clip, worn wooden apple box surface\ntext (verbatim): \"viewfinder\" \"spike tape\" \"floor plan\" \"script\" \"apple box\" \"c-47\"\nconstraints: direct search-answer image for indie crews and film teachers, no logos, no watermark, no dense paragraphs\navoid: luxury flatlay styling, brand photography polish, neon color, clutter, unreadable tiny labels identifies the small physical tools that turn abstract blocking advice into practical set work. the top-down atlas preserves cardboard viewfinder, blue spike tape, red spike tape, paper floor plan, grease pencil, scene script pages, apple box, c-47, and mini actor markers as distinct searchable objects. object-atlas reference for director blocking toolkit and film set blocking tools. the contact-sheet layout helps the site surface multiple physical nouns from one image page. directors cardboard viewfinder blue and red spike tape rolls paper floor plan grease pencil cream tabletop documentation board photographed from above cloth tape matte plastic rough paper cream card stock faded blue tape charcoal marker object tabletop",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-09",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 9,
+      "title": "Dinner Argument Storyboard Beat Page",
+      "taxonomy": "storyboard-sequence",
+      "topics": [
+        "storyboard",
+        "blocking",
+        "arrows",
+        "beat",
+        "dinner",
+        "insert",
+        "paper",
+        "actor",
+        "argument",
+        "camera",
+        "continuity",
+        "two",
+        "warm",
+        "wash",
+        "actors",
+        "apartment",
+        "charcoal",
+        "couch",
+        "distance",
+        "emotional",
+        "example",
+        "flat",
+        "glass",
+        "grain",
+        "gray",
+        "ink",
+        "ivory",
+        "linework",
+        "marker",
+        "master",
+        "mini",
+        "movement",
+        "off-white",
+        "over-the-shoulder",
+        "panel",
+        "pencil",
+        "pinned",
+        "production",
+        "push",
+        "seated",
+        "shot",
+        "six-panel",
+        "stands",
+        "storyboard-sequence",
+        "tape",
+        "window",
+        "accents",
+        "amber"
+      ],
+      "specificHooks": [
+        "two actors seated at dinner",
+        "one actor stands",
+        "then a final wide with emotional distance",
+        "off-white storyboard page pinned flat",
+        "storyboard paper grain",
+        "pencil linework",
+        "marker arrows",
+        "ivory paper",
+        "charcoal ink",
+        "warm gray wash"
+      ],
+      "scaleTags": [
+        "page",
+        "room"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/09-dinner-argument-storyboard-beat-page.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/09-dinner-argument-storyboard-beat-page.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/09-dinner-argument-storyboard-beat-page.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/09-dinner-argument-storyboard-beat-page.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-09/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: storyboard-sequence\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: silent storyboard beat page answering the query \"storyboard blocking page example\"\nScene/backdrop: off-white storyboard page pinned flat, with six hand-drawn but realistic monochrome-ink panels of the same apartment dinner argument scene\nSubject: two actors seated at dinner, a pause, one actor stands, the camera shifts from master to over-the-shoulder to close-up to insert of a glass, then a final wide with emotional distance, plus small arrows for actor movement and camera move\nStyle/medium: professional film storyboard page with graphite-and-ink panel drawing, light grayscale wash, taped notes, and clear production annotations\nComposition/framing: six-panel page in two rows of three with a narrow side column for beat numbers and mini floor arrows, and clear continuity of couch, window, table lamp, and square table\nLighting/mood: tense warm evening apartment scene, restrained cinematic drama\nColor palette: ivory paper, charcoal ink, warm gray wash, faded blue tape, amber note accents\nMaterials/textures: storyboard paper grain, pencil linework, marker arrows, tape tabs\nText (verbatim): \"MASTER\" \"PUSH\" \"OTS ON B\" \"STAND\" \"INSERT\" \"WIDE\"\nConstraints: direct search-answer image for indie filmmakers and storyboard students, no logos, no watermark, no dense paragraphs\nAvoid: comic-book superhero style, colorful animation exaggeration, glossy poster design, unreadable scribbles, anime look",
+      "learningValue": "Shows how blocking and coverage choices translate into beat-by-beat scene progression on a production storyboard page.",
+      "compositionNotes": "The six-panel sequence, standing beat, glass insert, over-the-shoulder panel, couch and window continuity, and mini movement arrows make storyboard blocking page, dinner argument storyboard, camera push, and insert shot easy retrieval hooks.",
+      "formatNotes": "Less-common sequential format for storyboard blocking page example. The image behaves as both a story beat reference and a blocking continuity sheet.",
+      "searchText": "dinner argument storyboard beat page storyboard-sequence cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: storyboard-sequence\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: silent storyboard beat page answering the query \"storyboard blocking page example\"\nscene/backdrop: off-white storyboard page pinned flat, with six hand-drawn but realistic monochrome-ink panels of the same apartment dinner argument scene\nsubject: two actors seated at dinner, a pause, one actor stands, the camera shifts from master to over-the-shoulder to close-up to insert of a glass, then a final wide with emotional distance, plus small arrows for actor movement and camera move\nstyle/medium: professional film storyboard page with graphite-and-ink panel drawing, light grayscale wash, taped notes, and clear production annotations\ncomposition/framing: six-panel page in two rows of three with a narrow side column for beat numbers and mini floor arrows, and clear continuity of couch, window, table lamp, and square table\nlighting/mood: tense warm evening apartment scene, restrained cinematic drama\ncolor palette: ivory paper, charcoal ink, warm gray wash, faded blue tape, amber note accents\nmaterials/textures: storyboard paper grain, pencil linework, marker arrows, tape tabs\ntext (verbatim): \"master\" \"push\" \"ots on b\" \"stand\" \"insert\" \"wide\"\nconstraints: direct search-answer image for indie filmmakers and storyboard students, no logos, no watermark, no dense paragraphs\navoid: comic-book superhero style, colorful animation exaggeration, glossy poster design, unreadable scribbles, anime look shows how blocking and coverage choices translate into beat-by-beat scene progression on a production storyboard page. the six-panel sequence, standing beat, glass insert, over-the-shoulder panel, couch and window continuity, and mini movement arrows make storyboard blocking page, dinner argument storyboard, camera push, and insert shot easy retrieval hooks. less-common sequential format for storyboard blocking page example. the image behaves as both a story beat reference and a blocking continuity sheet. two actors seated at dinner one actor stands then a final wide with emotional distance off-white storyboard page pinned flat storyboard paper grain pencil linework marker arrows ivory paper charcoal ink warm gray wash page room",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-10",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 10,
+      "title": "Rehearsal Blocking Wall Installation View",
+      "taxonomy": "film-preproduction",
+      "topics": [
+        "wall",
+        "blocking",
+        "cork",
+        "classroom",
+        "rehearsal",
+        "room",
+        "tape",
+        "apple",
+        "director",
+        "film",
+        "floor",
+        "planning",
+        "printouts",
+        "shot",
+        "size",
+        "tripod",
+        "chart",
+        "installation",
+        "map",
+        "materials",
+        "section",
+        "storyboard",
+        "tabs",
+        "view",
+        "angle",
+        "apartment-scene",
+        "box",
+        "boxes",
+        "brown",
+        "camera",
+        "containing",
+        "display",
+        "documentary",
+        "film-preproduction",
+        "folding",
+        "guide",
+        "lamp",
+        "lighting",
+        "mood",
+        "paper",
+        "pinned",
+        "plate",
+        "preproduction",
+        "printed",
+        "rehearsal-room",
+        "student",
+        "accent",
+        "advertising"
+      ],
+      "specificHooks": [
+        "wall display containing a shot size chart",
+        "angle guide",
+        "floor map",
+        "section plate",
+        "folding table",
+        "apple boxes",
+        "pinned apartment-scene planning materials",
+        "cork board",
+        "paper printouts",
+        "tape tabs",
+        "cork brown",
+        "cream printouts"
+      ],
+      "scaleTags": [
+        "room",
+        "page"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/10-rehearsal-blocking-wall-installation-view.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/10-rehearsal-blocking-wall-installation-view.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/10-rehearsal-blocking-wall-installation-view.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/10-rehearsal-blocking-wall-installation-view.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-10/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: film-preproduction\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: rehearsal-room installation view answering the queries \"director blocking rehearsal wall\" and \"film classroom blocking board\"\nScene/backdrop: real indie film classroom or preproduction room with a cork wall, folding table, apple boxes, tripod, and pinned apartment-scene planning materials\nSubject: a wall display containing a shot size chart, angle guide, floor map, section plate, and storyboard page from the same apartment dinner sequence, with blue tape, grease-pencil arrows, printed stills, and a student director pointing while others watch\nStyle/medium: realistic documentary production photo, not staged advertising\nComposition/framing: medium-wide room photograph showing the full blocking wall, nearby table with a viewfinder and script pages, and enough surrounding room to read as a working rehearsal space\nLighting/mood: mixed classroom fluorescent and warm practical lamp spill from a demo corner, industrious planning mood\nColor palette: cork brown, cream printouts, faded blue tape, charcoal marker, amber lamp accent, black tripod\nMaterials/textures: cork board, paper printouts, tape tabs, apple box wood, tripod metal, classroom linoleum, cotton clothing\nText (verbatim): \"SHOT SIZE CHART\" \"CAMERA ANGLES\" \"BLOCKING / FLOOR PLAN\" \"SECTION / CAMERA HEIGHTS\" \"STORYBOARD - SCENE 12\"\nConstraints: direct search-answer image for film teachers and crews, no logos, no watermark, no dense paragraphs, no celebrity faces\nAvoid: sleek startup office styling, festival red-carpet vibe, glossy ad lighting, neon graphics, cluttered unreadable walls",
+      "learningValue": "Proves that the individual charts can function together as a rehearsal-room planning system, not just isolated posters.",
+      "compositionNotes": "The cork wall, blue tape tabs, tripod, apple box stack, folded table, student director gesture, printed floor map, and storyboard board create strong hooks like rehearsal wall, film classroom blocking board, and preproduction room.",
+      "formatNotes": "Documentary installation view aimed at director blocking rehearsal wall. The wall text is short but still exploratory; the prompt card retains the exact intended panel names.",
+      "searchText": "rehearsal blocking wall installation view film-preproduction cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: film-preproduction\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: rehearsal-room installation view answering the queries \"director blocking rehearsal wall\" and \"film classroom blocking board\"\nscene/backdrop: real indie film classroom or preproduction room with a cork wall, folding table, apple boxes, tripod, and pinned apartment-scene planning materials\nsubject: a wall display containing a shot size chart, angle guide, floor map, section plate, and storyboard page from the same apartment dinner sequence, with blue tape, grease-pencil arrows, printed stills, and a student director pointing while others watch\nstyle/medium: realistic documentary production photo, not staged advertising\ncomposition/framing: medium-wide room photograph showing the full blocking wall, nearby table with a viewfinder and script pages, and enough surrounding room to read as a working rehearsal space\nlighting/mood: mixed classroom fluorescent and warm practical lamp spill from a demo corner, industrious planning mood\ncolor palette: cork brown, cream printouts, faded blue tape, charcoal marker, amber lamp accent, black tripod\nmaterials/textures: cork board, paper printouts, tape tabs, apple box wood, tripod metal, classroom linoleum, cotton clothing\ntext (verbatim): \"shot size chart\" \"camera angles\" \"blocking / floor plan\" \"section / camera heights\" \"storyboard - scene 12\"\nconstraints: direct search-answer image for film teachers and crews, no logos, no watermark, no dense paragraphs, no celebrity faces\navoid: sleek startup office styling, festival red-carpet vibe, glossy ad lighting, neon graphics, cluttered unreadable walls proves that the individual charts can function together as a rehearsal-room planning system, not just isolated posters. the cork wall, blue tape tabs, tripod, apple box stack, folded table, student director gesture, printed floor map, and storyboard board create strong hooks like rehearsal wall, film classroom blocking board, and preproduction room. documentary installation view aimed at director blocking rehearsal wall. the wall text is short but still exploratory; the prompt card retains the exact intended panel names. wall display containing a shot size chart angle guide floor map section plate folding table apple boxes pinned apartment-scene planning materials cork board paper printouts tape tabs cork brown cream printouts room page",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-11",
+      "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
+      "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
+      "timestamp": "2026-05-22T02:20:09+08:00",
+      "index": 11,
+      "title": "Window Side Cinematic Proof Frame",
+      "taxonomy": "photorealistic-natural",
+      "topics": [
+        "lamp",
+        "window",
+        "wine",
+        "blocking",
+        "glass",
+        "proof",
+        "frame",
+        "practical",
+        "shot",
+        "apartment",
+        "backs",
+        "bottle",
+        "chair",
+        "cinematic",
+        "couch",
+        "curtained",
+        "doorway",
+        "edge",
+        "eyeline",
+        "grain",
+        "kitchen",
+        "shoulder",
+        "standing",
+        "visible",
+        "warm",
+        "actor",
+        "amber",
+        "believable",
+        "boards",
+        "cotton",
+        "coverage",
+        "curtain",
+        "dialogue",
+        "example",
+        "film",
+        "finished",
+        "foreground",
+        "glow",
+        "lighting",
+        "near",
+        "photorealistic-natural",
+        "reflections",
+        "room",
+        "seated",
+        "shaping",
+        "sweater",
+        "tungsten",
+        "wood"
+      ],
+      "specificHooks": [
+        "with a wine bottle",
+        "wine glass",
+        "chair backs",
+        "practical lamp shaping the scene",
+        "curtained window",
+        "warm table lamp",
+        "couch edge",
+        "kitchen doorway visible",
+        "cotton sweater",
+        "glass reflections",
+        "wood grain",
+        "amber lamp glow"
+      ],
+      "scaleTags": [
+        "room",
+        "scene"
+      ],
+      "pngPath": "../images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/11-window-side-cinematic-proof-frame.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/11-window-side-cinematic-proof-frame.png",
+      "promptPath": "../prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/11-window-side-cinematic-proof-frame.prompt.md",
+      "reportPath": "../run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/11-window-side-cinematic-proof-frame.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260522-0220-cinematography-shot-size-and-blocking-visual-guides.md",
+      "detailPath": "i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-11/",
+      "runPath": "r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: cinematic proof frame for a blocking lesson, answering the query \"apartment dialogue scene blocking example\"\nScene/backdrop: modest apartment dining room at night with a square table, curtained window, warm table lamp, couch edge, and kitchen doorway visible\nSubject: two actors in a tense dinner argument staged according to good coverage and eyeline logic, one seated in foreground shoulder and the other standing near the window in the background, with a wine bottle, wine glass, plate, chair backs, and practical lamp shaping the scene\nStyle/medium: believable live-action film still, naturalistic indie drama, no visible diagrams or labels\nComposition/framing: over-the-shoulder medium shot from the seated actor toward the standing actor near the window, with balanced negative space, readable eyeline, and layered foreground-midground-background staging\nLighting/mood: warm tungsten practicals with soft shadow, intimate tension, restrained realism\nColor palette: amber lamp glow, olive and brown furnishings, off-white curtain, charcoal clothing, walnut table\nMaterials/textures: cotton sweater, glass reflections, wood grain, curtain weave, lamp shade linen, subtle film grain\nText (verbatim): \"none\"\nConstraints: should feel like the finished dramatic proof of the teaching boards, no logos, no watermark, no melodramatic blockbuster look\nAvoid: glossy advertisement lighting, oversaturated teal-orange grading, action-movie intensity, neon accents, celebrity styling",
+      "learningValue": "Demonstrates how the dry blocking and coverage boards resolve into a believable finished shot with clear eyeline, depth separation, and practical light motivation.",
+      "compositionNotes": "The foreground shoulder, standing figure at the curtained window, table lamp, wine bottle, wine glass, chair backs, kitchen doorway, and couch edge make this frame useful for apartment dialogue blocking example, over the shoulder medium shot, and tungsten practical scene.",
+      "formatNotes": "Cinematic proof frame rather than a labeled poster. It is valuable as a bridge between film-school diagram queries and story-world proof.",
+      "searchText": "window side cinematic proof frame photorealistic-natural cinematography shot size and blocking visual guides 20260522-0220-cinematography-shot-size-and-blocking-visual-guides use case: photorealistic-natural\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: cinematic proof frame for a blocking lesson, answering the query \"apartment dialogue scene blocking example\"\nscene/backdrop: modest apartment dining room at night with a square table, curtained window, warm table lamp, couch edge, and kitchen doorway visible\nsubject: two actors in a tense dinner argument staged according to good coverage and eyeline logic, one seated in foreground shoulder and the other standing near the window in the background, with a wine bottle, wine glass, plate, chair backs, and practical lamp shaping the scene\nstyle/medium: believable live-action film still, naturalistic indie drama, no visible diagrams or labels\ncomposition/framing: over-the-shoulder medium shot from the seated actor toward the standing actor near the window, with balanced negative space, readable eyeline, and layered foreground-midground-background staging\nlighting/mood: warm tungsten practicals with soft shadow, intimate tension, restrained realism\ncolor palette: amber lamp glow, olive and brown furnishings, off-white curtain, charcoal clothing, walnut table\nmaterials/textures: cotton sweater, glass reflections, wood grain, curtain weave, lamp shade linen, subtle film grain\ntext (verbatim): \"none\"\nconstraints: should feel like the finished dramatic proof of the teaching boards, no logos, no watermark, no melodramatic blockbuster look\navoid: glossy advertisement lighting, oversaturated teal-orange grading, action-movie intensity, neon accents, celebrity styling demonstrates how the dry blocking and coverage boards resolve into a believable finished shot with clear eyeline, depth separation, and practical light motivation. the foreground shoulder, standing figure at the curtained window, table lamp, wine bottle, wine glass, chair backs, kitchen doorway, and couch edge make this frame useful for apartment dialogue blocking example, over the shoulder medium shot, and tungsten practical scene. cinematic proof frame rather than a labeled poster. it is valuable as a bridge between film-school diagram queries and story-world proof. with a wine bottle wine glass chair backs practical lamp shaping the scene curtained window warm table lamp couch edge kitchen doorway visible cotton sweater glass reflections wood grain amber lamp glow room scene",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
     {
       "id": "20260521-1956-predictive-history-pressure-map-boards-01",
       "runSlug": "20260521-1956-predictive-history-pressure-map-boards",

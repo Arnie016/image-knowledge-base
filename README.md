@@ -4,11 +4,11 @@
 
 > A public, image-first slice of a labeled PNG atlas built for practical human tasks, explainer plates, and searchable visual reference work.
 
-[![Rival Doctrine Comparison Sheet](images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.png)](prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.prompt.md)
+[![Shot Size Ladder Reference Poster](images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.png)](prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.prompt.md)
 
 | Public images | Public runs | Search hooks | Formats |
 | --- | --- | --- | --- |
-| 80 | 8 | 693 | 14 |
+| 91 | 9 | 791 | 14 |
 
 ## What This Repo Publishes
 
@@ -19,6 +19,30 @@
 ## Current Public Gallery
 
 <table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.png" alt="Shot Size Ladder Reference Poster (scientific-educational)" width="100%" /></a>
+  <br /><strong>Shot Size Ladder Reference Poster</strong>
+  <br /><sub>scientific-educational · MEDIUM CLOSE-UP · EXTREME CLOSE-UP</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/02-camera-angle-and-eyeline-guide.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/02-camera-angle-and-eyeline-guide.png" alt="Camera Angle And Eyeline Guide (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Camera Angle And Eyeline Guide</strong>
+  <br /><sub>infographic-diagram · HIGH ANGLE · LOW ANGLE</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/03-24mm-50mm-85mm-lens-portrait-strip.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/03-24mm-50mm-85mm-lens-portrait-strip.png" alt="24mm 50mm 85mm Lens Portrait Strip (scientific-educational)" width="100%" /></a>
+  <br /><strong>24mm 50mm 85mm Lens Portrait Strip</strong>
+  <br /><sub>scientific-educational · normal perspective · telephoto compression</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/08-director-viewfinder-tape-marks-and-apple-boxes-atlas.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/08-director-viewfinder-tape-marks-and-apple-boxes-atlas.png" alt="Director Viewfinder Tape Marks And Apple Boxes Atlas (atlas-contact-sheet)" width="100%" /></a>
+  <br /><strong>Director Viewfinder Tape Marks And Apple Boxes Atlas</strong>
+  <br /><sub>atlas-contact-sheet · directors cardboard viewfinder · blue and red spike tape rolls</sub>
+</td>
+</tr>
 <tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.png" alt="Rival Doctrine Comparison Sheet (infographic-diagram)" width="100%" /></a>
@@ -209,6 +233,42 @@
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.png" alt="Cake Decorating Tools Tray Reference (atlas-contact-sheet)" width="100%" /></a>
   <br /><strong>Cake Decorating Tools Tray Reference</strong>
   <br /><sub>atlas-contact-sheet · disciplined decorating kit including reusable piping bags · open star tip</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/05-shot-reverse-shot-coverage-board.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/05-shot-reverse-shot-coverage-board.png" alt="Shot Reverse Shot Coverage Board (film-preproduction)" width="100%" /></a>
+  <br /><strong>Shot Reverse Shot Coverage Board</strong>
+  <br /><sub>film-preproduction · one apartment dinner conversation broken into MASTER · SINGLE A</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/06-living-room-blocking-floor-map.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/06-living-room-blocking-floor-map.png" alt="Living Room Blocking Floor Map (film-preproduction)" width="100%" /></a>
+  <br /><strong>Living Room Blocking Floor Map</strong>
+  <br /><sub>film-preproduction · square dining table · kitchen doorway</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/07-apartment-dinner-scene-section-plate.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/07-apartment-dinner-scene-section-plate.png" alt="Apartment Dinner Scene Section Plate (mixed-format)" width="100%" /></a>
+  <br /><strong>Apartment Dinner Scene Section Plate</strong>
+  <br /><sub>mixed-format · two actors seated opposite each other · curtained window</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/09-dinner-argument-storyboard-beat-page.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/09-dinner-argument-storyboard-beat-page.png" alt="Dinner Argument Storyboard Beat Page (storyboard-sequence)" width="100%" /></a>
+  <br /><strong>Dinner Argument Storyboard Beat Page</strong>
+  <br /><sub>storyboard-sequence · two actors seated at dinner · one actor stands</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/10-rehearsal-blocking-wall-installation-view.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/10-rehearsal-blocking-wall-installation-view.png" alt="Rehearsal Blocking Wall Installation View (film-preproduction)" width="100%" /></a>
+  <br /><strong>Rehearsal Blocking Wall Installation View</strong>
+  <br /><sub>film-preproduction · wall display containing a shot size chart · angle guide</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/11-window-side-cinematic-proof-frame.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/11-window-side-cinematic-proof-frame.png" alt="Window Side Cinematic Proof Frame (photorealistic-natural)" width="100%" /></a>
+  <br /><strong>Window Side Cinematic Proof Frame</strong>
+  <br /><sub>photorealistic-natural · with a wine bottle · wine glass</sub>
 </td>
 </tr>
 <tr>
@@ -465,9 +525,9 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.png" alt="Langstroth Hive Box Section Diagram (mixed-format)" width="100%" /></a>
-  <br /><strong>Langstroth Hive Box Section Diagram</strong>
-  <br /><sub>mixed-format · honey super · queen excluder</sub>
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/04-180-degree-rule-overhead-diagram.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/04-180-degree-rule-overhead-diagram.png" alt="180 Degree Rule Overhead Diagram (infographic-diagram)" width="100%" /></a>
+  <br /><strong>180 Degree Rule Overhead Diagram</strong>
+  <br /><sub>infographic-diagram · bold camera axis line between them · safe camera positions on one side</sub>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.png" alt="Langstroth Hive Box Section Diagram (mixed-format)" width="100%" /></a>
@@ -477,9 +537,9 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.png" alt="Apiary Inspection Station Setup (photorealistic-natural)" width="100%" /></a>
-  <br /><strong>Apiary Inspection Station Setup</strong>
-  <br /><sub>photorealistic-natural · lit smoker sending a white plume · open brood frame on a frame holder</sub>
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.png" alt="Langstroth Hive Box Section Diagram (mixed-format)" width="100%" /></a>
+  <br /><strong>Langstroth Hive Box Section Diagram</strong>
+  <br /><sub>mixed-format · honey super · queen excluder</sub>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.png" alt="Apiary Inspection Station Setup (photorealistic-natural)" width="100%" /></a>
@@ -488,11 +548,18 @@
 </td>
 </tr>
 <tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.png" alt="Apiary Inspection Station Setup (photorealistic-natural)" width="100%" /></a>
+  <br /><strong>Apiary Inspection Station Setup</strong>
+  <br /><sub>photorealistic-natural · lit smoker sending a white plume · open brood frame on a frame holder</sub>
+</td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.png" alt="Hive Inspection Logbook And Frame Marking Cards (productivity-visual)" width="100%" /></a>
   <br /><strong>Hive Inspection Logbook And Frame Marking Cards</strong>
   <br /><sub>productivity-visual · ring-bound frame marking cards · brood and queen logbook table</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.png" alt="Hive Inspection Logbook And Frame Marking Cards (productivity-visual)" width="100%" /></a>
   <br /><strong>Hive Inspection Logbook And Frame Marking Cards</strong>
@@ -505,20 +572,20 @@
 
 | Panel | Human task | Labels |
 | --- | --- | --- |
+| Shot Size Ladder Reference Poster | Shows how one actor and one apartment scene scale from extreme wide to extreme close-up without changing story geography, which makes the shot-size ladder easier to remember and apply | MEDIUM CLOSE-UP, EXTREME CLOSE-UP, with the same couch |
+| Camera Angle And Eyeline Guide | Compares the most reusable dialogue-scene camera angles while also showing how eyeline placement and shoulder framing affect viewer orientation | HIGH ANGLE, LOW ANGLE, OVER SHOULDER |
+| 24mm 50mm 85mm Lens Portrait Strip | Demonstrates focal-length behavior through matched framing so viewers can compare distortion, camera distance, and background compression in one glance | normal perspective, telephoto compression, matte printed board |
+| Director Viewfinder Tape Marks And Apple Boxes Atlas | Identifies the small physical tools that turn abstract blocking advice into practical set work | directors cardboard viewfinder, blue and red spike tape rolls, paper floor plan |
 | Rival Doctrine Comparison Sheet | Compares two competing strategic logics in one mirrored sheet so viewers can quickly contrast posture, networks, escalation tolerance, and vulnerabilities | continental order doctrine, maritime order doctrine, strategic depth cards |
 | Conflict Escalation Decision Tree | Shows how one regional crisis can move through threshold bands, off-ramps, coalition decisions, and systemic outcomes rather than following a single linear path | trigger event, initial assessment, diplomatic engagement |
-| Scenario Fork Timeline Board | Shows how one scenario evolves over decades through forks, delays, escalation points, and negotiation windows instead of appearing as a single forecast line | 2025 to 2060 timeline, branching scenario forks, flashpoint markers |
-| Documentary War Room Installation View | Shows how predictive-history boards can operate as a physical briefing environment for editors, teachers, or worldbuilding teams rather than only as flat standalone posters | analyst silhouettes, war-room evidence wall, route maps |
-| Aquarium Nitrogen Cycle Diagram Poster | Explains the full freshwater tank cycle in one frame, connecting fish waste, decomposing food, filter bacteria, ceramic media, gravel biofilm, plant uptake, and water changes so a beginner can see why cycling takes time | decomposing food flakes, ammonia cloud, filter sponge colony |
-| Fishless Cycling Timeline Chart | Shows how a fishless cycle typically unfolds over days and weeks, helping a new tank owner interpret an ammonia spike, nitrite peak, nitrate rise, and the moment a tank is ready for stocking | bottled ammonia dropper, thermometer strip, filter intake |
 
 ## Current Seed Run
 
-- **Theme:** Predictive History Pressure Map Boards
+- **Theme:** Cinematography Shot Size And Blocking Visual Guides
 
-- **Coverage:** 10 panels with prompt cards and a run report.
+- **Coverage:** 11 panels with prompt cards and a run report.
 
-- **Run page:** [20260521-1956-predictive-history-pressure-map-boards](site/r/20260521-1956-predictive-history-pressure-map-boards/index.html)
+- **Run page:** [20260522-0220-cinematography-shot-size-and-blocking-visual-guides](site/r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/index.html)
 
 ## Publish Automation
 
