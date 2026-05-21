@@ -3,7 +3,7 @@
 - Run theme: Protective Braiding Training Guides
 - Run slug: `20260521-1452-protective-braiding-training-guides`
 - Timestamp: `2026-05-21T14:52:06+08:00`
-- Status: `planned`
+- Status: `success`
 - Niche audience: cosmetology instructors, braiding apprentices, textured-hair curriculum authors, salon trainers, beauty-supply educators, mannequin-head practice labs, and search agents that need precise visual analogies for parting geometry, braid sizing, extension handling, and scalp-safety cues
 - Search intent:
   - `types of braids chart`
@@ -157,13 +157,15 @@ Protective braiding wins because it answers real search queries with a domain th
   - object and finishing plates
   - salon deployment and section proof
 - Outcome notes:
-  - Pending generation.
+  - Generated 10 final PNGs across comparison posters, a process sequence, object-tool plates, one room-scale station reference, and one section cutaway.
+  - The strongest search hooks came from practical salon nouns rather than generic beauty language: `rat-tail comb`, `duckbill clips`, `section grid`, `feed-in cornrow`, `pre-stretched extension bundles`, `mirror station`, `sanitation jar`, and `mannequin-head shelf`.
 
 ## Searchability And SEO Lessons
 
 - Search fit should improve if every page uses exact query language first and the richer cosmetology vocabulary second.
 - The strongest hooks are likely to be concrete practice nouns rather than generic beauty descriptors.
 - Room-scale images should still preserve queryable tools and fixtures so they index as reference pages, not only as ambiance.
+- One less-common format worked especially well here: the section cutaway exposed classroom-planning hooks that ordinary posters cannot carry.
 
 ## Niche Audience Lessons
 
@@ -177,7 +179,7 @@ Protective braiding wins because it answers real search queries with a domain th
 
 ## Built-In ImageGen Output Directory
 
-- Pending generation.
+- `/Users/arnav/.codex/generated_images/019e494d-63fe-7660-b823-03f92374a3b1/`
 
 ## Next-Run Seeds
 

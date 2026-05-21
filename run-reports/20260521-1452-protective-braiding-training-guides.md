@@ -1,0 +1,22 @@
+# Run Report
+
+- Run slug: `20260521-1452-protective-braiding-training-guides`
+- Timestamp: `2026-05-21T14:52:06+08:00`
+- Theme: Protective Braiding Training Guides
+- Status: `success`
+- Freedom budget: `wide`
+- Primary scale: `page`
+- Secondary scale: `room`
+- PNG count: `10`
+- Visual families: comparison and process posters, object and finishing plates, plus salon deployment and section proof
+- Image folder: `image-knowledge-base/images/2026/05/21/20260521-1452-protective-braiding-training-guides`
+- Prompt folder: `image-knowledge-base/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides`
+- Gallery website path: `image-knowledge-base/site/index.html`
+- Gallery refresh: `completed via node image-knowledge-base/scripts/build-site-data.mjs` with `40 public images` across `4 public runs`
+- SEO artifact status: `site/data.js`, `site/sitemap.xml`, and `site/robots.txt` were regenerated; 10 public per-image directories exist under `site/i/20260521-1452-protective-braiding-training-guides-*`, and the public per-run directory exists under `site/r/20260521-1452-protective-braiding-training-guides`
+- Research note: `image-knowledge-base/research/2026/05/21/20260521-1452-protective-braiding-training-guides/research.md`
+- Catalog updates: `image-knowledge-base/catalog/runs.jsonl`, `image-knowledge-base/catalog/images.jsonl`
+- Skill/plugin Markdown consulted: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `iconography-lab/SKILL.md`
+- Built-in ImageGen output directory: `/Users/arnav/.codex/generated_images/019e494d-63fe-7660-b823-03f92374a3b1/`
+- Summary: This run pushed the practical-explainer lane into cosmetology education instead of another workshop, systems, or film-preproduction branch. The strongest pages paired direct braid-query answers with concrete training nouns like `rat-tail comb`, `duckbill clips`, `section grid`, `feed-in cornrow`, `pre-stretched extension bundle`, and `mannequin-head shelf`, while the room and cutaway images proved the branch could serve classroom-planning and salon-setup queries instead of only flat poster searches.
+- Blockers: None.
