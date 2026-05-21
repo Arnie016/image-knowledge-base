@@ -4,11 +4,11 @@
 
 > A public, image-first slice of a labeled PNG atlas built for practical human tasks, explainer plates, and searchable visual reference work.
 
-[![Aquarium Nitrogen Cycle Diagram Poster](images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png)](prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md)
+[![Healthy And Patchy Brood Pattern Chart](images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.png)](prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.prompt.md)
 
 | Public images | Public runs | Search hooks | Formats |
 | --- | --- | --- | --- |
-| 50 | 5 | 484 | 12 |
+| 60 | 6 | 589 | 12 |
 
 ## What This Repo Publishes
 
@@ -19,6 +19,42 @@
 ## Current Public Gallery
 
 <table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.png" alt="Healthy And Patchy Brood Pattern Chart (scientific-educational)" width="100%" /></a>
+  <br /><strong>Healthy And Patchy Brood Pattern Chart</strong>
+  <br /><sub>scientific-educational · patchy brood pattern · capped brood field</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.png" alt="Capped Brood Honey And Pollen Frame Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Capped Brood Honey And Pollen Frame Guide</strong>
+  <br /><sub>scientific-educational · open larvae crescent · pollen band</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.png" alt="Queen Cups And Swarm Cells Poster (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Queen Cups And Swarm Cells Poster</strong>
+  <br /><sub>infographic-diagram · comparison of queen cups · charged queen cells</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/04-beekeeping-inspection-tool-tray-reference.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/04-beekeeping-inspection-tool-tray-reference.png" alt="Beekeeping Inspection Tool Tray Reference (atlas-contact-sheet)" width="100%" /></a>
+  <br /><strong>Beekeeping Inspection Tool Tray Reference</strong>
+  <br /><sub>atlas-contact-sheet · hive tool · frame grip</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.png" alt="Bee Smoker Lighting Steps Poster (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Bee Smoker Lighting Steps Poster</strong>
+  <br /><sub>infographic-diagram · bee smoker body · burlap fuel</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.png" alt="Bee Veil Gloves And Frame Grip Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Bee Veil Gloves And Frame Grip Guide</strong>
+  <br /><sub>scientific-educational · round white bee veil hat · black veil mesh</sub>
+</td>
+</tr>
 <tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png" alt="Aquarium Nitrogen Cycle Diagram Poster (scientific-educational)" width="100%" /></a>
@@ -189,6 +225,30 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.png" alt="Varroa Monitoring Board Comparison Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Varroa Monitoring Board Comparison Guide</strong>
+  <br /><sub>scientific-educational · sticky board tray under screened bottom board · varroa mites on white count card</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.png" alt="Langstroth Hive Box Section Diagram (mixed-format)" width="100%" /></a>
+  <br /><strong>Langstroth Hive Box Section Diagram</strong>
+  <br /><sub>mixed-format · inner cover gap · honey super with capped frames</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.png" alt="Apiary Inspection Station Setup (photorealistic-natural)" width="100%" /></a>
+  <br /><strong>Apiary Inspection Station Setup</strong>
+  <br /><sub>photorealistic-natural · smoking bee smoker · notebook logbook</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.png" alt="Hive Inspection Logbook And Frame Marking Cards (productivity-visual)" width="100%" /></a>
+  <br /><strong>Hive Inspection Logbook And Frame Marking Cards</strong>
+  <br /><sub>productivity-visual · ring-bound frame marking card set · handwritten hive inspection logbook</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/05-freshwater-tank-bacteria-zone-cutaway.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/05-freshwater-tank-bacteria-zone-cutaway.png" alt="Freshwater Tank Bacteria Zone Cutaway (mixed-format)" width="100%" /></a>
   <br /><strong>Freshwater Tank Bacteria Zone Cutaway</strong>
   <br /><sub>mixed-format · sponge and ceramic media layers · return flow</sub>
@@ -325,20 +385,20 @@
 
 | Panel | Human task | Labels |
 | --- | --- | --- |
-| Aquarium Nitrogen Cycle Diagram Poster | Explains the full freshwater tank cycle in one frame, connecting fish waste, decomposing food, filter bacteria, ceramic media, gravel biofilm, plant uptake, and water changes so a beginner can see why cycling takes time | decomposing food flakes, ammonia cloud, filter sponge colony |
-| Fishless Cycling Timeline Chart | Shows how a fishless cycle typically unfolds over days and weeks, helping a new tank owner interpret an ammonia spike, nitrite peak, nitrate rise, and the moment a tank is ready for stocking | bottled ammonia dropper, thermometer strip, filter intake |
-| Ammonia Nitrite Nitrate Comparison Guide | Lets a searcher compare an ammonia test vial, nitrite test vial, nitrate test vial, gill stress cue, plant uptake arrow, and safe target strip instead of relying on vague chemistry language | ammonia test vial, nitrite test vial, nitrate test vial |
-| Beneficial Bacteria Filter Media Taxonomy Plate | Teaches where beneficial bacteria actually live by comparing coarse filter sponge, ceramic bio-rings, porous lava rock, gravel bag, driftwood, and plant root mat as real habitat surfaces instead of abstract chemistry terms | ceramic bio-rings, porous lava rock, bio balls |
-| Aquarium Test Kit Color Reading Board | Connects an ammonia test vial, nitrite test vial, nitrate test vial, color-card strip, and sample reading row to the color shifts that happen during cycling | ammonia test vial, nitrite test vial, nitrate test vial |
-| New Tank Syndrome Mistakes Poster | Turns new tank syndrome into a specific checklist of beginner mistakes and consequences, so a viewer can diagnose why a cycle has stalled and what a calm rescue sequence looks like | adding too many fish at once, rinsing filter media under tap water, replacing all media at once |
+| Healthy And Patchy Brood Pattern Chart | Helps a beginner or mentor compare a solid brood pattern against a patchy brood pattern while also identifying the honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row clues on the same landing page | patchy brood pattern, capped brood field, pollen band |
+| Capped Brood Honey And Pollen Frame Guide | Gives a frame-reading checklist for distinguishing capped brood, eggs, larvae, pollen, honey, and empty comb so a new beekeeper can understand what a productive brood frame should contain | open larvae crescent, pollen band, honey cells |
+| Queen Cups And Swarm Cells Poster | Shows the difference between harmless queen cups and active queen cells, including edge placement and royal-jelly clues that matter during swarm-season inspections | comparison of queen cups, charged queen cells, swarm cells along lower frame edges |
+| Beekeeping Inspection Tool Tray Reference | Provides a concrete beginner hive-inspection kit so a trainer or new beekeeper can identify what each tool does before opening a hive | hive tool, frame grip, bee brush |
+| Bee Smoker Lighting Steps Poster | Breaks smoker use into repeatable stages so a beginner can distinguish dry fuel prep, ignition, packing, bellows use, topping up fuel, and the correct cool-smoke finish | bee smoker body, burlap fuel, pine needles |
+| Bee Veil Gloves And Frame Grip Guide | Compares common protective gear and handling aids so a new beekeeper can understand when to use veil mesh, nitrile gloves, leather gauntlets, frame grips, and queen-marking tools | round white bee veil hat, black veil mesh, nitrile gloves |
 
 ## Current Seed Run
 
-- **Theme:** Aquarium Nitrogen Cycle Starter Posters
+- **Theme:** Beekeeping Brood And Hive Inspection Posters
 
 - **Coverage:** 10 panels with prompt cards and a run report.
 
-- **Run page:** [20260521-1553-aquarium-nitrogen-cycle-starter-posters](site/r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/index.html)
+- **Run page:** [20260521-1653-beekeeping-brood-and-hive-inspection-posters](site/r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/index.html)
 
 ## Publish Automation
 

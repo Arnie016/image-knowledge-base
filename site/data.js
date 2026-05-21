@@ -1,9 +1,9 @@
 window.IMAGE_KB = {
-  "generatedAt": "2026-05-21T15:53:14+08:00",
-  "imageCount": 50,
-  "publicImageCount": 50,
+  "generatedAt": "2026-05-21T16:53:00+08:00",
+  "imageCount": 60,
+  "publicImageCount": 60,
   "archivedImageCount": 0,
-  "runCount": 5,
+  "runCount": 6,
   "rubric": {
     "version": "2026-05-06-v1",
     "scale": "1-5 per dimension, weighted to 100 overall",
@@ -69,23 +69,23 @@ window.IMAGE_KB = {
   "taxonomies": [
     [
       "scientific-educational",
-      15
+      19
     ],
     [
       "infographic-diagram",
-      8
+      10
     ],
     [
       "photorealistic-natural",
-      7
+      8
     ],
     [
       "atlas-contact-sheet",
-      5
+      6
     ],
     [
       "mixed-format",
-      4
+      5
     ],
     [
       "film-preproduction",
@@ -100,11 +100,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "illustration-story",
-      1
+      "productivity-visual",
+      2
     ],
     [
-      "productivity-visual",
+      "illustration-story",
       1
     ],
     [
@@ -119,11 +119,11 @@ window.IMAGE_KB = {
   "topics": [
     [
       "labels",
-      42
+      49
     ],
     [
       "short",
-      37
+      41
     ],
     [
       "matte",
@@ -135,46 +135,62 @@ window.IMAGE_KB = {
     ],
     [
       "paper",
-      24
+      26
     ],
     [
       "mood",
       23
     ],
     [
+      "guide",
+      22
+    ],
+    [
+      "chart",
+      21
+    ],
+    [
       "logos",
       21
     ],
     [
-      "chart",
-      19
-    ],
-    [
-      "guide",
-      19
-    ],
-    [
       "poster",
-      19
+      21
     ],
     [
       "reference",
-      16
-    ],
-    [
-      "gray",
-      13
+      17
     ],
     [
       "scientific-educational",
-      13
-    ],
-    [
-      "steel",
-      13
+      17
     ],
     [
       "comparison",
+      16
+    ],
+    [
+      "steel",
+      15
+    ],
+    [
+      "gray",
+      14
+    ],
+    [
+      "charcoal",
+      12
+    ],
+    [
+      "direct",
+      12
+    ],
+    [
+      "how",
+      12
+    ],
+    [
+      "metal",
       12
     ],
     [
@@ -186,15 +202,11 @@ window.IMAGE_KB = {
       11
     ],
     [
-      "charcoal",
-      11
-    ],
-    [
-      "direct",
-      11
-    ],
-    [
       "repair",
+      11
+    ],
+    [
+      "white",
       11
     ],
     [
@@ -210,6 +222,10 @@ window.IMAGE_KB = {
       10
     ],
     [
+      "black",
+      10
+    ],
+    [
       "buttercream",
       10
     ],
@@ -218,7 +234,15 @@ window.IMAGE_KB = {
       10
     ],
     [
+      "frame",
+      10
+    ],
+    [
       "gecko",
+      10
+    ],
+    [
+      "infographic-diagram",
       10
     ],
     [
@@ -230,11 +254,23 @@ window.IMAGE_KB = {
       9
     ],
     [
+      "arrows",
+      9
+    ],
+    [
+      "beekeeping",
+      9
+    ],
+    [
       "braiding",
       9
     ],
     [
       "brass",
+      9
+    ],
+    [
+      "brown",
       9
     ],
     [
@@ -250,7 +286,7 @@ window.IMAGE_KB = {
       9
     ],
     [
-      "how",
+      "plate",
       9
     ],
     [
@@ -258,11 +294,15 @@ window.IMAGE_KB = {
       9
     ],
     [
-      "bicycle",
-      8
+      "strip",
+      9
     ],
     [
-      "black",
+      "training",
+      9
+    ],
+    [
+      "bicycle",
       8
     ],
     [
@@ -274,7 +314,7 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "infographic-diagram",
+      "green",
       8
     ],
     [
@@ -282,11 +322,7 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "metal",
-      8
-    ],
-    [
-      "plate",
+      "plastic",
       8
     ],
     [
@@ -294,15 +330,19 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "training",
+      "tools",
       8
+    ],
+    [
+      "backdrop",
+      7
     ],
     [
       "braid",
       7
     ],
     [
-      "brown",
+      "brood",
       7
     ],
     [
@@ -322,11 +362,31 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "green",
+      "hive",
+      7
+    ],
+    [
+      "honey",
       7
     ],
     [
       "hooks",
+      7
+    ],
+    [
+      "inset",
+      7
+    ],
+    [
+      "lighting",
+      7
+    ],
+    [
+      "photorealistic-natural",
+      7
+    ],
+    [
+      "pine",
       7
     ],
     [
@@ -338,12 +398,44 @@ window.IMAGE_KB = {
       7
     ],
     [
+      "safety",
+      7
+    ],
+    [
       "salon",
       7
     ],
     [
-      "strip",
+      "section",
       7
+    ],
+    [
+      "tray",
+      7
+    ],
+    [
+      "accents",
+      6
+    ],
+    [
+      "across",
+      6
+    ],
+    [
+      "amber",
+      6
+    ],
+    [
+      "answering",
+      6
+    ],
+    [
+      "atlas-contact-sheet",
+      6
+    ],
+    [
+      "bee",
+      6
     ],
     [
       "bench",
@@ -351,6 +443,14 @@ window.IMAGE_KB = {
     ],
     [
       "cape",
+      6
+    ],
+    [
+      "card",
+      6
+    ],
+    [
+      "cells",
       6
     ],
     [
@@ -382,6 +482,10 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "open",
+      6
+    ],
+    [
       "pastry",
       6
     ],
@@ -390,19 +494,11 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "photorealistic-natural",
+      "sample",
       6
     ],
     [
-      "plastic",
-      6
-    ],
-    [
-      "safety",
-      6
-    ],
-    [
-      "section",
+      "setup",
       6
     ],
     [
@@ -418,27 +514,15 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "white",
+      "top-down",
       6
-    ],
-    [
-      "accents",
-      5
-    ],
-    [
-      "across",
-      5
     ],
     [
       "ammonia",
       5
     ],
     [
-      "arrows",
-      5
-    ],
-    [
-      "atlas-contact-sheet",
+      "anatomy",
       5
     ],
     [
@@ -450,11 +534,19 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "cards",
+      5
+    ],
+    [
       "catch",
       5
     ],
     [
       "character",
+      5
+    ],
+    [
+      "comb",
       5
     ],
     [
@@ -466,7 +558,23 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "each",
+      5
+    ],
+    [
+      "edge",
+      5
+    ],
+    [
       "framing",
+      5
+    ],
+    [
+      "inspection",
+      5
+    ],
+    [
+      "landscape",
       5
     ],
     [
@@ -498,6 +606,10 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "queen",
+      5
+    ],
+    [
       "rack",
       5
     ],
@@ -506,11 +618,11 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "rubber",
+      "row",
       5
     ],
     [
-      "sample",
+      "rubber",
       5
     ],
     [
@@ -522,7 +634,7 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "setup",
+      "silver",
       5
     ],
     [
@@ -538,23 +650,11 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "tools",
-      5
-    ],
-    [
-      "top-down",
-      5
-    ],
-    [
-      "tray",
-      5
-    ],
-    [
       "action",
       4
     ],
     [
-      "amber",
+      "apiary",
       4
     ],
     [
@@ -578,6 +678,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "beginner",
+      4
+    ],
+    [
       "believable",
       4
     ],
@@ -587,10 +691,6 @@ window.IMAGE_KB = {
     ],
     [
       "braids",
-      4
-    ],
-    [
-      "card",
       4
     ],
     [
@@ -614,15 +714,15 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "dark",
+      4
+    ],
+    [
+      "drop",
+      4
+    ],
+    [
       "dusk",
-      4
-    ],
-    [
-      "each",
-      4
-    ],
-    [
-      "edge",
       4
     ],
     [
@@ -634,6 +734,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "field",
+      4
+    ],
+    [
       "finished",
       4
     ],
@@ -642,7 +746,23 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "galvanized",
+      4
+    ],
+    [
       "hardware",
+      4
+    ],
+    [
+      "hold",
+      4
+    ],
+    [
+      "jar",
+      4
+    ],
+    [
+      "jars",
       4
     ],
     [
@@ -654,10 +774,6 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "lighting",
-      4
-    ],
-    [
       "linework",
       4
     ],
@@ -666,7 +782,15 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "mesh",
+      4
+    ],
+    [
       "mixed-format",
+      4
+    ],
+    [
+      "neutral",
       4
     ],
     [
@@ -686,6 +810,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "pencil",
+      4
+    ],
+    [
       "petal",
       4
     ],
@@ -702,7 +830,15 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "process",
+      4
+    ],
+    [
       "pump",
+      4
+    ],
+    [
+      "reusable",
       4
     ],
     [
@@ -711,6 +847,10 @@ window.IMAGE_KB = {
     ],
     [
       "rotor",
+      4
+    ],
+    [
+      "round",
       4
     ],
     [
@@ -726,7 +866,15 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "smooth",
+      4
+    ],
+    [
       "split",
+      4
+    ],
+    [
+      "stand",
       4
     ],
     [
@@ -742,6 +890,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "tan",
+      4
+    ],
+    [
       "tips",
       4
     ],
@@ -750,15 +902,23 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "tool",
+      4
+    ],
+    [
+      "tube",
+      4
+    ],
+    [
       "wall",
       4
     ],
     [
-      "accent",
-      3
+      "wax",
+      4
     ],
     [
-      "anatomy",
+      "accent",
       3
     ],
     [
@@ -774,15 +934,23 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "backdrop",
+      "beekeeper",
       3
     ],
     [
-      "beginner",
+      "before",
       3
     ],
     [
       "biofilm",
+      3
+    ],
+    [
+      "blocks",
+      3
+    ],
+    [
+      "bodies",
       3
     ],
     [
@@ -794,11 +962,23 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "brush",
+      3
+    ],
+    [
       "bucket",
       3
     ],
     [
       "bundles",
+      3
+    ],
+    [
+      "cage",
+      3
+    ],
+    [
+      "calendar",
       3
     ],
     [
@@ -810,11 +990,23 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "cards",
+      "capped",
       3
     ],
     [
       "cassette",
+      3
+    ],
+    [
+      "caution",
+      3
+    ],
+    [
+      "cell",
+      3
+    ],
+    [
+      "centered",
       3
     ],
     [
@@ -846,15 +1038,23 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "cool",
+      3
+    ],
+    [
+      "corners",
+      3
+    ],
+    [
       "costume",
       3
     ],
     [
-      "cycling",
+      "cup",
       3
     ],
     [
-      "dark",
+      "cycling",
       3
     ],
     [
@@ -866,15 +1066,19 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "detail",
+      3
+    ],
+    [
       "disc",
       3
     ],
     [
-      "driftwood",
+      "documentary",
       3
     ],
     [
-      "drop",
+      "driftwood",
       3
     ],
     [
@@ -902,15 +1106,23 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "frame",
-      3
-    ],
-    [
       "gouache",
       3
     ],
     [
+      "graphite",
+      3
+    ],
+    [
       "gravel",
+      3
+    ],
+    [
+      "grid",
+      3
+    ],
+    [
+      "grip",
       3
     ],
     [
@@ -922,23 +1134,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "hold",
-      3
-    ],
-    [
-      "honey",
-      3
-    ],
-    [
-      "inset",
+      "healthy",
       3
     ],
     [
       "installation",
-      3
-    ],
-    [
-      "jars",
       3
     ],
     [
@@ -950,15 +1150,19 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "label",
+      3
+    ],
+    [
       "laminate",
       3
     ],
     [
-      "landscape",
+      "leaf",
       3
     ],
     [
-      "leaf",
+      "logbook",
       3
     ],
     [
@@ -974,15 +1178,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "neutral",
-      3
-    ],
-    [
       "nitrogen",
       3
     ],
     [
-      "open",
+      "notebook",
       3
     ],
     [
@@ -990,11 +1190,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "pencil",
+      "pistachio",
       3
     ],
     [
-      "pistachio",
+      "placement",
       3
     ],
     [
@@ -1018,15 +1218,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "process",
-      3
-    ],
-    [
       "red",
-      3
-    ],
-    [
-      "reusable",
       3
     ],
     [
@@ -1050,14 +1242,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "round",
-      3
-    ],
-    [
-      "row",
-      3
-    ],
-    [
       "scale",
       3
     ],
@@ -1070,11 +1254,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "silver",
+      "small",
       3
     ],
     [
-      "smooth",
+      "smoker",
       3
     ],
     [
@@ -1082,11 +1266,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "spool",
+      "specimen",
       3
     ],
     [
-      "stand",
+      "spool",
       3
     ],
     [
@@ -1114,11 +1298,23 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "tube",
+      "use",
+      3
+    ],
+    [
+      "veil",
       3
     ],
     [
       "vials",
+      3
+    ],
+    [
+      "warning",
+      3
+    ],
+    [
+      "wash",
       3
     ],
     [
@@ -1130,11 +1326,23 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "wood",
+      3
+    ],
+    [
       "workshop",
       3
     ],
     [
+      "yellow",
+      3
+    ],
+    [
       "above",
+      2
+    ],
+    [
+      "add",
       2
     ],
     [
@@ -1147,6 +1355,18 @@ window.IMAGE_KB = {
     ],
     [
       "air",
+      2
+    ],
+    [
+      "alcohol",
+      2
+    ],
+    [
+      "alert",
+      2
+    ],
+    [
+      "along",
       2
     ],
     [
@@ -1166,10 +1386,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "answering",
-      2
-    ],
-    [
       "around",
       2
     ],
@@ -1182,11 +1398,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "band",
+      2
+    ],
+    [
+      "base",
+      2
+    ],
+    [
       "beat",
       2
     ],
     [
-      "before",
+      "bees",
       2
     ],
     [
@@ -1202,7 +1426,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "blocks",
+      "bloom",
       2
     ],
     [
@@ -1214,7 +1438,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "body",
+      2
+    ],
+    [
       "borders",
+      2
+    ],
+    [
+      "bottom",
+      2
+    ],
+    [
+      "box",
       2
     ],
     [
@@ -1222,7 +1458,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "brush",
+      "burlap",
       2
     ],
     [
@@ -1230,27 +1466,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "cage",
-      2
-    ],
-    [
-      "calendar",
-      2
-    ],
-    [
       "catching",
-      2
-    ],
-    [
-      "caution",
-      2
-    ],
-    [
-      "cell",
-      2
-    ],
-    [
-      "cells",
       2
     ],
     [
@@ -1270,6 +1486,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "checklist",
+      2
+    ],
+    [
       "chips",
       2
     ],
@@ -1279,6 +1499,10 @@ window.IMAGE_KB = {
     ],
     [
       "clamp",
+      2
+    ],
+    [
+      "clip",
       2
     ],
     [
@@ -1295,6 +1519,10 @@ window.IMAGE_KB = {
     ],
     [
       "cloudy",
+      2
+    ],
+    [
+      "clues",
       2
     ],
     [
@@ -1326,10 +1554,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "cool",
-      2
-    ],
-    [
       "cooling",
       2
     ],
@@ -1338,11 +1562,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "corners",
+      "cornrow",
       2
     ],
     [
-      "cornrow",
+      "count",
       2
     ],
     [
@@ -1374,19 +1598,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "detail",
-      2
-    ],
-    [
       "disciplined",
       2
     ],
     [
       "district",
-      2
-    ],
-    [
-      "documentary",
       2
     ],
     [
@@ -1398,11 +1614,31 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "edges",
+      2
+    ],
+    [
+      "egg",
+      2
+    ],
+    [
+      "empty",
+      2
+    ],
+    [
       "enough",
       2
     ],
     [
       "evidence",
+      2
+    ],
+    [
+      "fabric",
+      2
+    ],
+    [
+      "face",
       2
     ],
     [
@@ -1414,11 +1650,23 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "finish",
+      2
+    ],
+    [
       "fishless",
       2
     ],
     [
       "flakes",
+      2
+    ],
+    [
+      "flow",
+      2
+    ],
+    [
+      "focused",
       2
     ],
     [
@@ -1430,7 +1678,23 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "frames",
+      2
+    ],
+    [
       "front",
+      2
+    ],
+    [
+      "fuel",
+      2
+    ],
+    [
+      "full",
+      2
+    ],
+    [
+      "gap",
       2
     ],
     [
@@ -1442,19 +1706,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "gives",
+      2
+    ],
+    [
+      "gloves",
+      2
+    ],
+    [
+      "gold",
+      2
+    ],
+    [
       "grain",
       2
     ],
     [
-      "graphite",
+      "grass",
       2
     ],
     [
       "grease",
-      2
-    ],
-    [
-      "grid",
       2
     ],
     [
@@ -1470,7 +1742,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "healthy",
+      "hat",
       2
     ],
     [
@@ -1490,6 +1762,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "inner",
+      2
+    ],
+    [
       "insets",
       2
     ],
@@ -1506,7 +1782,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "label",
+      "ladder",
+      2
+    ],
+    [
+      "landing",
+      2
+    ],
+    [
+      "langstroth",
       2
     ],
     [
@@ -1514,7 +1798,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "larvae",
+      2
+    ],
+    [
       "leap",
+      2
+    ],
+    [
+      "lightly",
       2
     ],
     [
@@ -1546,6 +1838,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "map",
+      2
+    ],
+    [
       "mini",
       2
     ],
@@ -1562,11 +1858,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "mite",
+      2
+    ],
+    [
       "motion",
       2
     ],
     [
       "narrow",
+      2
+    ],
+    [
+      "nectar",
+      2
+    ],
+    [
+      "nitrile",
+      2
+    ],
+    [
+      "notes",
       2
     ],
     [
@@ -1618,11 +1930,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "pattern",
+      2
+    ],
+    [
       "pegboard",
       2
     ],
     [
-      "placement",
+      "pellets",
       2
     ],
     [
@@ -1635,6 +1951,14 @@ window.IMAGE_KB = {
     ],
     [
       "plaster",
+      2
+    ],
+    [
+      "pockets",
+      2
+    ],
+    [
+      "pollen",
       2
     ],
     [
@@ -1654,7 +1978,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "productivity-visual",
+      2
+    ],
+    [
       "progression",
+      2
+    ],
+    [
+      "query",
       2
     ],
     [
@@ -1682,11 +2014,31 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "ring",
+      2
+    ],
+    [
+      "roll",
+      2
+    ],
+    [
       "rosette",
       2
     ],
     [
+      "rough",
+      2
+    ],
+    [
       "ruffle",
+      2
+    ],
+    [
+      "ruler",
+      2
+    ],
+    [
+      "safe",
       2
     ],
     [
@@ -1703,6 +2055,10 @@ window.IMAGE_KB = {
     ],
     [
       "scraper",
+      2
+    ],
+    [
+      "scratched",
       2
     ],
     [
@@ -1726,7 +2082,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "small",
+      "smoke",
       2
     ],
     [
@@ -1758,6 +2114,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "sticky",
+      2
+    ],
+    [
       "still",
       2
     ],
@@ -1771,6 +2131,10 @@ window.IMAGE_KB = {
     ],
     [
       "styling",
+      2
+    ],
+    [
+      "sugar",
       2
     ],
     [
@@ -1822,10 +2186,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "tool",
-      2
-    ],
-    [
       "top",
       2
     ],
@@ -1846,15 +2206,11 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "visible",
+      2
+    ],
+    [
       "warm",
-      2
-    ],
-    [
-      "warning",
-      2
-    ],
-    [
-      "wash",
       2
     ],
     [
@@ -1870,7 +2226,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "yellow",
+      "worn",
       2
     ],
     [
@@ -1890,7 +2246,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "add",
+      "active",
       1
     ],
     [
@@ -1902,7 +2258,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "aesthetics",
+      1
+    ],
+    [
       "agents",
+      1
+    ],
+    [
+      "aids",
       1
     ],
     [
@@ -1910,7 +2274,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "alert",
+      "alarmist",
       1
     ],
     [
@@ -1930,7 +2294,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "along",
+      "also",
       1
     ],
     [
@@ -1966,6 +2330,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "apiary-tool",
+      1
+    ],
+    [
       "applied",
       1
     ],
@@ -1974,11 +2342,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "approximate",
+      1
+    ],
+    [
       "apricot",
       1
     ],
     [
       "aquarium-nitrogen-cycle-starter-posters",
+      1
+    ],
+    [
+      "arc",
       1
     ],
     [
@@ -2034,11 +2410,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "barrel",
+      "bar",
       1
     ],
     [
-      "base",
+      "bare-handed",
+      1
+    ],
+    [
+      "barrel",
       1
     ],
     [
@@ -2062,7 +2442,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "beehive",
+      1
+    ],
+    [
+      "beekeeping-brood-and-hive-inspection-posters",
+      1
+    ],
+    [
+      "beeswax",
+      1
+    ],
+    [
+      "beige",
+      1
+    ],
+    [
       "bell-tower",
+      1
+    ],
+    [
+      "bellows",
       1
     ],
     [
@@ -2079,6 +2479,10 @@ window.IMAGE_KB = {
     ],
     [
       "beside",
+      1
+    ],
+    [
+      "binder",
       1
     ],
     [
@@ -2102,15 +2506,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "bloom",
+      "blossom",
       1
     ],
     [
-      "bodies",
-      1
-    ],
-    [
-      "body",
+      "blue-violet",
       1
     ],
     [
@@ -2127,10 +2527,6 @@ window.IMAGE_KB = {
     ],
     [
       "bottles",
-      1
-    ],
-    [
-      "box",
       1
     ],
     [
@@ -2198,11 +2594,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "calm",
+      1
+    ],
+    [
       "camera",
       1
     ],
     [
       "capcut",
+      1
+    ],
+    [
+      "cappings",
       1
     ],
     [
@@ -2250,15 +2654,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "charged",
+      1
+    ],
+    [
+      "charred",
+      1
+    ],
+    [
       "charts",
       1
     ],
     [
       "chase",
-      1
-    ],
-    [
-      "checklist",
       1
     ],
     [
@@ -2298,10 +2706,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "clip",
-      1
-    ],
-    [
       "clipboards",
       1
     ],
@@ -2311,10 +2715,6 @@ window.IMAGE_KB = {
     ],
     [
       "cloud",
-      1
-    ],
-    [
-      "clues",
       1
     ],
     [
@@ -2338,7 +2738,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "comb",
+      "columns",
       1
     ],
     [
@@ -2347,6 +2747,10 @@ window.IMAGE_KB = {
     ],
     [
       "common",
+      1
+    ],
+    [
+      "companion",
       1
     ],
     [
@@ -2414,11 +2818,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "corrugated",
+      1
+    ],
+    [
       "counterbalance",
       1
     ],
     [
       "counters",
+      1
+    ],
+    [
+      "counts",
       1
     ],
     [
@@ -2430,7 +2842,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cover",
+      1
+    ],
+    [
       "creature",
+      1
+    ],
+    [
+      "crescent",
       1
     ],
     [
@@ -2466,15 +2886,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "cup",
-      1
-    ],
-    [
       "cupcake",
       1
     ],
     [
       "cupcakes",
+      1
+    ],
+    [
+      "cups",
       1
     ],
     [
@@ -2514,6 +2934,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dented",
+      1
+    ],
+    [
+      "diagnostic",
+      1
+    ],
+    [
       "different",
       1
     ],
@@ -2535,6 +2963,10 @@ window.IMAGE_KB = {
     ],
     [
       "dispenser",
+      1
+    ],
+    [
+      "distinguishing",
       1
     ],
     [
@@ -2582,11 +3014,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dry",
+      1
+    ],
+    [
       "duration",
       1
     ],
     [
-      "edges",
+      "dusty",
       1
     ],
     [
@@ -2603,6 +3039,10 @@ window.IMAGE_KB = {
     ],
     [
       "educators",
+      1
+    ],
+    [
+      "eggs",
       1
     ],
     [
@@ -2630,6 +3070,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "entrance",
+      1
+    ],
+    [
       "espresso",
       1
     ],
@@ -2642,6 +3086,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "excluder",
+      1
+    ],
+    [
       "expression",
       1
     ],
@@ -2650,15 +3098,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "fabric",
-      1
-    ],
-    [
-      "face",
-      1
-    ],
-    [
       "faceplate",
+      1
+    ],
+    [
+      "faces",
       1
     ],
     [
@@ -2675,6 +3119,10 @@ window.IMAGE_KB = {
     ],
     [
       "feed",
+      1
+    ],
+    [
+      "feeder",
       1
     ],
     [
@@ -2698,7 +3146,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "field",
+      "fibers",
       1
     ],
     [
@@ -2714,11 +3162,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "fingers",
+      "finger-jointed",
       1
     ],
     [
-      "finish",
+      "fingers",
       1
     ],
     [
@@ -2734,6 +3182,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "flame",
+      1
+    ],
+    [
       "flat",
       1
     ],
@@ -2746,10 +3198,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "flow",
-      1
-    ],
-    [
       "flower-related",
       1
     ],
@@ -2758,11 +3206,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "focused",
+      "folded",
       1
     ],
     [
-      "folded",
+      "folding",
       1
     ],
     [
@@ -2770,7 +3218,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "frames",
+      "foreground",
+      1
+    ],
+    [
+      "frame-edge",
+      1
+    ],
+    [
+      "frame-reading",
       1
     ],
     [
@@ -2782,15 +3238,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "full",
-      1
-    ],
-    [
       "furniture",
-      1
-    ],
-    [
-      "gap",
       1
     ],
     [
@@ -2799,6 +3247,18 @@ window.IMAGE_KB = {
     ],
     [
       "gauge",
+      1
+    ],
+    [
+      "gauntlet",
+      1
+    ],
+    [
+      "gauntlets",
+      1
+    ],
+    [
+      "gear",
       1
     ],
     [
@@ -2818,11 +3278,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "gives",
+      "glamour",
       1
     ],
     [
       "glazed",
+      1
+    ],
+    [
+      "glossy",
+      1
+    ],
+    [
+      "glove",
       1
     ],
     [
@@ -2834,15 +3302,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "grass",
-      1
-    ],
-    [
       "greasy",
-      1
-    ],
-    [
-      "grip",
       1
     ],
     [
@@ -2870,7 +3330,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "handling",
+      1
+    ],
+    [
       "hands",
+      1
+    ],
+    [
+      "handwritten",
       1
     ],
     [
@@ -2902,6 +3370,18 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "hexagons",
+      1
+    ],
+    [
+      "high",
+      1
+    ],
+    [
+      "hives",
+      1
+    ],
+    [
       "hook",
       1
     ],
@@ -2930,6 +3410,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "identifying",
+      1
+    ],
+    [
       "illustration-story",
       1
     ],
@@ -2950,7 +3434,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "inner",
+      "insert",
       1
     ],
     [
@@ -2974,7 +3458,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "jar",
+      "itself",
+      1
+    ],
+    [
+      "jelly",
       1
     ],
     [
@@ -2987,6 +3475,10 @@ window.IMAGE_KB = {
     ],
     [
       "key",
+      1
+    ],
+    [
+      "kindling",
       1
     ],
     [
@@ -3007,14 +3499,6 @@ window.IMAGE_KB = {
     ],
     [
       "labeled",
-      1
-    ],
-    [
-      "ladder",
-      1
-    ],
-    [
-      "landing",
       1
     ],
     [
@@ -3054,6 +3538,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "leather",
+      1
+    ],
+    [
       "left-to-right",
       1
     ],
@@ -3066,7 +3554,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "lightly",
+      "lid",
       1
     ],
     [
@@ -3075,6 +3563,10 @@ window.IMAGE_KB = {
     ],
     [
       "liners",
+      1
+    ],
+    [
+      "lineup",
       1
     ],
     [
@@ -3087,10 +3579,6 @@ window.IMAGE_KB = {
     ],
     [
       "local",
-      1
-    ],
-    [
-      "logbook",
       1
     ],
     [
@@ -3111,6 +3599,14 @@ window.IMAGE_KB = {
     ],
     [
       "loose",
+      1
+    ],
+    [
+      "low",
+      1
+    ],
+    [
+      "lower",
       1
     ],
     [
@@ -3138,11 +3634,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "map",
+      "maps",
       1
     ],
     [
-      "maps",
+      "marigold",
+      1
+    ],
+    [
+      "marker",
+      1
+    ],
+    [
+      "marking",
       1
     ],
     [
@@ -3166,6 +3670,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "midground",
+      1
+    ],
+    [
       "mirrors",
       1
     ],
@@ -3178,7 +3686,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "mite-count",
+      1
+    ],
+    [
+      "mite-monitoring",
+      1
+    ],
+    [
+      "mites",
+      1
+    ],
+    [
       "mix",
+      1
+    ],
+    [
+      "monitoring",
       1
     ],
     [
@@ -3226,6 +3750,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "needles",
+      1
+    ],
+    [
+      "netting",
+      1
+    ],
+    [
       "new",
       1
     ],
@@ -3242,14 +3774,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "notebook",
-      1
-    ],
-    [
-      "notes",
-      1
-    ],
-    [
       "offset",
       1
     ],
@@ -3262,7 +3786,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "orchard",
+      1
+    ],
+    [
+      "orchard-edge",
+      1
+    ],
+    [
       "order",
+      1
+    ],
+    [
+      "outdoors",
       1
     ],
     [
@@ -3306,6 +3842,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "paperwork",
+      1
+    ],
+    [
       "paragraphs",
       1
     ],
@@ -3318,11 +3858,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "path",
+      "patchy",
       1
     ],
     [
-      "pattern",
+      "path",
       1
     ],
     [
@@ -3346,10 +3886,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "pellets",
-      1
-    ],
-    [
       "per",
       1
     ],
@@ -3367,6 +3903,10 @@ window.IMAGE_KB = {
     ],
     [
       "phase",
+      1
+    ],
+    [
+      "photo",
       1
     ],
     [
@@ -3434,10 +3974,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "productivity-visual",
-      1
-    ],
-    [
       "profile",
       1
     ],
@@ -3450,7 +3986,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "propolis",
+      1
+    ],
+    [
       "props",
+      1
+    ],
+    [
+      "protective",
+      1
+    ],
+    [
+      "protective-gear",
       1
     ],
     [
@@ -3474,7 +4022,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "query",
+      "queen-marking",
       1
     ],
     [
@@ -3491,6 +4039,10 @@ window.IMAGE_KB = {
     ],
     [
       "ragged",
+      1
+    ],
+    [
+      "rails",
       1
     ],
     [
@@ -3526,11 +4078,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "record",
+      1
+    ],
+    [
+      "recordkeeping",
+      1
+    ],
+    [
       "recovery",
       1
     ],
     [
       "redness",
+      1
+    ],
+    [
+      "reducer",
       1
     ],
     [
@@ -3582,7 +4146,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "ring",
+      "ring-bound",
       1
     ],
     [
@@ -3610,10 +4174,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "rough",
-      1
-    ],
-    [
       "roughening",
       1
     ],
@@ -3630,6 +4190,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "royal",
+      1
+    ],
+    [
       "rub",
       1
     ],
@@ -3638,11 +4202,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "ruler",
+      "ruler-like",
       1
     ],
     [
-      "ruler-like",
+      "rust",
       1
     ],
     [
@@ -3658,7 +4222,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "safe",
+      "safe-smoke",
       1
     ],
     [
@@ -3682,7 +4246,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "scratched",
+      "screened",
       1
     ],
     [
@@ -3718,11 +4282,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "set",
+      1
+    ],
+    [
+      "severity",
+      1
+    ],
+    [
       "shade",
       1
     ],
     [
       "shadows",
+      1
+    ],
+    [
+      "sheen",
       1
     ],
     [
@@ -3755,6 +4331,14 @@ window.IMAGE_KB = {
     ],
     [
       "sidewall",
+      1
+    ],
+    [
+      "sighting",
+      1
+    ],
+    [
+      "sightings",
       1
     ],
     [
@@ -3806,6 +4390,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "smoking",
+      1
+    ],
+    [
       "smoother",
       1
     ],
@@ -3819,6 +4407,10 @@ window.IMAGE_KB = {
     ],
     [
       "software",
+      1
+    ],
+    [
+      "soot",
       1
     ],
     [
@@ -3838,10 +4430,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "specimen",
-      1
-    ],
-    [
       "splints",
       1
     ],
@@ -3854,11 +4442,35 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "spring",
+      1
+    ],
+    [
       "square",
       1
     ],
     [
+      "squeeze",
+      1
+    ],
+    [
+      "stack",
+      1
+    ],
+    [
       "staff",
+      1
+    ],
+    [
+      "stage",
+      1
+    ],
+    [
+      "stages",
+      1
+    ],
+    [
+      "stained",
       1
     ],
     [
@@ -3867,6 +4479,10 @@ window.IMAGE_KB = {
     ],
     [
       "start",
+      1
+    ],
+    [
+      "stationery",
       1
     ],
     [
@@ -3879,6 +4495,10 @@ window.IMAGE_KB = {
     ],
     [
       "step",
+      1
+    ],
+    [
+      "steps",
       1
     ],
     [
@@ -3958,6 +4578,22 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "super",
+      1
+    ],
+    [
+      "supersedure",
+      1
+    ],
+    [
+      "surface",
+      1
+    ],
+    [
+      "swarm",
+      1
+    ],
+    [
       "swipes",
       1
     ],
@@ -3982,10 +4618,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "tan",
-      1
-    ],
-    [
       "tap",
       1
     ],
@@ -3995,6 +4627,10 @@ window.IMAGE_KB = {
     ],
     [
       "taxonomy",
+      1
+    ],
+    [
+      "technical",
       1
     ],
     [
@@ -4074,6 +4710,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "topping",
+      1
+    ],
+    [
+      "traffic",
+      1
+    ],
+    [
       "trainers",
       1
     ],
@@ -4106,11 +4750,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "under",
+      1
+    ],
+    [
+      "unrelated",
+      1
+    ],
+    [
       "uptake",
       1
     ],
     [
       "uses",
+      1
+    ],
+    [
+      "varroa",
+      1
+    ],
+    [
+      "vertical",
       1
     ],
     [
@@ -4134,6 +4794,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "warning-sign",
+      1
+    ],
+    [
       "wavy",
       1
     ],
@@ -4150,6 +4814,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "what",
+      1
+    ],
+    [
       "wheels",
       1
     ],
@@ -4162,11 +4830,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "worn",
+      "yaki",
       1
     ],
     [
-      "yaki",
+      "yard",
+      1
+    ],
+    [
+      "yellow-orange",
       1
     ]
   ],
@@ -4248,6 +4920,14 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "brood tan",
+      2
+    ],
+    [
+      "burlap fuel",
+      2
+    ],
+    [
       "ceramic bio-rings",
       2
     ],
@@ -4272,6 +4952,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "galvanized silver",
+      2
+    ],
+    [
       "glass tank panels",
       2
     ],
@@ -4280,11 +4964,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "graphite gray",
+      2
+    ],
+    [
       "grease pencil arrows",
       2
     ],
     [
       "gunmetal gray",
+      2
+    ],
+    [
+      "hive tool",
       2
     ],
     [
@@ -4360,6 +5052,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "pine wood",
+      2
+    ],
+    [
       "piped buttercream ridges",
       2
     ],
@@ -4369,6 +5065,10 @@ window.IMAGE_KB = {
     ],
     [
       "plaster wall",
+      2
+    ],
+    [
+      "pollen band",
       2
     ],
     [
@@ -4416,6 +5116,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "a folding inspection table in the foreground",
+      1
+    ],
+    [
       "a geometric crown pattern",
       1
     ],
@@ -4456,11 +5160,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "alcohol wash",
+      1
+    ],
+    [
+      "alcohol wash cup",
+      1
+    ],
+    [
+      "also identifying the honey arc",
+      1
+    ],
+    [
       "aluminum rim section",
       1
     ],
     [
       "amber driftwood",
+      1
+    ],
+    [
+      "amber honey",
       1
     ],
     [
@@ -4500,6 +5220,22 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "bee brush",
+      1
+    ],
+    [
+      "bee smoker body",
+      1
+    ],
+    [
+      "beeswax gold",
+      1
+    ],
+    [
+      "bellows use",
+      1
+    ],
+    [
       "bio balls",
       1
     ],
@@ -4528,7 +5264,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "black veil mesh",
+      1
+    ],
+    [
       "blonde tip mix",
+      1
+    ],
+    [
+      "blossom white",
       1
     ],
     [
@@ -4584,6 +5328,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "brood box full of bees",
+      1
+    ],
+    [
+      "brood frame on stand",
+      1
+    ],
+    [
       "brushed aluminum brake arms",
       1
     ],
@@ -4624,6 +5376,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "burlap smoker fuel",
+      1
+    ],
+    [
+      "burlap tan",
+      1
+    ],
+    [
       "buttercream ridges",
       1
     ],
@@ -4644,6 +5404,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "capped brood field",
+      1
+    ],
+    [
       "cardboard cake boxes",
       1
     ],
@@ -4661,6 +5425,10 @@ window.IMAGE_KB = {
     ],
     [
       "catching the kite",
+      1
+    ],
+    [
+      "caution marigold",
       1
     ],
     [
@@ -4713,6 +5481,14 @@ window.IMAGE_KB = {
     ],
     [
       "charcoal text",
+      1
+    ],
+    [
+      "charged queen cells",
+      1
+    ],
+    [
+      "charred burlap fibers",
       1
     ],
     [
@@ -4772,6 +5548,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "comb amber",
+      1
+    ],
+    [
       "commercial pastry-school decorating station inside a teaching kitchen",
       1
     ],
@@ -4781,6 +5561,10 @@ window.IMAGE_KB = {
     ],
     [
       "Compares the root structure",
+      1
+    ],
+    [
+      "comparison of queen cups",
       1
     ],
     [
@@ -4805,6 +5589,10 @@ window.IMAGE_KB = {
     ],
     [
       "cool white",
+      1
+    ],
+    [
+      "corrugated sticky board insert",
       1
     ],
     [
@@ -4868,6 +5656,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dark tray charcoal",
+      1
+    ],
+    [
       "decomposing food",
       1
     ],
@@ -4877,6 +5669,10 @@ window.IMAGE_KB = {
     ],
     [
       "deep brown braids",
+      1
+    ],
+    [
+      "dented smoker metal",
       1
     ],
     [
@@ -4928,11 +5724,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dusty pollen pellets",
+      1
+    ],
+    [
       "each applied as a rosette",
       1
     ],
     [
       "edge brush",
+      1
+    ],
+    [
+      "egg row detail",
       1
     ],
     [
@@ -4961,6 +5765,10 @@ window.IMAGE_KB = {
     ],
     [
       "filter sponge colony",
+      1
+    ],
+    [
+      "finger-jointed pine hive bodies",
       1
     ],
     [
@@ -5000,6 +5808,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "focused on the hive stack itself",
+      1
+    ],
+    [
       "focused repair",
       1
     ],
@@ -5012,11 +5824,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "frame grip",
+      1
+    ],
+    [
       "frayed cloth stitching",
       1
     ],
     [
       "frosting tubs",
+      1
+    ],
+    [
+      "galvanized lid silver",
+      1
+    ],
+    [
+      "galvanized smoker metal",
+      1
+    ],
+    [
+      "Gives a frame-reading checklist for distinguishing capped brood",
       1
     ],
     [
@@ -5040,15 +5868,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "glossy nectar cells",
+      1
+    ],
+    [
+      "glove blue-violet",
+      1
+    ],
+    [
       "glue and patch placement",
       1
     ],
     [
       "gouache paint",
-      1
-    ],
-    [
-      "graphite gray",
       1
     ],
     [
@@ -5064,6 +5896,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "handwritten hive inspection logbook",
+      1
+    ],
+    [
       "hanging repair arm",
       1
     ],
@@ -5072,7 +5908,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "honey arc",
+      1
+    ],
+    [
+      "honey cells",
+      1
+    ],
+    [
+      "honey cream paper",
+      1
+    ],
+    [
       "honey ombre",
+      1
+    ],
+    [
+      "honey super with capped frames",
       1
     ],
     [
@@ -5093,6 +5945,10 @@ window.IMAGE_KB = {
     ],
     [
       "including shell border",
+      1
+    ],
+    [
+      "inner cover gap",
       1
     ],
     [
@@ -5117,6 +5973,10 @@ window.IMAGE_KB = {
     ],
     [
       "jockey wheels",
+      1
+    ],
+    [
+      "kindling flame",
       1
     ],
     [
@@ -5164,11 +6024,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "leather gauntlet gloves",
+      1
+    ],
+    [
+      "leather gauntlets",
+      1
+    ],
+    [
       "Lets a searcher compare an ammonia test vial",
       1
     ],
     [
       "lightly bent rotor causing rub",
+      1
+    ],
+    [
+      "lightly stained paper cards",
       1
     ],
     [
@@ -5248,7 +6120,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "mesh black",
+      1
+    ],
+    [
+      "mesh veil fabric",
+      1
+    ],
+    [
+      "mesh veil netting",
+      1
+    ],
+    [
       "metal clips",
+      1
+    ],
+    [
+      "metal cover patina",
       1
     ],
     [
@@ -5280,6 +6168,18 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "mite count card",
+      1
+    ],
+    [
+      "mite counts",
+      1
+    ],
+    [
+      "mite rust brown",
+      1
+    ],
+    [
       "moss green plants",
       1
     ],
@@ -5296,7 +6196,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "neutral cream product-stage backdrop with no landscape",
+      1
+    ],
+    [
       "nitrate rise",
+      1
+    ],
+    [
+      "nitrile gloves",
       1
     ],
     [
@@ -5321,6 +6229,10 @@ window.IMAGE_KB = {
     ],
     [
       "no software screenshot",
+      1
+    ],
+    [
+      "notebook logbook",
       1
     ],
     [
@@ -5372,7 +6284,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "open larvae crescent",
+      1
+    ],
+    [
       "open star tip",
+      1
+    ],
+    [
+      "orchard green",
+      1
+    ],
+    [
+      "orchard-edge apiary in bloom with open Langstroth hives",
       1
     ],
     [
@@ -5424,6 +6348,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "patchy brood pattern",
+      1
+    ],
+    [
       "pearl border",
       1
     ],
@@ -5432,7 +6360,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "pencil wood",
+      1
+    ],
+    [
       "perforated pegboard",
+      1
+    ],
+    [
+      "pine brood frame rails",
+      1
+    ],
+    [
+      "pine frame corners",
+      1
+    ],
+    [
+      "pine needles",
       1
     ],
     [
@@ -5468,6 +6412,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "plastic sample jars",
+      1
+    ],
+    [
       "plastic tire levers",
       1
     ],
@@ -5477,6 +6425,10 @@ window.IMAGE_KB = {
     ],
     [
       "plywood tan",
+      1
+    ],
+    [
+      "pollen yellow-orange",
       1
     ],
     [
@@ -5528,7 +6480,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "propolis brown",
+      1
+    ],
+    [
       "puncture check in a water basin",
+      1
+    ],
+    [
+      "queen excluder",
+      1
+    ],
+    [
+      "queen sighting card",
+      1
+    ],
+    [
+      "queen sightings",
       1
     ],
     [
@@ -5592,6 +6560,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "ring binder metal",
+      1
+    ],
+    [
+      "ring-bound frame marking card set",
+      1
+    ],
+    [
       "rinsing filter media under tap water",
       1
     ],
@@ -5644,7 +6620,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "rough comb edges",
+      1
+    ],
+    [
       "roughening the tube",
+      1
+    ],
+    [
+      "round white bee veil hat",
       1
     ],
     [
@@ -5700,6 +6684,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "scratched hive tool steel",
+      1
+    ],
+    [
       "scratched paint",
       1
     ],
@@ -5713,6 +6701,10 @@ window.IMAGE_KB = {
     ],
     [
       "scratched steel repair stand",
+      1
+    ],
+    [
+      "screened mesh",
       1
     ],
     [
@@ -5784,11 +6776,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "smoking bee smoker",
+      1
+    ],
+    [
       "smooth mannequin scalp",
       1
     ],
     [
       "smooth mannequin skin",
+      1
+    ],
+    [
+      "smooth nitrile glove surface",
       1
     ],
     [
@@ -5809,6 +6809,10 @@ window.IMAGE_KB = {
     ],
     [
       "soft gouache paint",
+      1
+    ],
+    [
+      "soot black",
       1
     ],
     [
@@ -5848,6 +6852,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "spring grass",
+      1
+    ],
+    [
       "sprinting across tiles",
       1
     ],
@@ -5880,6 +6888,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "sticky board tray under screened bottom board",
+      1
+    ],
+    [
+      "sticky honey sheen",
+      1
+    ],
+    [
       "stiff buttercream",
       1
     ],
@@ -5909,6 +6925,22 @@ window.IMAGE_KB = {
     ],
     [
       "substrate layers",
+      1
+    ],
+    [
+      "sugar roll",
+      1
+    ],
+    [
+      "sugar roll jar",
+      1
+    ],
+    [
+      "supersedure cells on the frame face",
+      1
+    ],
+    [
+      "swarm cells along lower frame edges",
       1
     ],
     [
@@ -5980,6 +7012,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "topping up fuel",
+      1
+    ],
+    [
       "traffic-cone orange",
       1
     ],
@@ -6012,6 +7048,18 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "varroa mites on white count card",
+      1
+    ],
+    [
+      "veil mesh",
+      1
+    ],
+    [
+      "veil white",
+      1
+    ],
+    [
       "vesicular lava rock",
       1
     ],
@@ -6041,6 +7089,42 @@ window.IMAGE_KB = {
     ],
     [
       "wavy texture before installation",
+      1
+    ],
+    [
+      "wax beige",
+      1
+    ],
+    [
+      "wax cappings",
+      1
+    ],
+    [
+      "wax cell cups",
+      1
+    ],
+    [
+      "wax comb cells",
+      1
+    ],
+    [
+      "wax comb hexagons",
+      1
+    ],
+    [
+      "wax gold",
+      1
+    ],
+    [
+      "wax yellow",
+      1
+    ],
+    [
+      "wax yellow marker blocks",
+      1
+    ],
+    [
+      "weathered folding table plastic",
       1
     ],
     [
@@ -6080,6 +7164,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "white veil mesh",
+      1
+    ],
+    [
       "wide-tooth comb",
       1
     ],
@@ -6104,6 +7192,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "worn leather gauntlets",
+      1
+    ],
+    [
       "woven towel",
       1
     ]
@@ -6111,10 +7203,21 @@ window.IMAGE_KB = {
   "bands": [
     [
       "signature",
-      50
+      60
     ]
   ],
   "runs": [
+    {
+      "slug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "theme": "Beekeeping Brood And Hive Inspection Posters",
+      "imageCount": 10,
+      "status": "success",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "publicImageCount": 10,
+      "archivedImageCount": 0
+    },
     {
       "slug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
       "timestamp": "2026-05-21T15:53:14+08:00",
@@ -6172,6 +7275,1068 @@ window.IMAGE_KB = {
     }
   ],
   "images": [
+    {
+      "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-01",
+      "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "runTheme": "Beekeeping Brood And Hive Inspection Posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "index": 1,
+      "title": "Healthy And Patchy Brood Pattern Chart",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "brood",
+        "honey",
+        "pattern",
+        "pollen",
+        "patchy",
+        "chart",
+        "frame",
+        "larvae",
+        "arc",
+        "capped",
+        "egg",
+        "healthy",
+        "open",
+        "row",
+        "band",
+        "beekeeping",
+        "bee",
+        "cells",
+        "empty",
+        "field",
+        "inset",
+        "labels",
+        "pine",
+        "training",
+        "also",
+        "apiary",
+        "beeswax",
+        "brown",
+        "comb",
+        "comparison",
+        "direct",
+        "faces",
+        "gold",
+        "hexagons",
+        "identifying",
+        "landing",
+        "paper",
+        "pockets",
+        "propolis",
+        "rails",
+        "scientific-educational",
+        "sheen",
+        "short",
+        "sticky",
+        "tan",
+        "visible",
+        "wax",
+        "wood"
+      ],
+      "specificHooks": [
+        "patchy brood pattern",
+        "capped brood field",
+        "pollen band",
+        "honey arc",
+        "wax comb hexagons",
+        "pine brood frame rails",
+        "sticky honey sheen",
+        "beeswax gold",
+        "brood tan",
+        "propolis brown",
+        "also identifying the honey arc"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.prompt.md",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-01/",
+      "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished beekeeping training chart answering the query \"brood pattern chart\"\nScene/backdrop: warm cream apiary training board with a simple wood frame and no room scene\nSubject: side-by-side honey bee brood frames showing healthy brood pattern, patchy brood pattern, capped brood field, pollen band, honey arc, open larvae pockets, empty cells, and an egg row inset\nStyle/medium: realistic agricultural teaching chart using documentary beekeeping photography with restrained diagram labels and no cartoon bees\nComposition/framing: wide horizontal comparison poster with two full frame faces, yellow callout tabs, and a bottom strip of hexagon specimen insets for capped brood, open larvae, honey, pollen, empty cells, and egg row detail\nLighting/mood: bright spring apiary classroom light, practical, confidence-building\nColor palette: beeswax gold, brood tan, propolis brown, pine wood, cream paper, charcoal text, pollen yellow\nMaterials/textures: wax comb hexagons, pine brood frame rails, sticky honey sheen, dusty pollen pellets, matte teaching-board paper\nText (verbatim): \"HEALTHY BROOD\" \"PATCHY BROOD\" \"HONEY\" \"POLLEN\" \"LARVAE\" \"CAPPED BROOD\" \"OPEN LARVAE\" \"EGG ROW (INSET)\"\nConstraints: short labels only, direct search-answer image for beekeeping training, no logos, no watermark, no farmhouse decor\nAvoid: cute bee mascots, honey-jar packaging, unreadable paragraphs, generic agriculture clip art, glossy advertising polish",
+      "learningValue": "Helps a beginner or mentor compare a solid brood pattern against a patchy brood pattern while also identifying the honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row clues on the same landing page.",
+      "compositionNotes": "The paired frame faces make healthy brood pattern, patchy brood pattern, pollen band, honey arc, open larvae pockets, and egg row inset visible without requiring extra panels, which improves both thumbnail legibility and agentic retrieval.",
+      "formatNotes": "Direct comparison chart for queries like brood pattern chart, healthy brood vs patchy brood, and bee brood frame guide. The short visible labels are intentional; exact phrasing is preserved here in the prompt card.",
+      "searchText": "healthy and patchy brood pattern chart scientific-educational beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished beekeeping training chart answering the query \"brood pattern chart\"\nscene/backdrop: warm cream apiary training board with a simple wood frame and no room scene\nsubject: side-by-side honey bee brood frames showing healthy brood pattern, patchy brood pattern, capped brood field, pollen band, honey arc, open larvae pockets, empty cells, and an egg row inset\nstyle/medium: realistic agricultural teaching chart using documentary beekeeping photography with restrained diagram labels and no cartoon bees\ncomposition/framing: wide horizontal comparison poster with two full frame faces, yellow callout tabs, and a bottom strip of hexagon specimen insets for capped brood, open larvae, honey, pollen, empty cells, and egg row detail\nlighting/mood: bright spring apiary classroom light, practical, confidence-building\ncolor palette: beeswax gold, brood tan, propolis brown, pine wood, cream paper, charcoal text, pollen yellow\nmaterials/textures: wax comb hexagons, pine brood frame rails, sticky honey sheen, dusty pollen pellets, matte teaching-board paper\ntext (verbatim): \"healthy brood\" \"patchy brood\" \"honey\" \"pollen\" \"larvae\" \"capped brood\" \"open larvae\" \"egg row (inset)\"\nconstraints: short labels only, direct search-answer image for beekeeping training, no logos, no watermark, no farmhouse decor\navoid: cute bee mascots, honey-jar packaging, unreadable paragraphs, generic agriculture clip art, glossy advertising polish helps a beginner or mentor compare a solid brood pattern against a patchy brood pattern while also identifying the honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row clues on the same landing page. the paired frame faces make healthy brood pattern, patchy brood pattern, pollen band, honey arc, open larvae pockets, and egg row inset visible without requiring extra panels, which improves both thumbnail legibility and agentic retrieval. direct comparison chart for queries like brood pattern chart, healthy brood vs patchy brood, and bee brood frame guide. the short visible labels are intentional; exact phrasing is preserved here in the prompt card. patchy brood pattern capped brood field pollen band honey arc wax comb hexagons pine brood frame rails sticky honey sheen beeswax gold brood tan propolis brown also identifying the honey arc page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-02",
+      "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "runTheme": "Beekeeping Brood And Hive Inspection Posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "index": 2,
+      "title": "Capped Brood Honey And Pollen Frame Guide",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "brood",
+        "honey",
+        "pollen",
+        "capped",
+        "frame",
+        "larvae",
+        "cells",
+        "detail",
+        "band",
+        "eggs",
+        "empty",
+        "open",
+        "wax",
+        "comb",
+        "crescent",
+        "egg",
+        "frame-reading",
+        "guide",
+        "labels",
+        "nectar",
+        "row",
+        "vertical",
+        "amber",
+        "backdrop",
+        "beekeeping",
+        "cappings",
+        "centered",
+        "checklist",
+        "distinguishing",
+        "dusty",
+        "field",
+        "gives",
+        "glossy",
+        "gold",
+        "inset",
+        "inspection",
+        "pellets",
+        "pine",
+        "pockets",
+        "scientific-educational",
+        "small",
+        "unrelated",
+        "yellow-orange",
+        "across",
+        "answering",
+        "apiary",
+        "arrows",
+        "bar"
+      ],
+      "specificHooks": [
+        "open larvae crescent",
+        "pollen band",
+        "honey cells",
+        "egg row detail",
+        "wax cappings",
+        "glossy nectar cells",
+        "dusty pollen pellets",
+        "wax gold",
+        "amber honey",
+        "pollen yellow-orange",
+        "Gives a frame-reading checklist for distinguishing capped brood"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.prompt.md",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-02/",
+      "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: vertical beekeeping frame-reading guide answering the query \"capped brood vs honey frame\"\nScene/backdrop: clean cream training-board backdrop with one isolated Langstroth frame face and inset detail windows\nSubject: one brood frame showing capped brood field, open larvae crescent, pollen band, honey cells, egg row detail, empty comb pockets, and subtle queen-laying pattern clues\nStyle/medium: realistic apiary teaching plate with documentary honeycomb detail and restrained printed callouts\nComposition/framing: tall vertical poster with a centered brood frame, side callout arrows, and small inset magnifications for eggs, larvae, capped brood, pollen, and nectar storage\nLighting/mood: neutral orchard daylight, crisp, technical, trustworthy\nColor palette: wax gold, amber honey, pollen yellow-orange, brood tan, propolis brown, paper cream, pine wood\nMaterials/textures: wax cappings, glossy nectar cells, dusty pollen pellets, rough pine top bar, matte field-guide card stock\nText (verbatim): \"CAPPED BROOD\" \"OPEN LARVAE\" \"POLLEN BAND\" \"HONEY\" \"EGGS\" \"EMPTY CELLS\"\nConstraints: short labels only, useful for bee-club training and beginner frame reading, no logos, no watermark, no decorative honey labels\nAvoid: cute cartoon bees, kitchen-table rustic styling, tiny paragraphs, lifestyle blog collage, unrelated flowers in the foreground",
+      "learningValue": "Gives a frame-reading checklist for distinguishing capped brood, eggs, larvae, pollen, honey, and empty comb so a new beekeeper can understand what a productive brood frame should contain.",
+      "compositionNotes": "The single centered frame keeps capped brood field, open larvae crescent, pollen band, honey cells, egg row detail, and empty comb pockets tied to one real inspection surface instead of scattering the lesson across unrelated diagrams.",
+      "formatNotes": "Vertical identification guide built for queries like capped brood vs honey frame, bee eggs larvae capped brood chart, and how to read a brood frame. Canonical labels are stored here even if small generated text varies.",
+      "searchText": "capped brood honey and pollen frame guide scientific-educational beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: vertical beekeeping frame-reading guide answering the query \"capped brood vs honey frame\"\nscene/backdrop: clean cream training-board backdrop with one isolated langstroth frame face and inset detail windows\nsubject: one brood frame showing capped brood field, open larvae crescent, pollen band, honey cells, egg row detail, empty comb pockets, and subtle queen-laying pattern clues\nstyle/medium: realistic apiary teaching plate with documentary honeycomb detail and restrained printed callouts\ncomposition/framing: tall vertical poster with a centered brood frame, side callout arrows, and small inset magnifications for eggs, larvae, capped brood, pollen, and nectar storage\nlighting/mood: neutral orchard daylight, crisp, technical, trustworthy\ncolor palette: wax gold, amber honey, pollen yellow-orange, brood tan, propolis brown, paper cream, pine wood\nmaterials/textures: wax cappings, glossy nectar cells, dusty pollen pellets, rough pine top bar, matte field-guide card stock\ntext (verbatim): \"capped brood\" \"open larvae\" \"pollen band\" \"honey\" \"eggs\" \"empty cells\"\nconstraints: short labels only, useful for bee-club training and beginner frame reading, no logos, no watermark, no decorative honey labels\navoid: cute cartoon bees, kitchen-table rustic styling, tiny paragraphs, lifestyle blog collage, unrelated flowers in the foreground gives a frame-reading checklist for distinguishing capped brood, eggs, larvae, pollen, honey, and empty comb so a new beekeeper can understand what a productive brood frame should contain. the single centered frame keeps capped brood field, open larvae crescent, pollen band, honey cells, egg row detail, and empty comb pockets tied to one real inspection surface instead of scattering the lesson across unrelated diagrams. vertical identification guide built for queries like capped brood vs honey frame, bee eggs larvae capped brood chart, and how to read a brood frame. canonical labels are stored here even if small generated text varies. open larvae crescent pollen band honey cells egg row detail wax cappings glossy nectar cells dusty pollen pellets wax gold amber honey pollen yellow-orange gives a frame-reading checklist for distinguishing capped brood page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-03",
+      "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "runTheme": "Beekeeping Brood And Hive Inspection Posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "index": 3,
+      "title": "Queen Cups And Swarm Cells Poster",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "queen",
+        "cell",
+        "cells",
+        "frame",
+        "poster",
+        "swarm",
+        "cups",
+        "charged",
+        "cup",
+        "edges",
+        "specimen",
+        "supersedure",
+        "wax",
+        "brood",
+        "caution",
+        "edge",
+        "along",
+        "arrows",
+        "beekeeping",
+        "beige",
+        "clues",
+        "columns",
+        "comb",
+        "comparison",
+        "corners",
+        "face",
+        "frame-edge",
+        "hive",
+        "infographic-diagram",
+        "jelly",
+        "labels",
+        "lower",
+        "marigold",
+        "pine",
+        "placement",
+        "query",
+        "rough",
+        "royal",
+        "short",
+        "strip",
+        "tan",
+        "warning",
+        "warning-sign",
+        "active",
+        "aesthetics",
+        "alarmist",
+        "alert",
+        "anatomy"
+      ],
+      "specificHooks": [
+        "comparison of queen cups",
+        "charged queen cells",
+        "swarm cells along lower frame edges",
+        "supersedure cells on the frame face",
+        "wax cell cups",
+        "rough comb edges",
+        "pine frame corners",
+        "wax beige",
+        "brood tan",
+        "caution marigold"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.prompt.md",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-03/",
+      "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: warning-sign poster answering the query \"queen cup vs queen cell guide\"\nScene/backdrop: cream apiary lesson poster with no environment scene and clear specimen spacing\nSubject: comparison of queen cups, charged queen cells, swarm cells along lower frame edges, supersedure cells on the frame face, open peanut-shaped queen cell anatomy, and beekeeper warning icons for swarm preparation\nStyle/medium: realistic beekeeping warning poster with specimen photography, short labels, and simple caution arrows\nComposition/framing: tall poster with four specimen columns, one enlarged queen cell cutaway, and a bottom strip showing frame-edge placement clues\nLighting/mood: crisp teaching light, alert but not alarmist\nColor palette: wax beige, brood tan, caution marigold, propolis brown, charcoal text, paper cream\nMaterials/textures: wax cell cups, rough comb edges, pine frame corners, matte poster board, subtle inked arrows\nText (verbatim): \"QUEEN CUP\" \"CHARGED CELL\" \"SWARM CELL\" \"SUPERSEDURE CELL\" \"FRAME EDGE\" \"LARVA + ROYAL JELLY\"\nConstraints: short labels only, answer a beginner search query directly, no logos, no watermark, no mascot illustration\nAvoid: comic bees, dramatic swarming chaos, dense text blocks, flat vector clip art, farmhouse sign aesthetics",
+      "learningValue": "Shows the difference between harmless queen cups and active queen cells, including edge placement and royal-jelly clues that matter during swarm-season inspections.",
+      "compositionNotes": "The poster uses isolated specimen columns plus a frame-edge strip so queen cup, charged queen cell, swarm cell, supersedure cell, frame edge, and royal jelly remain separable at thumbnail scale.",
+      "formatNotes": "Warning-sign explainer for queries like queen cup vs queen cell, swarm signs in hive, and queen cell identification chart. Exact terminology belongs in this card even if in-image text is only partially precise.",
+      "searchText": "queen cups and swarm cells poster infographic-diagram beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: warning-sign poster answering the query \"queen cup vs queen cell guide\"\nscene/backdrop: cream apiary lesson poster with no environment scene and clear specimen spacing\nsubject: comparison of queen cups, charged queen cells, swarm cells along lower frame edges, supersedure cells on the frame face, open peanut-shaped queen cell anatomy, and beekeeper warning icons for swarm preparation\nstyle/medium: realistic beekeeping warning poster with specimen photography, short labels, and simple caution arrows\ncomposition/framing: tall poster with four specimen columns, one enlarged queen cell cutaway, and a bottom strip showing frame-edge placement clues\nlighting/mood: crisp teaching light, alert but not alarmist\ncolor palette: wax beige, brood tan, caution marigold, propolis brown, charcoal text, paper cream\nmaterials/textures: wax cell cups, rough comb edges, pine frame corners, matte poster board, subtle inked arrows\ntext (verbatim): \"queen cup\" \"charged cell\" \"swarm cell\" \"supersedure cell\" \"frame edge\" \"larva + royal jelly\"\nconstraints: short labels only, answer a beginner search query directly, no logos, no watermark, no mascot illustration\navoid: comic bees, dramatic swarming chaos, dense text blocks, flat vector clip art, farmhouse sign aesthetics shows the difference between harmless queen cups and active queen cells, including edge placement and royal-jelly clues that matter during swarm-season inspections. the poster uses isolated specimen columns plus a frame-edge strip so queen cup, charged queen cell, swarm cell, supersedure cell, frame edge, and royal jelly remain separable at thumbnail scale. warning-sign explainer for queries like queen cup vs queen cell, swarm signs in hive, and queen cell identification chart. exact terminology belongs in this card even if in-image text is only partially precise. comparison of queen cups charged queen cells swarm cells along lower frame edges supersedure cells on the frame face wax cell cups rough comb edges pine frame corners wax beige brood tan caution marigold page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-04",
+      "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "runTheme": "Beekeeping Brood And Hive Inspection Posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "index": 4,
+      "title": "Beekeeping Inspection Tool Tray Reference",
+      "taxonomy": "atlas-contact-sheet",
+      "topics": [
+        "tool",
+        "hive",
+        "smoker",
+        "burlap",
+        "veil",
+        "bee",
+        "frame",
+        "fuel",
+        "grip",
+        "mesh",
+        "beekeeping",
+        "brush",
+        "inspection",
+        "tools",
+        "tray",
+        "white",
+        "clip",
+        "galvanized",
+        "jar",
+        "pine",
+        "queen",
+        "roll",
+        "sugar",
+        "atlas-contact-sheet",
+        "cage",
+        "chart",
+        "each",
+        "fabric",
+        "labels",
+        "notebook",
+        "plate",
+        "reference",
+        "scratched",
+        "short",
+        "silver",
+        "steel",
+        "top-down",
+        "what",
+        "wood",
+        "alcohol",
+        "answering",
+        "apiary",
+        "backdrop",
+        "base",
+        "beekeeper",
+        "beekeeping-brood-and-hive-inspection-posters",
+        "before",
+        "beginner"
+      ],
+      "specificHooks": [
+        "hive tool",
+        "frame grip",
+        "bee brush",
+        "burlap fuel",
+        "scratched hive tool steel",
+        "burlap smoker fuel",
+        "mesh veil fabric",
+        "galvanized silver",
+        "pine wood",
+        "white veil mesh"
+      ],
+      "scaleTags": [
+        "object",
+        "tabletop"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/04-beekeeping-inspection-tool-tray-reference.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/04-beekeeping-inspection-tool-tray-reference.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/04-beekeeping-inspection-tool-tray-reference.prompt.md",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/04-beekeeping-inspection-tool-tray-reference.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-04/",
+      "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
+      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: tool atlas answering the query \"beekeeping tools chart\"\nScene/backdrop: top-down apiary tray on neutral cream board with no people and no room scene\nSubject: hive tool, frame grip, bee brush, smoker, burlap fuel, lighter, queen clip cage, marker pen, nitrile gloves, white veil hat, inspection notebook, sugar roll jar, alcohol wash cup, and entrance reducer hardware\nStyle/medium: realistic contact-sheet style training plate with clean spacing, short labels, and tactile field-worn equipment\nComposition/framing: wide top-down tray layout with grouped tools, one smoker-fuel inset, and enough negative space to keep each item legible\nLighting/mood: soft outdoor daylight, calm, prepared, field-ready\nColor palette: galvanized silver, pine wood, white veil mesh, wax yellow, red hive tool paint, burlap tan, cream board\nMaterials/textures: scratched hive tool steel, burlap smoker fuel, mesh veil fabric, weathered notebook paper, galvanized smoker body, pine frame grip handles\nText (verbatim): \"HIVE TOOL\" \"FRAME GRIP\" \"SMOKER\" \"BEE BRUSH\" \"SUGAR ROLL JAR\" \"QUEEN CLIP\"\nConstraints: short labels only, direct search-answer tool reference, no logos, no watermark, no decorative honey jars\nAvoid: ecommerce product glamour, farmhouse prop styling, cluttered workshop background, tiny unreadable tags, tactical camping gear drift",
+      "learningValue": "Provides a concrete beginner hive-inspection kit so a trainer or new beekeeper can identify what each tool does before opening a hive.",
+      "compositionNotes": "The tray format exposes hive tool, frame grip, bee brush, smoker, burlap fuel, white veil mesh, sugar roll jar, and queen clip cage as distinct retrieval hooks rather than blending them into one field scene.",
+      "formatNotes": "Tool-reference plate for searches like beekeeping tools chart, what tools do I need for hive inspection, and bee smoker and hive tool guide. The image is intentionally object-dense and label-light.",
+      "searchText": "beekeeping inspection tool tray reference atlas-contact-sheet beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: tool atlas answering the query \"beekeeping tools chart\"\nscene/backdrop: top-down apiary tray on neutral cream board with no people and no room scene\nsubject: hive tool, frame grip, bee brush, smoker, burlap fuel, lighter, queen clip cage, marker pen, nitrile gloves, white veil hat, inspection notebook, sugar roll jar, alcohol wash cup, and entrance reducer hardware\nstyle/medium: realistic contact-sheet style training plate with clean spacing, short labels, and tactile field-worn equipment\ncomposition/framing: wide top-down tray layout with grouped tools, one smoker-fuel inset, and enough negative space to keep each item legible\nlighting/mood: soft outdoor daylight, calm, prepared, field-ready\ncolor palette: galvanized silver, pine wood, white veil mesh, wax yellow, red hive tool paint, burlap tan, cream board\nmaterials/textures: scratched hive tool steel, burlap smoker fuel, mesh veil fabric, weathered notebook paper, galvanized smoker body, pine frame grip handles\ntext (verbatim): \"hive tool\" \"frame grip\" \"smoker\" \"bee brush\" \"sugar roll jar\" \"queen clip\"\nconstraints: short labels only, direct search-answer tool reference, no logos, no watermark, no decorative honey jars\navoid: ecommerce product glamour, farmhouse prop styling, cluttered workshop background, tiny unreadable tags, tactical camping gear drift provides a concrete beginner hive-inspection kit so a trainer or new beekeeper can identify what each tool does before opening a hive. the tray format exposes hive tool, frame grip, bee brush, smoker, burlap fuel, white veil mesh, sugar roll jar, and queen clip cage as distinct retrieval hooks rather than blending them into one field scene. tool-reference plate for searches like beekeeping tools chart, what tools do i need for hive inspection, and bee smoker and hive tool guide. the image is intentionally object-dense and label-light. hive tool frame grip bee brush burlap fuel scratched hive tool steel burlap smoker fuel mesh veil fabric galvanized silver pine wood white veil mesh object tabletop",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-05",
+      "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "runTheme": "Beekeeping Brood And Hive Inspection Posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "index": 5,
+      "title": "Langstroth Hive Box Section Diagram",
+      "taxonomy": "mixed-format",
+      "topics": [
+        "hive",
+        "box",
+        "brood",
+        "cover",
+        "super",
+        "feeder",
+        "honey",
+        "bee",
+        "entrance",
+        "excluder",
+        "jar",
+        "section",
+        "stack",
+        "comb",
+        "langstroth",
+        "metal",
+        "pine",
+        "traffic",
+        "backdrop",
+        "bees",
+        "bottom",
+        "how",
+        "inset",
+        "labels",
+        "neutral",
+        "queen",
+        "reducer",
+        "technical",
+        "amber",
+        "arrows",
+        "beehive",
+        "beekeeping",
+        "bodies",
+        "capped",
+        "cells",
+        "centered",
+        "finger-jointed",
+        "focused",
+        "frames",
+        "full",
+        "galvanized",
+        "gap",
+        "inner",
+        "itself",
+        "label",
+        "landscape",
+        "lid",
+        "lighting"
+      ],
+      "specificHooks": [
+        "inner cover gap",
+        "honey super with capped frames",
+        "queen excluder",
+        "brood box full of bees",
+        "neutral cream product-stage backdrop with no landscape",
+        "focused on the hive stack itself",
+        "finger-jointed pine hive bodies",
+        "metal cover patina",
+        "wax comb cells",
+        "pine wood",
+        "galvanized lid silver",
+        "comb amber"
+      ],
+      "scaleTags": [
+        "object",
+        "page"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.prompt.md",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-05/",
+      "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
+      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: labeled beehive section answering the query \"Langstroth hive box diagram\"\nScene/backdrop: neutral cream product-stage backdrop with no landscape, focused on the hive stack itself\nSubject: a cutaway Langstroth hive showing metal cover, inner cover gap, honey super with capped frames, queen excluder, brood box full of bees, entrance reducer, bottom board, bee traffic arrows, and a feeder jar inset\nStyle/medium: realistic beekeeping technical plate with product-photography precision and restrained section-diagram overlays\nComposition/framing: tall vertical section plate centered on one hive stack with right-side labels and two lower inset windows for bee traffic and feeder jar placement\nLighting/mood: bright neutral studio daylight, technical, explanatory\nColor palette: pine wood, galvanized lid silver, comb amber, dark entrance reducer green, cream background, forest label tabs\nMaterials/textures: finger-jointed pine hive bodies, metal cover patina, wax comb cells, mesh excluder texture, glass feeder jar, matte printed label tabs\nText (verbatim): \"COVER\" \"HONEY SUPER\" \"EXCLUDER\" \"BROOD BOX\" \"ENTRANCE\" \"BOTTOM BOARD\" \"BEE TRAFFIC\" \"FEEDER JAR (INSIDE SUPER)\"\nConstraints: short labels only, useful for beginner hive anatomy lessons, no logos, no watermark, no decorative rustic props\nAvoid: exploded gadget render clichés, cartoon bee swarms, dense text paragraphs, generic wooden-crate styling, shiny product ad lighting",
+      "learningValue": "Explains how the major hive components stack and how bees move through the entrance, brood box, honey super, and feeder placement during routine management.",
+      "compositionNotes": "The centered section stack makes metal cover, honey super, queen excluder, brood box, entrance reducer, bottom board, bee traffic arrows, and feeder jar inset retrievable from a single image page.",
+      "formatNotes": "Technical section diagram for queries like Langstroth hive box diagram, parts of a beehive, and how a brood box and honey super fit together. Short labels are treated as supportive rather than the only source of meaning.",
+      "searchText": "langstroth hive box section diagram mixed-format beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: labeled beehive section answering the query \"langstroth hive box diagram\"\nscene/backdrop: neutral cream product-stage backdrop with no landscape, focused on the hive stack itself\nsubject: a cutaway langstroth hive showing metal cover, inner cover gap, honey super with capped frames, queen excluder, brood box full of bees, entrance reducer, bottom board, bee traffic arrows, and a feeder jar inset\nstyle/medium: realistic beekeeping technical plate with product-photography precision and restrained section-diagram overlays\ncomposition/framing: tall vertical section plate centered on one hive stack with right-side labels and two lower inset windows for bee traffic and feeder jar placement\nlighting/mood: bright neutral studio daylight, technical, explanatory\ncolor palette: pine wood, galvanized lid silver, comb amber, dark entrance reducer green, cream background, forest label tabs\nmaterials/textures: finger-jointed pine hive bodies, metal cover patina, wax comb cells, mesh excluder texture, glass feeder jar, matte printed label tabs\ntext (verbatim): \"cover\" \"honey super\" \"excluder\" \"brood box\" \"entrance\" \"bottom board\" \"bee traffic\" \"feeder jar (inside super)\"\nconstraints: short labels only, useful for beginner hive anatomy lessons, no logos, no watermark, no decorative rustic props\navoid: exploded gadget render clichés, cartoon bee swarms, dense text paragraphs, generic wooden-crate styling, shiny product ad lighting explains how the major hive components stack and how bees move through the entrance, brood box, honey super, and feeder placement during routine management. the centered section stack makes metal cover, honey super, queen excluder, brood box, entrance reducer, bottom board, bee traffic arrows, and feeder jar inset retrievable from a single image page. technical section diagram for queries like langstroth hive box diagram, parts of a beehive, and how a brood box and honey super fit together. short labels are treated as supportive rather than the only source of meaning. inner cover gap honey super with capped frames queen excluder brood box full of bees neutral cream product-stage backdrop with no landscape focused on the hive stack itself finger-jointed pine hive bodies metal cover patina wax comb cells pine wood galvanized lid silver comb amber object page",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-06",
+      "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "runTheme": "Beekeeping Brood And Hive Inspection Posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "index": 6,
+      "title": "Bee Smoker Lighting Steps Poster",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "smoker",
+        "fuel",
+        "bee",
+        "burlap",
+        "bellows",
+        "pine",
+        "poster",
+        "needles",
+        "process",
+        "smoke",
+        "use",
+        "cool",
+        "lighting",
+        "white",
+        "arrows",
+        "beekeeping",
+        "black",
+        "body",
+        "charred",
+        "dented",
+        "dry",
+        "fibers",
+        "finish",
+        "flame",
+        "galvanized",
+        "hive",
+        "how",
+        "infographic-diagram",
+        "kindling",
+        "labels",
+        "ladder",
+        "metal",
+        "safe-smoke",
+        "short",
+        "silver",
+        "soot",
+        "squeeze",
+        "stage",
+        "stages",
+        "steps",
+        "tan",
+        "topping",
+        "visible",
+        "accents",
+        "add",
+        "answering",
+        "apiary-tool",
+        "approximate"
+      ],
+      "specificHooks": [
+        "bee smoker body",
+        "burlap fuel",
+        "pine needles",
+        "kindling flame",
+        "dented smoker metal",
+        "charred burlap fibers",
+        "galvanized silver",
+        "soot black",
+        "burlap tan",
+        "bellows use",
+        "topping up fuel"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.prompt.md",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-06/",
+      "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: step-by-step beekeeper poster answering the query \"how to light bee smoker\"\nScene/backdrop: cream process poster with weathered apiary-tool accents and no room scene\nSubject: bee smoker body, burlap fuel, pine needles, kindling flame, cool white smoke, bellows squeeze, lid opening, and a final calm-smoke check beside a hive tool\nStyle/medium: realistic process poster using documentary object photography with numbered stages and short labels only\nComposition/framing: tall vertical six-step process ladder with one large smoker per stage, directional arrows, and a final safe-smoke panel at the bottom\nLighting/mood: crisp morning field light, practical, procedural, reassuring\nColor palette: galvanized silver, soot black, burlap tan, pine straw brown, smoke white, marigold step tabs, cream background\nMaterials/textures: dented smoker metal, charred burlap fibers, pine needles, bellows leather, ash residue, matte process-board paper\nText (verbatim): \"DRY FUEL\" \"LIGHT\" \"PACK\" \"PUFF\" \"ADD FUEL\" \"COOL SMOKE\"\nConstraints: short labels only, useful for backyard beekeepers and mentors, no logos, no watermark, no dramatic flames beyond the lighting stage\nAvoid: fireball spectacle, camping-stove styling, dense caution paragraphs, clip-art arrows, cute bee mascots",
+      "learningValue": "Breaks smoker use into repeatable stages so a beginner can distinguish dry fuel prep, ignition, packing, bellows use, topping up fuel, and the correct cool-smoke finish.",
+      "compositionNotes": "The ladder sequence keeps burlap fuel, pine needles, bellows squeeze, cool white smoke, and safe-smoke finish visible as one repeated object family rather than a vague lifestyle photo.",
+      "formatNotes": "Process poster for searches like how to light bee smoker, bee smoker steps, and beekeeping smoker fuel guide. Full canonical terminology lives here if visible text in the image is approximate.",
+      "searchText": "bee smoker lighting steps poster infographic-diagram beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: step-by-step beekeeper poster answering the query \"how to light bee smoker\"\nscene/backdrop: cream process poster with weathered apiary-tool accents and no room scene\nsubject: bee smoker body, burlap fuel, pine needles, kindling flame, cool white smoke, bellows squeeze, lid opening, and a final calm-smoke check beside a hive tool\nstyle/medium: realistic process poster using documentary object photography with numbered stages and short labels only\ncomposition/framing: tall vertical six-step process ladder with one large smoker per stage, directional arrows, and a final safe-smoke panel at the bottom\nlighting/mood: crisp morning field light, practical, procedural, reassuring\ncolor palette: galvanized silver, soot black, burlap tan, pine straw brown, smoke white, marigold step tabs, cream background\nmaterials/textures: dented smoker metal, charred burlap fibers, pine needles, bellows leather, ash residue, matte process-board paper\ntext (verbatim): \"dry fuel\" \"light\" \"pack\" \"puff\" \"add fuel\" \"cool smoke\"\nconstraints: short labels only, useful for backyard beekeepers and mentors, no logos, no watermark, no dramatic flames beyond the lighting stage\navoid: fireball spectacle, camping-stove styling, dense caution paragraphs, clip-art arrows, cute bee mascots breaks smoker use into repeatable stages so a beginner can distinguish dry fuel prep, ignition, packing, bellows use, topping up fuel, and the correct cool-smoke finish. the ladder sequence keeps burlap fuel, pine needles, bellows squeeze, cool white smoke, and safe-smoke finish visible as one repeated object family rather than a vague lifestyle photo. process poster for searches like how to light bee smoker, bee smoker steps, and beekeeping smoker fuel guide. full canonical terminology lives here if visible text in the image is approximate. bee smoker body burlap fuel pine needles kindling flame dented smoker metal charred burlap fibers galvanized silver soot black burlap tan bellows use topping up fuel page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-07",
+      "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "runTheme": "Beekeeping Brood And Hive Inspection Posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "index": 7,
+      "title": "Varroa Monitoring Board Comparison Guide",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "sticky",
+        "alcohol",
+        "mite",
+        "roll",
+        "sugar",
+        "tray",
+        "wash",
+        "count",
+        "card",
+        "comparison",
+        "screened",
+        "varroa",
+        "diagnostic",
+        "drop",
+        "insert",
+        "tools",
+        "bottom",
+        "companion",
+        "cup",
+        "dark",
+        "grid",
+        "guide",
+        "jar",
+        "mite-count",
+        "monitoring",
+        "sample",
+        "strip",
+        "white",
+        "beekeeping",
+        "bees",
+        "brown",
+        "cards",
+        "centered",
+        "charcoal",
+        "corrugated",
+        "high",
+        "jars",
+        "low",
+        "mesh",
+        "mite-monitoring",
+        "mites",
+        "plastic",
+        "rust",
+        "scientific-educational",
+        "severity",
+        "under",
+        "wax",
+        "yellow"
+      ],
+      "specificHooks": [
+        "sticky board tray under screened bottom board",
+        "varroa mites on white count card",
+        "sugar roll jar",
+        "alcohol wash cup",
+        "corrugated sticky board insert",
+        "screened mesh",
+        "plastic sample jars",
+        "dark tray charcoal",
+        "mite rust brown",
+        "wax yellow",
+        "sugar roll",
+        "alcohol wash"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.prompt.md",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-07/",
+      "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: mite-monitoring comparison guide answering the query \"varroa mite monitoring board\"\nScene/backdrop: clean cream diagnostic board with one dark insert tray and companion testing tools\nSubject: sticky board tray under screened bottom board, varroa mites on white count card, sugar roll jar, alcohol wash cup, mite-count grid card, sample bees scoop, and a comparison strip for low, medium, and high mite drop\nStyle/medium: realistic apiary diagnostic poster with specimen-level detail and restrained instructional labeling\nComposition/framing: wide horizontal comparison board with the sticky tray centered, companion tools arranged around it, and a right-side severity strip\nLighting/mood: bright technical daylight, evidence-oriented, matter-of-fact\nColor palette: cream board, dark tray charcoal, mite rust brown, wax yellow, white count cards, galvanized accents\nMaterials/textures: corrugated sticky board insert, screened mesh, plastic sample jars, paper count grid cards, tacky residue, worn beekeeping tools\nText (verbatim): \"STICKY BOARD\" \"SUGAR ROLL\" \"ALCOHOL WASH\" \"LOW DROP\" \"MEDIUM DROP\" \"HIGH DROP\" \"MITE COUNT\"\nConstraints: short labels only, practical training image rather than veterinary brochure, no logos, no watermark, no fearmongering copy\nAvoid: horror closeups, red emergency graphics, unreadable tiny tables, cartoon parasites, laboratory sci-fi styling",
+      "learningValue": "Compares the main beginner mite-monitoring methods and makes the sticky board, sugar roll, alcohol wash, and mite-count card legible as one diagnostic workflow.",
+      "compositionNotes": "The centered tray plus companion tools expose sticky board insert, screened bottom board, sugar roll jar, alcohol wash cup, mite-count grid card, and severity strip as separate hooks that a retrieval agent can reason over.",
+      "formatNotes": "Diagnostic comparison guide for queries like varroa mite monitoring board, sugar roll vs alcohol wash, and mite count chart for bees. The image is intentionally evidence-led rather than text-heavy.",
+      "searchText": "varroa monitoring board comparison guide scientific-educational beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: mite-monitoring comparison guide answering the query \"varroa mite monitoring board\"\nscene/backdrop: clean cream diagnostic board with one dark insert tray and companion testing tools\nsubject: sticky board tray under screened bottom board, varroa mites on white count card, sugar roll jar, alcohol wash cup, mite-count grid card, sample bees scoop, and a comparison strip for low, medium, and high mite drop\nstyle/medium: realistic apiary diagnostic poster with specimen-level detail and restrained instructional labeling\ncomposition/framing: wide horizontal comparison board with the sticky tray centered, companion tools arranged around it, and a right-side severity strip\nlighting/mood: bright technical daylight, evidence-oriented, matter-of-fact\ncolor palette: cream board, dark tray charcoal, mite rust brown, wax yellow, white count cards, galvanized accents\nmaterials/textures: corrugated sticky board insert, screened mesh, plastic sample jars, paper count grid cards, tacky residue, worn beekeeping tools\ntext (verbatim): \"sticky board\" \"sugar roll\" \"alcohol wash\" \"low drop\" \"medium drop\" \"high drop\" \"mite count\"\nconstraints: short labels only, practical training image rather than veterinary brochure, no logos, no watermark, no fearmongering copy\navoid: horror closeups, red emergency graphics, unreadable tiny tables, cartoon parasites, laboratory sci-fi styling compares the main beginner mite-monitoring methods and makes the sticky board, sugar roll, alcohol wash, and mite-count card legible as one diagnostic workflow. the centered tray plus companion tools expose sticky board insert, screened bottom board, sugar roll jar, alcohol wash cup, mite-count grid card, and severity strip as separate hooks that a retrieval agent can reason over. diagnostic comparison guide for queries like varroa mite monitoring board, sugar roll vs alcohol wash, and mite count chart for bees. the image is intentionally evidence-led rather than text-heavy. sticky board tray under screened bottom board varroa mites on white count card sugar roll jar alcohol wash cup corrugated sticky board insert screened mesh plastic sample jars dark tray charcoal mite rust brown wax yellow sugar roll alcohol wash page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 96,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 4,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-08",
+      "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "runTheme": "Beekeeping Brood And Hive Inspection Posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "index": 8,
+      "title": "Apiary Inspection Station Setup",
+      "taxonomy": "photorealistic-natural",
+      "topics": [
+        "inspection",
+        "hive",
+        "smoker",
+        "apiary",
+        "open",
+        "veil",
+        "white",
+        "brood",
+        "folding",
+        "foreground",
+        "frame",
+        "hives",
+        "notebook",
+        "setup",
+        "bee",
+        "blossom",
+        "bodies",
+        "documentary",
+        "grass",
+        "logbook",
+        "orchard",
+        "smoking",
+        "spring",
+        "stand",
+        "tool",
+        "tools",
+        "beekeeper",
+        "bloom",
+        "calm",
+        "galvanized",
+        "glamour",
+        "gloves",
+        "green",
+        "hat",
+        "how",
+        "landscape",
+        "langstroth",
+        "mesh",
+        "metal",
+        "midground",
+        "nitrile",
+        "orchard-edge",
+        "outdoors",
+        "photo",
+        "photorealistic-natural",
+        "pine",
+        "plastic",
+        "smoke"
+      ],
+      "specificHooks": [
+        "smoking bee smoker",
+        "notebook logbook",
+        "hive tool",
+        "brood frame on stand",
+        "orchard-edge apiary in bloom with open Langstroth hives",
+        "spring grass",
+        "a folding inspection table in the foreground",
+        "weathered folding table plastic",
+        "galvanized smoker metal",
+        "veil mesh",
+        "orchard green",
+        "blossom white"
+      ],
+      "scaleTags": [
+        "tabletop",
+        "landscape"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.prompt.md",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/08-apiary-inspection-station-setup.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-08/",
+      "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: documentary setup photo answering the query \"apiary inspection setup\"\nScene/backdrop: orchard-edge apiary in bloom with open Langstroth hives, spring grass, and a folding inspection table in the foreground\nSubject: smoking bee smoker, notebook logbook, hive tool, brood frame on stand, white veil hat, blue nitrile gloves, water bottle, spare hive bodies, open cover, and wooden frame box arranged for a calm hive inspection\nStyle/medium: realistic documentary field photograph, not staged product glamour\nComposition/framing: wide landscape photo with the work table in the foreground, open hives in the midground, and flowering orchard rows in the background\nLighting/mood: soft spring overcast light, quiet, competent, field-ready\nColor palette: orchard green, blossom white, smoker steel, pine hive wood, veil white, glove blue, smoke gray\nMaterials/textures: weathered folding table plastic, galvanized smoker metal, veil mesh, rough pine hive bodies, grass, blossom branches, paper notebook\nConstraints: no logos, no watermark, practical inspection staging, no exaggerated dramatic smoke, no posed beekeeper portrait\nAvoid: honey-brand advertising, lifestyle influencer picnic styling, sunset glamour, heavy orange grading, cluttered junkyard apiary",
+      "learningValue": "Shows how a calm inspection station is staged outdoors so students and new beekeepers can see the relationship between open hives, smoker placement, tools, protective gear, and note-taking.",
+      "compositionNotes": "The foreground table anchors smoking bee smoker, notebook logbook, hive tool, brood frame on stand, white veil hat, and blue nitrile gloves, while the midground hive bodies prove these tools belong to a real inspection workflow.",
+      "formatNotes": "Documentary proof image for searches like apiary inspection setup, beehive inspection table, and how to stage beekeeper tools outdoors. This is the run’s field-deployment family rather than a flat poster.",
+      "searchText": "apiary inspection station setup photorealistic-natural beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: photorealistic-natural\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: documentary setup photo answering the query \"apiary inspection setup\"\nscene/backdrop: orchard-edge apiary in bloom with open langstroth hives, spring grass, and a folding inspection table in the foreground\nsubject: smoking bee smoker, notebook logbook, hive tool, brood frame on stand, white veil hat, blue nitrile gloves, water bottle, spare hive bodies, open cover, and wooden frame box arranged for a calm hive inspection\nstyle/medium: realistic documentary field photograph, not staged product glamour\ncomposition/framing: wide landscape photo with the work table in the foreground, open hives in the midground, and flowering orchard rows in the background\nlighting/mood: soft spring overcast light, quiet, competent, field-ready\ncolor palette: orchard green, blossom white, smoker steel, pine hive wood, veil white, glove blue, smoke gray\nmaterials/textures: weathered folding table plastic, galvanized smoker metal, veil mesh, rough pine hive bodies, grass, blossom branches, paper notebook\nconstraints: no logos, no watermark, practical inspection staging, no exaggerated dramatic smoke, no posed beekeeper portrait\navoid: honey-brand advertising, lifestyle influencer picnic styling, sunset glamour, heavy orange grading, cluttered junkyard apiary shows how a calm inspection station is staged outdoors so students and new beekeepers can see the relationship between open hives, smoker placement, tools, protective gear, and note-taking. the foreground table anchors smoking bee smoker, notebook logbook, hive tool, brood frame on stand, white veil hat, and blue nitrile gloves, while the midground hive bodies prove these tools belong to a real inspection workflow. documentary proof image for searches like apiary inspection setup, beehive inspection table, and how to stage beekeeper tools outdoors. this is the run’s field-deployment family rather than a flat poster. smoking bee smoker notebook logbook hive tool brood frame on stand orchard-edge apiary in bloom with open langstroth hives spring grass a folding inspection table in the foreground weathered folding table plastic galvanized smoker metal veil mesh orchard green blossom white tabletop landscape",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-09",
+      "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "runTheme": "Beekeeping Brood And Hive Inspection Posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "index": 9,
+      "title": "Bee Veil Gloves And Frame Grip Guide",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "veil",
+        "gloves",
+        "frame",
+        "leather",
+        "mesh",
+        "bee",
+        "grip",
+        "nitrile",
+        "black",
+        "glove",
+        "white",
+        "gauntlets",
+        "gear",
+        "guide",
+        "handling",
+        "hold",
+        "inset",
+        "queen-marking",
+        "beekeeping",
+        "comparison",
+        "gauntlet",
+        "hat",
+        "queen",
+        "tube",
+        "beekeeper",
+        "blue-violet",
+        "brood",
+        "hive",
+        "inspection",
+        "lighting",
+        "lineup",
+        "netting",
+        "protective",
+        "protective-gear",
+        "round",
+        "safe",
+        "safety",
+        "scientific-educational",
+        "smooth",
+        "specimen",
+        "surface",
+        "use",
+        "worn",
+        "aids",
+        "anatomy",
+        "answering",
+        "backdrop",
+        "bare-handed"
+      ],
+      "specificHooks": [
+        "round white bee veil hat",
+        "black veil mesh",
+        "nitrile gloves",
+        "leather gauntlet gloves",
+        "mesh veil netting",
+        "smooth nitrile glove surface",
+        "worn leather gauntlets",
+        "veil white",
+        "mesh black",
+        "glove blue-violet",
+        "leather gauntlets"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.prompt.md",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-09/",
+      "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: protective gear and handling guide answering the query \"bee veil gloves frame grip guide\"\nScene/backdrop: cream field-reference board with isolated gear specimens and one handling inset\nSubject: round white bee veil hat, black veil mesh, nitrile gloves, leather gauntlet gloves, frame grip, queen-marking tube, marked queen inset, bare-handed frame hold demonstration, and cuff comparison details\nStyle/medium: realistic beekeeping gear plate with specimen photography and restrained comparison labeling\nComposition/framing: wide horizontal board with central protective-gear lineup, right-side handling inset, and lower strip comparing glove cuffs and grip positions\nLighting/mood: bright neutral daylight, practical, careful, training-focused\nColor palette: veil white, mesh black, glove blue-violet, leather tan, pine wood, wax yellow, cream board\nMaterials/textures: mesh veil netting, smooth nitrile glove surface, worn leather gauntlets, steel frame grip, queen-marking tube plastic, matte reference-board stock\nText (verbatim): \"VEIL\" \"NITRILE\" \"LEATHER\" \"FRAME GRIP\" \"QUEEN MARK\" \"SAFE HOLD\"\nConstraints: short labels only, useful for beginner beekeeping classes, no logos, no watermark, no mannequin fashion styling\nAvoid: costume-party beekeeper outfits, glamor portrait lighting, tiny safety paragraphs, ecommerce packaging, cartoon queen bee icons",
+      "learningValue": "Compares common protective gear and handling aids so a new beekeeper can understand when to use veil mesh, nitrile gloves, leather gauntlets, frame grips, and queen-marking tools.",
+      "compositionNotes": "The lineup and inset structure keep white bee veil hat, black veil mesh, nitrile gloves, leather gauntlet gloves, frame grip, queen-marking tube, and safe frame hold individually searchable.",
+      "formatNotes": "Protective-gear comparison board for queries like bee veil gloves guide, best gloves for hive inspection, and how to hold a brood frame safely. The image favors repeated specimen anatomy over long safety text.",
+      "searchText": "bee veil gloves and frame grip guide scientific-educational beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: protective gear and handling guide answering the query \"bee veil gloves frame grip guide\"\nscene/backdrop: cream field-reference board with isolated gear specimens and one handling inset\nsubject: round white bee veil hat, black veil mesh, nitrile gloves, leather gauntlet gloves, frame grip, queen-marking tube, marked queen inset, bare-handed frame hold demonstration, and cuff comparison details\nstyle/medium: realistic beekeeping gear plate with specimen photography and restrained comparison labeling\ncomposition/framing: wide horizontal board with central protective-gear lineup, right-side handling inset, and lower strip comparing glove cuffs and grip positions\nlighting/mood: bright neutral daylight, practical, careful, training-focused\ncolor palette: veil white, mesh black, glove blue-violet, leather tan, pine wood, wax yellow, cream board\nmaterials/textures: mesh veil netting, smooth nitrile glove surface, worn leather gauntlets, steel frame grip, queen-marking tube plastic, matte reference-board stock\ntext (verbatim): \"veil\" \"nitrile\" \"leather\" \"frame grip\" \"queen mark\" \"safe hold\"\nconstraints: short labels only, useful for beginner beekeeping classes, no logos, no watermark, no mannequin fashion styling\navoid: costume-party beekeeper outfits, glamor portrait lighting, tiny safety paragraphs, ecommerce packaging, cartoon queen bee icons compares common protective gear and handling aids so a new beekeeper can understand when to use veil mesh, nitrile gloves, leather gauntlets, frame grips, and queen-marking tools. the lineup and inset structure keep white bee veil hat, black veil mesh, nitrile gloves, leather gauntlet gloves, frame grip, queen-marking tube, and safe frame hold individually searchable. protective-gear comparison board for queries like bee veil gloves guide, best gloves for hive inspection, and how to hold a brood frame safely. the image favors repeated specimen anatomy over long safety text. round white bee veil hat black veil mesh nitrile gloves leather gauntlet gloves mesh veil netting smooth nitrile glove surface worn leather gauntlets veil white mesh black glove blue-violet leather gauntlets page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-10",
+      "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
+      "runTheme": "Beekeeping Brood And Hive Inspection Posters",
+      "timestamp": "2026-05-21T16:53:00+08:00",
+      "index": 10,
+      "title": "Hive Inspection Logbook And Frame Marking Cards",
+      "taxonomy": "productivity-visual",
+      "topics": [
+        "card",
+        "queen",
+        "hive",
+        "inspection",
+        "logbook",
+        "mite",
+        "paper",
+        "frame",
+        "marking",
+        "sighting",
+        "beekeeping",
+        "cards",
+        "count",
+        "map",
+        "pencil",
+        "yard",
+        "brood",
+        "calendar",
+        "flow",
+        "gray",
+        "nectar",
+        "record",
+        "steel",
+        "use",
+        "wood",
+        "binder",
+        "blocks",
+        "counts",
+        "field",
+        "graphite",
+        "handwritten",
+        "honey",
+        "labels",
+        "lightly",
+        "marker",
+        "metal",
+        "notes",
+        "paperwork",
+        "productivity-visual",
+        "recordkeeping",
+        "reusable",
+        "ring",
+        "ring-bound",
+        "ruler",
+        "set",
+        "sightings",
+        "stained",
+        "stationery"
+      ],
+      "specificHooks": [
+        "ring-bound frame marking card set",
+        "handwritten hive inspection logbook",
+        "queen sighting card",
+        "mite count card",
+        "ring binder metal",
+        "lightly stained paper cards",
+        "pencil wood",
+        "honey cream paper",
+        "wax yellow marker blocks",
+        "graphite gray",
+        "queen sightings",
+        "mite counts"
+      ],
+      "scaleTags": [
+        "page",
+        "tabletop"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.prompt.md",
+      "reportPath": "../run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/10-hive-inspection-logbook-and-frame-marking-cards.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1653-beekeeping-brood-and-hive-inspection-posters.md",
+      "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-10/",
+      "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
+      "finalPrompt": "Use case: productivity-visual\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: paper-tool spread answering the query \"beekeeping record sheet\"\nScene/backdrop: top-down wooden workbench with reusable hive-inspection paperwork laid out for real field use\nSubject: ring-bound frame marking card set, handwritten hive inspection logbook, queen sighting card, mite count card, nectar flow calendar card, small yard map card, pencil stub, and rusty steel ruler\nStyle/medium: realistic documentary stationery photograph with light beekeeping annotation, not a flat vector mockup\nComposition/framing: wide top-down paper spread with the logbook centered, reference cards arranged around it, and visible wear marks that suggest repeated use\nLighting/mood: warm workshop daylight, handled, practical, organized\nColor palette: honey cream paper, wax yellow marker blocks, graphite gray, weathered wood brown, muted green yard map, steel gray\nMaterials/textures: ring binder metal, lightly stained paper cards, pencil wood, scratched ruler steel, grainy timber bench, matte printed forms\nText (verbatim): \"FRAME MARKING CARD\" \"DATE\" \"BROOD\" \"QUEEN\" \"MITES\" \"NOTES\" \"QUEEN SIGHTING\" \"MITE COUNT\" \"NECTAR FLOW CALENDAR\" \"YARD MAP\"\nConstraints: short labels only, believable handwriting, useful for beekeeper recordkeeping and training, no logos, no watermark\nAvoid: digital app UI styling, pristine office stationery, scrapbook clutter, corporate template graphics, tiny unreadable note fields",
+      "learningValue": "Turns the run into reusable field paperwork by showing how brood scores, queen sightings, mite counts, nectar-flow timing, and hive location notes can live in one inspection record system.",
+      "compositionNotes": "The spread keeps frame marking card, hive inspection logbook, queen sighting card, mite count card, nectar flow calendar, yard map card, and pencil stub visible as concrete paper tools rather than generic notebook props.",
+      "formatNotes": "Recordkeeping spread for searches like beekeeping record sheet, hive inspection logbook, and queen sighting card. Exact text-heavy content should be treated as exploratory in-image, with canonical labels preserved here.",
+      "searchText": "hive inspection logbook and frame marking cards productivity-visual beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: productivity-visual\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: paper-tool spread answering the query \"beekeeping record sheet\"\nscene/backdrop: top-down wooden workbench with reusable hive-inspection paperwork laid out for real field use\nsubject: ring-bound frame marking card set, handwritten hive inspection logbook, queen sighting card, mite count card, nectar flow calendar card, small yard map card, pencil stub, and rusty steel ruler\nstyle/medium: realistic documentary stationery photograph with light beekeeping annotation, not a flat vector mockup\ncomposition/framing: wide top-down paper spread with the logbook centered, reference cards arranged around it, and visible wear marks that suggest repeated use\nlighting/mood: warm workshop daylight, handled, practical, organized\ncolor palette: honey cream paper, wax yellow marker blocks, graphite gray, weathered wood brown, muted green yard map, steel gray\nmaterials/textures: ring binder metal, lightly stained paper cards, pencil wood, scratched ruler steel, grainy timber bench, matte printed forms\ntext (verbatim): \"frame marking card\" \"date\" \"brood\" \"queen\" \"mites\" \"notes\" \"queen sighting\" \"mite count\" \"nectar flow calendar\" \"yard map\"\nconstraints: short labels only, believable handwriting, useful for beekeeper recordkeeping and training, no logos, no watermark\navoid: digital app ui styling, pristine office stationery, scrapbook clutter, corporate template graphics, tiny unreadable note fields turns the run into reusable field paperwork by showing how brood scores, queen sightings, mite counts, nectar-flow timing, and hive location notes can live in one inspection record system. the spread keeps frame marking card, hive inspection logbook, queen sighting card, mite count card, nectar flow calendar, yard map card, and pencil stub visible as concrete paper tools rather than generic notebook props. recordkeeping spread for searches like beekeeping record sheet, hive inspection logbook, and queen sighting card. exact text-heavy content should be treated as exploratory in-image, with canonical labels preserved here. ring-bound frame marking card set handwritten hive inspection logbook queen sighting card mite count card ring binder metal lightly stained paper cards pencil wood honey cream paper wax yellow marker blocks graphite gray queen sightings mite counts page tabletop",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
     {
       "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-01",
       "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
