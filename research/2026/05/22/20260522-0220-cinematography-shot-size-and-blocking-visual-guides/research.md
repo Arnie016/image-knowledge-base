@@ -3,7 +3,7 @@
 - Run theme: Cinematography Shot Size And Blocking Visual Guides
 - Run slug: `20260522-0220-cinematography-shot-size-and-blocking-visual-guides`
 - Timestamp: `2026-05-22T02:20:09+08:00`
-- Status: `research-complete`
+- Status: `success`
 - Niche audience: indie filmmakers, film-school instructors, storyboard artists, previs coordinators, creator educators, prompt engineers building short films, and retrieval agents that need reusable film-grammar references instead of festival-poster fluff
 - Search intent:
   - `shot size chart cinematography`
@@ -159,24 +159,29 @@ The cinematography branch wins because it fills the clearest high-intent corpus 
 
 ## Outcome
 
-- PNG count: `pending`
-- Visual families explored: `pending`
+- Built-In ImageGen Output Directory: `/Users/arnav/.codex/generated_images/019e4bc2-8c8b-74f0-8371-b754fed21e35/`
+- PNG count: `11`
+- Visual families explored:
+  - film-grammar teaching plates
+  - blocking and planning assets
+  - deployment and cinematic proof
 - Outcome notes:
-  - Generation pending.
+  - The strongest pages were the 180-degree-rule diagram, the rehearsal blocking wall, and the window-side proof frame because they connect abstract film grammar to one repeatable apartment-scene continuity world.
+  - The object atlas and section plate added useful non-poster formats, which kept the run from flattening into ten near-identical teaching boards.
 
 ## Searchability And SEO Lessons
 
-- Pre-generation expectation: search hooks should come from concrete film-set nouns, not abstract cinema theory language.
-- Pre-generation expectation: the best pages will likely pair one diagram concept with one apartment-scene proof world so both Google and local agents can reason about continuity.
+- Concrete production nouns carried the run better than abstract cinema jargon. The best hooks were `180 degree rule`, `line of action`, `camera blocking floor plan`, `shot reverse shot`, `viewfinder`, `apple box`, `blue spike tape`, `storyboard scene 12`, `rehearsal wall`, and `apartment dialogue blocking example`.
+- Pairing each diagram with one consistent apartment scene made the generated per-image pages more interpretable in `site/data.js`; the search text now ties shot grammar, object kit, and proof stills into one crawlable teaching branch.
 
 ## Niche Audience Lessons
 
-- Pre-generation expectation: filmmakers and teachers will retrieve these images more readily than general audiences if the titles and hooks stay grounded in production vocabulary.
+- Indie directors, storyboard instructors, and film students are better served by apartment-scene continuity and rehearsal-room evidence than by abstract cinephile poster language. The query-first titles read like actual class-resource or self-teaching searches, not like marketing copy.
 
 ## Anti-Repetition Notes
 
-- Avoid reusing recent cream classroom boards, orchid greenhouse benches, beekeeping orchard light, aquarium pet-store hardware, or charcoal geopolitical-board palettes.
-- If a later run stays film-focused, pivot into continuity binders, stunt-previs beat sheets, lighting motivation guides, or non-cute creature dossiers rather than repeating this same apartment blocking kit.
+- Avoid immediately reusing this same cork-wall classroom, square dinner table, blue spike tape, apple-box stack, tungsten window scene, or `scene 12` apartment argument grammar.
+- If a later run stays film-focused, pivot into continuity binders, stunt-previs beat sheets, lighting motivation guides, edit-planning boards, or non-cute creature dossiers rather than repeating this apartment blocking kit.
 
 ## Next-Run Seeds
 

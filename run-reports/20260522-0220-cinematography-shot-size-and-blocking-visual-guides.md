@@ -1,0 +1,22 @@
+# Run Report
+
+- Run slug: `20260522-0220-cinematography-shot-size-and-blocking-visual-guides`
+- Timestamp: `2026-05-22T02:20:09+08:00`
+- Theme: Cinematography Shot Size And Blocking Visual Guides
+- Status: `success`
+- Freedom budget: `wide`
+- Primary scale: `page`
+- Secondary scale: `room`
+- PNG count: `11`
+- Visual families: film-grammar teaching plates, blocking and planning assets, plus deployment and cinematic proof images
+- Image folder: `image-knowledge-base/images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides`
+- Prompt folder: `image-knowledge-base/prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides`
+- Built-in ImageGen output directory: `/Users/arnav/.codex/generated_images/019e4bc2-8c8b-74f0-8371-b754fed21e35/`
+- Gallery website path: `image-knowledge-base/site/index.html`
+- Gallery refresh: `completed via node image-knowledge-base/scripts/build-site-data.mjs` with `91 public images` across `8 public runs`
+- SEO artifact status: `site/data.js`, `site/sitemap.xml`, and `site/robots.txt` were regenerated; 11 public per-image directories exist under `site/i/20260522-0220-cinematography-shot-size-and-blocking-visual-guides-*`, and the public per-run directory exists under `site/r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides`
+- Research note: `image-knowledge-base/research/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/research.md`
+- Catalog updates: `image-knowledge-base/catalog/runs.jsonl`, `image-knowledge-base/catalog/images.jsonl`
+- Skill/plugin Markdown consulted: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `trailer-director/SKILL.md`
+- Summary: This run turned a previously blocked film-grammar research lane into a successful direct-search teaching branch for filmmakers. The most valuable hooks came from concrete production nouns such as `180 degree rule`, `line of action`, `camera blocking floor plan`, `shot reverse shot`, `viewfinder`, `apple box`, `blue spike tape`, `storyboard scene 12`, `rehearsal wall`, and `apartment dialogue blocking example`, which kept the set useful for both Google indexing and local agentic retrieval.
+- Blockers: None.
