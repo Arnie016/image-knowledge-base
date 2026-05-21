@@ -1,9 +1,9 @@
 window.IMAGE_KB = {
-  "generatedAt": "2026-05-21T14:52:06+08:00",
-  "imageCount": 40,
-  "publicImageCount": 40,
+  "generatedAt": "2026-05-21T15:53:14+08:00",
+  "imageCount": 50,
+  "publicImageCount": 50,
   "archivedImageCount": 0,
-  "runCount": 4,
+  "runCount": 5,
   "rubric": {
     "version": "2026-05-06-v1",
     "scale": "1-5 per dimension, weighted to 100 overall",
@@ -69,26 +69,26 @@ window.IMAGE_KB = {
   "taxonomies": [
     [
       "scientific-educational",
-      13
+      15
     ],
     [
       "infographic-diagram",
-      6
+      8
     ],
     [
       "photorealistic-natural",
-      5
+      7
     ],
     [
       "atlas-contact-sheet",
-      3
-    ],
-    [
-      "film-preproduction",
-      3
+      5
     ],
     [
       "mixed-format",
+      4
+    ],
+    [
+      "film-preproduction",
       3
     ],
     [
@@ -104,6 +104,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "productivity-visual",
+      1
+    ],
+    [
       "species-dossier",
       1
     ],
@@ -115,18 +119,22 @@ window.IMAGE_KB = {
   "topics": [
     [
       "labels",
-      33
-    ],
-    [
-      "matte",
-      29
+      42
     ],
     [
       "short",
-      29
+      37
+    ],
+    [
+      "matte",
+      32
     ],
     [
       "like",
+      27
+    ],
+    [
+      "paper",
       24
     ],
     [
@@ -134,31 +142,43 @@ window.IMAGE_KB = {
       23
     ],
     [
-      "paper",
-      22
-    ],
-    [
       "logos",
       21
     ],
     [
-      "guide",
-      17
-    ],
-    [
       "chart",
-      16
+      19
     ],
     [
-      "reference",
-      15
+      "guide",
+      19
     ],
     [
       "poster",
-      14
+      19
+    ],
+    [
+      "reference",
+      16
+    ],
+    [
+      "gray",
+      13
+    ],
+    [
+      "scientific-educational",
+      13
     ],
     [
       "steel",
+      13
+    ],
+    [
+      "comparison",
+      12
+    ],
+    [
+      "room",
       12
     ],
     [
@@ -166,12 +186,20 @@ window.IMAGE_KB = {
       11
     ],
     [
+      "charcoal",
+      11
+    ],
+    [
+      "direct",
+      11
+    ],
+    [
       "repair",
       11
     ],
     [
-      "scientific-educational",
-      11
+      "aquarium",
+      10
     ],
     [
       "bakery",
@@ -186,11 +214,7 @@ window.IMAGE_KB = {
       10
     ],
     [
-      "comparison",
-      10
-    ],
-    [
-      "direct",
+      "color",
       10
     ],
     [
@@ -214,11 +238,19 @@ window.IMAGE_KB = {
       9
     ],
     [
+      "ceramic",
+      9
+    ],
+    [
       "commuter",
       9
     ],
     [
-      "gray",
+      "glass",
+      9
+    ],
+    [
+      "how",
       9
     ],
     [
@@ -230,11 +262,39 @@ window.IMAGE_KB = {
       8
     ],
     [
+      "black",
+      8
+    ],
+    [
+      "cycle",
+      8
+    ],
+    [
       "fiber",
       8
     ],
     [
+      "infographic-diagram",
+      8
+    ],
+    [
       "kite",
+      8
+    ],
+    [
+      "metal",
+      8
+    ],
+    [
+      "plate",
+      8
+    ],
+    [
+      "test",
+      8
+    ],
+    [
+      "training",
       8
     ],
     [
@@ -254,11 +314,19 @@ window.IMAGE_KB = {
       7
     ],
     [
+      "fish",
+      7
+    ],
+    [
       "frosting",
       7
     ],
     [
-      "how",
+      "green",
+      7
+    ],
+    [
+      "hooks",
       7
     ],
     [
@@ -266,11 +334,15 @@ window.IMAGE_KB = {
       7
     ],
     [
+      "repeated",
+      7
+    ],
+    [
       "salon",
       7
     ],
     [
-      "training",
+      "strip",
       7
     ],
     [
@@ -282,23 +354,11 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "charcoal",
-      6
-    ],
-    [
-      "color",
-      6
-    ],
-    [
       "decorating",
       6
     ],
     [
-      "green",
-      6
-    ],
-    [
-      "hooks",
+      "filter",
       6
     ],
     [
@@ -306,7 +366,7 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "infographic-diagram",
+      "laminated",
       6
     ],
     [
@@ -318,7 +378,7 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "metal",
+      "media",
       6
     ],
     [
@@ -330,11 +390,11 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "repeated",
+      "photorealistic-natural",
       6
     ],
     [
-      "room",
+      "plastic",
       6
     ],
     [
@@ -342,7 +402,23 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "section",
+      6
+    ],
+    [
+      "sponge",
+      6
+    ],
+    [
+      "tank",
+      6
+    ],
+    [
       "tip",
+      6
+    ],
+    [
+      "white",
       6
     ],
     [
@@ -351,6 +427,22 @@ window.IMAGE_KB = {
     ],
     [
       "across",
+      5
+    ],
+    [
+      "ammonia",
+      5
+    ],
+    [
+      "arrows",
+      5
+    ],
+    [
+      "atlas-contact-sheet",
+      5
+    ],
+    [
+      "bottle",
       5
     ],
     [
@@ -382,6 +474,14 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "nitrate",
+      5
+    ],
+    [
+      "nitrite",
+      5
+    ],
+    [
       "parchment",
       5
     ],
@@ -391,10 +491,6 @@ window.IMAGE_KB = {
     ],
     [
       "pink",
-      5
-    ],
-    [
-      "plate",
       5
     ],
     [
@@ -414,11 +510,11 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "scalp",
+      "sample",
       5
     ],
     [
-      "section",
+      "scalp",
       5
     ],
     [
@@ -426,7 +522,31 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "setup",
+      5
+    ],
+    [
+      "station",
+      5
+    ],
+    [
+      "stock",
+      5
+    ],
+    [
+      "teaching",
+      5
+    ],
+    [
       "tools",
+      5
+    ],
+    [
+      "top-down",
+      5
+    ],
+    [
+      "tray",
       5
     ],
     [
@@ -434,7 +554,15 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "arrows",
+      "amber",
+      4
+    ],
+    [
+      "bacteria",
+      4
+    ],
+    [
+      "bag",
       4
     ],
     [
@@ -450,15 +578,11 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "believable",
+      4
+    ],
+    [
       "bell",
-      4
-    ],
-    [
-      "black",
-      4
-    ],
-    [
-      "bottle",
       4
     ],
     [
@@ -466,7 +590,11 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "ceramic",
+      "card",
+      4
+    ],
+    [
+      "circles",
       4
     ],
     [
@@ -479,6 +607,10 @@ window.IMAGE_KB = {
     ],
     [
       "couplers",
+      4
+    ],
+    [
+      "cutaway",
       4
     ],
     [
@@ -506,6 +638,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "freshwater",
+      4
+    ],
+    [
       "hardware",
       4
     ],
@@ -518,6 +654,22 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "lighting",
+      4
+    ],
+    [
+      "linework",
+      4
+    ],
+    [
+      "materials",
+      4
+    ],
+    [
+      "mixed-format",
+      4
+    ],
+    [
       "overhead",
       4
     ],
@@ -526,15 +678,23 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "pale",
+      4
+    ],
+    [
+      "panels",
+      4
+    ],
+    [
       "petal",
       4
     ],
     [
-      "photorealistic-natural",
+      "piped",
       4
     ],
     [
-      "piped",
+      "practical",
       4
     ],
     [
@@ -562,10 +722,6 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "setup",
-      4
-    ],
-    [
       "side",
       4
     ],
@@ -578,11 +734,11 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "station",
+      "synthetic",
       4
     ],
     [
-      "synthetic",
+      "tabletop",
       4
     ],
     [
@@ -594,11 +750,19 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "amber",
+      "wall",
+      4
+    ],
+    [
+      "accent",
       3
     ],
     [
       "anatomy",
+      3
+    ],
+    [
+      "aqua",
       3
     ],
     [
@@ -610,7 +774,15 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "atlas-contact-sheet",
+      "backdrop",
+      3
+    ],
+    [
+      "beginner",
+      3
+    ],
+    [
+      "biofilm",
       3
     ],
     [
@@ -619,6 +791,10 @@ window.IMAGE_KB = {
     ],
     [
       "bridge",
+      3
+    ],
+    [
+      "bucket",
       3
     ],
     [
@@ -650,7 +826,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "circles",
+      "chemistry",
       3
     ],
     [
@@ -662,6 +838,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "connects",
+      3
+    ],
+    [
       "context",
       3
     ],
@@ -670,7 +850,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "cutaway",
+      "cycling",
       3
     ],
     [
@@ -687,6 +867,10 @@ window.IMAGE_KB = {
     ],
     [
       "disc",
+      3
+    ],
+    [
+      "driftwood",
       3
     ],
     [
@@ -726,6 +910,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "gravel",
+      3
+    ],
+    [
       "hair",
       3
     ],
@@ -746,7 +934,23 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "installation",
+      3
+    ],
+    [
+      "jars",
+      3
+    ],
+    [
       "keep",
+      3
+    ],
+    [
+      "kit",
+      3
+    ],
+    [
+      "laminate",
       3
     ],
     [
@@ -754,11 +958,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "linework",
+      "leaf",
       3
     ],
     [
-      "materials",
+      "masking",
       3
     ],
     [
@@ -766,7 +970,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "mixed-format",
+      "moss",
       3
     ],
     [
@@ -774,15 +978,19 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "nitrogen",
+      3
+    ],
+    [
       "open",
       3
     ],
     [
-      "pale",
+      "patched",
       3
     ],
     [
-      "patched",
+      "pencil",
       3
     ],
     [
@@ -794,15 +1002,27 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "plastic",
+      "plant",
       3
     ],
     [
-      "practical",
+      "plus",
+      3
+    ],
+    [
+      "porous",
+      3
+    ],
+    [
+      "printed",
       3
     ],
     [
       "process",
+      3
+    ],
+    [
+      "red",
       3
     ],
     [
@@ -814,6 +1034,18 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "rings",
+      3
+    ],
+    [
+      "root",
+      3
+    ],
+    [
+      "roots",
+      3
+    ],
+    [
       "rosewood",
       3
     ],
@@ -822,11 +1054,19 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "sample",
+      "row",
+      3
+    ],
+    [
+      "scale",
       3
     ],
     [
       "shell",
+      3
+    ],
+    [
+      "silhouette",
       3
     ],
     [
@@ -838,11 +1078,15 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "spare",
+      3
+    ],
+    [
       "spool",
       3
     ],
     [
-      "stock",
+      "stand",
       3
     ],
     [
@@ -850,15 +1094,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "strip",
-      3
-    ],
-    [
       "strong",
-      3
-    ],
-    [
-      "teaching",
       3
     ],
     [
@@ -866,11 +1102,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "test",
+      "texture",
       3
     ],
     [
-      "top-down",
+      "tiny",
       3
     ],
     [
@@ -882,11 +1118,15 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "wall",
+      "vials",
       3
     ],
     [
-      "white",
+      "water",
+      3
+    ],
+    [
+      "water-change",
       3
     ],
     [
@@ -898,11 +1138,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "accent",
+      "adding",
       2
     ],
     [
       "after",
+      2
+    ],
+    [
+      "air",
       2
     ],
     [
@@ -914,7 +1158,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "annotation",
+      2
+    ],
+    [
       "answer",
+      2
+    ],
+    [
+      "answering",
       2
     ],
     [
@@ -923,14 +1175,6 @@ window.IMAGE_KB = {
     ],
     [
       "assembly",
-      2
-    ],
-    [
-      "backdrop",
-      2
-    ],
-    [
-      "bag",
       2
     ],
     [
@@ -946,15 +1190,19 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "believable",
-      2
-    ],
-    [
       "benches",
       2
     ],
     [
       "bin",
+      2
+    ],
+    [
+      "bio-rings",
+      2
+    ],
+    [
+      "blocks",
       2
     ],
     [
@@ -986,11 +1234,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "card",
+      "calendar",
       2
     ],
     [
       "catching",
+      2
+    ],
+    [
+      "caution",
       2
     ],
     [
@@ -1010,7 +1262,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "check",
+      2
+    ],
+    [
       "checker",
+      2
+    ],
+    [
+      "chips",
       2
     ],
     [
@@ -1031,6 +1291,10 @@ window.IMAGE_KB = {
     ],
     [
       "closed",
+      2
+    ],
+    [
+      "cloudy",
       2
     ],
     [
@@ -1062,11 +1326,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "connects",
+      "cool",
       2
     ],
     [
       "cooling",
+      2
+    ],
+    [
+      "corner",
       2
     ],
     [
@@ -1078,7 +1346,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "counter",
+      2
+    ],
+    [
+      "cue",
+      2
+    ],
+    [
       "cuff",
+      2
+    ],
+    [
+      "daily",
+      2
+    ],
+    [
+      "day",
+      2
+    ],
+    [
+      "demo",
       2
     ],
     [
@@ -1102,6 +1390,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "dropper",
+      2
+    ],
+    [
       "duckbill",
       2
     ],
@@ -1122,6 +1414,18 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "fishless",
+      2
+    ],
+    [
+      "flakes",
+      2
+    ],
+    [
+      "food",
+      2
+    ],
+    [
       "four",
       2
     ],
@@ -1138,11 +1442,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "glass",
+      "grain",
       2
     ],
     [
-      "grain",
+      "graphite",
       2
     ],
     [
@@ -1178,6 +1482,14 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "home",
+      2
+    ],
+    [
+      "housing",
+      2
+    ],
+    [
       "insets",
       2
     ],
@@ -1186,19 +1498,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "installation",
-      2
-    ],
-    [
-      "jars",
-      2
-    ],
-    [
       "keys",
-      2
-    ],
-    [
-      "kit",
       2
     ],
     [
@@ -1210,15 +1510,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "laminate",
-      2
-    ],
-    [
       "large",
-      2
-    ],
-    [
-      "leaf",
       2
     ],
     [
@@ -1242,11 +1534,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "log",
+      2
+    ],
+    [
       "lube",
       2
     ],
     [
-      "masking",
+      "maintenance",
       2
     ],
     [
@@ -1263,10 +1559,6 @@ window.IMAGE_KB = {
     ],
     [
       "mirror",
-      2
-    ],
-    [
-      "moss",
       2
     ],
     [
@@ -1290,7 +1582,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "off-white",
+      2
+    ],
+    [
       "oily",
+      2
+    ],
+    [
+      "once",
       2
     ],
     [
@@ -1318,7 +1618,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "pencil",
+      "pegboard",
       2
     ],
     [
@@ -1330,11 +1630,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "plants",
+      2
+    ],
+    [
       "plaster",
       2
     ],
     [
-      "plus",
+      "posters",
+      2
+    ],
+    [
+      "powder-coated",
       2
     ],
     [
@@ -1346,7 +1654,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "printed",
+      "progression",
       2
     ],
     [
@@ -1354,11 +1662,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "rear",
+      "real",
       2
     ],
     [
-      "red",
+      "rear",
       2
     ],
     [
@@ -1378,10 +1686,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "row",
-      2
-    ],
-    [
       "ruffle",
       2
     ],
@@ -1398,15 +1702,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "scale",
-      2
-    ],
-    [
       "scraper",
       2
     ],
     [
       "sheets",
+      2
+    ],
+    [
+      "shelf",
       2
     ],
     [
@@ -1418,11 +1722,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "silhouette",
+      "six-panel",
       2
     ],
     [
-      "six-panel",
+      "small",
       2
     ],
     [
@@ -1434,11 +1738,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "spare",
+      "spatial",
       2
     ],
     [
-      "spatial",
+      "spiral",
       2
     ],
     [
@@ -1451,10 +1755,6 @@ window.IMAGE_KB = {
     ],
     [
       "stacked",
-      2
-    ],
-    [
-      "stand",
       2
     ],
     [
@@ -1474,6 +1774,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "swatch",
+      2
+    ],
+    [
       "swatches",
       2
     ],
@@ -1486,15 +1790,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "tape",
+      2
+    ],
+    [
       "tea-house",
       2
     ],
     [
       "teeth",
-      2
-    ],
-    [
-      "texture",
       2
     ],
     [
@@ -1506,11 +1810,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "timing",
+      "timeline",
       2
     ],
     [
-      "tiny",
+      "timing",
       2
     ],
     [
@@ -1526,11 +1830,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "tower",
+      "towel",
       2
     ],
     [
-      "tray",
+      "tower",
       2
     ],
     [
@@ -1538,7 +1842,23 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "vial",
+      2
+    ],
+    [
+      "warm",
+      2
+    ],
+    [
+      "warning",
+      2
+    ],
+    [
       "wash",
+      2
+    ],
+    [
+      "waste",
       2
     ],
     [
@@ -1548,6 +1868,18 @@ window.IMAGE_KB = {
     [
       "wheel",
       2
+    ],
+    [
+      "yellow",
+      2
+    ],
+    [
+      "zone",
+      2
+    ],
+    [
+      "abstract",
+      1
     ],
     [
       "acetate",
@@ -1566,19 +1898,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "adding",
-      1
-    ],
-    [
       "adjuster",
       1
     ],
     [
       "agents",
-      1
-    ],
-    [
-      "air",
       1
     ],
     [
@@ -1595,6 +1919,10 @@ window.IMAGE_KB = {
     ],
     [
       "alignment",
+      1
+    ],
+    [
+      "all",
       1
     ],
     [
@@ -1618,10 +1946,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "annotation",
-      1
-    ],
-    [
       "annoyed",
       1
     ],
@@ -1630,15 +1954,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "answering",
-      1
-    ],
-    [
       "anticipation",
       1
     ],
     [
       "any",
+      1
+    ],
+    [
+      "api-style",
       1
     ],
     [
@@ -1651,6 +1975,10 @@ window.IMAGE_KB = {
     ],
     [
       "apricot",
+      1
+    ],
+    [
+      "aquarium-nitrogen-cycle-starter-posters",
       1
     ],
     [
@@ -1674,6 +2002,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "arrow",
+      1
+    ],
+    [
       "artifact",
       1
     ],
@@ -1691,6 +2023,10 @@ window.IMAGE_KB = {
     ],
     [
       "back",
+      1
+    ],
+    [
+      "balls",
       1
     ],
     [
@@ -1734,7 +2070,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "beneficial",
+      1
+    ],
+    [
       "bent",
+      1
+    ],
+    [
+      "beside",
+      1
+    ],
+    [
+      "binding",
+      1
+    ],
+    [
+      "bio",
       1
     ],
     [
@@ -1747,6 +2099,10 @@ window.IMAGE_KB = {
     ],
     [
       "blonde",
+      1
+    ],
+    [
+      "bloom",
       1
     ],
     [
@@ -1763,6 +2119,14 @@ window.IMAGE_KB = {
     ],
     [
       "bolts",
+      1
+    ],
+    [
+      "bottled",
+      1
+    ],
+    [
+      "bottles",
       1
     ],
     [
@@ -1846,6 +2210,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cartoon",
+      1
+    ],
+    [
       "carts",
       1
     ],
@@ -1855,10 +2223,6 @@ window.IMAGE_KB = {
     ],
     [
       "causing",
-      1
-    ],
-    [
-      "caution",
       1
     ],
     [
@@ -1878,6 +2242,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "chamber",
+      1
+    ],
+    [
       "changes",
       1
     ],
@@ -1890,11 +2258,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "check",
-      1
-    ],
-    [
-      "chips",
+      "checklist",
       1
     ],
     [
@@ -1934,11 +2298,43 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "clip",
+      1
+    ],
+    [
+      "clipboards",
+      1
+    ],
+    [
       "closeup",
       1
     ],
     [
+      "cloud",
+      1
+    ],
+    [
       "clues",
+      1
+    ],
+    [
+      "coarse",
+      1
+    ],
+    [
+      "coated",
+      1
+    ],
+    [
+      "coil",
+      1
+    ],
+    [
+      "colony",
+      1
+    ],
+    [
+      "color-card",
       1
     ],
     [
@@ -1954,11 +2350,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "compare",
+      1
+    ],
+    [
       "compares",
       1
     ],
     [
       "comparing",
+      1
+    ],
+    [
+      "comparison-board",
       1
     ],
     [
@@ -1978,6 +2382,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "connecting",
+      1
+    ],
+    [
       "consistency",
       1
     ],
@@ -1990,7 +2398,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "corner",
+      "cool-white",
+      1
+    ],
+    [
+      "coral",
       1
     ],
     [
@@ -1999,10 +2411,6 @@ window.IMAGE_KB = {
     ],
     [
       "corrective",
-      1
-    ],
-    [
-      "counter",
       1
     ],
     [
@@ -2046,10 +2454,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "cue",
-      1
-    ],
-    [
       "cues",
       1
     ],
@@ -2059,6 +2463,10 @@ window.IMAGE_KB = {
     ],
     [
       "cuffs",
+      1
+    ],
+    [
+      "cup",
       1
     ],
     [
@@ -2086,7 +2494,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "day",
+      "decomposing",
+      1
+    ],
+    [
+      "decor",
       1
     ],
     [
@@ -2095,10 +2507,6 @@ window.IMAGE_KB = {
     ],
     [
       "definition",
-      1
-    ],
-    [
-      "demo",
       1
     ],
     [
@@ -2167,6 +2575,10 @@ window.IMAGE_KB = {
     ],
     [
       "dropout",
+      1
+    ],
+    [
+      "droppers",
       1
     ],
     [
@@ -2266,6 +2678,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "feeding",
+      1
+    ],
+    [
       "feel",
       1
     ],
@@ -2279,6 +2695,10 @@ window.IMAGE_KB = {
     ],
     [
       "fiber-texture",
+      1
+    ],
+    [
+      "field",
       1
     ],
     [
@@ -2306,6 +2726,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "fish-behavior",
+      1
+    ],
+    [
       "five",
       1
     ],
@@ -2322,7 +2746,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "flow",
+      1
+    ],
+    [
       "flower-related",
+      1
+    ],
+    [
+      "foam",
       1
     ],
     [
@@ -2362,6 +2794,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "gasping",
+      1
+    ],
+    [
       "gauge",
       1
     ],
@@ -2378,6 +2814,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "gill",
+      1
+    ],
+    [
       "gives",
       1
     ],
@@ -2391,10 +2831,6 @@ window.IMAGE_KB = {
     ],
     [
       "gore",
-      1
-    ],
-    [
-      "graphite",
       1
     ],
     [
@@ -2442,6 +2878,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "hang-on-back",
+      1
+    ],
+    [
       "hanger",
       1
     ],
@@ -2450,11 +2890,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "helmet",
+      "headings",
       1
     ],
     [
-      "home",
+      "heater",
+      1
+    ],
+    [
+      "helmet",
       1
     ],
     [
@@ -2462,7 +2906,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "housing",
+      "hose",
+      1
+    ],
+    [
+      "houseplant",
       1
     ],
     [
@@ -2490,6 +2938,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "infographic",
+      1
+    ],
+    [
       "infrastructure",
       1
     ],
@@ -2507,6 +2959,10 @@ window.IMAGE_KB = {
     ],
     [
       "install",
+      1
+    ],
+    [
+      "intake",
       1
     ],
     [
@@ -2550,6 +3006,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "labeled",
+      1
+    ],
+    [
       "ladder",
       1
     ],
@@ -2582,6 +3042,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "lava",
+      1
+    ],
+    [
+      "layers",
+      1
+    ],
+    [
       "leaping",
       1
     ],
@@ -2590,11 +3058,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "lever",
+      "lets",
       1
     ],
     [
-      "lighting",
+      "lever",
       1
     ],
     [
@@ -2610,7 +3078,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "litter",
+      1
+    ],
+    [
       "loading",
+      1
+    ],
+    [
+      "local",
+      1
+    ],
+    [
+      "logbook",
       1
     ],
     [
@@ -2626,6 +3106,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "loop",
+      1
+    ],
+    [
       "loose",
       1
     ],
@@ -2634,11 +3118,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "main",
+      "macro",
       1
     ],
     [
-      "maintenance",
+      "main",
       1
     ],
     [
@@ -2647,6 +3131,10 @@ window.IMAGE_KB = {
     ],
     [
       "mannequin-head",
+      1
+    ],
+    [
+      "many",
       1
     ],
     [
@@ -2666,6 +3154,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "mat",
+      1
+    ],
+    [
       "matching",
       1
     ],
@@ -2675,6 +3167,14 @@ window.IMAGE_KB = {
     ],
     [
       "mirrors",
+      1
+    ],
+    [
+      "mistake",
+      1
+    ],
+    [
+      "mistakes",
       1
     ],
     [
@@ -2714,6 +3214,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "nearby",
+      1
+    ],
+    [
       "neatly",
       1
     ],
@@ -2722,11 +3226,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "new",
+      1
+    ],
+    [
       "nipples",
       1
     ],
     [
       "noodle",
+      1
+    ],
+    [
+      "note",
+      1
+    ],
+    [
+      "notebook",
       1
     ],
     [
@@ -2746,10 +3262,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "once",
-      1
-    ],
-    [
       "order",
       1
     ],
@@ -2759,6 +3271,10 @@ window.IMAGE_KB = {
     ],
     [
       "over-shoulder",
+      1
+    ],
+    [
+      "overfeeding",
       1
     ],
     [
@@ -2782,11 +3298,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "panels",
+      "panic",
       1
     ],
     [
-      "panic",
+      "paper-tool",
       1
     ],
     [
@@ -2822,11 +3338,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "peak",
+      1
+    ],
+    [
       "pearl",
       1
     ],
     [
-      "pegboard",
+      "pellets",
       1
     ],
     [
@@ -2838,7 +3358,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "pet",
+      1
+    ],
+    [
       "petals",
+      1
+    ],
+    [
+      "phase",
       1
     ],
     [
@@ -2878,7 +3406,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "points",
+      1
+    ],
+    [
       "poles",
+      1
+    ],
+    [
+      "pore",
       1
     ],
     [
@@ -2890,7 +3426,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "powder-coated",
+      "prefilter",
       1
     ],
     [
@@ -2898,11 +3434,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "profile",
+      "productivity-visual",
       1
     ],
     [
-      "progression",
+      "profile",
       1
     ],
     [
@@ -2946,6 +3482,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "quick-reference",
+      1
+    ],
+    [
       "rag",
       1
     ],
@@ -2970,7 +3510,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "real",
+      "reading",
+      1
+    ],
+    [
+      "ready",
+      1
+    ],
+    [
+      "reagent",
       1
     ],
     [
@@ -3002,7 +3550,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "replacing",
+      1
+    ],
+    [
+      "rescue",
+      1
+    ],
+    [
       "resin",
+      1
+    ],
+    [
+      "response",
       1
     ],
     [
@@ -3010,15 +3570,35 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "retail",
+      1
+    ],
+    [
+      "return",
+      1
+    ],
+    [
       "riders",
       1
     ],
     [
-      "root",
+      "ring",
       1
     ],
     [
-      "roots",
+      "rinsing",
+      1
+    ],
+    [
+      "rise",
+      1
+    ],
+    [
+      "rock",
+      1
+    ],
+    [
+      "rooted",
       1
     ],
     [
@@ -3027,6 +3607,10 @@ window.IMAGE_KB = {
     ],
     [
       "rose",
+      1
+    ],
+    [
+      "rough",
       1
     ],
     [
@@ -3074,6 +3658,22 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "safe",
+      1
+    ],
+    [
+      "safety-poster",
+      1
+    ],
+    [
+      "sand",
+      1
+    ],
+    [
+      "scales",
+      1
+    ],
+    [
       "scallop",
       1
     ],
@@ -3102,6 +3702,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "searcher",
+      1
+    ],
+    [
       "second",
       1
     ],
@@ -3122,11 +3726,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "shelf",
+      "shelter",
       1
     ],
     [
-      "shelter",
+      "shelving",
       1
     ],
     [
@@ -3170,6 +3774,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "siphon",
+      1
+    ],
+    [
       "size",
       1
     ],
@@ -3182,11 +3790,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "slipping",
+      "skipping",
       1
     ],
     [
-      "small",
+      "slate",
+      1
+    ],
+    [
+      "slipping",
       1
     ],
     [
@@ -3210,6 +3822,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "source",
+      1
+    ],
+    [
       "spaced",
       1
     ],
@@ -3222,7 +3838,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "spiral",
+      "specimen",
       1
     ],
     [
@@ -3239,6 +3855,14 @@ window.IMAGE_KB = {
     ],
     [
       "square",
+      1
+    ],
+    [
+      "staff",
+      1
+    ],
+    [
+      "stalled",
       1
     ],
     [
@@ -3266,6 +3890,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "stocking",
+      1
+    ],
+    [
+      "store",
+      1
+    ],
+    [
       "storyboard",
       1
     ],
@@ -3278,11 +3910,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "straight-on",
+      1
+    ],
+    [
       "strap",
       1
     ],
     [
       "street",
+      1
+    ],
+    [
+      "stress",
       1
     ],
     [
@@ -3310,7 +3950,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "swatch",
+      "substrate",
+      1
+    ],
+    [
+      "suite",
       1
     ],
     [
@@ -3326,7 +3970,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "tabletop",
+      "syndrome",
+      1
+    ],
+    [
+      "tabs",
       1
     ],
     [
@@ -3338,7 +3986,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "tape",
+      "tap",
+      1
+    ],
+    [
+      "target",
       1
     ],
     [
@@ -3346,7 +3998,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "test-kit",
+      1
+    ],
+    [
+      "tests",
+      1
+    ],
+    [
       "tethered",
+      1
+    ],
+    [
+      "thermometer",
       1
     ],
     [
@@ -3394,10 +4058,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "timeline",
-      1
-    ],
-    [
       "timing-sheet",
       1
     ],
@@ -3422,6 +4082,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "tubing",
+      1
+    ],
+    [
       "tubs",
       1
     ],
@@ -3439,6 +4103,10 @@ window.IMAGE_KB = {
     ],
     [
       "two",
+      1
+    ],
+    [
+      "uptake",
       1
     ],
     [
@@ -3466,19 +4134,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "warm",
-      1
-    ],
-    [
-      "warning",
-      1
-    ],
-    [
-      "water",
-      1
-    ],
-    [
       "wavy",
+      1
+    ],
+    [
+      "week",
       1
     ],
     [
@@ -3507,10 +4167,6 @@ window.IMAGE_KB = {
     ],
     [
       "yaki",
-      1
-    ],
-    [
-      "zone",
       1
     ]
   ],
@@ -3560,6 +4216,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "charcoal linework",
+      3
+    ],
+    [
       "pistachio green",
       3
     ],
@@ -3570,6 +4230,10 @@ window.IMAGE_KB = {
     [
       "stainless silver",
       3
+    ],
+    [
+      "ammonia test vial",
+      2
     ],
     [
       "bell tower",
@@ -3584,11 +4248,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "chain-oil amber",
+      "ceramic bio-rings",
       2
     ],
     [
-      "charcoal linework",
+      "chain-oil amber",
       2
     ],
     [
@@ -3608,6 +4272,14 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "glass tank panels",
+      2
+    ],
+    [
+      "glass tank walls",
+      2
+    ],
+    [
       "grease pencil arrows",
       2
     ],
@@ -3617,6 +4289,10 @@ window.IMAGE_KB = {
     ],
     [
       "honey scalp tones",
+      2
+    ],
+    [
+      "laminated poster stock",
       2
     ],
     [
@@ -3661,6 +4337,14 @@ window.IMAGE_KB = {
     ],
     [
       "narrow bridge ledge",
+      2
+    ],
+    [
+      "nitrate test vial",
+      2
+    ],
+    [
+      "nitrite test vial",
       2
     ],
     [
@@ -3716,7 +4400,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "water-change bucket",
+      2
+    ],
+    [
       "with tiled wall",
+      2
+    ],
+    [
+      "yellow ammonia",
       2
     ],
     [
@@ -3736,7 +4428,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "a small counter",
+      1
+    ],
+    [
       "adding metal tip",
+      1
+    ],
+    [
+      "adding too many fish at once",
       1
     ],
     [
@@ -3748,6 +4448,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "air tubing coil",
+      1
+    ],
+    [
       "airborne twist",
       1
     ],
@@ -3756,11 +4460,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "amber driftwood",
+      1
+    ],
+    [
+      "ammonia cloud",
+      1
+    ],
+    [
       "annoyed repair face",
       1
     ],
     [
       "anodized steel gray",
+      1
+    ],
+    [
+      "aqua glass",
       1
     ],
     [
@@ -3784,11 +4500,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "bio balls",
+      1
+    ],
+    [
       "black caliper body",
       1
     ],
     [
+      "black filter housing",
+      1
+    ],
+    [
+      "black metal shelving",
+      1
+    ],
+    [
       "black rubber tire",
+      1
+    ],
+    [
+      "black sponge",
+      1
+    ],
+    [
+      "black stand",
       1
     ],
     [
@@ -3797,6 +4533,10 @@ window.IMAGE_KB = {
     ],
     [
       "bottle cage bolt",
+      1
+    ],
+    [
+      "bottled ammonia dropper",
       1
     ],
     [
@@ -3924,6 +4664,22 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "caution red",
+      1
+    ],
+    [
+      "ceramic media layers",
+      1
+    ],
+    [
+      "ceramic ring bag",
+      1
+    ],
+    [
+      "ceramic rings",
+      1
+    ],
+    [
       "ceramic roof tile surfaces",
       1
     ],
@@ -3940,7 +4696,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "charcoal headings",
+      1
+    ],
+    [
+      "charcoal labels",
+      1
+    ],
+    [
+      "charcoal tabletop",
+      1
+    ],
+    [
       "charcoal tags",
+      1
+    ],
+    [
+      "charcoal text",
       1
     ],
     [
@@ -3952,11 +4724,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "clean white technical-plate background with no room scene",
+      1
+    ],
+    [
       "cleaner chain after brushing",
       1
     ],
     [
+      "clear aqua water",
+      1
+    ],
+    [
+      "clear glass aqua",
+      1
+    ],
+    [
       "clear spray bottle",
+      1
+    ],
+    [
+      "clip thermometer",
       1
     ],
     [
@@ -3972,7 +4760,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "coated color card stock",
+      1
+    ],
+    [
       "cocoa brown label ink",
+      1
+    ],
+    [
+      "color swatch chips for ammonia nitrite nitrate",
       1
     ],
     [
@@ -3988,11 +4784,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "connecting fish waste",
+      1
+    ],
+    [
+      "Connects an ammonia test vial",
+      1
+    ],
+    [
       "Connects chain-checker readings",
       1
     ],
     [
       "Connects petal",
+      1
+    ],
+    [
+      "cool gray tabletop",
+      1
+    ],
+    [
+      "cool white",
       1
     ],
     [
@@ -4036,6 +4848,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "daily test card",
+      1
+    ],
+    [
+      "daily test vials",
+      1
+    ],
+    [
       "dark brown braids",
       1
     ],
@@ -4045,6 +4865,14 @@ window.IMAGE_KB = {
     ],
     [
       "dark espresso braids",
+      1
+    ],
+    [
+      "decomposing food",
+      1
+    ],
+    [
+      "decomposing food flakes",
       1
     ],
     [
@@ -4128,11 +4956,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "filter intake",
+      1
+    ],
+    [
+      "filter sponge colony",
+      1
+    ],
+    [
       "fingers hold tension",
       1
     ],
     [
       "first added extension piece",
+      1
+    ],
+    [
+      "fish scales",
+      1
+    ],
+    [
+      "fish-behavior silhouette",
+      1
+    ],
+    [
+      "fishless cycle calendar strip",
       1
     ],
     [
@@ -4160,6 +5008,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "food flakes",
+      1
+    ],
+    [
       "frayed cloth stitching",
       1
     ],
@@ -4169,6 +5021,18 @@ window.IMAGE_KB = {
     ],
     [
       "Gives riders visual warning cues for pad wear",
+      1
+    ],
+    [
+      "glass aquarium",
+      1
+    ],
+    [
+      "glass test vials",
+      1
+    ],
+    [
+      "glass vials",
       1
     ],
     [
@@ -4189,6 +5053,10 @@ window.IMAGE_KB = {
     ],
     [
       "graphite marks",
+      1
+    ],
+    [
+      "graphite pencil",
       1
     ],
     [
@@ -4244,6 +5112,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "jars of sponge and ceramic media",
+      1
+    ],
+    [
       "jockey wheels",
       1
     ],
@@ -4252,7 +5124,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "labeled test vials on a tray",
+      1
+    ],
+    [
       "laminate counters",
+      1
+    ],
+    [
+      "laminated card plastic",
+      1
+    ],
+    [
+      "laminated posters",
+      1
+    ],
+    [
+      "laminated teaching board",
       1
     ],
     [
@@ -4273,6 +5161,10 @@ window.IMAGE_KB = {
     ],
     [
       "leaping toward a bell tower ledge",
+      1
+    ],
+    [
+      "Lets a searcher compare an ammonia test vial",
       1
     ],
     [
@@ -4320,7 +5212,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "matte cool-white comparison-board background with no room scene",
+      1
+    ],
+    [
       "matte gouache accents",
+      1
+    ],
+    [
+      "matte paper stock",
       1
     ],
     [
@@ -4337,6 +5237,10 @@ window.IMAGE_KB = {
     ],
     [
       "matte storyboard paper",
+      1
+    ],
+    [
+      "media jars",
       1
     ],
     [
@@ -4376,11 +5280,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "moss green plants",
+      1
+    ],
+    [
       "motion arrows",
       1
     ],
     [
+      "nearby test tray",
+      1
+    ],
+    [
       "neatly arranged braiding tools including a rat-tail comb",
+      1
+    ],
+    [
+      "nitrate rise",
+      1
+    ],
+    [
+      "nitrite peak",
       1
     ],
     [
@@ -4412,6 +5332,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "off-white laminated safety-poster background with no room scene",
+      1
+    ],
+    [
+      "off-white paper",
+      1
+    ],
+    [
       "offset spatulas",
       1
     ],
@@ -4421,6 +5349,10 @@ window.IMAGE_KB = {
     ],
     [
       "oily chain links",
+      1
+    ],
+    [
+      "one clear demo tank",
       1
     ],
     [
@@ -4464,6 +5396,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "pale gray wall",
+      1
+    ],
+    [
       "pale peach",
       1
     ],
@@ -4489,6 +5425,10 @@ window.IMAGE_KB = {
     ],
     [
       "pearl border",
+      1
+    ],
+    [
+      "pegboard wall",
       1
     ],
     [
@@ -4520,6 +5460,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "plastic dropper bottle",
+      1
+    ],
+    [
+      "plastic droppers",
+      1
+    ],
+    [
       "plastic tire levers",
       1
     ],
@@ -4532,11 +5480,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "porous filter sponge",
+      1
+    ],
+    [
+      "porous lava rock",
+      1
+    ],
+    [
+      "porous sponge",
+      1
+    ],
+    [
+      "porous sponge foam",
+      1
+    ],
+    [
       "poster boards",
       1
     ],
     [
       "powder-coated repair stand",
+      1
+    ],
+    [
+      "powder-coated steel shelving",
       1
     ],
     [
@@ -4572,6 +5540,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "reagent dropper bottles",
+      1
+    ],
+    [
       "relieved kite catch",
       1
     ],
@@ -4584,11 +5556,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "replacing all media at once",
+      1
+    ],
+    [
       "resin brake pads",
       1
     ],
     [
       "restrained production annotation marks",
+      1
+    ],
+    [
+      "return flow",
       1
     ],
     [
@@ -4612,11 +5592,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "rinsing filter media under tap water",
+      1
+    ],
+    [
+      "rippled water surface",
+      1
+    ],
+    [
       "root closeup circles",
       1
     ],
     [
       "root start",
+      1
+    ],
+    [
+      "rooted plants",
       1
     ],
     [
@@ -4645,6 +5637,10 @@ window.IMAGE_KB = {
     ],
     [
       "rotor placement",
+      1
+    ],
+    [
+      "rough ceramic rings",
       1
     ],
     [
@@ -4760,11 +5756,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "siphon hose",
+      1
+    ],
+    [
       "skid landing",
       1
     ],
     [
       "skidding along a gutter",
+      1
+    ],
+    [
+      "skipping water tests",
+      1
+    ],
+    [
+      "slate gray",
       1
     ],
     [
@@ -4804,6 +5812,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "spare sponge filter media",
+      1
+    ],
+    [
       "spiral dome",
       1
     ],
@@ -4821,6 +5833,14 @@ window.IMAGE_KB = {
     ],
     [
       "spoke wrench",
+      1
+    ],
+    [
+      "sponge and ceramic media layers",
+      1
+    ],
+    [
+      "sponge prefilter",
       1
     ],
     [
@@ -4888,6 +5908,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "substrate layers",
+      1
+    ],
+    [
       "synthetic pre-stretched fiber",
       1
     ],
@@ -4912,6 +5936,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "test-kit tray",
+      1
+    ],
+    [
       "tethered hex keys",
       1
     ],
@@ -4921,6 +5949,10 @@ window.IMAGE_KB = {
     ],
     [
       "tethered tire levers",
+      1
+    ],
+    [
+      "thermometer strip",
       1
     ],
     [
@@ -4980,6 +6012,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "vesicular lava rock",
+      1
+    ],
+    [
       "vinyl chairs",
       1
     ],
@@ -4989,6 +6025,18 @@ window.IMAGE_KB = {
     ],
     [
       "warm brown braids",
+      1
+    ],
+    [
+      "warm gray table",
+      1
+    ],
+    [
+      "warm gray tabletop with no room scene",
+      1
+    ],
+    [
+      "water-change checklist",
       1
     ],
     [
@@ -5004,7 +6052,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "wet gravel",
+      1
+    ],
+    [
       "wet pavement",
+      1
+    ],
+    [
+      "wet sponge media",
+      1
+    ],
+    [
+      "white board",
+      1
+    ],
+    [
+      "white field",
+      1
+    ],
+    [
+      "white laminate",
+      1
+    ],
+    [
+      "white towel",
       1
     ],
     [
@@ -5030,15 +6102,30 @@ window.IMAGE_KB = {
     [
       "worn brake pads",
       1
+    ],
+    [
+      "woven towel",
+      1
     ]
   ],
   "bands": [
     [
       "signature",
-      40
+      50
     ]
   ],
   "runs": [
+    {
+      "slug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "theme": "Aquarium Nitrogen Cycle Starter Posters",
+      "imageCount": 10,
+      "status": "success",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "publicImageCount": 10,
+      "archivedImageCount": 0
+    },
     {
       "slug": "20260521-1452-protective-braiding-training-guides",
       "timestamp": "2026-05-21T14:52:06+08:00",
@@ -5085,6 +6172,1071 @@ window.IMAGE_KB = {
     }
   ],
   "images": [
+    {
+      "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-01",
+      "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "runTheme": "Aquarium Nitrogen Cycle Starter Posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "index": 1,
+      "title": "Aquarium Nitrogen Cycle Diagram Poster",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "aquarium",
+        "cycle",
+        "poster",
+        "filter",
+        "fish",
+        "tank",
+        "ceramic",
+        "decomposing",
+        "food",
+        "gravel",
+        "nitrogen",
+        "sponge",
+        "glass",
+        "plants",
+        "waste",
+        "ammonia",
+        "arrows",
+        "bacteria",
+        "bio-rings",
+        "biofilm",
+        "chemistry",
+        "colony",
+        "flakes",
+        "freshwater",
+        "labels",
+        "short",
+        "teaching",
+        "amber",
+        "aqua",
+        "beginner",
+        "bucket",
+        "cartoon",
+        "cloud",
+        "connecting",
+        "coral",
+        "direct",
+        "driftwood",
+        "green",
+        "laminated",
+        "loop",
+        "media",
+        "moss",
+        "nitrate",
+        "nitrite",
+        "panels",
+        "pellets",
+        "porous",
+        "scientific-educational"
+      ],
+      "specificHooks": [
+        "decomposing food flakes",
+        "ammonia cloud",
+        "filter sponge colony",
+        "ceramic bio-rings",
+        "glass tank panels",
+        "wet gravel",
+        "porous filter sponge",
+        "clear glass aqua",
+        "moss green plants",
+        "amber driftwood",
+        "connecting fish waste",
+        "decomposing food"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "detailPath": "i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-01/",
+      "runPath": "r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished freshwater aquarium teaching poster answering the query \"aquarium nitrogen cycle diagram\"\nScene/backdrop: cool white laminated classroom poster background with faint aquarium-glass reflections and no room scene\nSubject: a freshwater starter aquarium cycle loop showing fish waste pellets, decomposing food flakes, ammonia cloud, filter sponge colony, ceramic bio-rings, nitrite stage, nitrate stage, rooted stem plants, gravel biofilm, test vial callouts, and a water-change bucket\nStyle/medium: realistic science teaching poster combining believable aquarium photography with restrained diagram overlays and short labels only, no cartoon mascots, no living-artist imitation\nComposition/framing: tall vertical process poster with one central aquarium diagram, curved arrows around the tank, three large chemistry stages, two bacteria callout clusters, and strong thumbnail legibility\nLighting/mood: crisp aquarium-store teaching light, clean, practical, confidence-building\nColor palette: clear glass aqua, moss green plants, amber driftwood, charcoal arrows, citron chemistry nodes, coral warning accents, white background\nMaterials/textures: glass tank panels, wet gravel, porous filter sponge, ceramic ring media, glossy test vials, matte laminated poster stock\nText (verbatim): \"AMMONIA\" \"NITRITE\" \"NITRATE\" \"BACTERIA\" \"PLANTS\"\nConstraints: short labels only, useful for beginner aquarists and teachers, direct search-answer image, no logos, no watermark, no dense paragraphs\nAvoid: blue-gradient corporate infographic style, cute cartoon fish mascot, reef coral spectacle, product branding, tiny unreadable text, extra unrelated lab equipment",
+      "learningValue": "Explains the full freshwater tank cycle in one frame, connecting fish waste, decomposing food, filter bacteria, ceramic media, gravel biofilm, plant uptake, and water changes so a beginner can see why cycling takes time.",
+      "compositionNotes": "The centered tank and heavy loop arrows keep fish waste pellets, decomposing food flakes, filter sponge colony, ceramic bio-rings, gravel biofilm, and water-change bucket visible at once, which makes the page useful for both Google image search and agentic retrieval.",
+      "formatNotes": "Direct search-answer poster for queries like aquarium nitrogen cycle diagram and fish tank nitrogen cycle visual guide. Short labels are intentional; any smaller chemistry wording should be treated as exploratory while the canonical phrasing lives in this card.",
+      "searchText": "aquarium nitrogen cycle diagram poster scientific-educational aquarium nitrogen cycle starter posters 20260521-1553-aquarium-nitrogen-cycle-starter-posters use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished freshwater aquarium teaching poster answering the query \"aquarium nitrogen cycle diagram\"\nscene/backdrop: cool white laminated classroom poster background with faint aquarium-glass reflections and no room scene\nsubject: a freshwater starter aquarium cycle loop showing fish waste pellets, decomposing food flakes, ammonia cloud, filter sponge colony, ceramic bio-rings, nitrite stage, nitrate stage, rooted stem plants, gravel biofilm, test vial callouts, and a water-change bucket\nstyle/medium: realistic science teaching poster combining believable aquarium photography with restrained diagram overlays and short labels only, no cartoon mascots, no living-artist imitation\ncomposition/framing: tall vertical process poster with one central aquarium diagram, curved arrows around the tank, three large chemistry stages, two bacteria callout clusters, and strong thumbnail legibility\nlighting/mood: crisp aquarium-store teaching light, clean, practical, confidence-building\ncolor palette: clear glass aqua, moss green plants, amber driftwood, charcoal arrows, citron chemistry nodes, coral warning accents, white background\nmaterials/textures: glass tank panels, wet gravel, porous filter sponge, ceramic ring media, glossy test vials, matte laminated poster stock\ntext (verbatim): \"ammonia\" \"nitrite\" \"nitrate\" \"bacteria\" \"plants\"\nconstraints: short labels only, useful for beginner aquarists and teachers, direct search-answer image, no logos, no watermark, no dense paragraphs\navoid: blue-gradient corporate infographic style, cute cartoon fish mascot, reef coral spectacle, product branding, tiny unreadable text, extra unrelated lab equipment explains the full freshwater tank cycle in one frame, connecting fish waste, decomposing food, filter bacteria, ceramic media, gravel biofilm, plant uptake, and water changes so a beginner can see why cycling takes time. the centered tank and heavy loop arrows keep fish waste pellets, decomposing food flakes, filter sponge colony, ceramic bio-rings, gravel biofilm, and water-change bucket visible at once, which makes the page useful for both google image search and agentic retrieval. direct search-answer poster for queries like aquarium nitrogen cycle diagram and fish tank nitrogen cycle visual guide. short labels are intentional; any smaller chemistry wording should be treated as exploratory while the canonical phrasing lives in this card. decomposing food flakes ammonia cloud filter sponge colony ceramic bio-rings glass tank panels wet gravel porous filter sponge clear glass aqua moss green plants amber driftwood connecting fish waste decomposing food page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-02",
+      "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "runTheme": "Aquarium Nitrogen Cycle Starter Posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "index": 2,
+      "title": "Fishless Cycling Timeline Chart",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "tank",
+        "timeline",
+        "ammonia",
+        "cycle",
+        "test",
+        "week",
+        "aquarium",
+        "dropper",
+        "fishless",
+        "glass",
+        "nitrate",
+        "nitrite",
+        "poster",
+        "strip",
+        "bottled",
+        "chart",
+        "daily",
+        "gray",
+        "peak",
+        "rise",
+        "stocking",
+        "vials",
+        "aqua",
+        "bacteria",
+        "blocks",
+        "bloom",
+        "bottle",
+        "calendar",
+        "check",
+        "cloudy",
+        "cool",
+        "cycling",
+        "day",
+        "filter",
+        "fish",
+        "heater",
+        "how",
+        "infographic-diagram",
+        "intake",
+        "labels",
+        "laminated",
+        "like",
+        "phase",
+        "plastic",
+        "ready",
+        "room",
+        "short",
+        "slate"
+      ],
+      "specificHooks": [
+        "bottled ammonia dropper",
+        "thermometer strip",
+        "filter intake",
+        "daily test vials",
+        "laminated poster stock",
+        "glass tank walls",
+        "plastic dropper bottle",
+        "cool white",
+        "slate gray",
+        "aqua glass",
+        "nitrite peak",
+        "nitrate rise"
+      ],
+      "scaleTags": [
+        "page",
+        "abstract"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/02-fishless-cycling-timeline-chart.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/02-fishless-cycling-timeline-chart.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/02-fishless-cycling-timeline-chart.prompt.md",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/02-fishless-cycling-timeline-chart.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "detailPath": "i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-02/",
+      "runPath": "r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished teaching chart answering the query \"fishless cycle timeline\"\nScene/backdrop: pale gray waterproof poster sheet with faint calendar-grid texture and no room scene\nSubject: a week-by-week freshwater tank cycling timeline showing an empty planted 10 gallon tank, bottled ammonia dropper, heater, thermometer strip, filter intake, daily test vials, calendar blocks, ammonia spike, nitrite peak, nitrate rise, cloudy bacteria bloom stage, and final stocking check\nStyle/medium: realistic aquarium training infographic with believable tank imagery, clear timeline bands, and short labels only, no cartoon fish, no living-artist imitation\nComposition/framing: wide horizontal timeline poster with five clear phases from day 1 to week 5, each phase anchored by one tank state image and one color-coded test strip row, strong repeated anatomy for quick reading\nLighting/mood: bright bench-top teaching light, orderly, patient, instructional\nColor palette: cool white, slate gray, aqua glass, amber ammonia, orange nitrite, fresh green nitrate, black measurement marks\nMaterials/textures: laminated poster stock, glass tank walls, plastic dropper bottle, ceramic heater sleeve, glossy test tubes, matte marker lines\nText (verbatim): \"DAY 1\" \"WEEK 2\" \"WEEK 3\" \"WEEK 4\" \"READY\"\nConstraints: short labels only, direct answer for beginner aquarium keepers, no logos, no watermark, no dense paragraphs\nAvoid: corporate dashboard styling, reef aquarium glamour, cute mascots, branded test kits, tiny unreadable text, extra pets or room furniture",
+      "learningValue": "Shows how a fishless cycle typically unfolds over days and weeks, helping a new tank owner interpret an ammonia spike, nitrite peak, nitrate rise, and the moment a tank is ready for stocking.",
+      "compositionNotes": "The phase-based strip creates durable hooks like bottled ammonia dropper, calendar blocks, daily test vials, cloudy bacteria bloom, and final stocking check, making the image legible even at thumbnail scale.",
+      "formatNotes": "Timeline explainer for queries like fishless cycle timeline, how long does a fish tank cycle take chart, and aquarium cycle stages week by week. Small phase copy should be treated as exploratory while the canonical stage wording is preserved here.",
+      "searchText": "fishless cycling timeline chart infographic-diagram aquarium nitrogen cycle starter posters 20260521-1553-aquarium-nitrogen-cycle-starter-posters use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished teaching chart answering the query \"fishless cycle timeline\"\nscene/backdrop: pale gray waterproof poster sheet with faint calendar-grid texture and no room scene\nsubject: a week-by-week freshwater tank cycling timeline showing an empty planted 10 gallon tank, bottled ammonia dropper, heater, thermometer strip, filter intake, daily test vials, calendar blocks, ammonia spike, nitrite peak, nitrate rise, cloudy bacteria bloom stage, and final stocking check\nstyle/medium: realistic aquarium training infographic with believable tank imagery, clear timeline bands, and short labels only, no cartoon fish, no living-artist imitation\ncomposition/framing: wide horizontal timeline poster with five clear phases from day 1 to week 5, each phase anchored by one tank state image and one color-coded test strip row, strong repeated anatomy for quick reading\nlighting/mood: bright bench-top teaching light, orderly, patient, instructional\ncolor palette: cool white, slate gray, aqua glass, amber ammonia, orange nitrite, fresh green nitrate, black measurement marks\nmaterials/textures: laminated poster stock, glass tank walls, plastic dropper bottle, ceramic heater sleeve, glossy test tubes, matte marker lines\ntext (verbatim): \"day 1\" \"week 2\" \"week 3\" \"week 4\" \"ready\"\nconstraints: short labels only, direct answer for beginner aquarium keepers, no logos, no watermark, no dense paragraphs\navoid: corporate dashboard styling, reef aquarium glamour, cute mascots, branded test kits, tiny unreadable text, extra pets or room furniture shows how a fishless cycle typically unfolds over days and weeks, helping a new tank owner interpret an ammonia spike, nitrite peak, nitrate rise, and the moment a tank is ready for stocking. the phase-based strip creates durable hooks like bottled ammonia dropper, calendar blocks, daily test vials, cloudy bacteria bloom, and final stocking check, making the image legible even at thumbnail scale. timeline explainer for queries like fishless cycle timeline, how long does a fish tank cycle take chart, and aquarium cycle stages week by week. small phase copy should be treated as exploratory while the canonical stage wording is preserved here. bottled ammonia dropper thermometer strip filter intake daily test vials laminated poster stock glass tank walls plastic dropper bottle cool white slate gray aqua glass nitrite peak nitrate rise page abstract",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-03",
+      "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "runTheme": "Aquarium Nitrogen Cycle Starter Posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "index": 3,
+      "title": "Ammonia Nitrite Nitrate Comparison Guide",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "test",
+        "ammonia",
+        "vial",
+        "nitrate",
+        "nitrite",
+        "aquarium",
+        "comparison",
+        "cue",
+        "safe",
+        "strip",
+        "target",
+        "chart",
+        "compare",
+        "fish",
+        "fish-behavior",
+        "gill",
+        "labels",
+        "matte",
+        "plant",
+        "poster",
+        "response",
+        "source",
+        "stress",
+        "teaching",
+        "uptake",
+        "arrow",
+        "charcoal",
+        "chemistry",
+        "color",
+        "comparison-board",
+        "cool-white",
+        "glass",
+        "guide",
+        "headings",
+        "laminated",
+        "lets",
+        "repeated",
+        "room",
+        "scales",
+        "scientific-educational",
+        "searcher",
+        "short",
+        "silhouette",
+        "vials",
+        "white",
+        "yellow",
+        "abstract",
+        "accent"
+      ],
+      "specificHooks": [
+        "ammonia test vial",
+        "nitrite test vial",
+        "nitrate test vial",
+        "fish-behavior silhouette",
+        "matte cool-white comparison-board background with no room scene",
+        "laminated teaching board",
+        "glass test vials",
+        "fish scales",
+        "white board",
+        "charcoal headings",
+        "yellow ammonia",
+        "Lets a searcher compare an ammonia test vial"
+      ],
+      "scaleTags": [
+        "page",
+        "abstract"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.prompt.md",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "detailPath": "i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-03/",
+      "runPath": "r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished comparison chart answering the query \"ammonia nitrite nitrate chart aquarium\"\nScene/backdrop: matte cool-white comparison-board background with no room scene\nSubject: ammonia test vial, nitrite test vial, nitrate test vial, fish-behavior silhouette, gill stress cue, plant uptake arrow, source examples, warning icons, response tools, safe target strip\nStyle/medium: realistic aquarium classroom comparison poster with restrained scientific iconography and short labels only, no mascot illustration, no living-artist imitation\nComposition/framing: tall three-column poster with identical repeated anatomy in each column for source, danger, sign, and response, plus a narrow bottom strip showing safe target readings\nLighting/mood: clear teaching light, analytical, calm, trustworthy\nColor palette: white board, charcoal headings, yellow ammonia, orange nitrite, green nitrate, steel blue accent lines\nMaterials/textures: laminated teaching board, glass test vials, fish scales, matte icon circles, printed color chips\nText (verbatim): \"AMMONIA\" \"NITRITE\" \"NITRATE\" \"SOURCE\" \"RESPONSE\"\nConstraints: short labels only, direct search-answer poster for new aquarium keepers, no logos, no watermark, no dense paragraphs\nAvoid: generic chemistry textbook clutter, reef fish spectacle, cartoon arrows everywhere, product branding, tiny unreadable numbers, unnecessary lab glassware",
+      "learningValue": "Lets a searcher compare an ammonia test vial, nitrite test vial, nitrate test vial, gill stress cue, plant uptake arrow, and safe target strip instead of relying on vague chemistry language.",
+      "compositionNotes": "The repeated columns make hooks like test vial colors, fish-behavior silhouettes, gill stress cue, plant uptake cue, and safe target strip easy to index and compare.",
+      "formatNotes": "Comparison sheet for ammonia nitrite nitrate chart aquarium, ammonia vs nitrite vs nitrate visual guide, and similar queries. The core labels are reliable; finer explanatory text should be treated as exploratory and referenced against this card.",
+      "searchText": "ammonia nitrite nitrate comparison guide scientific-educational aquarium nitrogen cycle starter posters 20260521-1553-aquarium-nitrogen-cycle-starter-posters use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished comparison chart answering the query \"ammonia nitrite nitrate chart aquarium\"\nscene/backdrop: matte cool-white comparison-board background with no room scene\nsubject: ammonia test vial, nitrite test vial, nitrate test vial, fish-behavior silhouette, gill stress cue, plant uptake arrow, source examples, warning icons, response tools, safe target strip\nstyle/medium: realistic aquarium classroom comparison poster with restrained scientific iconography and short labels only, no mascot illustration, no living-artist imitation\ncomposition/framing: tall three-column poster with identical repeated anatomy in each column for source, danger, sign, and response, plus a narrow bottom strip showing safe target readings\nlighting/mood: clear teaching light, analytical, calm, trustworthy\ncolor palette: white board, charcoal headings, yellow ammonia, orange nitrite, green nitrate, steel blue accent lines\nmaterials/textures: laminated teaching board, glass test vials, fish scales, matte icon circles, printed color chips\ntext (verbatim): \"ammonia\" \"nitrite\" \"nitrate\" \"source\" \"response\"\nconstraints: short labels only, direct search-answer poster for new aquarium keepers, no logos, no watermark, no dense paragraphs\navoid: generic chemistry textbook clutter, reef fish spectacle, cartoon arrows everywhere, product branding, tiny unreadable numbers, unnecessary lab glassware lets a searcher compare an ammonia test vial, nitrite test vial, nitrate test vial, gill stress cue, plant uptake arrow, and safe target strip instead of relying on vague chemistry language. the repeated columns make hooks like test vial colors, fish-behavior silhouettes, gill stress cue, plant uptake cue, and safe target strip easy to index and compare. comparison sheet for ammonia nitrite nitrate chart aquarium, ammonia vs nitrite vs nitrate visual guide, and similar queries. the core labels are reliable; finer explanatory text should be treated as exploratory and referenced against this card. ammonia test vial nitrite test vial nitrate test vial fish-behavior silhouette matte cool-white comparison-board background with no room scene laminated teaching board glass test vials fish scales white board charcoal headings yellow ammonia lets a searcher compare an ammonia test vial page abstract",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-04",
+      "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "runTheme": "Aquarium Nitrogen Cycle Starter Posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "index": 4,
+      "title": "Beneficial Bacteria Filter Media Taxonomy Plate",
+      "taxonomy": "atlas-contact-sheet",
+      "topics": [
+        "sponge",
+        "media",
+        "lava",
+        "ceramic",
+        "filter",
+        "rock",
+        "aquarium",
+        "comparison",
+        "labels",
+        "macro",
+        "plate",
+        "porous",
+        "bio",
+        "bacteria",
+        "balls",
+        "beneficial",
+        "bio-rings",
+        "biofilm",
+        "driftwood",
+        "gravel",
+        "leaf",
+        "mat",
+        "prefilter",
+        "rings",
+        "root",
+        "tabletop",
+        "texture",
+        "top-down",
+        "atlas-contact-sheet",
+        "backdrop",
+        "bag",
+        "black",
+        "charcoal",
+        "chart",
+        "circles",
+        "coarse",
+        "color",
+        "cool",
+        "foam",
+        "gray",
+        "litter",
+        "plant",
+        "pore",
+        "roots",
+        "rough",
+        "sample",
+        "short",
+        "specimen"
+      ],
+      "specificHooks": [
+        "ceramic bio-rings",
+        "porous lava rock",
+        "bio balls",
+        "sponge prefilter",
+        "porous sponge foam",
+        "rough ceramic rings",
+        "vesicular lava rock",
+        "cool gray tabletop",
+        "charcoal labels",
+        "black sponge"
+      ],
+      "scaleTags": [
+        "object",
+        "page"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/04-beneficial-bacteria-filter-media-taxonomy-plate.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/04-beneficial-bacteria-filter-media-taxonomy-plate.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/04-beneficial-bacteria-filter-media-taxonomy-plate.prompt.md",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/04-beneficial-bacteria-filter-media-taxonomy-plate.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "detailPath": "i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-04/",
+      "runPath": "r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/",
+      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: detailed aquarium filter media comparison plate answering the query \"aquarium filter media comparison chart\"\nScene/backdrop: pale slate tabletop photography backdrop with no room scene\nSubject: a neatly arranged top-down family of freshwater bacteria-hosting surfaces including coarse filter sponge blocks, ceramic bio-rings, porous lava rock, bio balls, sponge prefilter, gravel bag, driftwood piece, leaf litter sample, plant root mat, and macro callout circles showing pore texture and biofilm\nStyle/medium: realistic catalog-style educational specimen plate with restrained labels and no branding, no living-artist imitation\nComposition/framing: straight top-down contact-sheet plate with one hero grid of media types, three macro circles, one bottom comparison strip for flow and surface texture, strong thumbnail readability\nLighting/mood: soft workshop daylight, tactile, practical, evidence-driven\nColor palette: cool gray tabletop, charcoal labels, black sponge, sand ceramic, rust lava rock, tea-brown driftwood, leaf green root mat, white comparison lines\nMaterials/textures: porous sponge foam, rough ceramic rings, vesicular lava rock, wet gravel mesh, fibrous roots, slick acrylic macro windows\nText (verbatim): \"SPONGE\" \"RINGS\" \"LAVA\" \"ROOTS\" \"BIOFILM\"\nConstraints: short labels only, useful for beginner aquarists choosing media, no logos, no watermark, no dense paragraphs\nAvoid: luxury product advertising, reef coral color explosion, branded packaging, tiny text, extra fish, random household props",
+      "learningValue": "Teaches where beneficial bacteria actually live by comparing coarse filter sponge, ceramic bio-rings, porous lava rock, gravel bag, driftwood, and plant root mat as real habitat surfaces instead of abstract chemistry terms.",
+      "compositionNotes": "The top-down specimen family and macro windows create strong retrieval hooks like sponge prefilter, bio balls, leaf litter sample, pore texture, and biofilm macro circle.",
+      "formatNotes": "Searchable object-family plate for aquarium filter media comparison chart, beneficial bacteria aquarium media, and best bio media visual guide. Labels are intentionally short so the tactile evidence survives search thumbnails.",
+      "searchText": "beneficial bacteria filter media taxonomy plate atlas-contact-sheet aquarium nitrogen cycle starter posters 20260521-1553-aquarium-nitrogen-cycle-starter-posters use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: detailed aquarium filter media comparison plate answering the query \"aquarium filter media comparison chart\"\nscene/backdrop: pale slate tabletop photography backdrop with no room scene\nsubject: a neatly arranged top-down family of freshwater bacteria-hosting surfaces including coarse filter sponge blocks, ceramic bio-rings, porous lava rock, bio balls, sponge prefilter, gravel bag, driftwood piece, leaf litter sample, plant root mat, and macro callout circles showing pore texture and biofilm\nstyle/medium: realistic catalog-style educational specimen plate with restrained labels and no branding, no living-artist imitation\ncomposition/framing: straight top-down contact-sheet plate with one hero grid of media types, three macro circles, one bottom comparison strip for flow and surface texture, strong thumbnail readability\nlighting/mood: soft workshop daylight, tactile, practical, evidence-driven\ncolor palette: cool gray tabletop, charcoal labels, black sponge, sand ceramic, rust lava rock, tea-brown driftwood, leaf green root mat, white comparison lines\nmaterials/textures: porous sponge foam, rough ceramic rings, vesicular lava rock, wet gravel mesh, fibrous roots, slick acrylic macro windows\ntext (verbatim): \"sponge\" \"rings\" \"lava\" \"roots\" \"biofilm\"\nconstraints: short labels only, useful for beginner aquarists choosing media, no logos, no watermark, no dense paragraphs\navoid: luxury product advertising, reef coral color explosion, branded packaging, tiny text, extra fish, random household props teaches where beneficial bacteria actually live by comparing coarse filter sponge, ceramic bio-rings, porous lava rock, gravel bag, driftwood, and plant root mat as real habitat surfaces instead of abstract chemistry terms. the top-down specimen family and macro windows create strong retrieval hooks like sponge prefilter, bio balls, leaf litter sample, pore texture, and biofilm macro circle. searchable object-family plate for aquarium filter media comparison chart, beneficial bacteria aquarium media, and best bio media visual guide. labels are intentionally short so the tactile evidence survives search thumbnails. ceramic bio-rings porous lava rock bio balls sponge prefilter porous sponge foam rough ceramic rings vesicular lava rock cool gray tabletop charcoal labels black sponge object page",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-05",
+      "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "runTheme": "Aquarium Nitrogen Cycle Starter Posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "index": 5,
+      "title": "Freshwater Tank Bacteria Zone Cutaway",
+      "taxonomy": "mixed-format",
+      "topics": [
+        "tank",
+        "filter",
+        "layers",
+        "zone",
+        "ceramic",
+        "aquarium",
+        "media",
+        "substrate",
+        "cutaway",
+        "cycle",
+        "flow",
+        "labels",
+        "sponge",
+        "white",
+        "bacteria",
+        "biofilm",
+        "chamber",
+        "freshwater",
+        "gravel",
+        "nitrogen",
+        "plant",
+        "plants",
+        "return",
+        "room",
+        "root",
+        "section",
+        "water",
+        "annotation",
+        "aqua",
+        "black",
+        "driftwood",
+        "feeding",
+        "field",
+        "glass",
+        "hang-on-back",
+        "housing",
+        "lighting",
+        "mixed-format",
+        "panels",
+        "plate",
+        "plus",
+        "points",
+        "porous",
+        "rings",
+        "rooted",
+        "roots",
+        "sand",
+        "short"
+      ],
+      "specificHooks": [
+        "sponge and ceramic media layers",
+        "return flow",
+        "substrate layers",
+        "rooted plants",
+        "clean white technical-plate background with no room scene",
+        "glass tank panels",
+        "porous sponge",
+        "ceramic rings",
+        "white field",
+        "clear aqua water",
+        "black filter housing",
+        "ceramic media layers"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/05-freshwater-tank-bacteria-zone-cutaway.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/05-freshwater-tank-bacteria-zone-cutaway.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/05-freshwater-tank-bacteria-zone-cutaway.prompt.md",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/05-freshwater-tank-bacteria-zone-cutaway.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "detailPath": "i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-05/",
+      "runPath": "r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/",
+      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: detailed scientific plate answering the query \"aquarium nitrogen cycle in tank diagram\"\nScene/backdrop: clean white technical-plate background with no room scene\nSubject: a side cutaway of a 20 gallon freshwater starter tank showing hang-on-back filter chamber, sponge and ceramic media layers, return flow, substrate layers, rooted plants, driftwood biofilm, open water column, feeding zone, waste sink points, and maintenance arrows that map where bacteria and nitrate processes happen\nStyle/medium: realistic aquarium section cutaway mixing believable tank photography with technical plate annotation and short labels only, no living-artist imitation\nComposition/framing: straight side elevation with one large tank section occupying most of the page, three inset closeups for filter media, substrate, and plant root zone, plus a narrow legend strip at the bottom\nLighting/mood: bright museum-plate lighting, exact, calm, instructive\nColor palette: white field, clear aqua water, black filter housing, sand and charcoal substrate, green plants, amber wood, lime and orange chemistry accents\nMaterials/textures: glass tank panels, porous sponge, ceramic rings, wet gravel, fine sand, plant roots, smooth acrylic annotation windows\nText (verbatim): \"FILTER\" \"FLOW\" \"GRAVEL\" \"ROOTS\" \"BIOFILM\"\nConstraints: short labels only, direct search-answer visual guide, no logos, no watermark, no dense paragraphs\nAvoid: generic engineering blueprint styling, reef-tank spectacle, cartoon fish, product branding, tiny labels, extra room furniture",
+      "learningValue": "Maps invisible cycle activity back onto the physical tank so a beginner can see how filter chamber, ceramic media layers, gravel, root zone, feeding zone, and waste sink points work together in one system.",
+      "compositionNotes": "The section view plus three insets provide hooks like hang-on-back filter chamber, return flow, substrate layers, driftwood biofilm, and plant root zone, which makes the image useful for both search and downstream editing requests.",
+      "formatNotes": "Less-common scientific-plate format for aquarium nitrogen cycle in tank diagram, freshwater tank cutaway, and where do beneficial bacteria live in aquarium. On-image microtext should be treated as exploratory while the core labels and zone logic are canonical here.",
+      "searchText": "freshwater tank bacteria zone cutaway mixed-format aquarium nitrogen cycle starter posters 20260521-1553-aquarium-nitrogen-cycle-starter-posters use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: detailed scientific plate answering the query \"aquarium nitrogen cycle in tank diagram\"\nscene/backdrop: clean white technical-plate background with no room scene\nsubject: a side cutaway of a 20 gallon freshwater starter tank showing hang-on-back filter chamber, sponge and ceramic media layers, return flow, substrate layers, rooted plants, driftwood biofilm, open water column, feeding zone, waste sink points, and maintenance arrows that map where bacteria and nitrate processes happen\nstyle/medium: realistic aquarium section cutaway mixing believable tank photography with technical plate annotation and short labels only, no living-artist imitation\ncomposition/framing: straight side elevation with one large tank section occupying most of the page, three inset closeups for filter media, substrate, and plant root zone, plus a narrow legend strip at the bottom\nlighting/mood: bright museum-plate lighting, exact, calm, instructive\ncolor palette: white field, clear aqua water, black filter housing, sand and charcoal substrate, green plants, amber wood, lime and orange chemistry accents\nmaterials/textures: glass tank panels, porous sponge, ceramic rings, wet gravel, fine sand, plant roots, smooth acrylic annotation windows\ntext (verbatim): \"filter\" \"flow\" \"gravel\" \"roots\" \"biofilm\"\nconstraints: short labels only, direct search-answer visual guide, no logos, no watermark, no dense paragraphs\navoid: generic engineering blueprint styling, reef-tank spectacle, cartoon fish, product branding, tiny labels, extra room furniture maps invisible cycle activity back onto the physical tank so a beginner can see how filter chamber, ceramic media layers, gravel, root zone, feeding zone, and waste sink points work together in one system. the section view plus three insets provide hooks like hang-on-back filter chamber, return flow, substrate layers, driftwood biofilm, and plant root zone, which makes the image useful for both search and downstream editing requests. less-common scientific-plate format for aquarium nitrogen cycle in tank diagram, freshwater tank cutaway, and where do beneficial bacteria live in aquarium. on-image microtext should be treated as exploratory while the core labels and zone logic are canonical here. sponge and ceramic media layers return flow substrate layers rooted plants clean white technical-plate background with no room scene glass tank panels porous sponge ceramic rings white field clear aqua water black filter housing ceramic media layers page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-06",
+      "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "runTheme": "Aquarium Nitrogen Cycle Starter Posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "index": 6,
+      "title": "Aquarium Test Kit Color Reading Board",
+      "taxonomy": "atlas-contact-sheet",
+      "topics": [
+        "test",
+        "vial",
+        "color",
+        "ammonia",
+        "aquarium",
+        "card",
+        "nitrate",
+        "nitrite",
+        "strip",
+        "towel",
+        "glass",
+        "bottles",
+        "charcoal",
+        "color-card",
+        "dropper",
+        "kit",
+        "labels",
+        "plate",
+        "reading",
+        "reagent",
+        "row",
+        "tabletop",
+        "vials",
+        "white",
+        "atlas-contact-sheet",
+        "coated",
+        "connects",
+        "cup",
+        "cycle",
+        "droppers",
+        "guide",
+        "how",
+        "matte",
+        "note",
+        "paper",
+        "plastic",
+        "practical",
+        "progression",
+        "sample",
+        "short",
+        "stock",
+        "tiny",
+        "tray",
+        "waste",
+        "yellow",
+        "answering",
+        "api-style",
+        "aquarium-nitrogen-cycle-starter-posters"
+      ],
+      "specificHooks": [
+        "ammonia test vial",
+        "nitrite test vial",
+        "nitrate test vial",
+        "reagent dropper bottles",
+        "glass vials",
+        "plastic droppers",
+        "coated color card stock",
+        "charcoal tabletop",
+        "white towel",
+        "yellow ammonia",
+        "Connects an ammonia test vial"
+      ],
+      "scaleTags": [
+        "object",
+        "page"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/06-aquarium-test-kit-color-reading-board.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/06-aquarium-test-kit-color-reading-board.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/06-aquarium-test-kit-color-reading-board.prompt.md",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/06-aquarium-test-kit-color-reading-board.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "detailPath": "i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-06/",
+      "runPath": "r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/",
+      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical water-testing reference plate answering the query \"aquarium test kit color guide\"\nScene/backdrop: dark charcoal tabletop with a folded white towel and no room scene\nSubject: ammonia test vial, nitrite test vial, nitrate test vial, reagent dropper bottles, color-card strip, pipette, stopwatch, note card, waste cup, paper towel squares, sample reading row\nStyle/medium: realistic catalog-style aquarium training plate with short labels only and no brand names, no living-artist imitation\nComposition/framing: straight top-down layout with the tools arranged in a tidy rectangle, one center row of color progression chips, and a bottom strip showing how the three tests change over the cycle, strong thumbnail clarity\nLighting/mood: soft bench light, clean, practical, trustworthy\nColor palette: charcoal tabletop, white towel, yellow ammonia, blue nitrite, green nitrate, clear glass, matte black caps\nMaterials/textures: glass vials, plastic droppers, coated color card stock, cotton towel, glossy spill tray, matte notebook paper\nText (verbatim): \"AMMONIA\" \"NITRITE\" \"NITRATE\" \"TEST\" \"LOG\"\nConstraints: short labels only, useful for new aquarium keepers, no logos, no watermark, no dense paragraphs\nAvoid: branded API-style packaging, science-fair clutter, reef colors, tiny labels, extra decorative plants, hands in frame",
+      "learningValue": "Connects an ammonia test vial, nitrite test vial, nitrate test vial, color-card strip, and sample reading row to the color shifts that happen during cycling.",
+      "compositionNotes": "The structured tray and color progression strip create durable hooks like glass test vials, reagent dropper bottles, color-card strip, waste cup, and cycle-tracking note card.",
+      "formatNotes": "Search-targeted equipment plate for aquarium test kit color guide, how to read aquarium ammonia nitrite nitrate test, and related queries. Tiny card details are exploratory; the canonical object list and test sequence live in this card.",
+      "searchText": "aquarium test kit color reading board atlas-contact-sheet aquarium nitrogen cycle starter posters 20260521-1553-aquarium-nitrogen-cycle-starter-posters use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical water-testing reference plate answering the query \"aquarium test kit color guide\"\nscene/backdrop: dark charcoal tabletop with a folded white towel and no room scene\nsubject: ammonia test vial, nitrite test vial, nitrate test vial, reagent dropper bottles, color-card strip, pipette, stopwatch, note card, waste cup, paper towel squares, sample reading row\nstyle/medium: realistic catalog-style aquarium training plate with short labels only and no brand names, no living-artist imitation\ncomposition/framing: straight top-down layout with the tools arranged in a tidy rectangle, one center row of color progression chips, and a bottom strip showing how the three tests change over the cycle, strong thumbnail clarity\nlighting/mood: soft bench light, clean, practical, trustworthy\ncolor palette: charcoal tabletop, white towel, yellow ammonia, blue nitrite, green nitrate, clear glass, matte black caps\nmaterials/textures: glass vials, plastic droppers, coated color card stock, cotton towel, glossy spill tray, matte notebook paper\ntext (verbatim): \"ammonia\" \"nitrite\" \"nitrate\" \"test\" \"log\"\nconstraints: short labels only, useful for new aquarium keepers, no logos, no watermark, no dense paragraphs\navoid: branded api-style packaging, science-fair clutter, reef colors, tiny labels, extra decorative plants, hands in frame connects an ammonia test vial, nitrite test vial, nitrate test vial, color-card strip, and sample reading row to the color shifts that happen during cycling. the structured tray and color progression strip create durable hooks like glass test vials, reagent dropper bottles, color-card strip, waste cup, and cycle-tracking note card. search-targeted equipment plate for aquarium test kit color guide, how to read aquarium ammonia nitrite nitrate test, and related queries. tiny card details are exploratory; the canonical object list and test sequence live in this card. ammonia test vial nitrite test vial nitrate test vial reagent dropper bottles glass vials plastic droppers coated color card stock charcoal tabletop white towel yellow ammonia connects an ammonia test vial object page",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-07",
+      "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "runTheme": "Aquarium Nitrogen Cycle Starter Posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "index": 7,
+      "title": "New Tank Syndrome Mistakes Poster",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "water",
+        "media",
+        "warning",
+        "fish",
+        "poster",
+        "tank",
+        "new",
+        "once",
+        "aquarium",
+        "filter",
+        "flakes",
+        "laminated",
+        "rescue",
+        "syndrome",
+        "all",
+        "caution",
+        "cloudy",
+        "labels",
+        "like",
+        "mistakes",
+        "red",
+        "safety-poster",
+        "tap",
+        "tests",
+        "adding",
+        "beginner",
+        "charcoal",
+        "chemistry",
+        "cycle",
+        "food",
+        "gasping",
+        "infographic",
+        "infographic-diagram",
+        "laminate",
+        "lighting",
+        "linework",
+        "many",
+        "mistake",
+        "off-white",
+        "overfeeding",
+        "panels",
+        "replacing",
+        "rinsing",
+        "room",
+        "short",
+        "skipping",
+        "sponge",
+        "stalled"
+      ],
+      "specificHooks": [
+        "adding too many fish at once",
+        "rinsing filter media under tap water",
+        "replacing all media at once",
+        "skipping water tests",
+        "off-white laminated safety-poster background with no room scene",
+        "laminated poster stock",
+        "food flakes",
+        "wet sponge media",
+        "white laminate",
+        "charcoal linework",
+        "caution red"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/07-new-tank-syndrome-mistakes-poster.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/07-new-tank-syndrome-mistakes-poster.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/07-new-tank-syndrome-mistakes-poster.prompt.md",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/07-new-tank-syndrome-mistakes-poster.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "detailPath": "i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-07/",
+      "runPath": "r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: warning poster answering the query \"new tank syndrome infographic\"\nScene/backdrop: off-white laminated safety-poster background with no room scene\nSubject: a freshwater aquarium mistake guide showing overfeeding flakes, adding too many fish at once, rinsing filter media under tap water, replacing all media at once, skipping water tests, and panic water chemistry fixes, each paired with a consequence cue like cloudy water, gasping fish, or stalled bacteria colony\nStyle/medium: realistic aquarium training warning poster with bold caution panels and short labels only, no living-artist imitation\nComposition/framing: vertical six-panel warning chart with a strong red header band, repeated mistake and result anatomy, and one bottom rescue strip for test-water-change-wait steps\nLighting/mood: practical safety-poster lighting, urgent but clear, non-dramatic\nColor palette: white laminate, charcoal linework, caution red, ammonia yellow, nitrite orange, green rescue accents, black filter hardware\nMaterials/textures: laminated poster stock, food flakes, wet sponge media, faucet metal, glass tank water, matte warning icons\nText (verbatim): \"OVERFEED\" \"OVERCROWD\" \"TAP WATER\" \"NO TESTS\" \"WAIT\"\nConstraints: short labels only, useful for beginner aquarists and pet-store staff, direct search-answer image, no logos, no watermark, no dense paragraphs\nAvoid: horror-movie fish death imagery, cartoon mascots, cluttered chemistry formulas, branded products, tiny unreadable text, reef coral or saltwater scenes",
+      "learningValue": "Turns new tank syndrome into a specific checklist of beginner mistakes and consequences, so a viewer can diagnose why a cycle has stalled and what a calm rescue sequence looks like.",
+      "compositionNotes": "The numbered warning panels produce strong hooks like overfeeding flakes, tap-water filter rinse, replace all media at once, gasping fish, cloudy water, and test-water-change-wait rescue steps.",
+      "formatNotes": "High-intent warning sheet for new tank syndrome infographic, aquarium cycling mistakes poster, and why is my new fish tank cloudy. The core warning labels are reliable; detailed small copy remains exploratory and is canonically captured here.",
+      "searchText": "new tank syndrome mistakes poster infographic-diagram aquarium nitrogen cycle starter posters 20260521-1553-aquarium-nitrogen-cycle-starter-posters use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: warning poster answering the query \"new tank syndrome infographic\"\nscene/backdrop: off-white laminated safety-poster background with no room scene\nsubject: a freshwater aquarium mistake guide showing overfeeding flakes, adding too many fish at once, rinsing filter media under tap water, replacing all media at once, skipping water tests, and panic water chemistry fixes, each paired with a consequence cue like cloudy water, gasping fish, or stalled bacteria colony\nstyle/medium: realistic aquarium training warning poster with bold caution panels and short labels only, no living-artist imitation\ncomposition/framing: vertical six-panel warning chart with a strong red header band, repeated mistake and result anatomy, and one bottom rescue strip for test-water-change-wait steps\nlighting/mood: practical safety-poster lighting, urgent but clear, non-dramatic\ncolor palette: white laminate, charcoal linework, caution red, ammonia yellow, nitrite orange, green rescue accents, black filter hardware\nmaterials/textures: laminated poster stock, food flakes, wet sponge media, faucet metal, glass tank water, matte warning icons\ntext (verbatim): \"overfeed\" \"overcrowd\" \"tap water\" \"no tests\" \"wait\"\nconstraints: short labels only, useful for beginner aquarists and pet-store staff, direct search-answer image, no logos, no watermark, no dense paragraphs\navoid: horror-movie fish death imagery, cartoon mascots, cluttered chemistry formulas, branded products, tiny unreadable text, reef coral or saltwater scenes turns new tank syndrome into a specific checklist of beginner mistakes and consequences, so a viewer can diagnose why a cycle has stalled and what a calm rescue sequence looks like. the numbered warning panels produce strong hooks like overfeeding flakes, tap-water filter rinse, replace all media at once, gasping fish, cloudy water, and test-water-change-wait rescue steps. high-intent warning sheet for new tank syndrome infographic, aquarium cycling mistakes poster, and why is my new fish tank cloudy. the core warning labels are reliable; detailed small copy remains exploratory and is canonically captured here. adding too many fish at once rinsing filter media under tap water replacing all media at once skipping water tests off-white laminated safety-poster background with no room scene laminated poster stock food flakes wet sponge media white laminate charcoal linework caution red page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-08",
+      "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "runTheme": "Aquarium Nitrogen Cycle Starter Posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "index": 8,
+      "title": "Beginner Aquarium Cycling Station Setup",
+      "taxonomy": "photorealistic-natural",
+      "topics": [
+        "tank",
+        "setup",
+        "test",
+        "aquarium",
+        "cycling",
+        "station",
+        "tray",
+        "beginner",
+        "stand",
+        "black",
+        "bucket",
+        "ceramic",
+        "cycle",
+        "media",
+        "room",
+        "sponge",
+        "tubing",
+        "air",
+        "bag",
+        "clip",
+        "coil",
+        "glass",
+        "home",
+        "hose",
+        "like",
+        "metal",
+        "reference",
+        "ring",
+        "siphon",
+        "spare",
+        "thermometer",
+        "towel",
+        "water-change",
+        "believable",
+        "beside",
+        "decor",
+        "filter",
+        "fish",
+        "freshwater",
+        "houseplant",
+        "labeled",
+        "lighting",
+        "log",
+        "materials",
+        "nearby",
+        "notebook",
+        "photorealistic-natural",
+        "real"
+      ],
+      "specificHooks": [
+        "labeled test vials on a tray",
+        "clip thermometer",
+        "air tubing coil",
+        "ceramic ring bag",
+        "nearby test tray",
+        "water-change bucket",
+        "siphon hose",
+        "spare sponge filter media",
+        "glass tank walls",
+        "rippled water surface",
+        "woven towel",
+        "black stand"
+      ],
+      "scaleTags": [
+        "room",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/08-beginner-aquarium-cycling-station-setup.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/08-beginner-aquarium-cycling-station-setup.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/08-beginner-aquarium-cycling-station-setup.prompt.md",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/08-beginner-aquarium-cycling-station-setup.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "detailPath": "i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-08/",
+      "runPath": "r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: realistic setup reference answering the query \"aquarium cycling station setup\"\nScene/backdrop: a modest home study corner with a cycling freshwater tank on a black metal stand, nearby test tray, water-change bucket, siphon hose, spare sponge filter media, notebook, and one small houseplant; no people in frame\nSubject: a believable beginner aquarium cycling station showing an active freshwater starter tank, labeled test vials on a tray, clip thermometer, air tubing coil, towel, ceramic ring bag, dechlorinator bottle without branding, and a written cycle log beside the tank\nStyle/medium: documentary-style interior photograph for aquarium training reference, natural materials, no living-artist imitation\nComposition/framing: three-quarter room view with the tank as the anchor, support tools arranged clearly in the foreground and side table, enough negative space to feel like a real station rather than a catalog spread\nLighting/mood: morning window light mixed with soft tank glow, calm, studious, practical\nColor palette: black stand, clear aqua glass, warm wood desk, moss green plants, blue bucket, white test tray, charcoal notebook\nMaterials/textures: glass tank walls, rippled water surface, woven towel, plastic tubing, porous sponge media, ceramic rings, matte paper logbook, powder-coated metal stand\nConstraints: no logos, no watermark, no staged luxury decor, useful for beginner aquarists looking for setup references\nAvoid: reef-tank spectacle, influencer home decor, neon gaming room lighting, tiny unreadable notes, extra pets, fantasy fish species",
+      "learningValue": "Shows how the cycling process lives in a real home setup, connecting test tray, water-change bucket, siphon hose, spare sponge media, and written cycle log to a believable beginner station.",
+      "compositionNotes": "The room view adds retrieval hooks like black metal stand, clip thermometer, air tubing coil, ceramic ring bag, and houseplant beside tank, which helps the atlas answer setup and staging queries rather than only diagram searches.",
+      "formatNotes": "Documentary proof image for aquarium cycling station setup, beginner fish tank setup with test kit, and fishless cycle workspace. This image is intentionally low-text and behaves like a real-use reference.",
+      "searchText": "beginner aquarium cycling station setup photorealistic-natural aquarium nitrogen cycle starter posters 20260521-1553-aquarium-nitrogen-cycle-starter-posters use case: photorealistic-natural\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: realistic setup reference answering the query \"aquarium cycling station setup\"\nscene/backdrop: a modest home study corner with a cycling freshwater tank on a black metal stand, nearby test tray, water-change bucket, siphon hose, spare sponge filter media, notebook, and one small houseplant; no people in frame\nsubject: a believable beginner aquarium cycling station showing an active freshwater starter tank, labeled test vials on a tray, clip thermometer, air tubing coil, towel, ceramic ring bag, dechlorinator bottle without branding, and a written cycle log beside the tank\nstyle/medium: documentary-style interior photograph for aquarium training reference, natural materials, no living-artist imitation\ncomposition/framing: three-quarter room view with the tank as the anchor, support tools arranged clearly in the foreground and side table, enough negative space to feel like a real station rather than a catalog spread\nlighting/mood: morning window light mixed with soft tank glow, calm, studious, practical\ncolor palette: black stand, clear aqua glass, warm wood desk, moss green plants, blue bucket, white test tray, charcoal notebook\nmaterials/textures: glass tank walls, rippled water surface, woven towel, plastic tubing, porous sponge media, ceramic rings, matte paper logbook, powder-coated metal stand\nconstraints: no logos, no watermark, no staged luxury decor, useful for beginner aquarists looking for setup references\navoid: reef-tank spectacle, influencer home decor, neon gaming room lighting, tiny unreadable notes, extra pets, fantasy fish species shows how the cycling process lives in a real home setup, connecting test tray, water-change bucket, siphon hose, spare sponge media, and written cycle log to a believable beginner station. the room view adds retrieval hooks like black metal stand, clip thermometer, air tubing coil, ceramic ring bag, and houseplant beside tank, which helps the atlas answer setup and staging queries rather than only diagram searches. documentary proof image for aquarium cycling station setup, beginner fish tank setup with test kit, and fishless cycle workspace. this image is intentionally low-text and behaves like a real-use reference. labeled test vials on a tray clip thermometer air tubing coil ceramic ring bag nearby test tray water-change bucket siphon hose spare sponge filter media glass tank walls rippled water surface woven towel black stand room object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-09",
+      "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "runTheme": "Aquarium Nitrogen Cycle Starter Posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "index": 9,
+      "title": "Local Fish Store Nitrogen Cycle Training Wall",
+      "taxonomy": "photorealistic-natural",
+      "topics": [
+        "training",
+        "wall",
+        "media",
+        "aquarium",
+        "jars",
+        "tank",
+        "posters",
+        "store",
+        "ceramic",
+        "demo",
+        "fish",
+        "laminated",
+        "poster",
+        "bucket",
+        "local",
+        "pegboard",
+        "shelving",
+        "sponge",
+        "staff",
+        "blocks",
+        "counter",
+        "cycle",
+        "glass",
+        "test-kit",
+        "tray",
+        "water-change",
+        "believable",
+        "black",
+        "clipboards",
+        "corner",
+        "freshwater",
+        "gray",
+        "hooks",
+        "installation",
+        "labels",
+        "metal",
+        "nitrogen",
+        "pale",
+        "pet",
+        "photorealistic-natural",
+        "powder-coated",
+        "retail",
+        "rings",
+        "scale",
+        "shelf",
+        "small",
+        "steel",
+        "straight-on"
+      ],
+      "specificHooks": [
+        "one clear demo tank",
+        "jars of sponge and ceramic media",
+        "test-kit tray",
+        "water-change bucket",
+        "pegboard wall",
+        "laminated posters",
+        "media jars",
+        "a small counter",
+        "glass aquarium",
+        "powder-coated steel shelving",
+        "pale gray wall",
+        "black metal shelving"
+      ],
+      "scaleTags": [
+        "room",
+        "page"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/09-local-fish-store-nitrogen-cycle-training-wall.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/09-local-fish-store-nitrogen-cycle-training-wall.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/09-local-fish-store-nitrogen-cycle-training-wall.prompt.md",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/09-local-fish-store-nitrogen-cycle-training-wall.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "detailPath": "i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-09/",
+      "runPath": "r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: installation-style training reference answering the query \"pet store aquarium training poster\"\nScene/backdrop: the staff training corner of a local fish store with a demo freshwater tank, pegboard wall, laminated posters, media jars, and a small counter, no customers in frame\nSubject: a believable aquarium nitrogen-cycle training wall with three laminated posters, one clear demo tank, jars of sponge and ceramic media, test-kit tray, water-change bucket, clipboards, and shelf labels for ammonia nitrite nitrate stages\nStyle/medium: documentary interior photograph of a practical retail-training setup, no living-artist imitation\nComposition/framing: straight-on installation view showing the whole training wall, tank, counter, and media shelf as one coherent retail-learning scene, readable at thumbnail scale through strong poster blocks and object clusters\nLighting/mood: clean overhead retail light with soft tank glow, professional, modest, instructive\nColor palette: pale gray wall, black metal shelving, aqua glass, green plants, white poster boards, blue bucket, sand ceramic rings, charcoal pegboard hooks\nMaterials/textures: laminated posters, glass aquarium, powder-coated steel shelving, plastic media jars, porous sponge blocks, ceramic rings, matte clipboards\nConstraints: no logos, no watermark, no luxury showroom styling, useful for local fish store staff training references\nAvoid: crowded customer scene, saltwater coral displays, flashy retail branding, giant unreadable paragraphs, novelty decor, fantasy fish",
+      "learningValue": "Proves that the branch can scale from flat posters into a real staff training corner, with media jars, demo tank, test-kit tray, and clipboard evidence that makes the educational system believable.",
+      "compositionNotes": "The straight-on installation view yields concrete hooks like pegboard wall, jars of sponge and ceramic media, blue water-change bucket, laminated poster blocks, and demo freshwater tank, which are valuable for both search and future staging mutations.",
+      "formatNotes": "Installation-view proof image for pet store aquarium training poster, local fish store staff training wall, and aquarium cycle display. On-image sign text is partly exploratory; the key objects and stage labels are preserved canonically here.",
+      "searchText": "local fish store nitrogen cycle training wall photorealistic-natural aquarium nitrogen cycle starter posters 20260521-1553-aquarium-nitrogen-cycle-starter-posters use case: photorealistic-natural\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: installation-style training reference answering the query \"pet store aquarium training poster\"\nscene/backdrop: the staff training corner of a local fish store with a demo freshwater tank, pegboard wall, laminated posters, media jars, and a small counter, no customers in frame\nsubject: a believable aquarium nitrogen-cycle training wall with three laminated posters, one clear demo tank, jars of sponge and ceramic media, test-kit tray, water-change bucket, clipboards, and shelf labels for ammonia nitrite nitrate stages\nstyle/medium: documentary interior photograph of a practical retail-training setup, no living-artist imitation\ncomposition/framing: straight-on installation view showing the whole training wall, tank, counter, and media shelf as one coherent retail-learning scene, readable at thumbnail scale through strong poster blocks and object clusters\nlighting/mood: clean overhead retail light with soft tank glow, professional, modest, instructive\ncolor palette: pale gray wall, black metal shelving, aqua glass, green plants, white poster boards, blue bucket, sand ceramic rings, charcoal pegboard hooks\nmaterials/textures: laminated posters, glass aquarium, powder-coated steel shelving, plastic media jars, porous sponge blocks, ceramic rings, matte clipboards\nconstraints: no logos, no watermark, no luxury showroom styling, useful for local fish store staff training references\navoid: crowded customer scene, saltwater coral displays, flashy retail branding, giant unreadable paragraphs, novelty decor, fantasy fish proves that the branch can scale from flat posters into a real staff training corner, with media jars, demo tank, test-kit tray, and clipboard evidence that makes the educational system believable. the straight-on installation view yields concrete hooks like pegboard wall, jars of sponge and ceramic media, blue water-change bucket, laminated poster blocks, and demo freshwater tank, which are valuable for both search and future staging mutations. installation-view proof image for pet store aquarium training poster, local fish store staff training wall, and aquarium cycle display. on-image sign text is partly exploratory; the key objects and stage labels are preserved canonically here. one clear demo tank jars of sponge and ceramic media test-kit tray water-change bucket pegboard wall laminated posters media jars a small counter glass aquarium powder-coated steel shelving pale gray wall black metal shelving room page",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1553-aquarium-nitrogen-cycle-starter-posters-10",
+      "runSlug": "20260521-1553-aquarium-nitrogen-cycle-starter-posters",
+      "runTheme": "Aquarium Nitrogen Cycle Starter Posters",
+      "timestamp": "2026-05-21T15:53:14+08:00",
+      "index": 10,
+      "title": "Aquarium Cycle Logbook And Maintenance Card Spread",
+      "taxonomy": "productivity-visual",
+      "topics": [
+        "cycle",
+        "card",
+        "paper",
+        "color",
+        "aquarium",
+        "checklist",
+        "chips",
+        "gray",
+        "laminated",
+        "logbook",
+        "pencil",
+        "tape",
+        "test",
+        "warm",
+        "ammonia",
+        "calendar",
+        "daily",
+        "fishless",
+        "labels",
+        "log",
+        "masking",
+        "nitrate",
+        "nitrite",
+        "strip",
+        "tabletop",
+        "tabs",
+        "top-down",
+        "water-change",
+        "binding",
+        "charcoal",
+        "cycling",
+        "fish",
+        "graphite",
+        "maintenance",
+        "matte",
+        "off-white",
+        "paper-tool",
+        "plastic",
+        "posters",
+        "printed",
+        "productivity-visual",
+        "quick-reference",
+        "room",
+        "short",
+        "spiral",
+        "stock",
+        "suite",
+        "swatch"
+      ],
+      "specificHooks": [
+        "daily test card",
+        "water-change checklist",
+        "fishless cycle calendar strip",
+        "color swatch chips for ammonia nitrite nitrate",
+        "warm gray tabletop with no room scene",
+        "matte paper stock",
+        "laminated card plastic",
+        "graphite pencil",
+        "warm gray table",
+        "off-white paper",
+        "charcoal text"
+      ],
+      "scaleTags": [
+        "tabletop",
+        "page"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/10-aquarium-cycle-logbook-and-maintenance-card-spread.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/10-aquarium-cycle-logbook-and-maintenance-card-spread.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/10-aquarium-cycle-logbook-and-maintenance-card-spread.prompt.md",
+      "reportPath": "../run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/10-aquarium-cycle-logbook-and-maintenance-card-spread.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1553-aquarium-nitrogen-cycle-starter-posters.md",
+      "detailPath": "i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-10/",
+      "runPath": "r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/",
+      "finalPrompt": "Use case: productivity-visual\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical paper-tool spread answering the query \"aquarium cycle log sheet\"\nScene/backdrop: warm gray tabletop with no room scene\nSubject: a top-down spread of freshwater cycling paper tools including a ring-bound cycle logbook, daily test card, water-change checklist, fishless cycle calendar strip, color swatch chips for ammonia nitrite nitrate, pencil, masking tape tabs, and a small laminated quick-reference card\nStyle/medium: realistic printed-reference photography with clean editorial organization and short labels only, no living-artist imitation\nComposition/framing: straight top-down paper suite with the logbook as the anchor, smaller cards fanned around it, one narrow bottom row of color swatches and check boxes, strong thumbnail clarity\nLighting/mood: soft desk light, organized, studious, utilitarian\nColor palette: warm gray table, off-white paper, charcoal text, yellow ammonia, orange nitrite, green nitrate, muted blue tape tabs\nMaterials/textures: matte paper stock, laminated card plastic, graphite pencil, masking tape, spiral binding wire, printed color chips\nText (verbatim): \"CYCLE LOG\" \"TEST\" \"CHANGE\" \"DAY\" \"NOTES\"\nConstraints: short labels only, useful for beginner aquarists and trainers, no logos, no watermark, no dense paragraphs\nAvoid: fancy stationery branding, scrapbook clutter, cartoon fish doodles, tiny text, reef imagery, unnecessary digital devices",
+      "learningValue": "Extends the run beyond posters by showing reusable paper tools such as a cycle logbook, daily test card, water-change checklist, and fishless cycle calendar strip that make the process measurable.",
+      "compositionNotes": "The top-down paper suite surfaces hooks like spiral binding wire, masking tape tabs, printed color chips, laminated quick-reference card, and pencil beside checklist, which helps future agents find printable or editable variants.",
+      "formatNotes": "Search-friendly paper-tool spread for aquarium cycle log sheet, fish tank cycling checklist, and aquarium maintenance card. Fine text is exploratory by design; the canonical labels and use cases are preserved here.",
+      "searchText": "aquarium cycle logbook and maintenance card spread productivity-visual aquarium nitrogen cycle starter posters 20260521-1553-aquarium-nitrogen-cycle-starter-posters use case: productivity-visual\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical paper-tool spread answering the query \"aquarium cycle log sheet\"\nscene/backdrop: warm gray tabletop with no room scene\nsubject: a top-down spread of freshwater cycling paper tools including a ring-bound cycle logbook, daily test card, water-change checklist, fishless cycle calendar strip, color swatch chips for ammonia nitrite nitrate, pencil, masking tape tabs, and a small laminated quick-reference card\nstyle/medium: realistic printed-reference photography with clean editorial organization and short labels only, no living-artist imitation\ncomposition/framing: straight top-down paper suite with the logbook as the anchor, smaller cards fanned around it, one narrow bottom row of color swatches and check boxes, strong thumbnail clarity\nlighting/mood: soft desk light, organized, studious, utilitarian\ncolor palette: warm gray table, off-white paper, charcoal text, yellow ammonia, orange nitrite, green nitrate, muted blue tape tabs\nmaterials/textures: matte paper stock, laminated card plastic, graphite pencil, masking tape, spiral binding wire, printed color chips\ntext (verbatim): \"cycle log\" \"test\" \"change\" \"day\" \"notes\"\nconstraints: short labels only, useful for beginner aquarists and trainers, no logos, no watermark, no dense paragraphs\navoid: fancy stationery branding, scrapbook clutter, cartoon fish doodles, tiny text, reef imagery, unnecessary digital devices extends the run beyond posters by showing reusable paper tools such as a cycle logbook, daily test card, water-change checklist, and fishless cycle calendar strip that make the process measurable. the top-down paper suite surfaces hooks like spiral binding wire, masking tape tabs, printed color chips, laminated quick-reference card, and pencil beside checklist, which helps future agents find printable or editable variants. search-friendly paper-tool spread for aquarium cycle log sheet, fish tank cycling checklist, and aquarium maintenance card. fine text is exploratory by design; the canonical labels and use cases are preserved here. daily test card water-change checklist fishless cycle calendar strip color swatch chips for ammonia nitrite nitrate warm gray tabletop with no room scene matte paper stock laminated card plastic graphite pencil warm gray table off-white paper charcoal text tabletop page",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
     {
       "id": "20260521-1452-protective-braiding-training-guides-01",
       "runSlug": "20260521-1452-protective-braiding-training-guides",

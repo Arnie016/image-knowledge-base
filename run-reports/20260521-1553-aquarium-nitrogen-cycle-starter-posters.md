@@ -1,0 +1,22 @@
+# Run Report
+
+- Run slug: `20260521-1553-aquarium-nitrogen-cycle-starter-posters`
+- Timestamp: `2026-05-21T15:53:14+08:00`
+- Theme: Aquarium Nitrogen Cycle Starter Posters
+- Status: `success`
+- Freedom budget: `wide`
+- Primary scale: `page`
+- Secondary scale: `object`
+- PNG count: `10`
+- Visual families: process posters and comparison sheets, equipment and specimen plates, plus home and retail deployment proof images
+- Image folder: `image-knowledge-base/images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters`
+- Prompt folder: `image-knowledge-base/prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters`
+- Gallery website path: `image-knowledge-base/site/index.html`
+- Gallery refresh: `completed via node image-knowledge-base/scripts/build-site-data.mjs` with `50 public images` across `5 public runs`
+- SEO artifact status: `site/data.js`, `site/sitemap.xml`, and `site/robots.txt` were regenerated; 10 public per-image directories exist under `site/i/20260521-1553-aquarium-nitrogen-cycle-starter-posters-*`, and the public per-run directory exists under `site/r/20260521-1553-aquarium-nitrogen-cycle-starter-posters`
+- Research note: `image-knowledge-base/research/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/research.md`
+- Catalog updates: `image-knowledge-base/catalog/runs.jsonl`, `image-knowledge-base/catalog/images.jsonl`
+- Skill/plugin Markdown consulted: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `life-science-research/ncbi-pmc-skill/SKILL.md`
+- Built-in ImageGen output directory: `/Users/arnav/.codex/generated_images/019e4985-3ab1-7841-ba85-853ba6618dcc/`
+- Summary: This run pushed the practical-explainer lane into freshwater aquarium science and hobby onboarding rather than repeating salon, craft, or film-preproduction habits. The strongest search hooks came from concrete cycle nouns like `ceramic bio-rings`, `filter sponge colony`, `gravel biofilm`, `fishless cycle timeline`, `ammonia test vial`, `new tank syndrome`, `test-kit tray`, `water-change bucket`, `pegboard training wall`, and `cycle logbook`, while the cutaway, station, and retail-wall views proved the branch can escape flat poster repetition.
+- Blockers: None.

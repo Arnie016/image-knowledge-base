@@ -4,11 +4,11 @@
 
 > A public, image-first slice of a labeled PNG atlas built for practical human tasks, explainer plates, and searchable visual reference work.
 
-[![Box Braids And Knotless Braids Chart](images/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.png)](prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.prompt.md)
+[![Aquarium Nitrogen Cycle Diagram Poster](images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png)](prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md)
 
 | Public images | Public runs | Search hooks | Formats |
 | --- | --- | --- | --- |
-| 40 | 4 | 379 | 11 |
+| 50 | 5 | 484 | 12 |
 
 ## What This Repo Publishes
 
@@ -19,6 +19,42 @@
 ## Current Public Gallery
 
 <table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png" alt="Aquarium Nitrogen Cycle Diagram Poster (scientific-educational)" width="100%" /></a>
+  <br /><strong>Aquarium Nitrogen Cycle Diagram Poster</strong>
+  <br /><sub>scientific-educational · decomposing food flakes · ammonia cloud</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/02-fishless-cycling-timeline-chart.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/02-fishless-cycling-timeline-chart.png" alt="Fishless Cycling Timeline Chart (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Fishless Cycling Timeline Chart</strong>
+  <br /><sub>infographic-diagram · bottled ammonia dropper · thermometer strip</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.png" alt="Ammonia Nitrite Nitrate Comparison Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Ammonia Nitrite Nitrate Comparison Guide</strong>
+  <br /><sub>scientific-educational · ammonia test vial · nitrite test vial</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/04-beneficial-bacteria-filter-media-taxonomy-plate.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/04-beneficial-bacteria-filter-media-taxonomy-plate.png" alt="Beneficial Bacteria Filter Media Taxonomy Plate (atlas-contact-sheet)" width="100%" /></a>
+  <br /><strong>Beneficial Bacteria Filter Media Taxonomy Plate</strong>
+  <br /><sub>atlas-contact-sheet · ceramic bio-rings · porous lava rock</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/06-aquarium-test-kit-color-reading-board.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/06-aquarium-test-kit-color-reading-board.png" alt="Aquarium Test Kit Color Reading Board (atlas-contact-sheet)" width="100%" /></a>
+  <br /><strong>Aquarium Test Kit Color Reading Board</strong>
+  <br /><sub>atlas-contact-sheet · ammonia test vial · nitrite test vial</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/07-new-tank-syndrome-mistakes-poster.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/07-new-tank-syndrome-mistakes-poster.png" alt="New Tank Syndrome Mistakes Poster (infographic-diagram)" width="100%" /></a>
+  <br /><strong>New Tank Syndrome Mistakes Poster</strong>
+  <br /><sub>infographic-diagram · adding too many fish at once · rinsing filter media under tap water</sub>
+</td>
+</tr>
 <tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.png" alt="Box Braids And Knotless Braids Chart (scientific-educational)" width="100%" /></a>
@@ -153,6 +189,30 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/05-freshwater-tank-bacteria-zone-cutaway.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/05-freshwater-tank-bacteria-zone-cutaway.png" alt="Freshwater Tank Bacteria Zone Cutaway (mixed-format)" width="100%" /></a>
+  <br /><strong>Freshwater Tank Bacteria Zone Cutaway</strong>
+  <br /><sub>mixed-format · sponge and ceramic media layers · return flow</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/08-beginner-aquarium-cycling-station-setup.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/08-beginner-aquarium-cycling-station-setup.png" alt="Beginner Aquarium Cycling Station Setup (photorealistic-natural)" width="100%" /></a>
+  <br /><strong>Beginner Aquarium Cycling Station Setup</strong>
+  <br /><sub>photorealistic-natural · labeled test vials on a tray · clip thermometer</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/09-local-fish-store-nitrogen-cycle-training-wall.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/09-local-fish-store-nitrogen-cycle-training-wall.png" alt="Local Fish Store Nitrogen Cycle Training Wall (photorealistic-natural)" width="100%" /></a>
+  <br /><strong>Local Fish Store Nitrogen Cycle Training Wall</strong>
+  <br /><sub>photorealistic-natural · one clear demo tank · jars of sponge and ceramic media</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/10-aquarium-cycle-logbook-and-maintenance-card-spread.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/10-aquarium-cycle-logbook-and-maintenance-card-spread.png" alt="Aquarium Cycle Logbook And Maintenance Card Spread (productivity-visual)" width="100%" /></a>
+  <br /><strong>Aquarium Cycle Logbook And Maintenance Card Spread</strong>
+  <br /><sub>productivity-visual · daily test card · water-change checklist</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/09-cosmetology-braiding-station-setup.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/09-cosmetology-braiding-station-setup.png" alt="Cosmetology Braiding Station Setup (photorealistic-natural)" width="100%" /></a>
   <br /><strong>Cosmetology Braiding Station Setup</strong>
   <br /><sub>photorealistic-natural · rat-tail combs in a crock · pre-stretched extension bundles on hooks</sub>
@@ -265,20 +325,20 @@
 
 | Panel | Human task | Labels |
 | --- | --- | --- |
-| Box Braids And Knotless Braids Chart | Compares the root structure, section geometry, finished hang, and perceived weight of box braids versus knotless braids so a trainee can understand why the two installs behave differently before starting a service | root start, braid hang, weight distribution |
-| Cornrow Parting Pattern Guide | Shows how different cornrow routes are planned on the scalp so students can map straight rows, curved rows, feed-in fronts, and crown patterns before their hands touch hair | curved rows, side-swoop rows, feed-in hairline rows |
-| Braid Size Section Grid Poster | Links scalp section size to finished braid thickness so a learner can plan small, medium, or large installs without guessing how a square part becomes a final braid | large braid section squares at the top, matching finished braid thickness samples hanging below, top-down scalp section grid strip |
-| Feed In Braid Sequence Poster | Walks through the repeated hand motion of feed-in braiding so a trainee can see when extension fiber is added, where fingers hold tension, and how the row looks once it stabilizes | close hand-and-mannequin demonstration of a feed-in cornrow, first added extension piece, second add |
-| Tight Braid Warning Signs Chart | Distinguishes a comfortable install from traction-risk clues so trainees can recognize redness, bumps, shiny over-pulled roots, and stressed edges before sending a client home | smooth sections, slight scalp visibility versus redness, shiny over-pulled roots |
-| Braiding Tool Tray Reference | Identifies the compact objects that actually belong at a braiding station, from rat-tail comb and duckbill clip to bead threader, crochet latch hook, and folded neck strip | neatly arranged braiding tools including a rat-tail comb, wide-tooth comb, edge brush |
+| Aquarium Nitrogen Cycle Diagram Poster | Explains the full freshwater tank cycle in one frame, connecting fish waste, decomposing food, filter bacteria, ceramic media, gravel biofilm, plant uptake, and water changes so a beginner can see why cycling takes time | decomposing food flakes, ammonia cloud, filter sponge colony |
+| Fishless Cycling Timeline Chart | Shows how a fishless cycle typically unfolds over days and weeks, helping a new tank owner interpret an ammonia spike, nitrite peak, nitrate rise, and the moment a tank is ready for stocking | bottled ammonia dropper, thermometer strip, filter intake |
+| Ammonia Nitrite Nitrate Comparison Guide | Lets a searcher compare an ammonia test vial, nitrite test vial, nitrate test vial, gill stress cue, plant uptake arrow, and safe target strip instead of relying on vague chemistry language | ammonia test vial, nitrite test vial, nitrate test vial |
+| Beneficial Bacteria Filter Media Taxonomy Plate | Teaches where beneficial bacteria actually live by comparing coarse filter sponge, ceramic bio-rings, porous lava rock, gravel bag, driftwood, and plant root mat as real habitat surfaces instead of abstract chemistry terms | ceramic bio-rings, porous lava rock, bio balls |
+| Aquarium Test Kit Color Reading Board | Connects an ammonia test vial, nitrite test vial, nitrate test vial, color-card strip, and sample reading row to the color shifts that happen during cycling | ammonia test vial, nitrite test vial, nitrate test vial |
+| New Tank Syndrome Mistakes Poster | Turns new tank syndrome into a specific checklist of beginner mistakes and consequences, so a viewer can diagnose why a cycle has stalled and what a calm rescue sequence looks like | adding too many fish at once, rinsing filter media under tap water, replacing all media at once |
 
 ## Current Seed Run
 
-- **Theme:** Protective Braiding Training Guides
+- **Theme:** Aquarium Nitrogen Cycle Starter Posters
 
 - **Coverage:** 10 panels with prompt cards and a run report.
 
-- **Run page:** [20260521-1452-protective-braiding-training-guides](site/r/20260521-1452-protective-braiding-training-guides/index.html)
+- **Run page:** [20260521-1553-aquarium-nitrogen-cycle-starter-posters](site/r/20260521-1553-aquarium-nitrogen-cycle-starter-posters/index.html)
 
 ## Publish Automation
 

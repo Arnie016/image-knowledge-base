@@ -48,5 +48,7 @@
   - `09` how a pet-store training wall could deploy the material in a real retail-learning context
   - `10` how a cycling logbook and maintenance card set turns the branch into reusable paper tools rather than poster-only output
 - Successful patterns to aim for: short labels, repeated visual anatomy, bold water-chemistry nouns, visible test hardware, filter-media texture, and believable freshwater tank glass or plastic surfaces
+- Run outcome: 10 final PNGs were selected across process posters, comparison charts, specimen and test-tool plates, one technical cutaway, one home setup proof image, one retail-training installation view, and one paper-tool spread. The output successfully moved away from the recent cream-board cosmetology palette into clear aqua, charcoal, and caution-red freshwater training language.
 - Weak patterns to avoid: generic blue infographic gradients, reef-tank glamour, cute cartoon fish mascots, unreadable paragraphs, chemistry-class icon clutter, or another cream paper classroom-board palette that echoes the braiding run
+- Built-in ImageGen output directory: `/Users/arnav/.codex/generated_images/019e4985-3ab1-7841-ba85-853ba6618dcc/`
 - Ideas for next runs: `beekeeping brood-and-hive-inspection-posters`, `relief-print-registration-and-brayer-course-plates`, `mushroom-lookalike-field-course-posters`, `freshwater-aquascape-pruning-reference-plates`, `aquarium-disease-symptom-comparison-guides`
