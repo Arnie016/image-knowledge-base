@@ -385,7 +385,7 @@
 
 | Panel | Human task | Labels |
 | --- | --- | --- |
-| Healthy And Patchy Brood Pattern Chart | Helps a beginner or mentor compare a solid brood pattern against a patchy brood pattern while also identifying the honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row clues on the same landing page | patchy brood pattern, capped brood field, pollen band |
+| Healthy And Patchy Brood Pattern Chart | Solid brood pattern, patchy brood pattern, honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row inset appear together on one comparison page for fast brood-frame reading | patchy brood pattern, capped brood field, pollen band |
 | Capped Brood Honey And Pollen Frame Guide | Gives a frame-reading checklist for distinguishing capped brood, eggs, larvae, pollen, honey, and empty comb so a new beekeeper can understand what a productive brood frame should contain | open larvae crescent, pollen band, honey cells |
 | Queen Cups And Swarm Cells Poster | Shows the difference between harmless queen cups and active queen cells, including edge placement and royal-jelly clues that matter during swarm-season inspections | comparison of queen cups, charged queen cells, swarm cells along lower frame edges |
 | Beekeeping Inspection Tool Tray Reference | Provides a concrete beginner hive-inspection kit so a trainer or new beekeeper can identify what each tool does before opening a hive | hive tool, frame grip, bee brush |

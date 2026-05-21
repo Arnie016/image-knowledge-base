@@ -918,6 +918,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "yellow",
+      4
+    ],
+    [
       "accent",
       3
     ],
@@ -1331,10 +1335,6 @@ window.IMAGE_KB = {
     ],
     [
       "workshop",
-      3
-    ],
-    [
-      "yellow",
       3
     ],
     [
@@ -1783,10 +1783,6 @@ window.IMAGE_KB = {
     ],
     [
       "ladder",
-      2
-    ],
-    [
-      "landing",
       2
     ],
     [
@@ -2258,6 +2254,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "advertising",
+      1
+    ],
+    [
       "aesthetics",
       1
     ],
@@ -2291,10 +2291,6 @@ window.IMAGE_KB = {
     ],
     [
       "allen",
-      1
-    ],
-    [
-      "also",
       1
     ],
     [
@@ -3410,10 +3406,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "identifying",
-      1
-    ],
-    [
       "illustration-story",
       1
     ],
@@ -3499,6 +3491,10 @@ window.IMAGE_KB = {
     ],
     [
       "labeled",
+      1
+    ],
+    [
+      "landing",
       1
     ],
     [
@@ -4410,6 +4406,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "solid",
+      1
+    ],
+    [
       "soot",
       1
     ],
@@ -5165,10 +5165,6 @@ window.IMAGE_KB = {
     ],
     [
       "alcohol wash cup",
-      1
-    ],
-    [
-      "also identifying the honey arc",
       1
     ],
     [
@@ -6812,6 +6808,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "Solid brood pattern",
+      1
+    ],
+    [
       "soot black",
       1
     ],
@@ -7285,41 +7285,38 @@ window.IMAGE_KB = {
       "taxonomy": "scientific-educational",
       "topics": [
         "brood",
-        "honey",
         "pattern",
+        "honey",
         "pollen",
         "patchy",
         "chart",
         "frame",
         "larvae",
-        "arc",
         "capped",
         "egg",
         "healthy",
         "open",
         "row",
+        "arc",
         "band",
         "beekeeping",
+        "inset",
         "bee",
         "cells",
+        "comparison",
         "empty",
         "field",
-        "inset",
         "labels",
         "pine",
         "training",
-        "also",
         "apiary",
         "beeswax",
         "brown",
         "comb",
-        "comparison",
         "direct",
         "faces",
         "gold",
         "hexagons",
-        "identifying",
-        "landing",
         "paper",
         "pockets",
         "propolis",
@@ -7327,11 +7324,14 @@ window.IMAGE_KB = {
         "scientific-educational",
         "sheen",
         "short",
+        "solid",
         "sticky",
         "tan",
         "visible",
         "wax",
-        "wood"
+        "wood",
+        "yellow",
+        "advertising"
       ],
       "specificHooks": [
         "patchy brood pattern",
@@ -7344,7 +7344,7 @@ window.IMAGE_KB = {
         "beeswax gold",
         "brood tan",
         "propolis brown",
-        "also identifying the honey arc"
+        "Solid brood pattern"
       ],
       "scaleTags": [
         "page",
@@ -7359,10 +7359,10 @@ window.IMAGE_KB = {
       "detailPath": "i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-01/",
       "runPath": "r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/",
       "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished beekeeping training chart answering the query \"brood pattern chart\"\nScene/backdrop: warm cream apiary training board with a simple wood frame and no room scene\nSubject: side-by-side honey bee brood frames showing healthy brood pattern, patchy brood pattern, capped brood field, pollen band, honey arc, open larvae pockets, empty cells, and an egg row inset\nStyle/medium: realistic agricultural teaching chart using documentary beekeeping photography with restrained diagram labels and no cartoon bees\nComposition/framing: wide horizontal comparison poster with two full frame faces, yellow callout tabs, and a bottom strip of hexagon specimen insets for capped brood, open larvae, honey, pollen, empty cells, and egg row detail\nLighting/mood: bright spring apiary classroom light, practical, confidence-building\nColor palette: beeswax gold, brood tan, propolis brown, pine wood, cream paper, charcoal text, pollen yellow\nMaterials/textures: wax comb hexagons, pine brood frame rails, sticky honey sheen, dusty pollen pellets, matte teaching-board paper\nText (verbatim): \"HEALTHY BROOD\" \"PATCHY BROOD\" \"HONEY\" \"POLLEN\" \"LARVAE\" \"CAPPED BROOD\" \"OPEN LARVAE\" \"EGG ROW (INSET)\"\nConstraints: short labels only, direct search-answer image for beekeeping training, no logos, no watermark, no farmhouse decor\nAvoid: cute bee mascots, honey-jar packaging, unreadable paragraphs, generic agriculture clip art, glossy advertising polish",
-      "learningValue": "Helps a beginner or mentor compare a solid brood pattern against a patchy brood pattern while also identifying the honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row clues on the same landing page.",
+      "learningValue": "Solid brood pattern, patchy brood pattern, honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row inset appear together on one comparison page for fast brood-frame reading.",
       "compositionNotes": "The paired frame faces make healthy brood pattern, patchy brood pattern, pollen band, honey arc, open larvae pockets, and egg row inset visible without requiring extra panels, which improves both thumbnail legibility and agentic retrieval.",
       "formatNotes": "Direct comparison chart for queries like brood pattern chart, healthy brood vs patchy brood, and bee brood frame guide. The short visible labels are intentional; exact phrasing is preserved here in the prompt card.",
-      "searchText": "healthy and patchy brood pattern chart scientific-educational beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished beekeeping training chart answering the query \"brood pattern chart\"\nscene/backdrop: warm cream apiary training board with a simple wood frame and no room scene\nsubject: side-by-side honey bee brood frames showing healthy brood pattern, patchy brood pattern, capped brood field, pollen band, honey arc, open larvae pockets, empty cells, and an egg row inset\nstyle/medium: realistic agricultural teaching chart using documentary beekeeping photography with restrained diagram labels and no cartoon bees\ncomposition/framing: wide horizontal comparison poster with two full frame faces, yellow callout tabs, and a bottom strip of hexagon specimen insets for capped brood, open larvae, honey, pollen, empty cells, and egg row detail\nlighting/mood: bright spring apiary classroom light, practical, confidence-building\ncolor palette: beeswax gold, brood tan, propolis brown, pine wood, cream paper, charcoal text, pollen yellow\nmaterials/textures: wax comb hexagons, pine brood frame rails, sticky honey sheen, dusty pollen pellets, matte teaching-board paper\ntext (verbatim): \"healthy brood\" \"patchy brood\" \"honey\" \"pollen\" \"larvae\" \"capped brood\" \"open larvae\" \"egg row (inset)\"\nconstraints: short labels only, direct search-answer image for beekeeping training, no logos, no watermark, no farmhouse decor\navoid: cute bee mascots, honey-jar packaging, unreadable paragraphs, generic agriculture clip art, glossy advertising polish helps a beginner or mentor compare a solid brood pattern against a patchy brood pattern while also identifying the honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row clues on the same landing page. the paired frame faces make healthy brood pattern, patchy brood pattern, pollen band, honey arc, open larvae pockets, and egg row inset visible without requiring extra panels, which improves both thumbnail legibility and agentic retrieval. direct comparison chart for queries like brood pattern chart, healthy brood vs patchy brood, and bee brood frame guide. the short visible labels are intentional; exact phrasing is preserved here in the prompt card. patchy brood pattern capped brood field pollen band honey arc wax comb hexagons pine brood frame rails sticky honey sheen beeswax gold brood tan propolis brown also identifying the honey arc page object",
+      "searchText": "healthy and patchy brood pattern chart scientific-educational beekeeping brood and hive inspection posters 20260521-1653-beekeeping-brood-and-hive-inspection-posters use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished beekeeping training chart answering the query \"brood pattern chart\"\nscene/backdrop: warm cream apiary training board with a simple wood frame and no room scene\nsubject: side-by-side honey bee brood frames showing healthy brood pattern, patchy brood pattern, capped brood field, pollen band, honey arc, open larvae pockets, empty cells, and an egg row inset\nstyle/medium: realistic agricultural teaching chart using documentary beekeeping photography with restrained diagram labels and no cartoon bees\ncomposition/framing: wide horizontal comparison poster with two full frame faces, yellow callout tabs, and a bottom strip of hexagon specimen insets for capped brood, open larvae, honey, pollen, empty cells, and egg row detail\nlighting/mood: bright spring apiary classroom light, practical, confidence-building\ncolor palette: beeswax gold, brood tan, propolis brown, pine wood, cream paper, charcoal text, pollen yellow\nmaterials/textures: wax comb hexagons, pine brood frame rails, sticky honey sheen, dusty pollen pellets, matte teaching-board paper\ntext (verbatim): \"healthy brood\" \"patchy brood\" \"honey\" \"pollen\" \"larvae\" \"capped brood\" \"open larvae\" \"egg row (inset)\"\nconstraints: short labels only, direct search-answer image for beekeeping training, no logos, no watermark, no farmhouse decor\navoid: cute bee mascots, honey-jar packaging, unreadable paragraphs, generic agriculture clip art, glossy advertising polish solid brood pattern, patchy brood pattern, honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row inset appear together on one comparison page for fast brood-frame reading. the paired frame faces make healthy brood pattern, patchy brood pattern, pollen band, honey arc, open larvae pockets, and egg row inset visible without requiring extra panels, which improves both thumbnail legibility and agentic retrieval. direct comparison chart for queries like brood pattern chart, healthy brood vs patchy brood, and bee brood frame guide. the short visible labels are intentional; exact phrasing is preserved here in the prompt card. patchy brood pattern capped brood field pollen band honey arc wax comb hexagons pine brood frame rails sticky honey sheen beeswax gold brood tan propolis brown solid brood pattern page object",
       "curation": {
         "status": "public",
         "reason": "",

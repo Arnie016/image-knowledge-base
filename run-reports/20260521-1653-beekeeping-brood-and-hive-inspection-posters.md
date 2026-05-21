@@ -1,0 +1,21 @@
+# Run Report
+
+- Run slug: `20260521-1653-beekeeping-brood-and-hive-inspection-posters`
+- Timestamp: `2026-05-21T16:53:00+08:00`
+- Theme: Beekeeping Brood And Hive Inspection Posters
+- Status: `success`
+- Freedom budget: `wide`
+- Primary scale: `page`
+- Secondary scale: `object`
+- PNG count: `10`
+- Visual families: brood-identification and warning posters, tool and recordkeeping plates, plus technical and field-deployment proof images
+- Image folder: `image-knowledge-base/images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters`
+- Prompt folder: `image-knowledge-base/prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters`
+- Gallery website path: `image-knowledge-base/site/index.html`
+- Gallery refresh: `completed via node image-knowledge-base/scripts/build-site-data.mjs` with `60 public images` across `6 public runs`
+- SEO artifact status: `site/data.js`, `site/sitemap.xml`, and `site/robots.txt` were regenerated; 10 public per-image directories exist under `site/i/20260521-1653-beekeeping-brood-and-hive-inspection-posters-*`, and the public per-run directory exists under `site/r/20260521-1653-beekeeping-brood-and-hive-inspection-posters`
+- Research note: `image-knowledge-base/research/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/research.md`
+- Catalog updates: `image-knowledge-base/catalog/runs.jsonl`, `image-knowledge-base/catalog/images.jsonl`
+- Skill/plugin Markdown consulted: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `presentations/SKILL.md`, `iconography-lab/SKILL.md`
+- Summary: This run published an uncataloged but coherent beekeeping explainer branch instead of wasting the slot on a second pass through nearly identical prompts. The strongest search hooks came from concrete apiary nouns like `patchy brood pattern`, `pollen band`, `queen cup`, `swarm cell`, `hive tool`, `frame grip`, `queen excluder`, `varroa sticky board`, `smoking bee smoker`, `white veil mesh`, and `hive inspection logbook`, while the orchard-edge setup shot and the hive-section diagram kept the run from collapsing into flat classroom-poster repetition.
+- Blockers: None.

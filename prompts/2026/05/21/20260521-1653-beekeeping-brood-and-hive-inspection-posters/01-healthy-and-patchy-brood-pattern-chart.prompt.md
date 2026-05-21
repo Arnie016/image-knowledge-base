@@ -21,7 +21,7 @@ Avoid: cute bee mascots, honey-jar packaging, unreadable paragraphs, generic agr
 ```
 
 - Negative constraints: No cute mascots, no honey-product packaging drift, no unreadable paragraphs, no generic clip art.
-- Intended learning value: Helps a beginner or mentor compare a solid brood pattern against a patchy brood pattern while also identifying the honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row clues on the same landing page.
+- Intended learning value: Solid brood pattern, patchy brood pattern, honey arc, pollen band, open larvae, capped brood field, empty cells, and egg row inset appear together on one comparison page for fast brood-frame reading.
 - Composition notes: The paired frame faces make `healthy brood pattern`, `patchy brood pattern`, `pollen band`, `honey arc`, `open larvae pockets`, and `egg row inset` visible without requiring extra panels, which improves both thumbnail legibility and agentic retrieval.
 - Format notes: Direct comparison chart for queries like `brood pattern chart`, `healthy brood vs patchy brood`, and `bee brood frame guide`. The short visible labels are intentional; exact phrasing is preserved here in the prompt card.
 - Scale tags: `page`, `object`
