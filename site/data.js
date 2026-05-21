@@ -1,9 +1,9 @@
 window.IMAGE_KB = {
-  "generatedAt": "2026-05-21T16:53:00+08:00",
-  "imageCount": 70,
-  "publicImageCount": 70,
+  "generatedAt": "2026-05-21T19:56:51+08:00",
+  "imageCount": 80,
+  "publicImageCount": 80,
   "archivedImageCount": 0,
-  "runCount": 6,
+  "runCount": 7,
   "rubric": {
     "version": "2026-05-06-v1",
     "scale": "1-5 per dimension, weighted to 100 overall",
@@ -73,11 +73,11 @@ window.IMAGE_KB = {
     ],
     [
       "infographic-diagram",
-      12
+      15
     ],
     [
       "photorealistic-natural",
-      9
+      10
     ],
     [
       "atlas-contact-sheet",
@@ -85,7 +85,11 @@ window.IMAGE_KB = {
     ],
     [
       "mixed-format",
-      6
+      7
+    ],
+    [
+      "data-visual",
+      4
     ],
     [
       "film-preproduction",
@@ -104,6 +108,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "environment-concept",
+      1
+    ],
+    [
       "illustration-story",
       1
     ],
@@ -119,27 +127,31 @@ window.IMAGE_KB = {
   "topics": [
     [
       "labels",
-      58
+      63
     ],
     [
       "short",
-      51
-    ],
-    [
-      "matte",
-      32
-    ],
-    [
-      "like",
-      31
+      52
     ],
     [
       "paper",
-      28
+      37
+    ],
+    [
+      "matte",
+      36
+    ],
+    [
+      "like",
+      33
     ],
     [
       "chart",
-      27
+      29
+    ],
+    [
+      "poster",
+      28
     ],
     [
       "guide",
@@ -150,16 +162,20 @@ window.IMAGE_KB = {
       25
     ],
     [
-      "poster",
-      25
+      "reference",
+      23
     ],
     [
-      "reference",
+      "charcoal",
       22
     ],
     [
       "logos",
       21
+    ],
+    [
+      "comparison",
+      20
     ],
     [
       "scientific-educational",
@@ -170,19 +186,27 @@ window.IMAGE_KB = {
       18
     ],
     [
-      "comparison",
+      "brass",
       18
+    ],
+    [
+      "frame",
+      16
+    ],
+    [
+      "gray",
+      16
+    ],
+    [
+      "black",
+      15
     ],
     [
       "brown",
       15
     ],
     [
-      "frame",
-      15
-    ],
-    [
-      "gray",
+      "infographic-diagram",
       15
     ],
     [
@@ -190,7 +214,19 @@ window.IMAGE_KB = {
       15
     ],
     [
+      "amber",
+      14
+    ],
+    [
+      "direct",
+      14
+    ],
+    [
       "hive",
+      14
+    ],
+    [
+      "how",
       14
     ],
     [
@@ -202,19 +238,15 @@ window.IMAGE_KB = {
       14
     ],
     [
-      "charcoal",
+      "room",
+      14
+    ],
+    [
+      "plate",
       13
     ],
     [
-      "direct",
-      13
-    ],
-    [
-      "how",
-      13
-    ],
-    [
-      "infographic-diagram",
+      "brushed",
       12
     ],
     [
@@ -222,23 +254,19 @@ window.IMAGE_KB = {
       12
     ],
     [
-      "plate",
-      12
-    ],
-    [
       "queen",
       12
     ],
     [
-      "room",
-      12
+      "arrows",
+      11
     ],
     [
       "backdrop",
       11
     ],
     [
-      "brushed",
+      "color",
       11
     ],
     [
@@ -247,6 +275,10 @@ window.IMAGE_KB = {
     ],
     [
       "green",
+      11
+    ],
+    [
+      "map",
       11
     ],
     [
@@ -266,7 +298,7 @@ window.IMAGE_KB = {
       11
     ],
     [
-      "amber",
+      "across",
       10
     ],
     [
@@ -282,10 +314,6 @@ window.IMAGE_KB = {
       10
     ],
     [
-      "black",
-      10
-    ],
-    [
       "bottom",
       10
     ],
@@ -298,7 +326,7 @@ window.IMAGE_KB = {
       10
     ],
     [
-      "color",
+      "dossier",
       10
     ],
     [
@@ -306,11 +334,15 @@ window.IMAGE_KB = {
       10
     ],
     [
+      "inset",
+      10
+    ],
+    [
       "white",
       10
     ],
     [
-      "across",
+      "acetate",
       9
     ],
     [
@@ -318,15 +350,11 @@ window.IMAGE_KB = {
       9
     ],
     [
-      "arrows",
-      9
-    ],
-    [
       "braiding",
       9
     ],
     [
-      "brass",
+      "cards",
       9
     ],
     [
@@ -346,11 +374,15 @@ window.IMAGE_KB = {
       9
     ],
     [
+      "documentary",
+      9
+    ],
+    [
       "honey",
       9
     ],
     [
-      "inset",
+      "photorealistic-natural",
       9
     ],
     [
@@ -363,6 +395,10 @@ window.IMAGE_KB = {
     ],
     [
       "stainless",
+      9
+    ],
+    [
+      "stock",
       9
     ],
     [
@@ -406,7 +442,23 @@ window.IMAGE_KB = {
       8
     ],
     [
+      "clipped",
+      8
+    ],
+    [
+      "clips",
+      8
+    ],
+    [
       "cycle",
+      8
+    ],
+    [
+      "dark",
+      8
+    ],
+    [
+      "evidence",
       8
     ],
     [
@@ -418,6 +470,10 @@ window.IMAGE_KB = {
       8
     ],
     [
+      "hooks",
+      8
+    ],
+    [
       "kite",
       8
     ],
@@ -426,7 +482,15 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "photorealistic-natural",
+      "marks",
+      8
+    ],
+    [
+      "navy",
+      8
+    ],
+    [
+      "panels",
       8
     ],
     [
@@ -434,7 +498,15 @@ window.IMAGE_KB = {
       8
     ],
     [
+      "row",
+      8
+    ],
+    [
       "section",
+      8
+    ],
+    [
+      "sequence",
       8
     ],
     [
@@ -462,15 +534,7 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "cards",
-      7
-    ],
-    [
       "cup",
-      7
-    ],
-    [
-      "dark",
       7
     ],
     [
@@ -482,11 +546,15 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "hooks",
+      "mixed-format",
       7
     ],
     [
-      "marks",
+      "notes",
+      7
+    ],
+    [
+      "overlays",
       7
     ],
     [
@@ -498,19 +566,11 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "row",
-      7
-    ],
-    [
       "salon",
       7
     ],
     [
       "sample",
-      7
-    ],
-    [
-      "sequence",
       7
     ],
     [
@@ -524,6 +584,14 @@ window.IMAGE_KB = {
     [
       "tray",
       7
+    ],
+    [
+      "anatomy",
+      6
+    ],
+    [
+      "bands",
+      6
     ],
     [
       "cape",
@@ -590,11 +658,15 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "materials",
+      6
+    ],
+    [
       "media",
       6
     ],
     [
-      "mixed-format",
+      "midnight",
       6
     ],
     [
@@ -607,10 +679,6 @@ window.IMAGE_KB = {
     ],
     [
       "pale",
-      6
-    ],
-    [
-      "panels",
       6
     ],
     [
@@ -658,11 +726,11 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "ammonia",
-      5
+      "wall",
+      6
     ],
     [
-      "anatomy",
+      "ammonia",
       5
     ],
     [
@@ -686,6 +754,14 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "circles",
+      5
+    ],
+    [
+      "classroom",
+      5
+    ],
+    [
       "connects",
       5
     ],
@@ -702,7 +778,19 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "grain",
+      5
+    ],
+    [
+      "grease-pencil",
+      5
+    ],
+    [
       "grip",
+      5
+    ],
+    [
+      "insets",
       5
     ],
     [
@@ -711,6 +799,10 @@ window.IMAGE_KB = {
     ],
     [
       "keep",
+      5
+    ],
+    [
+      "maps",
       5
     ],
     [
@@ -750,6 +842,10 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "printed",
+      5
+    ],
+    [
       "process",
       5
     ],
@@ -778,7 +874,7 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "stock",
+      "stacked",
       5
     ],
     [
@@ -794,7 +890,15 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "abstract",
+      4
+    ],
+    [
       "action",
+      4
+    ],
+    [
+      "alert",
       4
     ],
     [
@@ -838,6 +942,14 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "blocks",
+      4
+    ],
+    [
+      "boards",
+      4
+    ],
+    [
       "braids",
       4
     ],
@@ -866,19 +978,19 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "case",
+      4
+    ],
+    [
       "caution",
       4
     ],
     [
-      "circles",
-      4
-    ],
-    [
-      "classroom",
-      4
-    ],
-    [
       "closed",
+      4
+    ],
+    [
+      "composition",
       4
     ],
     [
@@ -898,7 +1010,19 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "documentary",
+      "data-visual",
+      4
+    ],
+    [
+      "deep",
+      4
+    ],
+    [
+      "design",
+      4
+    ],
+    [
+      "dots",
       4
     ],
     [
@@ -914,6 +1038,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "environment",
+      4
+    ],
+    [
       "example",
       4
     ],
@@ -926,6 +1054,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "field",
+      4
+    ],
+    [
       "finished",
       4
     ],
@@ -935,10 +1067,6 @@ window.IMAGE_KB = {
     ],
     [
       "fuel",
-      4
-    ],
-    [
-      "grain",
       4
     ],
     [
@@ -962,6 +1090,14 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "installation",
+      4
+    ],
+    [
+      "landscape",
+      4
+    ],
+    [
       "larvae",
       4
     ],
@@ -974,11 +1110,15 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "lines",
+      4
+    ],
+    [
       "linework",
       4
     ],
     [
-      "materials",
+      "markers",
       4
     ],
     [
@@ -1002,6 +1142,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "photo",
+      4
+    ],
+    [
       "piped",
       4
     ],
@@ -1018,6 +1162,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "pressure",
+      4
+    ],
+    [
       "pump",
       4
     ],
@@ -1031,6 +1179,10 @@ window.IMAGE_KB = {
     ],
     [
       "rotor",
+      4
+    ],
+    [
+      "route",
       4
     ],
     [
@@ -1062,11 +1214,11 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "stacked",
+      "star",
       4
     ],
     [
-      "star",
+      "strong",
       4
     ],
     [
@@ -1082,6 +1234,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "timeline",
+      4
+    ],
+    [
       "timing",
       4
     ],
@@ -1094,11 +1250,11 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "veil",
+      "torn",
       4
     ],
     [
-      "wall",
+      "veil",
       4
     ],
     [
@@ -1118,7 +1274,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "alert",
+      "alliance",
+      3
+    ],
+    [
+      "annotation",
       3
     ],
     [
@@ -1135,10 +1295,6 @@ window.IMAGE_KB = {
     ],
     [
       "asphalt",
-      3
-    ],
-    [
-      "bands",
       3
     ],
     [
@@ -1174,6 +1330,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "cable",
+      3
+    ],
+    [
       "caliper",
       3
     ],
@@ -1182,11 +1342,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "case",
+      "cassette",
       3
     ],
     [
-      "cassette",
+      "central",
       3
     ],
     [
@@ -1202,6 +1362,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "cinematic",
+      3
+    ],
+    [
       "clip",
       3
     ],
@@ -1210,7 +1374,15 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "clutter",
+      3
+    ],
+    [
       "column",
+      3
+    ],
+    [
+      "columns",
       3
     ],
     [
@@ -1226,6 +1398,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "corners",
+      3
+    ],
+    [
       "costume",
       3
     ],
@@ -1234,15 +1410,11 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "cups",
+      3
+    ],
+    [
       "cycling",
-      3
-    ],
-    [
-      "deep",
-      3
-    ],
-    [
-      "design",
       3
     ],
     [
@@ -1262,11 +1434,15 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "editorial",
+      3
+    ],
+    [
       "elastic",
       3
     ],
     [
-      "environment",
+      "escalation",
       3
     ],
     [
@@ -1275,10 +1451,6 @@ window.IMAGE_KB = {
     ],
     [
       "faded",
-      3
-    ],
-    [
-      "field",
       3
     ],
     [
@@ -1299,6 +1471,10 @@ window.IMAGE_KB = {
     ],
     [
       "flower",
+      3
+    ],
+    [
+      "fork",
       3
     ],
     [
@@ -1334,10 +1510,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "installation",
-      3
-    ],
-    [
       "jars",
       3
     ],
@@ -1354,19 +1526,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "landscape",
-      3
-    ],
-    [
       "leaf",
       3
     ],
     [
       "logbook",
-      3
-    ],
-    [
-      "map",
       3
     ],
     [
@@ -1394,6 +1558,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "path",
+      3
+    ],
+    [
       "pattern",
       3
     ],
@@ -1415,10 +1583,6 @@ window.IMAGE_KB = {
     ],
     [
       "porous",
-      3
-    ],
-    [
-      "printed",
       3
     ],
     [
@@ -1466,6 +1630,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "scenario",
+      3
+    ],
+    [
       "scratched",
       3
     ],
@@ -1483,6 +1651,10 @@ window.IMAGE_KB = {
     ],
     [
       "silhouette",
+      3
+    ],
+    [
+      "small",
       3
     ],
     [
@@ -1506,11 +1678,23 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "still",
+      3
+    ],
+    [
       "strawberry",
       3
     ],
     [
-      "strong",
+      "stress",
+      3
+    ],
+    [
+      "tabs",
+      3
+    ],
+    [
+      "tall",
       3
     ],
     [
@@ -1523,6 +1707,10 @@ window.IMAGE_KB = {
     ],
     [
       "texture",
+      3
+    ],
+    [
+      "threshold",
       3
     ],
     [
@@ -1598,15 +1786,23 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "analyst",
+      2
+    ],
+    [
       "animation-reference",
       2
     ],
     [
-      "annotation",
+      "arc",
       2
     ],
     [
-      "arc",
+      "archival",
+      2
+    ],
+    [
+      "archive",
       2
     ],
     [
@@ -1658,10 +1854,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "blocks",
-      2
-    ],
-    [
       "blooming",
       2
     ],
@@ -1674,15 +1866,19 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "boards",
-      2
-    ],
-    [
       "bold",
       2
     ],
     [
       "borders",
+      2
+    ],
+    [
+      "branch",
+      2
+    ],
+    [
+      "branching",
       2
     ],
     [
@@ -1694,15 +1890,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "briefing",
+      2
+    ],
+    [
       "bristles",
       2
     ],
     [
       "bundle",
-      2
-    ],
-    [
-      "cable",
       2
     ],
     [
@@ -1738,7 +1934,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "cinematic",
+      "city",
       2
     ],
     [
@@ -1750,23 +1946,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "clipped",
-      2
-    ],
-    [
-      "clips",
-      2
-    ],
-    [
       "close-up",
       2
     ],
     [
       "cloudy",
-      2
-    ],
-    [
-      "clutter",
       2
     ],
     [
@@ -1782,19 +1966,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "columns",
-      2
-    ],
-    [
       "commercial",
       2
     ],
     [
       "compact",
-      2
-    ],
-    [
-      "composition",
       2
     ],
     [
@@ -1810,15 +1986,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "corners",
-      2
-    ],
-    [
       "cornrow",
       2
     ],
     [
       "counter",
+      2
+    ],
+    [
+      "counters",
       2
     ],
     [
@@ -1850,15 +2026,19 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "cups",
-      2
-    ],
-    [
       "daily",
       2
     ],
     [
+      "date",
+      2
+    ],
+    [
       "day",
+      2
+    ],
+    [
+      "decision",
       2
     ],
     [
@@ -1886,7 +2066,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "dots",
+      "doctrine",
       2
     ],
     [
@@ -1930,10 +2110,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "evidence",
-      2
-    ],
-    [
       "farmhouse",
       2
     ],
@@ -1943,6 +2119,10 @@ window.IMAGE_KB = {
     ],
     [
       "feeder",
+      2
+    ],
+    [
+      "feel",
       2
     ],
     [
@@ -1982,10 +2162,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "fork",
-      2
-    ],
-    [
       "four",
       2
     ],
@@ -1995,6 +2171,10 @@ window.IMAGE_KB = {
     ],
     [
       "front",
+      2
+    ],
+    [
+      "gauge",
       2
     ],
     [
@@ -2062,6 +2242,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "history",
+      2
+    ],
+    [
       "holder",
       2
     ],
@@ -2082,11 +2266,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "icons",
+      2
+    ],
+    [
       "infestation",
       2
     ],
     [
-      "insets",
+      "infographic",
+      2
+    ],
+    [
+      "infrastructure",
       2
     ],
     [
@@ -2099,6 +2291,10 @@ window.IMAGE_KB = {
     ],
     [
       "keeping",
+      2
+    ],
+    [
+      "key",
       2
     ],
     [
@@ -2115,6 +2311,10 @@ window.IMAGE_KB = {
     ],
     [
       "laid",
+      2
+    ],
+    [
+      "landmass",
       2
     ],
     [
@@ -2139,10 +2339,6 @@ window.IMAGE_KB = {
     ],
     [
       "lid",
-      2
-    ],
-    [
-      "lines",
       2
     ],
     [
@@ -2183,6 +2379,10 @@ window.IMAGE_KB = {
     ],
     [
       "marigold",
+      2
+    ],
+    [
+      "maritime",
       2
     ],
     [
@@ -2274,6 +2474,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "order",
+      2
+    ],
+    [
       "oval",
       2
     ],
@@ -2298,6 +2502,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "panel",
+      2
+    ],
+    [
       "parapets",
       2
     ],
@@ -2318,7 +2526,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "photo",
+      "photographed",
+      2
+    ],
+    [
+      "pinned",
       2
     ],
     [
@@ -2358,6 +2570,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "predictive-history",
+      2
+    ],
+    [
       "presentation",
       2
     ],
@@ -2367,6 +2583,14 @@ window.IMAGE_KB = {
     ],
     [
       "progression",
+      2
+    ],
+    [
+      "projector",
+      2
+    ],
+    [
+      "proof",
       2
     ],
     [
@@ -2406,7 +2630,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "reroute",
+      2
+    ],
+    [
       "residue",
+      2
+    ],
+    [
+      "response",
       2
     ],
     [
@@ -2422,11 +2654,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "risk",
+      2
+    ],
+    [
       "roll",
       2
     ],
     [
       "rosette",
+      2
+    ],
+    [
+      "routes",
       2
     ],
     [
@@ -2474,6 +2714,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "shadows",
+      2
+    ],
+    [
       "sheets",
       2
     ],
@@ -2483,6 +2727,10 @@ window.IMAGE_KB = {
     ],
     [
       "shelves",
+      2
+    ],
+    [
+      "shock",
       2
     ],
     [
@@ -2499,10 +2747,6 @@ window.IMAGE_KB = {
     ],
     [
       "six-panel",
-      2
-    ],
-    [
-      "small",
       2
     ],
     [
@@ -2558,11 +2802,19 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "still",
+      "storage",
       2
     ],
     [
-      "storage",
+      "strategic",
+      2
+    ],
+    [
+      "strategy",
+      2
+    ],
+    [
+      "structure",
       2
     ],
     [
@@ -2598,10 +2850,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "tall",
-      2
-    ],
-    [
       "tape",
       2
     ],
@@ -2630,15 +2878,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "threshold",
+      "three",
       2
     ],
     [
       "tile",
-      2
-    ],
-    [
-      "timeline",
       2
     ],
     [
@@ -2726,15 +2970,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "abstract",
-      1
-    ],
-    [
-      "acetate",
-      1
-    ],
-    [
       "acting",
+      1
+    ],
+    [
+      "activation",
+      1
+    ],
+    [
+      "actor",
       1
     ],
     [
@@ -2746,7 +2990,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "adds",
+      1
+    ],
+    [
       "adjuster",
+      1
+    ],
+    [
+      "adversary",
       1
     ],
     [
@@ -2775,6 +3027,18 @@ window.IMAGE_KB = {
     ],
     [
       "along",
+      1
+    ],
+    [
+      "analogy",
+      1
+    ],
+    [
+      "analysis",
+      1
+    ],
+    [
+      "analyst-wall",
       1
     ],
     [
@@ -2846,11 +3110,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "arteries",
+      1
+    ],
+    [
       "artifact",
       1
     ],
     [
       "artists",
+      1
+    ],
+    [
+      "ash",
+      1
+    ],
+    [
+      "assessment",
       1
     ],
     [
@@ -2891,6 +3167,10 @@ window.IMAGE_KB = {
     ],
     [
       "beads",
+      1
+    ],
+    [
+      "beam",
       1
     ],
     [
@@ -2958,6 +3238,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "boxed",
+      1
+    ],
+    [
       "braid-end",
       1
     ],
@@ -3018,6 +3302,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "canal",
+      1
+    ],
+    [
       "capcut",
       1
     ],
@@ -3034,6 +3322,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "case-study",
+      1
+    ],
+    [
       "causing",
       1
     ],
@@ -3042,7 +3334,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "central",
+      "century",
       1
     ],
     [
@@ -3074,15 +3366,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "chokepoint",
+      1
+    ],
+    [
       "cinderblock",
       1
     ],
     [
-      "city",
+      "city-dome",
       1
     ],
     [
       "civic",
+      1
+    ],
+    [
+      "civilization",
       1
     ],
     [
@@ -3126,11 +3426,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cluster",
+      1
+    ],
+    [
+      "cluttered",
+      1
+    ],
+    [
       "coarse",
       1
     ],
     [
       "coated",
+      1
+    ],
+    [
+      "coffee",
+      1
+    ],
+    [
+      "cohesion",
       1
     ],
     [
@@ -3147,6 +3463,10 @@ window.IMAGE_KB = {
     ],
     [
       "combs",
+      1
+    ],
+    [
+      "commodity",
       1
     ],
     [
@@ -3178,7 +3498,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "confidence",
+      1
+    ],
+    [
+      "congestion",
+      1
+    ],
+    [
       "connecting",
+      1
+    ],
+    [
+      "consequence",
+      1
+    ],
+    [
+      "consequences",
       1
     ],
     [
@@ -3191,6 +3527,14 @@ window.IMAGE_KB = {
     ],
     [
       "contact",
+      1
+    ],
+    [
+      "continental",
+      1
+    ],
+    [
+      "convoy",
       1
     ],
     [
@@ -3210,11 +3554,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "counterbalance",
+      "corridor",
       1
     ],
     [
-      "counters",
+      "corridors",
+      1
+    ],
+    [
+      "counterbalance",
       1
     ],
     [
@@ -3227,6 +3575,10 @@ window.IMAGE_KB = {
     ],
     [
       "creature",
+      1
+    ],
+    [
+      "crisis",
       1
     ],
     [
@@ -3243,6 +3595,10 @@ window.IMAGE_KB = {
     ],
     [
       "cross",
+      1
+    ],
+    [
+      "crowded",
       1
     ],
     [
@@ -3282,6 +3638,22 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dashboard",
+      1
+    ],
+    [
+      "dated",
+      1
+    ],
+    [
+      "decades",
+      1
+    ],
+    [
+      "decision-tree",
+      1
+    ],
+    [
       "decomposing",
       1
     ],
@@ -3298,11 +3670,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "delay",
+      1
+    ],
+    [
       "demonstration",
       1
     ],
     [
+      "density",
+      1
+    ],
+    [
+      "depth",
+      1
+    ],
+    [
+      "desk",
+      1
+    ],
+    [
       "different",
+      1
+    ],
+    [
+      "diplomatic",
       1
     ],
     [
@@ -3334,10 +3726,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "dossier",
-      1
-    ],
-    [
       "drawer",
       1
     ],
@@ -3366,7 +3754,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dull",
+      1
+    ],
+    [
       "duration",
+      1
+    ],
+    [
+      "easy",
+      1
+    ],
+    [
+      "economic",
       1
     ],
     [
@@ -3375,10 +3775,6 @@ window.IMAGE_KB = {
     ],
     [
       "edit",
-      1
-    ],
-    [
-      "editorial",
       1
     ],
     [
@@ -3406,11 +3802,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "engagement",
+      1
+    ],
+    [
       "engineers",
       1
     ],
     [
+      "environment-concept",
+      1
+    ],
+    [
       "espresso",
+      1
+    ],
+    [
+      "essay",
       1
     ],
     [
@@ -3419,6 +3827,10 @@ window.IMAGE_KB = {
     ],
     [
       "evenly",
+      1
+    ],
+    [
+      "event",
       1
     ],
     [
@@ -3438,6 +3850,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "faction",
+      1
+    ],
+    [
       "failed",
       1
     ],
@@ -3450,15 +3866,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "fasteners",
+      1
+    ],
+    [
       "feed",
       1
     ],
     [
       "feeding",
-      1
-    ],
-    [
-      "feel",
       1
     ],
     [
@@ -3474,7 +3890,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "fibers",
+      1
+    ],
+    [
       "figure",
+      1
+    ],
+    [
+      "files",
       1
     ],
     [
@@ -3483,6 +3907,10 @@ window.IMAGE_KB = {
     ],
     [
       "filled",
+      1
+    ],
+    [
+      "finance",
       1
     ],
     [
@@ -3506,7 +3934,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "flashpoint",
+      1
+    ],
+    [
       "flat",
+      1
+    ],
+    [
+      "fleet",
       1
     ],
     [
@@ -3515,6 +3951,10 @@ window.IMAGE_KB = {
     ],
     [
       "floral",
+      1
+    ],
+    [
+      "flowchart",
       1
     ],
     [
@@ -3538,7 +3978,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "forecast",
+      1
+    ],
+    [
+      "forks",
+      1
+    ],
+    [
+      "fragmented",
+      1
+    ],
+    [
+      "fragments",
+      1
+    ],
+    [
       "frayed",
+      1
+    ],
+    [
+      "freight",
       1
     ],
     [
@@ -3562,7 +4022,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "gauge",
+      "gate",
+      1
+    ],
+    [
+      "gauges",
       1
     ],
     [
@@ -3574,7 +4038,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "geopolitical",
+      1
+    ],
+    [
       "ghosted",
+      1
+    ],
+    [
+      "giant",
+      1
+    ],
+    [
+      "gibraltar",
       1
     ],
     [
@@ -3586,11 +4062,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "glow",
+      1
+    ],
+    [
       "glue",
       1
     ],
     [
       "gore",
+      1
+    ],
+    [
+      "graphic",
       1
     ],
     [
@@ -3638,6 +4122,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "haze",
+      1
+    ],
+    [
       "head",
       1
     ],
@@ -3654,7 +4142,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "historical",
+      1
+    ],
+    [
       "hook",
+      1
+    ],
+    [
+      "horizontal",
+      1
+    ],
+    [
+      "hormuz",
       1
     ],
     [
@@ -3690,11 +4190,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "infographic",
+      "index",
       1
     ],
     [
-      "infrastructure",
+      "indicator",
+      1
+    ],
+    [
+      "initial",
       1
     ],
     [
@@ -3714,11 +4218,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "institutional",
+      1
+    ],
+    [
       "intake",
       1
     ],
     [
       "interior",
+      1
+    ],
+    [
+      "intervals",
       1
     ],
     [
@@ -3731,10 +4243,6 @@ window.IMAGE_KB = {
     ],
     [
       "jump",
-      1
-    ],
-    [
-      "key",
       1
     ],
     [
@@ -3774,6 +4282,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "lanes",
+      1
+    ],
+    [
+      "language",
+      1
+    ],
+    [
       "latch",
       1
     ],
@@ -3802,6 +4318,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "legends",
+      1
+    ],
+    [
+      "legitimacy",
+      1
+    ],
+    [
       "lets",
       1
     ],
@@ -3814,7 +4338,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "lights",
+      1
+    ],
+    [
       "limit",
+      1
+    ],
+    [
+      "limited",
       1
     ],
     [
@@ -3838,6 +4370,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "lone",
+      1
+    ],
+    [
       "looks",
       1
     ],
@@ -3850,7 +4386,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "loops",
+      1
+    ],
+    [
       "loose",
+      1
+    ],
+    [
+      "lower",
       1
     ],
     [
@@ -3866,6 +4410,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "malacca",
+      1
+    ],
+    [
       "manicure",
       1
     ],
@@ -3878,7 +4426,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "maps",
+      "margin",
       1
     ],
     [
@@ -3894,11 +4442,35 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "matched",
+      1
+    ],
+    [
       "matching",
       1
     ],
     [
       "melting",
+      1
+    ],
+    [
+      "meter",
+      1
+    ],
+    [
+      "meters",
+      1
+    ],
+    [
+      "migration",
+      1
+    ],
+    [
+      "military",
+      1
+    ],
+    [
+      "mirrored",
       1
     ],
     [
@@ -3915,6 +4487,10 @@ window.IMAGE_KB = {
     ],
     [
       "mix",
+      1
+    ],
+    [
+      "modules",
       1
     ],
     [
@@ -3962,7 +4538,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "negotiation",
+      1
+    ],
+    [
+      "network",
+      1
+    ],
+    [
       "new",
+      1
+    ],
+    [
+      "night",
       1
     ],
     [
@@ -3978,7 +4566,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "notes",
+      "occasional",
+      1
+    ],
+    [
+      "off-ramp",
       1
     ],
     [
@@ -3994,7 +4586,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "order",
+      "outlook",
       1
     ],
     [
@@ -4022,11 +4614,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "pan",
+      "palette",
       1
     ],
     [
-      "panel",
+      "pan",
       1
     ],
     [
@@ -4046,7 +4638,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "path",
+      "paths",
+      1
+    ],
+    [
+      "patrol",
       1
     ],
     [
@@ -4094,7 +4690,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "photographed",
+      "photos",
       1
     ],
     [
@@ -4106,7 +4702,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "pinned",
+      "pipeline",
       1
     ],
     [
@@ -4146,6 +4742,18 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "posture",
+      1
+    ],
+    [
+      "power",
+      1
+    ],
+    [
+      "predictive",
+      1
+    ],
+    [
       "prefilter",
       1
     ],
@@ -4154,11 +4762,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "profile",
+      "primary",
       1
     ],
     [
-      "proof",
+      "profile",
       1
     ],
     [
@@ -4210,11 +4818,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "rail",
+      1
+    ],
+    [
       "rain",
       1
     ],
     [
       "range",
+      1
+    ],
+    [
+      "rare-earth",
+      1
+    ],
+    [
+      "reaction",
       1
     ],
     [
@@ -4254,6 +4874,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "regional",
+      1
+    ],
+    [
       "relieved",
       1
     ],
@@ -4278,7 +4902,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "response",
+      "resource",
       1
     ],
     [
@@ -4306,7 +4930,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "rival",
+      1
+    ],
+    [
       "rock",
+      1
+    ],
+    [
+      "rolled",
       1
     ],
     [
@@ -4351,6 +4983,10 @@ window.IMAGE_KB = {
     ],
     [
       "ruler-like",
+      1
+    ],
+    [
+      "rust",
       1
     ],
     [
@@ -4402,6 +5038,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "sea",
+      1
+    ],
+    [
       "sealed",
       1
     ],
@@ -4426,10 +5066,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "shadows",
-      1
-    ],
-    [
       "shelter",
       1
     ],
@@ -4439,6 +5075,18 @@ window.IMAGE_KB = {
     ],
     [
       "shiny",
+      1
+    ],
+    [
+      "shipments",
+      1
+    ],
+    [
+      "shipping",
+      1
+    ],
+    [
+      "shirtsleeves",
       1
     ],
     [
@@ -4455,6 +5103,10 @@ window.IMAGE_KB = {
     ],
     [
       "sidewall",
+      1
+    ],
+    [
+      "silhouettes",
       1
     ],
     [
@@ -4498,7 +5150,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "slips",
+      1
+    ],
+    [
       "smears",
+      1
+    ],
+    [
+      "smoky",
       1
     ],
     [
@@ -4507,6 +5167,10 @@ window.IMAGE_KB = {
     ],
     [
       "smoothing",
+      1
+    ],
+    [
+      "snippets",
       1
     ],
     [
@@ -4531,6 +5195,10 @@ window.IMAGE_KB = {
     ],
     [
       "specimen",
+      1
+    ],
+    [
+      "spine",
       1
     ],
     [
@@ -4602,15 +5270,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "strait",
+      1
+    ],
+    [
       "strap",
       1
     ],
     [
       "street",
-      1
-    ],
-    [
-      "stress",
       1
     ],
     [
@@ -4626,10 +5294,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "structure",
-      1
-    ],
-    [
       "studio",
       1
     ],
@@ -4638,11 +5302,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "substitute",
+      1
+    ],
+    [
       "substrate",
       1
     ],
     [
+      "suez",
+      1
+    ],
+    [
       "suite",
+      1
+    ],
+    [
+      "summary",
       1
     ],
     [
@@ -4662,7 +5338,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "tabs",
+      "systemic",
       1
     ],
     [
@@ -4670,7 +5346,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "takeaway",
+      1
+    ],
+    [
+      "tanker",
+      1
+    ],
+    [
       "tap",
+      1
+    ],
+    [
+      "taped",
       1
     ],
     [
@@ -4679,6 +5367,10 @@ window.IMAGE_KB = {
     ],
     [
       "taxonomy",
+      1
+    ],
+    [
+      "tension",
       1
     ],
     [
@@ -4698,6 +5390,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "thesis",
+      1
+    ],
+    [
       "thickness",
       1
     ],
@@ -4707,10 +5403,6 @@ window.IMAGE_KB = {
     ],
     [
       "threader",
-      1
-    ],
-    [
-      "three",
       1
     ],
     [
@@ -4750,6 +5442,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "tolerance",
+      1
+    ],
+    [
       "too",
       1
     ],
@@ -4758,11 +5454,47 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "trade",
+      1
+    ],
+    [
+      "tradeoff",
+      1
+    ],
+    [
       "trainers",
       1
     ],
     [
+      "trajectory",
+      1
+    ],
+    [
       "transit",
+      1
+    ],
+    [
+      "transition",
+      1
+    ],
+    [
+      "tree",
+      1
+    ],
+    [
+      "trees",
+      1
+    ],
+    [
+      "trigger",
+      1
+    ],
+    [
+      "trimmed",
+      1
+    ],
+    [
+      "tubes",
       1
     ],
     [
@@ -4790,11 +5522,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "undersea",
+      1
+    ],
+    [
       "uptake",
       1
     ],
     [
       "uses",
+      1
+    ],
+    [
+      "view",
       1
     ],
     [
@@ -4806,7 +5546,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "vulnerability",
+      1
+    ],
+    [
       "wait",
+      1
+    ],
+    [
+      "war",
+      1
+    ],
+    [
+      "war-room",
       1
     ],
     [
@@ -4826,6 +5578,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "window",
+      1
+    ],
+    [
+      "windows",
+      1
+    ],
+    [
       "wooden",
       1
     ],
@@ -4834,11 +5594,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "world",
+      1
+    ],
+    [
       "worn",
       1
     ],
     [
       "yaki",
+      1
+    ],
+    [
+      "zones",
       1
     ]
   ],
@@ -4852,6 +5620,10 @@ window.IMAGE_KB = {
       8
     ],
     [
+      "acetate overlays",
+      6
+    ],
+    [
       "galvanized silver",
       6
     ],
@@ -4860,11 +5632,23 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "midnight navy",
+      6
+    ],
+    [
+      "charcoal black",
+      5
+    ],
+    [
       "synthetic braiding fiber",
       5
     ],
     [
       "bakery-box cream",
+      4
+    ],
+    [
+      "brass clips",
       4
     ],
     [
@@ -4905,6 +5689,10 @@ window.IMAGE_KB = {
     ],
     [
       "charcoal linework",
+      3
+    ],
+    [
+      "dossier stock",
       3
     ],
     [
@@ -5452,6 +6240,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "torn tabs",
+      2
+    ],
+    [
       "two brood frames shown side by side",
       2
     ],
@@ -5524,11 +6316,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "2025 to 2060 timeline",
+      1
+    ],
+    [
       "a bell tower ledge above the street",
       1
     ],
     [
+      "a crowded desk of files and maps",
+      1
+    ],
+    [
+      "a documentary archive feel",
+      1
+    ],
+    [
       "a geometric crown pattern",
+      1
+    ],
+    [
+      "a photographed analyst-wall texture",
       1
     ],
     [
@@ -5541,6 +6349,18 @@ window.IMAGE_KB = {
     ],
     [
       "a small counter",
+      1
+    ],
+    [
+      "acetate map overlays",
+      1
+    ],
+    [
+      "acetate path overlays",
+      1
+    ],
+    [
+      "actor cluster cards",
       1
     ],
     [
@@ -5568,6 +6388,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "alliance posture icons",
+      1
+    ],
+    [
       "aluminum rim section",
       1
     ],
@@ -5580,6 +6404,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "analyst silhouettes",
+      1
+    ],
+    [
       "annoyed repair face",
       1
     ],
@@ -5589,6 +6417,18 @@ window.IMAGE_KB = {
     ],
     [
       "aqua glass",
+      1
+    ],
+    [
+      "archival paper fibers",
+      1
+    ],
+    [
+      "archival photo fragments",
+      1
+    ],
+    [
+      "ash gray landmass",
       1
     ],
     [
@@ -5672,7 +6512,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "branching scenario forks",
+      1
+    ],
+    [
+      "brass corners",
+      1
+    ],
+    [
       "brass cuffs",
+      1
+    ],
+    [
+      "brass fasteners",
       1
     ],
     [
@@ -5701,6 +6553,10 @@ window.IMAGE_KB = {
     ],
     [
       "brushed bolts",
+      1
+    ],
+    [
+      "brushed brass clips",
       1
     ],
     [
@@ -5808,11 +6664,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "charcoal dossier stock",
+      1
+    ],
+    [
+      "charcoal editorial comparison plate with brass clips",
+      1
+    ],
+    [
       "charcoal headings",
       1
     ],
     [
       "charcoal labels",
+      1
+    ],
+    [
+      "charcoal landmass",
       1
     ],
     [
@@ -5829,6 +6697,10 @@ window.IMAGE_KB = {
     ],
     [
       "cinderblock gray",
+      1
+    ],
+    [
+      "city lights through a window",
       1
     ],
     [
@@ -5860,6 +6732,22 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "clipped alert notes",
+      1
+    ],
+    [
+      "clipped field notes",
+      1
+    ],
+    [
+      "clipped notes",
+      1
+    ],
+    [
+      "clipped tabs",
+      1
+    ],
+    [
       "close hand-and-mannequin demonstration of a feed-in cornrow",
       1
     ],
@@ -5888,6 +6776,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "commodity shock chart",
+      1
+    ],
+    [
       "commuter hi-vis yellow accents",
       1
     ],
@@ -5909,6 +6801,10 @@ window.IMAGE_KB = {
     ],
     [
       "Connects petal",
+      1
+    ],
+    [
+      "continental order doctrine",
       1
     ],
     [
@@ -5976,7 +6872,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dark dossier dashboard board with clipped margin notes",
+      1
+    ],
+    [
       "dark espresso braids",
+      1
+    ],
+    [
+      "dated map panels",
+      1
+    ],
+    [
+      "decision trees",
       1
     ],
     [
@@ -5992,7 +6900,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "deep navy sea",
+      1
+    ],
+    [
+      "delay windows",
+      1
+    ],
+    [
       "derailleur pinch bolt",
+      1
+    ],
+    [
+      "diplomatic engagement",
       1
     ],
     [
@@ -6024,11 +6944,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "doctrine board",
+      1
+    ],
+    [
+      "dossier paper tabs",
+      1
+    ],
+    [
       "drop flower",
       1
     ],
     [
       "drop flower tip",
+      1
+    ],
+    [
+      "dull navy",
       1
     ],
     [
@@ -6048,7 +6980,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "escalation tree",
+      1
+    ],
+    [
       "extension storage hooks",
+      1
+    ],
+    [
+      "faction tension meters",
       1
     ],
     [
@@ -6076,6 +7016,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "finance pressure markers",
+      1
+    ],
+    [
       "fingers hold tension",
       1
     ],
@@ -6100,7 +7044,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "flashpoint markers",
+      1
+    ],
+    [
       "flat rustic swoop",
+      1
+    ],
+    [
+      "fleet icons",
       1
     ],
     [
@@ -6124,11 +7076,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "fragmented century thesis board",
+      1
+    ],
+    [
       "frayed cloth stitching",
       1
     ],
     [
       "frosting tubs",
+      1
+    ],
+    [
+      "giant scenario wall",
+      1
+    ],
+    [
+      "Gibraltar gate",
       1
     ],
     [
@@ -6160,11 +7124,31 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "grain shipments",
+      1
+    ],
+    [
       "graphite marks",
       1
     ],
     [
       "graphite pencil",
+      1
+    ],
+    [
+      "grease-pencil arrows",
+      1
+    ],
+    [
+      "grease-pencil circles",
+      1
+    ],
+    [
+      "grease-pencil reroute arrows",
+      1
+    ],
+    [
+      "grease-pencil reroute marks",
       1
     ],
     [
@@ -6181,6 +7165,14 @@ window.IMAGE_KB = {
     ],
     [
       "honey ombre",
+      1
+    ],
+    [
+      "horizontal charcoal timeline poster with torn date tabs",
+      1
+    ],
+    [
+      "Hormuz Strait",
       1
     ],
     [
@@ -6204,6 +7196,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "initial assessment",
+      1
+    ],
+    [
       "inner tube",
       1
     ],
@@ -6213,6 +7209,10 @@ window.IMAGE_KB = {
     ],
     [
       "inserting coupler",
+      1
+    ],
+    [
+      "inset maps",
       1
     ],
     [
@@ -6284,6 +7284,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "limited military response",
+      1
+    ],
+    [
       "loading buttercream",
       1
     ],
@@ -6292,11 +7296,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "lone analyst in shirtsleeves",
+      1
+    ],
+    [
       "lube bottle applying one drop per roller",
       1
     ],
     [
+      "Malacca Strait",
+      1
+    ],
+    [
       "mannequin-head shelf",
+      1
+    ],
+    [
+      "maritime order doctrine",
       1
     ],
     [
@@ -6324,6 +7340,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "matte dossier paper",
+      1
+    ],
+    [
       "matte gouache accents",
       1
     ],
@@ -6332,11 +7352,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "matte poster board",
+      1
+    ],
+    [
       "matte posters",
       1
     ],
     [
       "matte presentation board",
+      1
+    ],
+    [
+      "matte printed gauges",
+      1
+    ],
+    [
+      "matte printed maps",
       1
     ],
     [
@@ -6369,6 +7401,10 @@ window.IMAGE_KB = {
     ],
     [
       "metal tire levers",
+      1
+    ],
+    [
+      "migration pressure counters",
       1
     ],
     [
@@ -6440,6 +7476,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "occasional map and photo insets",
+      1
+    ],
+    [
       "off-white laminated safety-poster background with no room scene",
       1
     ],
@@ -6457,6 +7497,10 @@ window.IMAGE_KB = {
     ],
     [
       "oily chain links",
+      1
+    ],
+    [
+      "one central stress summary",
       1
     ],
     [
@@ -6520,6 +7564,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "paper dossier boards",
+      1
+    ],
+    [
       "parchment paper",
       1
     ],
@@ -6544,6 +7592,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "pinned archival photos",
+      1
+    ],
+    [
       "piped buttercream failures",
       1
     ],
@@ -6553,6 +7605,10 @@ window.IMAGE_KB = {
     ],
     [
       "piped buttercream swatches",
+      1
+    ],
+    [
+      "pipeline corridors",
       1
     ],
     [
@@ -6616,6 +7672,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "power transition index gauge",
+      1
+    ],
+    [
       "practice cakes",
       1
     ],
@@ -6636,11 +7696,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "projector beam haze",
+      1
+    ],
+    [
       "puncture check in a water basin",
       1
     ],
     [
       "ragged star piping",
+      1
+    ],
+    [
+      "rail freight arteries",
       1
     ],
     [
@@ -6708,6 +7776,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "risk landscape strip",
+      1
+    ],
+    [
       "root closeup circles",
       1
     ],
@@ -6764,6 +7836,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "route legends",
+      1
+    ],
+    [
+      "route maps",
+      1
+    ],
+    [
       "rubber grips",
       1
     ],
@@ -6773,6 +7853,10 @@ window.IMAGE_KB = {
     ],
     [
       "ruffle dome",
+      1
+    ],
+    [
+      "rust arrows",
       1
     ],
     [
@@ -6892,6 +7976,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "small map insets",
+      1
+    ],
+    [
+      "smoky amber",
+      1
+    ],
+    [
       "smooth mannequin scalp",
       1
     ],
@@ -6960,6 +8052,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "stacked indicator panels",
+      1
+    ],
+    [
       "stacked wooden finishes side by side",
       1
     ],
@@ -6996,6 +8092,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "strategic depth cards",
+      1
+    ],
+    [
       "strawberry pink",
       1
     ],
@@ -7020,6 +8120,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "Suez Canal",
+      1
+    ],
+    [
       "synthetic pre-stretched fiber",
       1
     ],
@@ -7029,6 +8133,22 @@ window.IMAGE_KB = {
     ],
     [
       "tall bakery spiral",
+      1
+    ],
+    [
+      "tall charcoal decision-tree board with clipped notes",
+      1
+    ],
+    [
+      "tape shadows",
+      1
+    ],
+    [
+      "taped annotation slips",
+      1
+    ],
+    [
+      "taped photo fragments",
       1
     ],
     [
@@ -7064,7 +8184,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "three case-study columns",
+      1
+    ],
+    [
       "three-quarter views with the same patched shoulder cape",
+      1
+    ],
+    [
+      "threshold markers",
+      1
+    ],
+    [
+      "timeline board",
       1
     ],
     [
@@ -7088,6 +8220,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "torn cream notes",
+      1
+    ],
+    [
+      "torn date labels",
+      1
+    ],
+    [
       "traffic-cone orange",
       1
     ],
@@ -7101,6 +8241,14 @@ window.IMAGE_KB = {
     ],
     [
       "translucent piping bags",
+      1
+    ],
+    [
+      "trigger event",
+      1
+    ],
+    [
+      "trimmed evidence blocks",
       1
     ],
     [
@@ -7120,6 +8268,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "undersea cable routes",
+      1
+    ],
+    [
       "vesicular lava rock",
       1
     ],
@@ -7129,6 +8281,10 @@ window.IMAGE_KB = {
     ],
     [
       "vulcanizing patch",
+      1
+    ],
+    [
+      "war-room evidence wall",
       1
     ],
     [
@@ -7208,7 +8364,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "world trajectory map",
+      1
+    ],
+    [
       "worn brake pads",
+      1
+    ],
+    [
+      "worn dossier boards",
+      1
+    ],
+    [
+      "worn dossier stock",
       1
     ],
     [
@@ -7219,10 +8387,21 @@ window.IMAGE_KB = {
   "bands": [
     [
       "signature",
-      70
+      80
     ]
   ],
   "runs": [
+    {
+      "slug": "20260521-1956-predictive-history-pressure-map-boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "theme": "Predictive History Pressure Map Boards",
+      "imageCount": 10,
+      "status": "success",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "publicImageCount": 10,
+      "archivedImageCount": 0
+    },
     {
       "slug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",
       "timestamp": "2026-05-21T16:53:00+08:00",
@@ -7302,6 +8481,1076 @@ window.IMAGE_KB = {
     }
   ],
   "images": [
+    {
+      "id": "20260521-1956-predictive-history-pressure-map-boards-01",
+      "runSlug": "20260521-1956-predictive-history-pressure-map-boards",
+      "runTheme": "Predictive History Pressure Map Boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "index": 1,
+      "title": "Predictive History Thesis Board",
+      "taxonomy": "data-visual",
+      "topics": [
+        "map",
+        "thesis",
+        "documentary",
+        "acetate",
+        "actor",
+        "brass",
+        "cards",
+        "charcoal",
+        "history",
+        "overlays",
+        "predictive",
+        "risk",
+        "world",
+        "archive",
+        "clips",
+        "cluster",
+        "dossier",
+        "evidence",
+        "landscape",
+        "notes",
+        "paper",
+        "torn",
+        "trajectory",
+        "amber",
+        "analysis",
+        "brushed",
+        "century",
+        "classroom",
+        "composition",
+        "confidence",
+        "data-visual",
+        "direct",
+        "feel",
+        "fragmented",
+        "infographic",
+        "key",
+        "labels",
+        "meter",
+        "midnight",
+        "navy",
+        "palette",
+        "poster",
+        "predictive-history",
+        "route",
+        "scenario",
+        "shadows",
+        "short",
+        "snippets"
+      ],
+      "specificHooks": [
+        "fragmented century thesis board",
+        "world trajectory map",
+        "actor cluster cards",
+        "risk landscape strip",
+        "tape shadows",
+        "acetate overlays",
+        "torn cream notes",
+        "a documentary archive feel",
+        "charcoal dossier stock",
+        "brushed brass clips",
+        "acetate map overlays",
+        "midnight navy"
+      ],
+      "scaleTags": [
+        "page",
+        "world"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/01-predictive-history-thesis-board.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/01-predictive-history-thesis-board.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/01-predictive-history-thesis-board.prompt.md",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/01-predictive-history-thesis-board.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "detailPath": "i/20260521-1956-predictive-history-pressure-map-boards-01/",
+      "runPath": "r/20260521-1956-predictive-history-pressure-map-boards/",
+      "finalPrompt": "Use case: data-visual\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished predictive-history analysis board answering the query \"predictive history infographic\"\nScene/backdrop: dark charcoal dossier board mounted on a wall with brass clips, tape shadows, acetate overlays, torn cream notes, and a documentary archive feel\nSubject: fragmented century thesis board, world trajectory map, actor cluster cards, risk landscape strip, route snippet insets, key uncertainties note, confidence meter, amber status dots\nStyle/medium: photographed documentary editorial board, tactile paper realism, restrained institutional design, no classroom poster cheer\nComposition/framing: one dominant center thesis panel, flanking evidence cards, lower map snippets, direct front-facing board composition\nLighting/mood: moody archive task light, severe, analytical, plausible, quiet strategic tension\nColor palette: midnight navy, charcoal black, rust orange, amber indicator yellow, torn cream paper, muted brass\nMaterials/textures: charcoal dossier stock, brushed brass clips, acetate map overlays, grease-pencil arrows, worn paper edges, matte printed charts\nConstraints: short labels only, direct search-answer image, strong thumbnail hierarchy, no logos, no watermark\nAvoid: glowing sci-fi HUD, propaganda poster bombast, pastel classroom palette, unreadable tiny paragraphs",
+      "learningValue": "Establishes the scenario vocabulary and shows how actor clusters, risk categories, trajectory bands, and uncertainty notes fit together in one predictive-history board a teacher, editor, or worldbuilder could reuse.",
+      "compositionNotes": "The central thesis slab, world map core, route snippets, and side evidence strips make actor cluster cards, risk landscape, key uncertainties, confidence meter, and documentary board all retrievable from one page.",
+      "formatNotes": "Thesis-driven evidence board for queries like predictive history infographic, scenario thesis board, and documentary analysis board. Short visible labels are deliberate; canonical phrasing lives here.",
+      "searchText": "predictive history thesis board data-visual predictive history pressure map boards 20260521-1956-predictive-history-pressure-map-boards use case: data-visual\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished predictive-history analysis board answering the query \"predictive history infographic\"\nscene/backdrop: dark charcoal dossier board mounted on a wall with brass clips, tape shadows, acetate overlays, torn cream notes, and a documentary archive feel\nsubject: fragmented century thesis board, world trajectory map, actor cluster cards, risk landscape strip, route snippet insets, key uncertainties note, confidence meter, amber status dots\nstyle/medium: photographed documentary editorial board, tactile paper realism, restrained institutional design, no classroom poster cheer\ncomposition/framing: one dominant center thesis panel, flanking evidence cards, lower map snippets, direct front-facing board composition\nlighting/mood: moody archive task light, severe, analytical, plausible, quiet strategic tension\ncolor palette: midnight navy, charcoal black, rust orange, amber indicator yellow, torn cream paper, muted brass\nmaterials/textures: charcoal dossier stock, brushed brass clips, acetate map overlays, grease-pencil arrows, worn paper edges, matte printed charts\nconstraints: short labels only, direct search-answer image, strong thumbnail hierarchy, no logos, no watermark\navoid: glowing sci-fi hud, propaganda poster bombast, pastel classroom palette, unreadable tiny paragraphs establishes the scenario vocabulary and shows how actor clusters, risk categories, trajectory bands, and uncertainty notes fit together in one predictive-history board a teacher, editor, or worldbuilder could reuse. the central thesis slab, world map core, route snippets, and side evidence strips make actor cluster cards, risk landscape, key uncertainties, confidence meter, and documentary board all retrievable from one page. thesis-driven evidence board for queries like predictive history infographic, scenario thesis board, and documentary analysis board. short visible labels are deliberate; canonical phrasing lives here. fragmented century thesis board world trajectory map actor cluster cards risk landscape strip tape shadows acetate overlays torn cream notes a documentary archive feel charcoal dossier stock brushed brass clips acetate map overlays midnight navy page world",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1956-predictive-history-pressure-map-boards-02",
+      "runSlug": "20260521-1956-predictive-history-pressure-map-boards",
+      "runTheme": "Predictive History Pressure Map Boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "index": 2,
+      "title": "Maritime Chokepoint Pressure Map",
+      "taxonomy": "data-visual",
+      "topics": [
+        "map",
+        "strait",
+        "maritime",
+        "route",
+        "chokepoint",
+        "sea",
+        "brass",
+        "canal",
+        "clips",
+        "convoy",
+        "dossier",
+        "gate",
+        "gibraltar",
+        "hormuz",
+        "legends",
+        "malacca",
+        "notes",
+        "paper",
+        "pressure",
+        "routes",
+        "shipping",
+        "suez",
+        "acetate",
+        "arrows",
+        "charcoal",
+        "clipped",
+        "congestion",
+        "data-visual",
+        "deep",
+        "density",
+        "documentary",
+        "dots",
+        "field",
+        "grease-pencil",
+        "labels",
+        "landmass",
+        "like",
+        "loops",
+        "lower",
+        "navy",
+        "overlays",
+        "path",
+        "patrol",
+        "reroute",
+        "stock",
+        "strategic",
+        "takeaway",
+        "tanker"
+      ],
+      "specificHooks": [
+        "Gibraltar gate",
+        "Suez Canal",
+        "Hormuz Strait",
+        "Malacca Strait",
+        "brass clips",
+        "route legends",
+        "clipped field notes",
+        "worn dossier stock",
+        "grease-pencil reroute arrows",
+        "acetate path overlays",
+        "deep navy sea",
+        "charcoal landmass"
+      ],
+      "scaleTags": [
+        "page",
+        "world"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/02-maritime-chokepoint-pressure-map.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/02-maritime-chokepoint-pressure-map.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/02-maritime-chokepoint-pressure-map.prompt.md",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/02-maritime-chokepoint-pressure-map.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "detailPath": "i/20260521-1956-predictive-history-pressure-map-boards-02/",
+      "runPath": "r/20260521-1956-predictive-history-pressure-map-boards/",
+      "finalPrompt": "Use case: data-visual\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: dense strategic map answering the query \"maritime chokepoint map\"\nScene/backdrop: top-down maritime analysis board on midnight-navy dossier paper with taped corners, brass clips, route legends, and clipped field notes\nSubject: Gibraltar gate, Suez Canal, Hormuz Strait, Malacca Strait, Taiwan Strait, Sunda Strait, convoy density dots, tanker routes, patrol loops, congestion hotspots, mitigation paths\nStyle/medium: photographed editorial map board with physical paper texture and route-marking realism, not software UI\nComposition/framing: map-first full-page layout with left legends, lower takeaway cards, bottom documentary photo inset, and route arcs spanning the oceans\nLighting/mood: low documentary work light, exacting, tense, navigational, institutional\nColor palette: deep navy sea, charcoal landmass, electric shipping blue, rust route orange, amber convoy markers, weathered cream notes\nMaterials/textures: worn dossier stock, grease-pencil reroute arrows, acetate path overlays, brass clips, matte printed bathymetry, taped paper labels\nConstraints: short labels only, clear strategic geography, searchable chokepoint nouns, no logos, no watermark\nAvoid: flat vector classroom map, neon cyber interface, military propaganda styling, cluttered unreadable text",
+      "learningValue": "Shows how shipping lanes, naval patrol loops, congestion points, and substitute sea routes concentrate risk around a small set of maritime gates.",
+      "compositionNotes": "The broad ocean-spanning map and lower takeaway strip expose concrete hooks like Gibraltar gate, Suez Canal, Hormuz Strait, Malacca Strait, tanker routes, and convoy density dots.",
+      "formatNotes": "Direct map board for long-tail queries like maritime chokepoint map, shipping route pressure map, and sea lane vulnerability chart.",
+      "searchText": "maritime chokepoint pressure map data-visual predictive history pressure map boards 20260521-1956-predictive-history-pressure-map-boards use case: data-visual\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: dense strategic map answering the query \"maritime chokepoint map\"\nscene/backdrop: top-down maritime analysis board on midnight-navy dossier paper with taped corners, brass clips, route legends, and clipped field notes\nsubject: gibraltar gate, suez canal, hormuz strait, malacca strait, taiwan strait, sunda strait, convoy density dots, tanker routes, patrol loops, congestion hotspots, mitigation paths\nstyle/medium: photographed editorial map board with physical paper texture and route-marking realism, not software ui\ncomposition/framing: map-first full-page layout with left legends, lower takeaway cards, bottom documentary photo inset, and route arcs spanning the oceans\nlighting/mood: low documentary work light, exacting, tense, navigational, institutional\ncolor palette: deep navy sea, charcoal landmass, electric shipping blue, rust route orange, amber convoy markers, weathered cream notes\nmaterials/textures: worn dossier stock, grease-pencil reroute arrows, acetate path overlays, brass clips, matte printed bathymetry, taped paper labels\nconstraints: short labels only, clear strategic geography, searchable chokepoint nouns, no logos, no watermark\navoid: flat vector classroom map, neon cyber interface, military propaganda styling, cluttered unreadable text shows how shipping lanes, naval patrol loops, congestion points, and substitute sea routes concentrate risk around a small set of maritime gates. the broad ocean-spanning map and lower takeaway strip expose concrete hooks like gibraltar gate, suez canal, hormuz strait, malacca strait, tanker routes, and convoy density dots. direct map board for long-tail queries like maritime chokepoint map, shipping route pressure map, and sea lane vulnerability chart. gibraltar gate suez canal hormuz strait malacca strait brass clips route legends clipped field notes worn dossier stock grease-pencil reroute arrows acetate path overlays deep navy sea charcoal landmass page world",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1956-predictive-history-pressure-map-boards-03",
+      "runSlug": "20260521-1956-predictive-history-pressure-map-boards",
+      "runTheme": "Predictive History Pressure Map Boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "index": 3,
+      "title": "Rival Doctrine Comparison Sheet",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "doctrine",
+        "comparison",
+        "order",
+        "strategic",
+        "continental",
+        "maritime",
+        "tabs",
+        "brass",
+        "cards",
+        "charcoal",
+        "depth",
+        "mirrored",
+        "posture",
+        "alliance",
+        "bands",
+        "black",
+        "blocks",
+        "central",
+        "circles",
+        "clipped",
+        "dossier",
+        "dull",
+        "easy",
+        "escalation",
+        "evidence",
+        "fasteners",
+        "geopolitical",
+        "grease-pencil",
+        "icons",
+        "infographic-diagram",
+        "labels",
+        "markers",
+        "navy",
+        "network",
+        "paper",
+        "risk",
+        "rival",
+        "row",
+        "spine",
+        "stock",
+        "strategy",
+        "tolerance",
+        "torn",
+        "trade",
+        "tradeoff",
+        "trimmed",
+        "abstract",
+        "acetate"
+      ],
+      "specificHooks": [
+        "continental order doctrine",
+        "maritime order doctrine",
+        "strategic depth cards",
+        "alliance posture icons",
+        "torn tabs",
+        "brass fasteners",
+        "trimmed evidence blocks",
+        "dossier stock",
+        "clipped tabs",
+        "grease-pencil circles",
+        "charcoal black",
+        "dull navy"
+      ],
+      "scaleTags": [
+        "page",
+        "abstract"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.prompt.md",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "detailPath": "i/20260521-1956-predictive-history-pressure-map-boards-03/",
+      "runPath": "r/20260521-1956-predictive-history-pressure-map-boards/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: mirrored strategy board answering the query \"geopolitical doctrine comparison\"\nScene/backdrop: charcoal comparison sheet pinned to an analysis wall with one center spine, torn tabs, brass fasteners, and trimmed evidence blocks\nSubject: continental order doctrine, maritime order doctrine, strategic depth cards, alliance posture icons, trade network markers, resource security row, escalation tolerance row, risk tradeoff bands\nStyle/medium: photographed documentary comparison board, tactile paper design, no corporate dashboard finish\nComposition/framing: symmetrical left-right doctrine anatomy with a central divider and stacked parallel modules for easy side-by-side reading\nLighting/mood: restrained archive light, sober, comparative, exact, strategic\nColor palette: charcoal black, dull navy, rust orange, amber dots, muted cream labels, worn brass\nMaterials/textures: dossier stock, clipped tabs, grease-pencil circles, acetate overlays, matte printed icon cards, taped paper strips\nConstraints: short labels only, immediate mirrored readability, one clear comparison job, no logos, no watermark\nAvoid: generic consulting slide, patriotic emblems, bright classroom colors, software UI chrome",
+      "learningValue": "Compares two competing strategic logics in one mirrored sheet so viewers can quickly contrast posture, networks, escalation tolerance, and vulnerabilities.",
+      "compositionNotes": "The central spine and paired module rows keep continental order, maritime order, strategic depth, trade network markers, and risk tradeoff bands easy to retrieve at thumbnail and page scale.",
+      "formatNotes": "Comparison board for geopolitical doctrine comparison, rival strategy sheet, and maritime vs continental doctrine chart queries.",
+      "searchText": "rival doctrine comparison sheet infographic-diagram predictive history pressure map boards 20260521-1956-predictive-history-pressure-map-boards use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: mirrored strategy board answering the query \"geopolitical doctrine comparison\"\nscene/backdrop: charcoal comparison sheet pinned to an analysis wall with one center spine, torn tabs, brass fasteners, and trimmed evidence blocks\nsubject: continental order doctrine, maritime order doctrine, strategic depth cards, alliance posture icons, trade network markers, resource security row, escalation tolerance row, risk tradeoff bands\nstyle/medium: photographed documentary comparison board, tactile paper design, no corporate dashboard finish\ncomposition/framing: symmetrical left-right doctrine anatomy with a central divider and stacked parallel modules for easy side-by-side reading\nlighting/mood: restrained archive light, sober, comparative, exact, strategic\ncolor palette: charcoal black, dull navy, rust orange, amber dots, muted cream labels, worn brass\nmaterials/textures: dossier stock, clipped tabs, grease-pencil circles, acetate overlays, matte printed icon cards, taped paper strips\nconstraints: short labels only, immediate mirrored readability, one clear comparison job, no logos, no watermark\navoid: generic consulting slide, patriotic emblems, bright classroom colors, software ui chrome compares two competing strategic logics in one mirrored sheet so viewers can quickly contrast posture, networks, escalation tolerance, and vulnerabilities. the central spine and paired module rows keep continental order, maritime order, strategic depth, trade network markers, and risk tradeoff bands easy to retrieve at thumbnail and page scale. comparison board for geopolitical doctrine comparison, rival strategy sheet, and maritime vs continental doctrine chart queries. continental order doctrine maritime order doctrine strategic depth cards alliance posture icons torn tabs brass fasteners trimmed evidence blocks dossier stock clipped tabs grease-pencil circles charcoal black dull navy page abstract",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1956-predictive-history-pressure-map-boards-04",
+      "runSlug": "20260521-1956-predictive-history-pressure-map-boards",
+      "runTheme": "Predictive History Pressure Map Boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "index": 4,
+      "title": "Conflict Escalation Decision Tree",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "escalation",
+        "threshold",
+        "branch",
+        "tree",
+        "arrows",
+        "branching",
+        "charcoal",
+        "alliance",
+        "decision",
+        "event",
+        "flowchart",
+        "notes",
+        "paper",
+        "rust",
+        "systemic",
+        "trigger",
+        "activation",
+        "adversary",
+        "analyst-wall",
+        "annotation",
+        "assessment",
+        "bands",
+        "black",
+        "boxed",
+        "clipped",
+        "consequences",
+        "crisis",
+        "decision-tree",
+        "diplomatic",
+        "dossier",
+        "engagement",
+        "evidence",
+        "grease-pencil",
+        "infographic-diagram",
+        "initial",
+        "like",
+        "limited",
+        "markers",
+        "matte",
+        "military",
+        "off-ramp",
+        "path",
+        "photographed",
+        "poster",
+        "reaction",
+        "response",
+        "slips",
+        "tall"
+      ],
+      "specificHooks": [
+        "trigger event",
+        "initial assessment",
+        "diplomatic engagement",
+        "limited military response",
+        "tall charcoal decision-tree board with clipped notes",
+        "threshold markers",
+        "rust arrows",
+        "a photographed analyst-wall texture",
+        "matte dossier paper",
+        "grease-pencil arrows",
+        "taped annotation slips",
+        "charcoal black"
+      ],
+      "scaleTags": [
+        "page",
+        "abstract"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/04-conflict-escalation-decision-tree.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/04-conflict-escalation-decision-tree.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/04-conflict-escalation-decision-tree.prompt.md",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/04-conflict-escalation-decision-tree.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "detailPath": "i/20260521-1956-predictive-history-pressure-map-boards-04/",
+      "runPath": "r/20260521-1956-predictive-history-pressure-map-boards/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: branching escalation board answering the query \"war escalation decision tree\"\nScene/backdrop: tall charcoal decision-tree board with clipped notes, threshold markers, rust arrows, and a photographed analyst-wall texture\nSubject: trigger event, initial assessment, diplomatic engagement, limited military response, adversary reaction, off-ramp branch, escalation branch, alliance activation threshold, systemic consequences\nStyle/medium: documentary analysis poster with physical paper geometry and branch logic, not a software flowchart\nComposition/framing: top-to-bottom branching tree with one dominant central path, clear threshold bands, side evidence cards, and boxed end states\nLighting/mood: dim briefing-room light, tense, procedural, legible, serious\nColor palette: charcoal black, midnight navy, rust warning orange, amber severity dots, chalk white rule lines, weathered cream notes\nMaterials/textures: matte dossier paper, grease-pencil arrows, taped annotation slips, brass clip hardware, acetate branch overlays, printed evidence photos\nConstraints: short labels only, direct branching readability, no logos, no watermark\nAvoid: cheerful classroom flowchart, futuristic command UI, patriotic poster rhetoric, tiny unreadable boxes",
+      "learningValue": "Shows how one regional crisis can move through threshold bands, off-ramps, coalition decisions, and systemic outcomes rather than following a single linear path.",
+      "compositionNotes": "The vertical tree and boxed consequence rows highlight concrete retrieval hooks like trigger event, alliance activation threshold, off-ramp branch, adversary reaction, and systemic consequences.",
+      "formatNotes": "Branching explainer for queries like war escalation decision tree, crisis ladder visual, and alliance escalation flowchart.",
+      "searchText": "conflict escalation decision tree infographic-diagram predictive history pressure map boards 20260521-1956-predictive-history-pressure-map-boards use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: branching escalation board answering the query \"war escalation decision tree\"\nscene/backdrop: tall charcoal decision-tree board with clipped notes, threshold markers, rust arrows, and a photographed analyst-wall texture\nsubject: trigger event, initial assessment, diplomatic engagement, limited military response, adversary reaction, off-ramp branch, escalation branch, alliance activation threshold, systemic consequences\nstyle/medium: documentary analysis poster with physical paper geometry and branch logic, not a software flowchart\ncomposition/framing: top-to-bottom branching tree with one dominant central path, clear threshold bands, side evidence cards, and boxed end states\nlighting/mood: dim briefing-room light, tense, procedural, legible, serious\ncolor palette: charcoal black, midnight navy, rust warning orange, amber severity dots, chalk white rule lines, weathered cream notes\nmaterials/textures: matte dossier paper, grease-pencil arrows, taped annotation slips, brass clip hardware, acetate branch overlays, printed evidence photos\nconstraints: short labels only, direct branching readability, no logos, no watermark\navoid: cheerful classroom flowchart, futuristic command ui, patriotic poster rhetoric, tiny unreadable boxes shows how one regional crisis can move through threshold bands, off-ramps, coalition decisions, and systemic outcomes rather than following a single linear path. the vertical tree and boxed consequence rows highlight concrete retrieval hooks like trigger event, alliance activation threshold, off-ramp branch, adversary reaction, and systemic consequences. branching explainer for queries like war escalation decision tree, crisis ladder visual, and alliance escalation flowchart. trigger event initial assessment diplomatic engagement limited military response tall charcoal decision-tree board with clipped notes threshold markers rust arrows a photographed analyst-wall texture matte dossier paper grease-pencil arrows taped annotation slips charcoal black page abstract",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1956-predictive-history-pressure-map-boards-05",
+      "runSlug": "20260521-1956-predictive-history-pressure-map-boards",
+      "runTheme": "Predictive History Pressure Map Boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "index": 5,
+      "title": "Resource Corridor Vulnerability Map",
+      "taxonomy": "data-visual",
+      "topics": [
+        "map",
+        "corridor",
+        "corridors",
+        "infrastructure",
+        "notes",
+        "reroute",
+        "routes",
+        "acetate",
+        "cable",
+        "dossier",
+        "grain",
+        "inset",
+        "overlays",
+        "pipeline",
+        "rail",
+        "resource",
+        "route",
+        "shipments",
+        "stock",
+        "undersea",
+        "vulnerability",
+        "alert",
+        "arteries",
+        "ash",
+        "brass",
+        "clipped",
+        "color",
+        "composition",
+        "data-visual",
+        "freight",
+        "gray",
+        "grease-pencil",
+        "how",
+        "insets",
+        "landmass",
+        "lanes",
+        "lines",
+        "maps",
+        "marks",
+        "materials",
+        "midnight",
+        "navy",
+        "paper",
+        "paths",
+        "pressure",
+        "primary",
+        "rare-earth",
+        "substitute"
+      ],
+      "specificHooks": [
+        "pipeline corridors",
+        "rail freight arteries",
+        "undersea cable routes",
+        "grain shipments",
+        "inset maps",
+        "torn tabs",
+        "clipped alert notes",
+        "dossier stock",
+        "acetate overlays",
+        "grease-pencil reroute marks",
+        "midnight navy",
+        "ash gray landmass"
+      ],
+      "scaleTags": [
+        "page",
+        "world"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/05-resource-corridor-vulnerability-map.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/05-resource-corridor-vulnerability-map.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/05-resource-corridor-vulnerability-map.prompt.md",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/05-resource-corridor-vulnerability-map.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "detailPath": "i/20260521-1956-predictive-history-pressure-map-boards-05/",
+      "runPath": "r/20260521-1956-predictive-history-pressure-map-boards/",
+      "finalPrompt": "Use case: data-visual\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: infrastructure pressure board answering the query \"resource corridor vulnerability map\"\nScene/backdrop: landscape strategy board on dark dossier stock with layered acetate route overlays, inset maps, torn tabs, and clipped alert notes\nSubject: pipeline corridors, rail freight arteries, undersea cable routes, grain shipments, rare-earth transfer lanes, substitute paths, exposed junctions, reroute arrows, bottleneck insets\nStyle/medium: photographed editorial infrastructure map with tactile paper materials and institutional severity\nComposition/framing: wide map-first composition with several vulnerable-junction inset windows and one lower route summary strip\nLighting/mood: archive planning light, measured, systemic, high-stakes, analytical\nColor palette: midnight navy, ash gray landmass, rust reroute lines, amber warning dots, desaturated cream notes, muted brass\nMaterials/textures: dossier stock, acetate overlays, grease-pencil reroute marks, taped paper notes, matte printed infrastructure lines, brass clips\nConstraints: short labels only, map must stay primary, no logos, no watermark\nAvoid: flat GIS screenshot, flashy cyber glow, corporate dashboard modules, patriotic color blocking",
+      "learningValue": "Shows how energy, data, rail, and commodity flows bunch into a few vulnerable corridors and how alternate routes trade resilience for cost and distance.",
+      "compositionNotes": "The combination of main map and vulnerable-junction insets keeps pipeline corridors, undersea cable routes, grain shipments, rare-earth transfer lanes, and substitute paths searchable.",
+      "formatNotes": "Infrastructure map for resource corridor vulnerability map, supply route risk board, and critical corridor infographic queries.",
+      "searchText": "resource corridor vulnerability map data-visual predictive history pressure map boards 20260521-1956-predictive-history-pressure-map-boards use case: data-visual\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: infrastructure pressure board answering the query \"resource corridor vulnerability map\"\nscene/backdrop: landscape strategy board on dark dossier stock with layered acetate route overlays, inset maps, torn tabs, and clipped alert notes\nsubject: pipeline corridors, rail freight arteries, undersea cable routes, grain shipments, rare-earth transfer lanes, substitute paths, exposed junctions, reroute arrows, bottleneck insets\nstyle/medium: photographed editorial infrastructure map with tactile paper materials and institutional severity\ncomposition/framing: wide map-first composition with several vulnerable-junction inset windows and one lower route summary strip\nlighting/mood: archive planning light, measured, systemic, high-stakes, analytical\ncolor palette: midnight navy, ash gray landmass, rust reroute lines, amber warning dots, desaturated cream notes, muted brass\nmaterials/textures: dossier stock, acetate overlays, grease-pencil reroute marks, taped paper notes, matte printed infrastructure lines, brass clips\nconstraints: short labels only, map must stay primary, no logos, no watermark\navoid: flat gis screenshot, flashy cyber glow, corporate dashboard modules, patriotic color blocking shows how energy, data, rail, and commodity flows bunch into a few vulnerable corridors and how alternate routes trade resilience for cost and distance. the combination of main map and vulnerable-junction insets keeps pipeline corridors, undersea cable routes, grain shipments, rare-earth transfer lanes, and substitute paths searchable. infrastructure map for resource corridor vulnerability map, supply route risk board, and critical corridor infographic queries. pipeline corridors rail freight arteries undersea cable routes grain shipments inset maps torn tabs clipped alert notes dossier stock acetate overlays grease-pencil reroute marks midnight navy ash gray landmass page world",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1956-predictive-history-pressure-map-boards-06",
+      "runSlug": "20260521-1956-predictive-history-pressure-map-boards",
+      "runTheme": "Predictive History Pressure Map Boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "index": 6,
+      "title": "Historical Analogy Comparison Plate",
+      "taxonomy": "mixed-format",
+      "topics": [
+        "comparison",
+        "map",
+        "photo",
+        "plate",
+        "analogy",
+        "archival",
+        "fragments",
+        "historical",
+        "icons",
+        "pressure",
+        "brass",
+        "case",
+        "case-study",
+        "charcoal",
+        "dated",
+        "dots",
+        "finance",
+        "fleet",
+        "labels",
+        "markers",
+        "panels",
+        "three",
+        "anatomy",
+        "chart",
+        "clips",
+        "columns",
+        "date",
+        "documentary",
+        "editorial",
+        "evidence",
+        "fibers",
+        "grease-pencil",
+        "insets",
+        "legitimacy",
+        "maps",
+        "matched",
+        "matte",
+        "midnight",
+        "mixed-format",
+        "modules",
+        "navy",
+        "paper",
+        "printed",
+        "small",
+        "stress",
+        "taped",
+        "torn",
+        "abstract"
+      ],
+      "specificHooks": [
+        "three case-study columns",
+        "dated map panels",
+        "fleet icons",
+        "finance pressure markers",
+        "charcoal editorial comparison plate with brass clips",
+        "torn date labels",
+        "small map insets",
+        "archival photo fragments",
+        "archival paper fibers",
+        "matte printed maps",
+        "taped photo fragments",
+        "midnight navy"
+      ],
+      "scaleTags": [
+        "page",
+        "abstract"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/06-historical-analogy-comparison-plate.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/06-historical-analogy-comparison-plate.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/06-historical-analogy-comparison-plate.prompt.md",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/06-historical-analogy-comparison-plate.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "detailPath": "i/20260521-1956-predictive-history-pressure-map-boards-06/",
+      "runPath": "r/20260521-1956-predictive-history-pressure-map-boards/",
+      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: evidence-rich analogy plate answering the query \"historical analogy comparison chart\"\nScene/backdrop: charcoal editorial comparison plate with brass clips, torn date labels, small map insets, archival photo fragments, and grease-pencil emphasis marks\nSubject: three case-study columns, dated map panels, fleet icons, finance pressure markers, alliance strain indicators, resource shock symbols, legitimacy stress dots, takeaway strips\nStyle/medium: photographed documentary evidence plate blending map, photo, and symbol language without becoming a museum wall label\nComposition/framing: three stacked or columned case modules with matched anatomy so historical rhyme and difference are visible at a glance\nLighting/mood: subdued archive light, evidentiary, reflective, comparative, disciplined\nColor palette: charcoal, midnight navy, sepia photo brown, rust annotation orange, amber dots, faded cream tabs\nMaterials/textures: archival paper fibers, matte printed maps, taped photo fragments, brass clip hardware, grease-pencil circles, worn card stock\nConstraints: short labels only, strong repeated comparison anatomy, no logos, no watermark\nAvoid: textbook collage clutter, decorative scrapbook feel, flat vector icons only, tiny footnote paragraphs",
+      "learningValue": "Gives teachers and editors a reusable way to compare several historical cases through matching variables instead of relying on loose verbal analogy.",
+      "compositionNotes": "The matched case-study modules surface hooks like dated map panels, archival photo fragments, fleet icons, finance pressure markers, and legitimacy stress dots.",
+      "formatNotes": "Comparison plate for historical analogy comparison chart, power transition case comparison, and documentary evidence plate queries.",
+      "searchText": "historical analogy comparison plate mixed-format predictive history pressure map boards 20260521-1956-predictive-history-pressure-map-boards use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: evidence-rich analogy plate answering the query \"historical analogy comparison chart\"\nscene/backdrop: charcoal editorial comparison plate with brass clips, torn date labels, small map insets, archival photo fragments, and grease-pencil emphasis marks\nsubject: three case-study columns, dated map panels, fleet icons, finance pressure markers, alliance strain indicators, resource shock symbols, legitimacy stress dots, takeaway strips\nstyle/medium: photographed documentary evidence plate blending map, photo, and symbol language without becoming a museum wall label\ncomposition/framing: three stacked or columned case modules with matched anatomy so historical rhyme and difference are visible at a glance\nlighting/mood: subdued archive light, evidentiary, reflective, comparative, disciplined\ncolor palette: charcoal, midnight navy, sepia photo brown, rust annotation orange, amber dots, faded cream tabs\nmaterials/textures: archival paper fibers, matte printed maps, taped photo fragments, brass clip hardware, grease-pencil circles, worn card stock\nconstraints: short labels only, strong repeated comparison anatomy, no logos, no watermark\navoid: textbook collage clutter, decorative scrapbook feel, flat vector icons only, tiny footnote paragraphs gives teachers and editors a reusable way to compare several historical cases through matching variables instead of relying on loose verbal analogy. the matched case-study modules surface hooks like dated map panels, archival photo fragments, fleet icons, finance pressure markers, and legitimacy stress dots. comparison plate for historical analogy comparison chart, power transition case comparison, and documentary evidence plate queries. three case-study columns dated map panels fleet icons finance pressure markers charcoal editorial comparison plate with brass clips torn date labels small map insets archival photo fragments archival paper fibers matte printed maps taped photo fragments midnight navy page abstract",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1956-predictive-history-pressure-map-boards-07",
+      "runSlug": "20260521-1956-predictive-history-pressure-map-boards",
+      "runTheme": "Predictive History Pressure Map Boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "index": 7,
+      "title": "Power Transition Stress Dashboard",
+      "taxonomy": "data-visual",
+      "topics": [
+        "dashboard",
+        "stress",
+        "power",
+        "pressure",
+        "transition",
+        "commodity",
+        "dossier",
+        "map",
+        "summary",
+        "brass",
+        "central",
+        "chart",
+        "counters",
+        "faction",
+        "gauge",
+        "index",
+        "migration",
+        "notes",
+        "panel",
+        "panels",
+        "shock",
+        "acetate",
+        "alliance",
+        "black",
+        "blocks",
+        "charcoal",
+        "civilization",
+        "clipped",
+        "cohesion",
+        "corners",
+        "dark",
+        "data-visual",
+        "gauges",
+        "indicator",
+        "institutional",
+        "margin",
+        "matte",
+        "meters",
+        "outlook",
+        "overlays",
+        "printed",
+        "regional",
+        "stacked",
+        "stock",
+        "strong",
+        "tension",
+        "abstract",
+        "amber"
+      ],
+      "specificHooks": [
+        "power transition index gauge",
+        "commodity shock chart",
+        "migration pressure counters",
+        "faction tension meters",
+        "dark dossier dashboard board with clipped margin notes",
+        "brass corners",
+        "stacked indicator panels",
+        "one central stress summary",
+        "dossier stock",
+        "matte printed gauges",
+        "acetate overlays",
+        "charcoal black"
+      ],
+      "scaleTags": [
+        "page",
+        "abstract"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/07-power-transition-stress-dashboard.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/07-power-transition-stress-dashboard.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/07-power-transition-stress-dashboard.prompt.md",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/07-power-transition-stress-dashboard.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "detailPath": "i/20260521-1956-predictive-history-pressure-map-boards-07/",
+      "runPath": "r/20260521-1956-predictive-history-pressure-map-boards/",
+      "finalPrompt": "Use case: data-visual\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: tactile analytical panel answering the query \"civilization stress dashboard\"\nScene/backdrop: dark dossier dashboard board with clipped margin notes, brass corners, stacked indicator panels, and one central stress summary\nSubject: power transition index gauge, commodity shock chart, migration pressure counters, faction tension meters, alliance cohesion blocks, regional stress map, flashpoint list, outlook strip\nStyle/medium: photographed paper-and-acetate dashboard, editorial and institutional, not a software interface\nComposition/framing: broad rectangular dashboard with one center summary box, flanking meter groups, lower map and outlook panels, and strong row logic\nLighting/mood: disciplined briefing light, tense, measured, institutional, high-information\nColor palette: charcoal black, midnight navy, rust orange, amber yellow, muted olive bands, weathered cream notes\nMaterials/textures: dossier stock, matte printed gauges, acetate overlays, brass clip hardware, grease-pencil ticks, taped annotation slips\nConstraints: short labels only, tactile not digital, no logos, no watermark\nAvoid: dark-mode SaaS screen, glowing HUD graphics, investor app polish, unreadable overpacked microcharts",
+      "learningValue": "Compresses multiple pressure vectors into one reusable dashboard so a viewer can compare structural stress, faction tensions, commodity shocks, and flashpoints in a single glanceable panel.",
+      "compositionNotes": "The central summary block plus surrounding modules create strong retrieval hooks such as power transition index gauge, commodity shock chart, migration pressure counters, alliance cohesion blocks, and regional stress map.",
+      "formatNotes": "Dashboard board for queries like civilization stress dashboard, power transition monitor, and systemic risk panel.",
+      "searchText": "power transition stress dashboard data-visual predictive history pressure map boards 20260521-1956-predictive-history-pressure-map-boards use case: data-visual\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: tactile analytical panel answering the query \"civilization stress dashboard\"\nscene/backdrop: dark dossier dashboard board with clipped margin notes, brass corners, stacked indicator panels, and one central stress summary\nsubject: power transition index gauge, commodity shock chart, migration pressure counters, faction tension meters, alliance cohesion blocks, regional stress map, flashpoint list, outlook strip\nstyle/medium: photographed paper-and-acetate dashboard, editorial and institutional, not a software interface\ncomposition/framing: broad rectangular dashboard with one center summary box, flanking meter groups, lower map and outlook panels, and strong row logic\nlighting/mood: disciplined briefing light, tense, measured, institutional, high-information\ncolor palette: charcoal black, midnight navy, rust orange, amber yellow, muted olive bands, weathered cream notes\nmaterials/textures: dossier stock, matte printed gauges, acetate overlays, brass clip hardware, grease-pencil ticks, taped annotation slips\nconstraints: short labels only, tactile not digital, no logos, no watermark\navoid: dark-mode saas screen, glowing hud graphics, investor app polish, unreadable overpacked microcharts compresses multiple pressure vectors into one reusable dashboard so a viewer can compare structural stress, faction tensions, commodity shocks, and flashpoints in a single glanceable panel. the central summary block plus surrounding modules create strong retrieval hooks such as power transition index gauge, commodity shock chart, migration pressure counters, alliance cohesion blocks, and regional stress map. dashboard board for queries like civilization stress dashboard, power transition monitor, and systemic risk panel. power transition index gauge commodity shock chart migration pressure counters faction tension meters dark dossier dashboard board with clipped margin notes brass corners stacked indicator panels one central stress summary dossier stock matte printed gauges acetate overlays charcoal black page abstract",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1956-predictive-history-pressure-map-boards-08",
+      "runSlug": "20260521-1956-predictive-history-pressure-map-boards",
+      "runTheme": "Predictive History Pressure Map Boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "index": 8,
+      "title": "Scenario Fork Timeline Board",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "timeline",
+        "poster",
+        "scenario",
+        "insets",
+        "map",
+        "tabs",
+        "windows",
+        "branch",
+        "brass",
+        "charcoal",
+        "clips",
+        "consequence",
+        "date",
+        "delay",
+        "flashpoint",
+        "fork",
+        "forks",
+        "horizontal",
+        "markers",
+        "negotiation",
+        "paper",
+        "photo",
+        "sequence",
+        "acetate",
+        "bands",
+        "branching",
+        "clipped",
+        "decades",
+        "dossier",
+        "economic",
+        "forecast",
+        "infographic-diagram",
+        "intervals",
+        "labels",
+        "lines",
+        "materials",
+        "matte",
+        "midnight",
+        "navy",
+        "notes",
+        "occasional",
+        "overlays",
+        "shock",
+        "structure",
+        "torn",
+        "zones",
+        "across",
+        "amber"
+      ],
+      "specificHooks": [
+        "2025 to 2060 timeline",
+        "branching scenario forks",
+        "flashpoint markers",
+        "delay windows",
+        "horizontal charcoal timeline poster with torn date tabs",
+        "clipped notes",
+        "brass clips",
+        "occasional map and photo insets",
+        "matte poster board",
+        "dossier paper tabs",
+        "acetate overlays",
+        "midnight navy"
+      ],
+      "scaleTags": [
+        "page",
+        "world"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/08-scenario-fork-timeline-board.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/08-scenario-fork-timeline-board.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/08-scenario-fork-timeline-board.prompt.md",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/08-scenario-fork-timeline-board.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "detailPath": "i/20260521-1956-predictive-history-pressure-map-boards-08/",
+      "runPath": "r/20260521-1956-predictive-history-pressure-map-boards/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: long-sequence board answering the query \"scenario timeline board\"\nScene/backdrop: horizontal charcoal timeline poster with torn date tabs, clipped notes, brass clips, and occasional map and photo insets\nSubject: 2025 to 2060 timeline, branching scenario forks, flashpoint markers, delay windows, negotiation intervals, economic shock bands, military posture shifts, consequence zones\nStyle/medium: photographed documentary planning poster with clear left-to-right sequence logic and tactile paper materials\nComposition/framing: elongated timeline structure with visible fork branches, colored consequence lines, and a repeated sequence rhythm across decades\nLighting/mood: subdued planning-room light, sequential, analytical, tense, controlled\nColor palette: midnight navy, charcoal black, rust branch lines, amber status dots, faded cream date labels, muted sepia insets\nMaterials/textures: matte poster board, dossier paper tabs, acetate overlays, grease-pencil branch marks, brass clips, printed map and photo insets\nConstraints: short labels only, timeline must read at a glance, no logos, no watermark\nAvoid: generic school timeline poster, rainbow classroom coding, corporate roadmap slide, dense paragraphs",
+      "learningValue": "Shows how one scenario evolves over decades through forks, delays, escalation points, and negotiation windows instead of appearing as a single forecast line.",
+      "compositionNotes": "The long horizontal branch structure exposes concrete hooks like flashpoint markers, delay windows, negotiation intervals, economic shock bands, and consequence zones.",
+      "formatNotes": "Sequence board for scenario timeline board, forecast fork timeline, and strategic timeline infographic queries.",
+      "searchText": "scenario fork timeline board infographic-diagram predictive history pressure map boards 20260521-1956-predictive-history-pressure-map-boards use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: long-sequence board answering the query \"scenario timeline board\"\nscene/backdrop: horizontal charcoal timeline poster with torn date tabs, clipped notes, brass clips, and occasional map and photo insets\nsubject: 2025 to 2060 timeline, branching scenario forks, flashpoint markers, delay windows, negotiation intervals, economic shock bands, military posture shifts, consequence zones\nstyle/medium: photographed documentary planning poster with clear left-to-right sequence logic and tactile paper materials\ncomposition/framing: elongated timeline structure with visible fork branches, colored consequence lines, and a repeated sequence rhythm across decades\nlighting/mood: subdued planning-room light, sequential, analytical, tense, controlled\ncolor palette: midnight navy, charcoal black, rust branch lines, amber status dots, faded cream date labels, muted sepia insets\nmaterials/textures: matte poster board, dossier paper tabs, acetate overlays, grease-pencil branch marks, brass clips, printed map and photo insets\nconstraints: short labels only, timeline must read at a glance, no logos, no watermark\navoid: generic school timeline poster, rainbow classroom coding, corporate roadmap slide, dense paragraphs shows how one scenario evolves over decades through forks, delays, escalation points, and negotiation windows instead of appearing as a single forecast line. the long horizontal branch structure exposes concrete hooks like flashpoint markers, delay windows, negotiation intervals, economic shock bands, and consequence zones. sequence board for scenario timeline board, forecast fork timeline, and strategic timeline infographic queries. 2025 to 2060 timeline branching scenario forks flashpoint markers delay windows horizontal charcoal timeline poster with torn date tabs clipped notes brass clips occasional map and photo insets matte poster board dossier paper tabs acetate overlays midnight navy page world",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1956-predictive-history-pressure-map-boards-09",
+      "runSlug": "20260521-1956-predictive-history-pressure-map-boards",
+      "runTheme": "Predictive History Pressure Map Boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "index": 9,
+      "title": "Documentary War Room Installation View",
+      "taxonomy": "environment-concept",
+      "topics": [
+        "room",
+        "boards",
+        "documentary",
+        "maps",
+        "projector",
+        "wall",
+        "evidence",
+        "rolled",
+        "strategy",
+        "view",
+        "acetate",
+        "analyst",
+        "archival",
+        "brass",
+        "coffee",
+        "editorial",
+        "map",
+        "overlays",
+        "paper",
+        "photos",
+        "route",
+        "silhouettes",
+        "war-room",
+        "amber",
+        "black",
+        "briefing",
+        "charcoal",
+        "clips",
+        "cluttered",
+        "cups",
+        "decision",
+        "dossier",
+        "environment",
+        "environment-concept",
+        "glow",
+        "graphic",
+        "installation",
+        "midnight",
+        "navy",
+        "pinned",
+        "predictive-history",
+        "reference",
+        "smoky",
+        "timeline",
+        "trees",
+        "tubes",
+        "war",
+        "adds"
+      ],
+      "specificHooks": [
+        "analyst silhouettes",
+        "war-room evidence wall",
+        "route maps",
+        "timeline board",
+        "decision trees",
+        "acetate overlays",
+        "pinned archival photos",
+        "paper dossier boards",
+        "brass clips",
+        "charcoal black",
+        "midnight navy",
+        "smoky amber"
+      ],
+      "scaleTags": [
+        "room",
+        "page"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/09-documentary-war-room-installation-view.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/09-documentary-war-room-installation-view.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/09-documentary-war-room-installation-view.prompt.md",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/09-documentary-war-room-installation-view.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "detailPath": "i/20260521-1956-predictive-history-pressure-map-boards-09/",
+      "runPath": "r/20260521-1956-predictive-history-pressure-map-boards/",
+      "finalPrompt": "Use case: environment-concept\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: inhabited documentary environment answering the query \"documentary strategy graphic reference\"\nScene/backdrop: dim editorial briefing room with a full wall of predictive-history boards, route maps, decision trees, acetate overlays, pinned archival photos, projector glow, and a table of rolled maps and coffee cups\nSubject: analyst silhouettes, war-room evidence wall, route maps, timeline board, doctrine sheet, stress dashboard, rolled map tubes, grease pencils, projector, archival photos\nStyle/medium: photoreal documentary still with tactile paper realism and restrained cinematic production design\nComposition/framing: wide room view with the evidence wall dominant, seated and standing analysts in foreground and midground, cluttered strategy table below\nLighting/mood: tungsten task lights, projector spill, low-key editorial tension, thoughtful collaborative atmosphere\nColor palette: charcoal black, midnight navy, smoky amber, rust annotation orange, sepia photo brown, dull brass\nMaterials/textures: paper dossier boards, acetate overlays, brass clips, worn wood table, ceramic coffee mugs, rolled maps, projector housing\nConstraints: keep the board family legible inside the room, no logos, no watermark\nAvoid: sci-fi command center, superhero bunker spectacle, generic office conference room, floating screen holograms",
+      "learningValue": "Shows how predictive-history boards can operate as a physical briefing environment for editors, teachers, or worldbuilding teams rather than only as flat standalone posters.",
+      "compositionNotes": "The room view adds retrieval hooks like projector glow, rolled map tubes, analyst silhouettes, war-room evidence wall, coffee cups, and cluttered strategy table.",
+      "formatNotes": "Installation view for documentary strategy graphic reference, war room board setup, and editorial analysis room queries.",
+      "searchText": "documentary war room installation view environment-concept predictive history pressure map boards 20260521-1956-predictive-history-pressure-map-boards use case: environment-concept\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: inhabited documentary environment answering the query \"documentary strategy graphic reference\"\nscene/backdrop: dim editorial briefing room with a full wall of predictive-history boards, route maps, decision trees, acetate overlays, pinned archival photos, projector glow, and a table of rolled maps and coffee cups\nsubject: analyst silhouettes, war-room evidence wall, route maps, timeline board, doctrine sheet, stress dashboard, rolled map tubes, grease pencils, projector, archival photos\nstyle/medium: photoreal documentary still with tactile paper realism and restrained cinematic production design\ncomposition/framing: wide room view with the evidence wall dominant, seated and standing analysts in foreground and midground, cluttered strategy table below\nlighting/mood: tungsten task lights, projector spill, low-key editorial tension, thoughtful collaborative atmosphere\ncolor palette: charcoal black, midnight navy, smoky amber, rust annotation orange, sepia photo brown, dull brass\nmaterials/textures: paper dossier boards, acetate overlays, brass clips, worn wood table, ceramic coffee mugs, rolled maps, projector housing\nconstraints: keep the board family legible inside the room, no logos, no watermark\navoid: sci-fi command center, superhero bunker spectacle, generic office conference room, floating screen holograms shows how predictive-history boards can operate as a physical briefing environment for editors, teachers, or worldbuilding teams rather than only as flat standalone posters. the room view adds retrieval hooks like projector glow, rolled map tubes, analyst silhouettes, war-room evidence wall, coffee cups, and cluttered strategy table. installation view for documentary strategy graphic reference, war room board setup, and editorial analysis room queries. analyst silhouettes war-room evidence wall route maps timeline board decision trees acetate overlays pinned archival photos paper dossier boards brass clips charcoal black midnight navy smoky amber room page",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1956-predictive-history-pressure-map-boards-10",
+      "runSlug": "20260521-1956-predictive-history-pressure-map-boards",
+      "runTheme": "Predictive History Pressure Map Boards",
+      "timestamp": "2026-05-21T19:56:51+08:00",
+      "index": 10,
+      "title": "Night Briefing Cinematic Proof Frame",
+      "taxonomy": "photorealistic-natural",
+      "topics": [
+        "projector",
+        "desk",
+        "documentary",
+        "wall",
+        "window",
+        "cinematic",
+        "frame",
+        "giant",
+        "room",
+        "analyst",
+        "archive",
+        "beam",
+        "boards",
+        "haze",
+        "history",
+        "night",
+        "paper",
+        "proof",
+        "acetate",
+        "black",
+        "brass",
+        "briefing",
+        "charcoal",
+        "city",
+        "city-dome",
+        "clips",
+        "clutter",
+        "crowded",
+        "design",
+        "doctrine",
+        "dossier",
+        "escalation",
+        "essay",
+        "evidence",
+        "files",
+        "hooks",
+        "language",
+        "lights",
+        "lone",
+        "map",
+        "maps",
+        "midnight",
+        "navy",
+        "overlays",
+        "photorealistic-natural",
+        "scenario",
+        "shirtsleeves",
+        "still"
+      ],
+      "specificHooks": [
+        "lone analyst in shirtsleeves",
+        "giant scenario wall",
+        "doctrine board",
+        "escalation tree",
+        "projector beam haze",
+        "city lights through a window",
+        "a crowded desk of files and maps",
+        "worn dossier boards",
+        "acetate overlays",
+        "brass clips",
+        "midnight navy",
+        "charcoal black"
+      ],
+      "scaleTags": [
+        "room",
+        "page"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/10-night-briefing-cinematic-proof-frame.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/10-night-briefing-cinematic-proof-frame.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/10-night-briefing-cinematic-proof-frame.prompt.md",
+      "reportPath": "../run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/10-night-briefing-cinematic-proof-frame.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1956-predictive-history-pressure-map-boards.md",
+      "detailPath": "i/20260521-1956-predictive-history-pressure-map-boards-10/",
+      "runPath": "r/20260521-1956-predictive-history-pressure-map-boards/",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: prestige documentary proof frame answering the query \"video essay history board design\"\nScene/backdrop: rain-dark government archive room at night with a giant predictive-history wall, projector beam haze, city lights through a window, and a crowded desk of files and maps\nSubject: lone analyst in shirtsleeves, giant scenario wall, doctrine board, escalation tree, maritime map, clipped archival photos, projector, stacked folders, coffee mug, city-dome window view\nStyle/medium: photoreal editorial cinema with documentary plausibility and tactile paper detail, no science-fiction gloss\nComposition/framing: cinematic room frame with foreground desk clutter, midground human figure, and dominant background evidence wall\nLighting/mood: smoky projector light, tungsten desk lamp, rainy night atmosphere, restrained institutional suspense\nColor palette: midnight navy, charcoal black, amber projector light, rust paper marks, sepia archive browns, muted cream notes\nMaterials/textures: worn dossier boards, acetate overlays, brass clips, scratched projector metal, paper stacks, window rain streaks, wooden desk surface\nConstraints: believable documentary space, board language must survive in-scene, no logos, no watermark\nAvoid: glossy thriller poster, futuristic holograms, action-movie explosions, generic neon cyberpunk",
+      "learningValue": "Proves that the board language can function as a cinematic story-world still for documentary editors and video-essay creators while keeping the atlas hooks visible and reusable.",
+      "compositionNotes": "The city-dome window, projector beam haze, shirtsleeve analyst, desk clutter, and giant evidence wall provide rich retrieval hooks beyond the flat board family.",
+      "formatNotes": "Cinematic proof frame for video essay history board design, documentary briefing scene, and archive war room still queries.",
+      "searchText": "night briefing cinematic proof frame photorealistic-natural predictive history pressure map boards 20260521-1956-predictive-history-pressure-map-boards use case: photorealistic-natural\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: prestige documentary proof frame answering the query \"video essay history board design\"\nscene/backdrop: rain-dark government archive room at night with a giant predictive-history wall, projector beam haze, city lights through a window, and a crowded desk of files and maps\nsubject: lone analyst in shirtsleeves, giant scenario wall, doctrine board, escalation tree, maritime map, clipped archival photos, projector, stacked folders, coffee mug, city-dome window view\nstyle/medium: photoreal editorial cinema with documentary plausibility and tactile paper detail, no science-fiction gloss\ncomposition/framing: cinematic room frame with foreground desk clutter, midground human figure, and dominant background evidence wall\nlighting/mood: smoky projector light, tungsten desk lamp, rainy night atmosphere, restrained institutional suspense\ncolor palette: midnight navy, charcoal black, amber projector light, rust paper marks, sepia archive browns, muted cream notes\nmaterials/textures: worn dossier boards, acetate overlays, brass clips, scratched projector metal, paper stacks, window rain streaks, wooden desk surface\nconstraints: believable documentary space, board language must survive in-scene, no logos, no watermark\navoid: glossy thriller poster, futuristic holograms, action-movie explosions, generic neon cyberpunk proves that the board language can function as a cinematic story-world still for documentary editors and video-essay creators while keeping the atlas hooks visible and reusable. the city-dome window, projector beam haze, shirtsleeve analyst, desk clutter, and giant evidence wall provide rich retrieval hooks beyond the flat board family. cinematic proof frame for video essay history board design, documentary briefing scene, and archive war room still queries. lone analyst in shirtsleeves giant scenario wall doctrine board escalation tree projector beam haze city lights through a window a crowded desk of files and maps worn dossier boards acetate overlays brass clips midnight navy charcoal black room page",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
     {
       "id": "20260521-1653-beekeeping-brood-and-hive-inspection-posters-01",
       "runSlug": "20260521-1653-beekeeping-brood-and-hive-inspection-posters",

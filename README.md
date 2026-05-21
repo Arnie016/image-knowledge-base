@@ -4,11 +4,11 @@
 
 > A public, image-first slice of a labeled PNG atlas built for practical human tasks, explainer plates, and searchable visual reference work.
 
-[![Aquarium Nitrogen Cycle Diagram Poster](images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png)](prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md)
+[![Rival Doctrine Comparison Sheet](images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.png)](prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.prompt.md)
 
 | Public images | Public runs | Search hooks | Formats |
 | --- | --- | --- | --- |
-| 70 | 7 | 593 | 12 |
+| 80 | 8 | 693 | 14 |
 
 ## What This Repo Publishes
 
@@ -19,6 +19,30 @@
 ## Current Public Gallery
 
 <table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/03-rival-doctrine-comparison-sheet.png" alt="Rival Doctrine Comparison Sheet (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Rival Doctrine Comparison Sheet</strong>
+  <br /><sub>infographic-diagram · continental order doctrine · maritime order doctrine</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/04-conflict-escalation-decision-tree.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/04-conflict-escalation-decision-tree.png" alt="Conflict Escalation Decision Tree (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Conflict Escalation Decision Tree</strong>
+  <br /><sub>infographic-diagram · trigger event · initial assessment</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/08-scenario-fork-timeline-board.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/08-scenario-fork-timeline-board.png" alt="Scenario Fork Timeline Board (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Scenario Fork Timeline Board</strong>
+  <br /><sub>infographic-diagram · 2025 to 2060 timeline · branching scenario forks</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/09-documentary-war-room-installation-view.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/09-documentary-war-room-installation-view.png" alt="Documentary War Room Installation View (environment-concept)" width="100%" /></a>
+  <br /><strong>Documentary War Room Installation View</strong>
+  <br /><sub>environment-concept · analyst silhouettes · war-room evidence wall</sub>
+</td>
+</tr>
 <tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png" alt="Aquarium Nitrogen Cycle Diagram Poster (scientific-educational)" width="100%" /></a>
@@ -185,6 +209,42 @@
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.png" alt="Cake Decorating Tools Tray Reference (atlas-contact-sheet)" width="100%" /></a>
   <br /><strong>Cake Decorating Tools Tray Reference</strong>
   <br /><sub>atlas-contact-sheet · disciplined decorating kit including reusable piping bags · open star tip</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/01-predictive-history-thesis-board.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/01-predictive-history-thesis-board.png" alt="Predictive History Thesis Board (data-visual)" width="100%" /></a>
+  <br /><strong>Predictive History Thesis Board</strong>
+  <br /><sub>data-visual · fragmented century thesis board · world trajectory map</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/02-maritime-chokepoint-pressure-map.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/02-maritime-chokepoint-pressure-map.png" alt="Maritime Chokepoint Pressure Map (data-visual)" width="100%" /></a>
+  <br /><strong>Maritime Chokepoint Pressure Map</strong>
+  <br /><sub>data-visual · Gibraltar gate · Suez Canal</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/05-resource-corridor-vulnerability-map.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/05-resource-corridor-vulnerability-map.png" alt="Resource Corridor Vulnerability Map (data-visual)" width="100%" /></a>
+  <br /><strong>Resource Corridor Vulnerability Map</strong>
+  <br /><sub>data-visual · pipeline corridors · rail freight arteries</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/06-historical-analogy-comparison-plate.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/06-historical-analogy-comparison-plate.png" alt="Historical Analogy Comparison Plate (mixed-format)" width="100%" /></a>
+  <br /><strong>Historical Analogy Comparison Plate</strong>
+  <br /><sub>mixed-format · three case-study columns · dated map panels</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/07-power-transition-stress-dashboard.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/07-power-transition-stress-dashboard.png" alt="Power Transition Stress Dashboard (data-visual)" width="100%" /></a>
+  <br /><strong>Power Transition Stress Dashboard</strong>
+  <br /><sub>data-visual · power transition index gauge · commodity shock chart</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/10-night-briefing-cinematic-proof-frame.prompt.md"><img src="images/2026/05/21/20260521-1956-predictive-history-pressure-map-boards/10-night-briefing-cinematic-proof-frame.png" alt="Night Briefing Cinematic Proof Frame (photorealistic-natural)" width="100%" /></a>
+  <br /><strong>Night Briefing Cinematic Proof Frame</strong>
+  <br /><sub>photorealistic-natural · lone analyst in shirtsleeves · giant scenario wall</sub>
 </td>
 </tr>
 <tr>
@@ -445,20 +505,20 @@
 
 | Panel | Human task | Labels |
 | --- | --- | --- |
+| Rival Doctrine Comparison Sheet | Compares two competing strategic logics in one mirrored sheet so viewers can quickly contrast posture, networks, escalation tolerance, and vulnerabilities | continental order doctrine, maritime order doctrine, strategic depth cards |
+| Conflict Escalation Decision Tree | Shows how one regional crisis can move through threshold bands, off-ramps, coalition decisions, and systemic outcomes rather than following a single linear path | trigger event, initial assessment, diplomatic engagement |
+| Scenario Fork Timeline Board | Shows how one scenario evolves over decades through forks, delays, escalation points, and negotiation windows instead of appearing as a single forecast line | 2025 to 2060 timeline, branching scenario forks, flashpoint markers |
+| Documentary War Room Installation View | Shows how predictive-history boards can operate as a physical briefing environment for editors, teachers, or worldbuilding teams rather than only as flat standalone posters | analyst silhouettes, war-room evidence wall, route maps |
 | Aquarium Nitrogen Cycle Diagram Poster | Explains the full freshwater tank cycle in one frame, connecting fish waste, decomposing food, filter bacteria, ceramic media, gravel biofilm, plant uptake, and water changes so a beginner can see why cycling takes time | decomposing food flakes, ammonia cloud, filter sponge colony |
 | Fishless Cycling Timeline Chart | Shows how a fishless cycle typically unfolds over days and weeks, helping a new tank owner interpret an ammonia spike, nitrite peak, nitrate rise, and the moment a tank is ready for stocking | bottled ammonia dropper, thermometer strip, filter intake |
-| Ammonia Nitrite Nitrate Comparison Guide | Lets a searcher compare an ammonia test vial, nitrite test vial, nitrate test vial, gill stress cue, plant uptake arrow, and safe target strip instead of relying on vague chemistry language | ammonia test vial, nitrite test vial, nitrate test vial |
-| Beneficial Bacteria Filter Media Taxonomy Plate | Teaches where beneficial bacteria actually live by comparing coarse filter sponge, ceramic bio-rings, porous lava rock, gravel bag, driftwood, and plant root mat as real habitat surfaces instead of abstract chemistry terms | ceramic bio-rings, porous lava rock, bio balls |
-| Aquarium Test Kit Color Reading Board | Connects an ammonia test vial, nitrite test vial, nitrate test vial, color-card strip, and sample reading row to the color shifts that happen during cycling | ammonia test vial, nitrite test vial, nitrate test vial |
-| New Tank Syndrome Mistakes Poster | Turns new tank syndrome into a specific checklist of beginner mistakes and consequences, so a viewer can diagnose why a cycle has stalled and what a calm rescue sequence looks like | adding too many fish at once, rinsing filter media under tap water, replacing all media at once |
 
 ## Current Seed Run
 
-- **Theme:** Beekeeping Brood And Hive Inspection Posters
+- **Theme:** Predictive History Pressure Map Boards
 
-- **Coverage:** 20 panels with prompt cards and a run report.
+- **Coverage:** 10 panels with prompt cards and a run report.
 
-- **Run page:** [20260521-1653-beekeeping-brood-and-hive-inspection-posters](site/r/20260521-1653-beekeeping-brood-and-hive-inspection-posters/index.html)
+- **Run page:** [20260521-1956-predictive-history-pressure-map-boards](site/r/20260521-1956-predictive-history-pressure-map-boards/index.html)
 
 ## Publish Automation
 
