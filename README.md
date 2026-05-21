@@ -4,11 +4,11 @@
 
 > A public, image-first slice of a labeled PNG atlas built for practical human tasks, explainer plates, and searchable visual reference work.
 
-[![Rim Brake Versus Disc Brake Comparison Chart](images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/01-rim-brake-versus-disc-brake-comparison-chart.png)](prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/01-rim-brake-versus-disc-brake-comparison-chart.prompt.md)
+[![Box Braids And Knotless Braids Chart](images/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.png)](prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.prompt.md)
 
 | Public images | Public runs | Search hooks | Formats |
 | --- | --- | --- | --- |
-| 30 | 3 | 282 | 11 |
+| 40 | 4 | 379 | 11 |
 
 ## What This Repo Publishes
 
@@ -19,6 +19,54 @@
 ## Current Public Gallery
 
 <table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.png" alt="Box Braids And Knotless Braids Chart (scientific-educational)" width="100%" /></a>
+  <br /><strong>Box Braids And Knotless Braids Chart</strong>
+  <br /><sub>scientific-educational · root start · braid hang</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.png" alt="Cornrow Parting Pattern Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Cornrow Parting Pattern Guide</strong>
+  <br /><sub>scientific-educational · curved rows · side-swoop rows</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/03-braid-size-section-grid-poster.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/03-braid-size-section-grid-poster.png" alt="Braid Size Section Grid Poster (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Braid Size Section Grid Poster</strong>
+  <br /><sub>infographic-diagram · large braid section squares at the top · matching finished braid thickness samples hanging below</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/04-feed-in-braid-sequence-poster.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/04-feed-in-braid-sequence-poster.png" alt="Feed In Braid Sequence Poster (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Feed In Braid Sequence Poster</strong>
+  <br /><sub>infographic-diagram · close hand-and-mannequin demonstration of a feed-in cornrow · first added extension piece</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.png" alt="Tight Braid Warning Signs Chart (scientific-educational)" width="100%" /></a>
+  <br /><strong>Tight Braid Warning Signs Chart</strong>
+  <br /><sub>scientific-educational · smooth sections · slight scalp visibility versus redness</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/06-braiding-tool-tray-reference.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/06-braiding-tool-tray-reference.png" alt="Braiding Tool Tray Reference (atlas-contact-sheet)" width="100%" /></a>
+  <br /><strong>Braiding Tool Tray Reference</strong>
+  <br /><sub>atlas-contact-sheet · neatly arranged braiding tools including a rat-tail comb · wide-tooth comb</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/07-extension-fiber-blend-swatch-board.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/07-extension-fiber-blend-swatch-board.png" alt="Extension Fiber Blend Swatch Board (scientific-educational)" width="100%" /></a>
+  <br /><strong>Extension Fiber Blend Swatch Board</strong>
+  <br /><sub>scientific-educational · honey ombre · auburn blend</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/08-bead-cuff-and-endings-plate.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/08-bead-cuff-and-endings-plate.png" alt="Bead Cuff And Endings Plate (scientific-educational)" width="100%" /></a>
+  <br /><strong>Bead Cuff And Endings Plate</strong>
+  <br /><sub>scientific-educational · five finished braid-end samples mounted vertically · curled end</sub>
+</td>
+</tr>
 <tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/01-rim-brake-versus-disc-brake-comparison-chart.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/01-rim-brake-versus-disc-brake-comparison-chart.png" alt="Rim Brake Versus Disc Brake Comparison Chart (scientific-educational)" width="100%" /></a>
@@ -101,6 +149,18 @@
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.png" alt="Cake Decorating Tools Tray Reference (atlas-contact-sheet)" width="100%" /></a>
   <br /><strong>Cake Decorating Tools Tray Reference</strong>
   <br /><sub>atlas-contact-sheet · disciplined decorating kit including reusable piping bags · open star tip</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/09-cosmetology-braiding-station-setup.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/09-cosmetology-braiding-station-setup.png" alt="Cosmetology Braiding Station Setup (photorealistic-natural)" width="100%" /></a>
+  <br /><strong>Cosmetology Braiding Station Setup</strong>
+  <br /><sub>photorealistic-natural · rat-tail combs in a crock · pre-stretched extension bundles on hooks</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/10-braiding-clinic-section-cutaway.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/10-braiding-clinic-section-cutaway.png" alt="Braiding Clinic Section Cutaway (mixed-format)" width="100%" /></a>
+  <br /><strong>Braiding Clinic Section Cutaway</strong>
+  <br /><sub>mixed-format · styling chairs · mannequin-head shelf</sub>
 </td>
 </tr>
 <tr>
@@ -205,20 +265,20 @@
 
 | Panel | Human task | Labels |
 | --- | --- | --- |
-| Rim Brake Versus Disc Brake Comparison Chart | Shows the hardware difference between commuter rim brakes and disc brakes through visible cable routing, pad location, rotor placement, and caliper shape so a beginner can recognize both systems quickly | brake pads touching the rim, brake cable noodle, disc rotor |
-| How To Patch A Bicycle Tube Poster | Walks a new commuter through the flat-fix sequence from lifting one tire bead to patching, waiting, and reinstalling the tube without relying on a long repair manual | tube pull, puncture check in a water basin, roughening the tube |
-| Bike Chain Wear And Lubrication Guide | Connects chain-checker readings, dirty-versus-clean drivetrain evidence, and proper one-drop-per-roller lubrication so riders can spot wear and maintain a quiet chain | cleaner chain after brushing, lube bottle applying one drop per roller, dirty cassette teeth |
-| Hex Key Sizes And Bike Bolt Reference | Lets a beginner match likely Allen-key sizes to common commuter-bike clamp and mount points so they can reach for the right tool before stripping a bolt | seatpost clamp bolt, bottle cage bolt, brake lever clamp |
-| Brake Pad Wear And Rotor Rub Troubleshooting Board | Gives riders visual warning cues for pad wear, glazing, and rotor rub so they can tell the difference between a healthy braking surface and one that needs adjustment or replacement | direct comparison of healthy brake pads, worn brake pads, glazed brake pads |
-| Front And Rear Derailleur Anatomy Diagram | Helps a new mechanic identify which adjustment parts belong to the front derailleur versus the rear derailleur, with clear visibility on the cage, limit screws, cable path, jockey wheels, and hanger relation | cable path, barrel adjuster, H and L limit screw positions |
+| Box Braids And Knotless Braids Chart | Compares the root structure, section geometry, finished hang, and perceived weight of box braids versus knotless braids so a trainee can understand why the two installs behave differently before starting a service | root start, braid hang, weight distribution |
+| Cornrow Parting Pattern Guide | Shows how different cornrow routes are planned on the scalp so students can map straight rows, curved rows, feed-in fronts, and crown patterns before their hands touch hair | curved rows, side-swoop rows, feed-in hairline rows |
+| Braid Size Section Grid Poster | Links scalp section size to finished braid thickness so a learner can plan small, medium, or large installs without guessing how a square part becomes a final braid | large braid section squares at the top, matching finished braid thickness samples hanging below, top-down scalp section grid strip |
+| Feed In Braid Sequence Poster | Walks through the repeated hand motion of feed-in braiding so a trainee can see when extension fiber is added, where fingers hold tension, and how the row looks once it stabilizes | close hand-and-mannequin demonstration of a feed-in cornrow, first added extension piece, second add |
+| Tight Braid Warning Signs Chart | Distinguishes a comfortable install from traction-risk clues so trainees can recognize redness, bumps, shiny over-pulled roots, and stressed edges before sending a client home | smooth sections, slight scalp visibility versus redness, shiny over-pulled roots |
+| Braiding Tool Tray Reference | Identifies the compact objects that actually belong at a braiding station, from rat-tail comb and duckbill clip to bead threader, crochet latch hook, and folded neck strip | neatly arranged braiding tools including a rat-tail comb, wide-tooth comb, edge brush |
 
 ## Current Seed Run
 
-- **Theme:** Lantern Kite Gecko Film Asset Bible
+- **Theme:** Protective Braiding Training Guides
 
 - **Coverage:** 10 panels with prompt cards and a run report.
 
-- **Run page:** [20260521-0440-lantern-kite-gecko-film-asset-bible](site/r/20260521-0440-lantern-kite-gecko-film-asset-bible/index.html)
+- **Run page:** [20260521-1452-protective-braiding-training-guides](site/r/20260521-1452-protective-braiding-training-guides/index.html)
 
 ## Publish Automation
 

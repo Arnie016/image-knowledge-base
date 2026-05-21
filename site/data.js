@@ -1,9 +1,9 @@
 window.IMAGE_KB = {
-  "generatedAt": "2026-05-21T04:40:39+08:00",
-  "imageCount": 30,
-  "publicImageCount": 30,
+  "generatedAt": "2026-05-21T14:52:06+08:00",
+  "imageCount": 40,
+  "publicImageCount": 40,
   "archivedImageCount": 0,
-  "runCount": 3,
+  "runCount": 4,
   "rubric": {
     "version": "2026-05-06-v1",
     "scale": "1-5 per dimension, weighted to 100 overall",
@@ -69,18 +69,26 @@ window.IMAGE_KB = {
   "taxonomies": [
     [
       "scientific-educational",
-      8
+      13
     ],
     [
       "infographic-diagram",
-      4
+      6
     ],
     [
       "photorealistic-natural",
-      4
+      5
+    ],
+    [
+      "atlas-contact-sheet",
+      3
     ],
     [
       "film-preproduction",
+      3
+    ],
+    [
+      "mixed-format",
       3
     ],
     [
@@ -88,15 +96,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "atlas-contact-sheet",
-      2
-    ],
-    [
       "character-bible",
-      2
-    ],
-    [
-      "mixed-format",
       2
     ],
     [
@@ -115,14 +115,26 @@ window.IMAGE_KB = {
   "topics": [
     [
       "labels",
-      26
-    ],
-    [
-      "short",
-      23
+      33
     ],
     [
       "matte",
+      29
+    ],
+    [
+      "short",
+      29
+    ],
+    [
+      "like",
+      24
+    ],
+    [
+      "mood",
+      23
+    ],
+    [
+      "paper",
       22
     ],
     [
@@ -130,35 +142,35 @@ window.IMAGE_KB = {
       21
     ],
     [
-      "mood",
-      21
-    ],
-    [
-      "paper",
+      "guide",
       17
     ],
     [
-      "like",
-      14
-    ],
-    [
       "chart",
-      12
+      16
     ],
     [
       "reference",
-      12
+      15
+    ],
+    [
+      "poster",
+      14
     ],
     [
       "steel",
       12
     ],
     [
-      "guide",
+      "brushed",
       11
     ],
     [
       "repair",
+      11
+    ],
+    [
+      "scientific-educational",
       11
     ],
     [
@@ -170,11 +182,15 @@ window.IMAGE_KB = {
       10
     ],
     [
-      "brushed",
+      "buttercream",
       10
     ],
     [
-      "buttercream",
+      "comparison",
+      10
+    ],
+    [
+      "direct",
       10
     ],
     [
@@ -186,19 +202,19 @@ window.IMAGE_KB = {
       10
     ],
     [
-      "poster",
-      10
-    ],
-    [
       "animation",
       9
     ],
     [
-      "commuter",
+      "braiding",
       9
     ],
     [
-      "comparison",
+      "brass",
+      9
+    ],
+    [
+      "commuter",
       9
     ],
     [
@@ -214,12 +230,20 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "direct",
+      "fiber",
       8
     ],
     [
       "kite",
       8
+    ],
+    [
+      "braid",
+      7
+    ],
+    [
+      "brown",
+      7
     ],
     [
       "cake",
@@ -234,19 +258,35 @@ window.IMAGE_KB = {
       7
     ],
     [
+      "how",
+      7
+    ],
+    [
       "piping",
       7
     ],
     [
-      "scientific-educational",
+      "salon",
       7
     ],
     [
-      "brass",
+      "training",
+      7
+    ],
+    [
+      "bench",
       6
     ],
     [
       "cape",
+      6
+    ],
+    [
+      "charcoal",
+      6
+    ],
+    [
+      "color",
       6
     ],
     [
@@ -258,7 +298,27 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "hooks",
+      6
+    ],
+    [
+      "including",
+      6
+    ],
+    [
+      "infographic-diagram",
+      6
+    ],
+    [
       "lantern",
+      6
+    ],
+    [
+      "mannequin",
+      6
+    ],
+    [
+      "metal",
       6
     ],
     [
@@ -270,11 +330,27 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "across",
+      "repeated",
+      6
+    ],
+    [
+      "room",
+      6
+    ],
+    [
+      "safety",
+      6
+    ],
+    [
+      "tip",
+      6
+    ],
+    [
+      "accents",
       5
     ],
     [
-      "bench",
+      "across",
       5
     ],
     [
@@ -290,11 +366,15 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "cosmetology",
+      5
+    ],
+    [
       "courier",
       5
     ],
     [
-      "including",
+      "framing",
       5
     ],
     [
@@ -314,15 +394,15 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "plate",
+      5
+    ],
+    [
       "production",
       5
     ],
     [
       "rack",
-      5
-    ],
-    [
-      "repeated",
       5
     ],
     [
@@ -334,15 +414,27 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "safety",
+      "scalp",
       5
     ],
     [
-      "tip",
+      "section",
       5
     ],
     [
-      "accents",
+      "sequence",
+      5
+    ],
+    [
+      "tools",
+      5
+    ],
+    [
+      "action",
+      4
+    ],
+    [
+      "arrows",
       4
     ],
     [
@@ -354,6 +446,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "bead",
+      4
+    ],
+    [
       "bell",
       4
     ],
@@ -362,11 +458,19 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "bottle",
+      4
+    ],
+    [
+      "braids",
+      4
+    ],
+    [
       "ceramic",
       4
     ],
     [
-      "color",
+      "classroom",
       4
     ],
     [
@@ -382,19 +486,27 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "each",
+      4
+    ],
+    [
+      "edge",
+      4
+    ],
+    [
       "example",
       4
     ],
     [
-      "framing",
+      "extension",
       4
     ],
     [
-      "how",
+      "finished",
       4
     ],
     [
-      "infographic-diagram",
+      "hardware",
       4
     ],
     [
@@ -406,7 +518,7 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "metal",
+      "overhead",
       4
     ],
     [
@@ -418,11 +530,15 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "photorealistic-natural",
+      4
+    ],
+    [
       "piped",
       4
     ],
     [
-      "plate",
+      "practice",
       4
     ],
     [
@@ -431,10 +547,6 @@ window.IMAGE_KB = {
     ],
     [
       "roof",
-      4
-    ],
-    [
-      "room",
       4
     ],
     [
@@ -450,11 +562,27 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "sequence",
+      "setup",
+      4
+    ],
+    [
+      "side",
+      4
+    ],
+    [
+      "split",
       4
     ],
     [
       "star",
+      4
+    ],
+    [
+      "station",
+      4
+    ],
+    [
+      "synthetic",
       4
     ],
     [
@@ -464,10 +592,6 @@ window.IMAGE_KB = {
     [
       "tire",
       4
-    ],
-    [
-      "action",
-      3
     ],
     [
       "amber",
@@ -482,11 +606,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "arrows",
+      "asphalt",
       3
     ],
     [
-      "asphalt",
+      "atlas-contact-sheet",
       3
     ],
     [
@@ -495,6 +619,10 @@ window.IMAGE_KB = {
     ],
     [
       "bridge",
+      3
+    ],
+    [
+      "bundles",
       3
     ],
     [
@@ -522,11 +650,35 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "circles",
+      3
+    ],
+    [
+      "close",
+      3
+    ],
+    [
+      "column",
+      3
+    ],
+    [
       "context",
       3
     ],
     [
       "costume",
+      3
+    ],
+    [
+      "cutaway",
+      3
+    ],
+    [
+      "dark",
+      3
+    ],
+    [
+      "deep",
       3
     ],
     [
@@ -542,10 +694,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "each",
-      3
-    ],
-    [
       "environment",
       3
     ],
@@ -555,6 +703,14 @@ window.IMAGE_KB = {
     ],
     [
       "film-preproduction",
+      3
+    ],
+    [
+      "finishes",
+      3
+    ],
+    [
+      "finishing",
       3
     ],
     [
@@ -570,7 +726,23 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "hardware",
+      "hair",
+      3
+    ],
+    [
+      "hanging",
+      3
+    ],
+    [
+      "hold",
+      3
+    ],
+    [
+      "honey",
+      3
+    ],
+    [
+      "inset",
       3
     ],
     [
@@ -586,11 +758,23 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "open",
+      "materials",
       3
     ],
     [
-      "overhead",
+      "minimal",
+      3
+    ],
+    [
+      "mixed-format",
+      3
+    ],
+    [
+      "neutral",
+      3
+    ],
+    [
+      "open",
       3
     ],
     [
@@ -602,15 +786,23 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "photorealistic-natural",
-      3
-    ],
-    [
       "pistachio",
       3
     ],
     [
+      "planning",
+      3
+    ],
+    [
+      "plastic",
+      3
+    ],
+    [
       "practical",
+      3
+    ],
+    [
+      "process",
       3
     ],
     [
@@ -622,11 +814,15 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "rosewood",
+      3
+    ],
+    [
       "round",
       3
     ],
     [
-      "setup",
+      "sample",
       3
     ],
     [
@@ -634,19 +830,15 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "side",
+      "silver",
       3
     ],
     [
-      "split",
+      "smooth",
       3
     ],
     [
       "spool",
-      3
-    ],
-    [
-      "station",
       3
     ],
     [
@@ -658,11 +850,31 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "strip",
+      3
+    ],
+    [
+      "strong",
+      3
+    ],
+    [
+      "teaching",
+      3
+    ],
+    [
       "terracotta",
       3
     ],
     [
       "test",
+      3
+    ],
+    [
+      "top-down",
+      3
+    ],
+    [
+      "trolley",
       3
     ],
     [
@@ -686,6 +898,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "accent",
+      2
+    ],
+    [
       "after",
       2
     ],
@@ -698,15 +914,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "answer",
+      2
+    ],
+    [
       "around",
       2
     ],
     [
       "assembly",
-      2
-    ],
-    [
-      "atlas-contact-sheet",
       2
     ],
     [
@@ -722,11 +938,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "bead",
+      "beat",
       2
     ],
     [
-      "beat",
+      "before",
+      2
+    ],
+    [
+      "believable",
       2
     ],
     [
@@ -742,11 +962,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "boards",
+      2
+    ],
+    [
       "borders",
       2
     ],
     [
-      "bottle",
+      "bristles",
+      2
+    ],
+    [
+      "brush",
       2
     ],
     [
@@ -782,10 +1010,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "charcoal",
-      2
-    ],
-    [
       "checker",
       2
     ],
@@ -798,11 +1022,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "classroom",
+      "clipped",
       2
     ],
     [
-      "clipped",
+      "clips",
       2
     ],
     [
@@ -826,10 +1050,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "column",
-      2
-    ],
-    [
       "commercial",
       2
     ],
@@ -850,11 +1070,23 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "cutaway",
+      "corners",
+      2
+    ],
+    [
+      "cornrow",
+      2
+    ],
+    [
+      "cuff",
       2
     ],
     [
       "derailleur",
+      2
+    ],
+    [
+      "detail",
       2
     ],
     [
@@ -866,7 +1098,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "edge",
+      "documentary",
+      2
+    ],
+    [
+      "duckbill",
       2
     ],
     [
@@ -878,11 +1114,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "film",
+      "feed-in",
       2
     ],
     [
-      "finishing",
+      "film",
       2
     ],
     [
@@ -894,11 +1130,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "gel",
+      2
+    ],
+    [
+      "geometry",
+      2
+    ],
+    [
+      "glass",
+      2
+    ],
+    [
       "grain",
       2
     ],
     [
       "grease",
+      2
+    ],
+    [
+      "grid",
       2
     ],
     [
@@ -910,6 +1162,14 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "hairline",
+      2
+    ],
+    [
+      "healthy",
+      2
+    ],
+    [
       "hex",
       2
     ],
@@ -918,19 +1178,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "hold",
-      2
-    ],
-    [
-      "inset",
-      2
-    ],
-    [
       "insets",
       2
     ],
     [
       "inside",
+      2
+    ],
+    [
+      "installation",
       2
     ],
     [
@@ -950,11 +1206,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "label",
+      2
+    ],
+    [
+      "laminate",
+      2
+    ],
+    [
+      "large",
+      2
+    ],
+    [
       "leaf",
       2
     ],
     [
       "leap",
+      2
+    ],
+    [
+      "lines",
       2
     ],
     [
@@ -974,7 +1246,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "materials",
+      "masking",
       2
     ],
     [
@@ -982,11 +1254,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "minimal",
+      "mint",
       2
     ],
     [
-      "mixed-format",
+      "mint-blue",
+      2
+    ],
+    [
+      "mirror",
       2
     ],
     [
@@ -999,10 +1275,6 @@ window.IMAGE_KB = {
     ],
     [
       "narrow",
-      2
-    ],
-    [
-      "neutral",
       2
     ],
     [
@@ -1058,19 +1330,19 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "planning",
-      2
-    ],
-    [
       "plaster",
       2
     ],
     [
-      "plastic",
+      "plus",
       2
     ],
     [
-      "practice",
+      "pre-stretched",
+      2
+    ],
+    [
+      "presentation",
       2
     ],
     [
@@ -1078,7 +1350,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "process",
+      "rat-tail",
       2
     ],
     [
@@ -1106,6 +1378,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "row",
+      2
+    ],
+    [
       "ruffle",
       2
     ],
@@ -1114,7 +1390,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "sample",
+      "samples",
+      2
+    ],
+    [
+      "sanitation",
       2
     ],
     [
@@ -1123,10 +1403,6 @@ window.IMAGE_KB = {
     ],
     [
       "scraper",
-      2
-    ],
-    [
-      "section",
       2
     ],
     [
@@ -1142,11 +1418,19 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "silver",
+      "silhouette",
       2
     ],
     [
       "six-panel",
+      2
+    ],
+    [
+      "soft",
+      2
+    ],
+    [
+      "spacing",
       2
     ],
     [
@@ -1162,11 +1446,35 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "squares",
+      2
+    ],
+    [
+      "stacked",
+      2
+    ],
+    [
       "stand",
       2
     ],
     [
       "still",
+      2
+    ],
+    [
+      "storage",
+      2
+    ],
+    [
+      "students",
+      2
+    ],
+    [
+      "styling",
+      2
+    ],
+    [
+      "swatches",
       2
     ],
     [
@@ -1182,7 +1490,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "teaching",
+      "teeth",
+      2
+    ],
+    [
+      "texture",
       2
     ],
     [
@@ -1202,7 +1514,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "tools",
+      "tones",
+      2
+    ],
+    [
+      "tool",
+      2
+    ],
+    [
+      "top",
       2
     ],
     [
@@ -1210,11 +1530,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "training",
+      "tray",
       2
     ],
     [
       "troubleshooting",
+      2
+    ],
+    [
+      "wash",
       2
     ],
     [
@@ -1226,10 +1550,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "accent",
-      1
-    ],
-    [
       "acetate",
       1
     ],
@@ -1238,11 +1558,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "add",
+      1
+    ],
+    [
+      "added",
+      1
+    ],
+    [
       "adding",
       1
     ],
     [
       "adjuster",
+      1
+    ],
+    [
+      "agents",
       1
     ],
     [
@@ -1255,6 +1587,10 @@ window.IMAGE_KB = {
     ],
     [
       "alert",
+      1
+    ],
+    [
+      "aligned",
       1
     ],
     [
@@ -1294,10 +1630,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "answer",
-      1
-    ],
-    [
       "answering",
       1
     ],
@@ -1322,6 +1654,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "architectural",
+      1
+    ],
+    [
       "arcs",
       1
     ],
@@ -1334,11 +1670,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "arranged",
+      1
+    ],
+    [
       "artifact",
       1
     ],
     [
       "artists",
+      1
+    ],
+    [
+      "auburn",
       1
     ],
     [
@@ -1350,7 +1694,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "bands",
+      1
+    ],
+    [
       "barrel",
+      1
+    ],
+    [
+      "base",
       1
     ],
     [
@@ -1366,7 +1718,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "believable",
+      "beads",
+      1
+    ],
+    [
+      "beauty-school",
       1
     ],
     [
@@ -1374,7 +1730,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "below",
+      1
+    ],
+    [
       "bent",
+      1
+    ],
+    [
+      "blend",
       1
     ],
     [
@@ -1382,7 +1746,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "boards",
+      "blonde",
       1
     ],
     [
@@ -1402,7 +1766,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "box",
+      1
+    ],
+    [
       "boxes",
+      1
+    ],
+    [
+      "braid-end",
       1
     ],
     [
@@ -1414,18 +1786,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "bristles",
-      1
-    ],
-    [
-      "brown",
-      1
-    ],
-    [
-      "brush",
-      1
-    ],
-    [
       "brushing",
       1
     ],
@@ -1434,7 +1794,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "buildable",
+      1
+    ],
+    [
       "built",
+      1
+    ],
+    [
+      "bumps",
+      1
+    ],
+    [
+      "cabinetry",
       1
     ],
     [
@@ -1458,6 +1830,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "callouts",
+      1
+    ],
+    [
       "camera",
       1
     ],
@@ -1470,11 +1846,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "carts",
+      1
+    ],
+    [
       "case",
       1
     ],
     [
       "causing",
+      1
+    ],
+    [
+      "caution",
       1
     ],
     [
@@ -1490,7 +1874,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "chairs",
+      1
+    ],
+    [
       "changes",
+      1
+    ],
+    [
+      "charts",
       1
     ],
     [
@@ -1534,11 +1926,39 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "close",
+      "client",
+      1
+    ],
+    [
+      "clinic",
+      1
+    ],
+    [
+      "closeup",
+      1
+    ],
+    [
+      "clues",
+      1
+    ],
+    [
+      "comb",
+      1
+    ],
+    [
+      "combs",
       1
     ],
     [
       "common",
+      1
+    ],
+    [
+      "compares",
+      1
+    ],
+    [
+      "comparing",
       1
     ],
     [
@@ -1574,7 +1994,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "corners",
+      "cornrows",
       1
     ],
     [
@@ -1582,7 +2002,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "counter",
+      1
+    ],
+    [
       "counterbalance",
+      1
+    ],
+    [
+      "counters",
       1
     ],
     [
@@ -1598,11 +2026,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "crochet",
+      1
+    ],
+    [
+      "crock",
+      1
+    ],
+    [
       "crops",
       1
     ],
     [
       "cross",
+      1
+    ],
+    [
+      "crown",
       1
     ],
     [
@@ -1618,6 +2058,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cuffs",
+      1
+    ],
+    [
       "cupcake",
       1
     ],
@@ -1627,6 +2071,14 @@ window.IMAGE_KB = {
     ],
     [
       "curb",
+      1
+    ],
+    [
+      "curled",
+      1
+    ],
+    [
+      "curved",
       1
     ],
     [
@@ -1646,7 +2098,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "detail",
+      "demo",
+      1
+    ],
+    [
+      "demonstration",
       1
     ],
     [
@@ -1674,7 +2130,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "documentary",
+      "distribution",
       1
     ],
     [
@@ -1718,6 +2174,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "edges",
+      1
+    ],
+    [
       "edit",
       1
     ],
@@ -1734,6 +2194,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "elastic",
+      1
+    ],
+    [
       "elevation",
       1
     ],
@@ -1742,7 +2206,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "end",
+      1
+    ],
+    [
+      "ends",
+      1
+    ],
+    [
       "engineers",
+      1
+    ],
+    [
+      "espresso",
       1
     ],
     [
@@ -1786,6 +2262,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "feed",
+      1
+    ],
+    [
       "feel",
       1
     ],
@@ -1795,6 +2275,10 @@ window.IMAGE_KB = {
     ],
     [
       "fender",
+      1
+    ],
+    [
+      "fiber-texture",
       1
     ],
     [
@@ -1810,11 +2294,19 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "finished",
+      "fingers",
       1
     ],
     [
-      "finishes",
+      "finish",
+      1
+    ],
+    [
+      "first",
+      1
+    ],
+    [
+      "five",
       1
     ],
     [
@@ -1838,6 +2330,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "folded",
+      1
+    ],
+    [
       "foliage",
       1
     ],
@@ -1850,7 +2346,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "fronts",
+      1
+    ],
+    [
       "full",
+      1
+    ],
+    [
+      "furniture",
       1
     ],
     [
@@ -1866,6 +2370,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "geometric",
+      1
+    ],
+    [
       "ghosted",
       1
     ],
@@ -1874,15 +2382,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "glass",
-      1
-    ],
-    [
       "glazed",
       1
     ],
     [
       "glue",
+      1
+    ],
+    [
+      "gore",
       1
     ],
     [
@@ -1898,10 +2406,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "grid",
-      1
-    ],
-    [
       "grip",
       1
     ],
@@ -1914,7 +2418,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "hand",
+      1
+    ],
+    [
+      "hand-and-mannequin",
+      1
+    ],
+    [
+      "hand-check",
+      1
+    ],
+    [
       "hand-drawn",
+      1
+    ],
+    [
+      "hands",
+      1
+    ],
+    [
+      "hang",
       1
     ],
     [
@@ -1922,11 +2446,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "hanging",
-      1
-    ],
-    [
-      "healthy",
+      "head",
       1
     ],
     [
@@ -1934,7 +2454,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "hooks",
+      "home",
+      1
+    ],
+    [
+      "hook",
       1
     ],
     [
@@ -1946,7 +2470,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "human",
+      1
+    ],
+    [
       "icing",
+      1
+    ],
+    [
+      "icon",
       1
     ],
     [
@@ -1974,7 +2506,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "install",
+      1
+    ],
+    [
+      "interior",
+      1
+    ],
+    [
       "isolates",
+      1
+    ],
+    [
+      "jar",
       1
     ],
     [
@@ -2002,7 +2546,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "label",
+      "knotless",
       1
     ],
     [
@@ -2026,6 +2570,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "latch",
+      1
+    ],
+    [
       "launch",
       1
     ],
@@ -2046,6 +2594,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "lighting",
+      1
+    ],
+    [
       "lightly",
       1
     ],
@@ -2058,10 +2610,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "lines",
-      1
-    ],
-    [
       "loading",
       1
     ],
@@ -2070,7 +2618,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "looks",
+      1
+    ],
+    [
       "lookup",
+      1
+    ],
+    [
+      "loose",
       1
     ],
     [
@@ -2086,11 +2642,23 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "mascot",
+      "manicure",
       1
     ],
     [
-      "masking",
+      "mannequin-head",
+      1
+    ],
+    [
+      "map",
+      1
+    ],
+    [
+      "maps",
+      1
+    ],
+    [
+      "mascot",
       1
     ],
     [
@@ -2098,11 +2666,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "matching",
+      1
+    ],
+    [
       "melting",
       1
     ],
     [
-      "mint",
+      "mirrors",
+      1
+    ],
+    [
+      "mix",
       1
     ],
     [
@@ -2115,6 +2691,10 @@ window.IMAGE_KB = {
     ],
     [
       "mount",
+      1
+    ],
+    [
+      "mounted",
       1
     ],
     [
@@ -2131,6 +2711,14 @@ window.IMAGE_KB = {
     ],
     [
       "names",
+      1
+    ],
+    [
+      "neatly",
+      1
+    ],
+    [
+      "neck",
       1
     ],
     [
@@ -2154,7 +2742,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "ombre",
+      1
+    ],
+    [
+      "once",
+      1
+    ],
+    [
       "order",
+      1
+    ],
+    [
+      "over-pulled",
       1
     ],
     [
@@ -2194,7 +2794,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "part",
+      1
+    ],
+    [
+      "parting",
+      1
+    ],
+    [
       "path",
+      1
+    ],
+    [
+      "pattern",
+      1
+    ],
+    [
+      "patterns",
       1
     ],
     [
@@ -2226,11 +2842,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "photograph",
+      1
+    ],
+    [
       "photographed",
       1
     ],
     [
+      "piece",
+      1
+    ],
+    [
       "pinch",
+      1
+    ],
+    [
+      "pinned",
       1
     ],
     [
@@ -2270,11 +2898,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "presentation",
+      "profile",
       1
     ],
     [
-      "profile",
+      "progression",
       1
     ],
     [
@@ -2310,6 +2938,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "query",
+      1
+    ],
+    [
       "quick",
       1
     ],
@@ -2323,6 +2955,10 @@ window.IMAGE_KB = {
     ],
     [
       "rain",
+      1
+    ],
+    [
+      "range",
       1
     ],
     [
@@ -2346,6 +2982,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "redness",
+      1
+    ],
+    [
       "reflective",
       1
     ],
@@ -2358,6 +2998,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "repeatable",
+      1
+    ],
+    [
       "resin",
       1
     ],
@@ -2367,6 +3011,14 @@ window.IMAGE_KB = {
     ],
     [
       "riders",
+      1
+    ],
+    [
+      "root",
+      1
+    ],
+    [
+      "roots",
       1
     ],
     [
@@ -2390,11 +3042,23 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "row",
+      "rows",
       1
     ],
     [
       "rub",
+      1
+    ],
+    [
+      "rubber-band",
+      1
+    ],
+    [
+      "ruler",
+      1
+    ],
+    [
+      "ruler-like",
       1
     ],
     [
@@ -2434,7 +3098,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "sealed",
+      1
+    ],
+    [
+      "second",
+      1
+    ],
+    [
+      "see",
+      1
+    ],
+    [
       "seedance",
+      1
+    ],
+    [
+      "shade",
       1
     ],
     [
@@ -2442,7 +3122,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "shelf",
+      1
+    ],
+    [
       "shelter",
+      1
+    ],
+    [
+      "shiny",
       1
     ],
     [
@@ -2458,11 +3146,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "side-swoop",
+      1
+    ],
+    [
       "sidewall",
       1
     ],
     [
-      "silhouette",
+      "signs",
+      1
+    ],
+    [
+      "silky",
       1
     ],
     [
@@ -2470,11 +3166,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "sink",
+      1
+    ],
+    [
+      "size",
+      1
+    ],
+    [
       "sizes",
       1
     ],
     [
+      "skin",
+      1
+    ],
+    [
       "slipping",
+      1
+    ],
+    [
+      "small",
       1
     ],
     [
@@ -2486,7 +3198,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "soft",
+      "smoothing",
+      1
+    ],
+    [
+      "snips",
       1
     ],
     [
@@ -2495,10 +3211,6 @@ window.IMAGE_KB = {
     ],
     [
       "spaced",
-      1
-    ],
-    [
-      "spacing",
       1
     ],
     [
@@ -2522,7 +3234,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "stacked",
+      "spray",
+      1
+    ],
+    [
+      "square",
+      1
+    ],
+    [
+      "start",
       1
     ],
     [
@@ -2534,6 +3254,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "step",
+      1
+    ],
+    [
       "stiff",
       1
     ],
@@ -2542,11 +3266,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "storage",
+      "storyboard",
       1
     ],
     [
-      "storyboard",
+      "straight",
+      1
+    ],
+    [
+      "straight-back",
       1
     ],
     [
@@ -2558,15 +3286,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "stressed",
+      1
+    ],
+    [
       "strings",
       1
     ],
     [
-      "strip",
+      "strips",
       1
     ],
     [
-      "strips",
+      "structure",
       1
     ],
     [
@@ -2578,7 +3310,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "swatches",
+      "swatch",
       1
     ],
     [
@@ -2598,7 +3330,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "tags",
+      1
+    ],
+    [
       "tan",
+      1
+    ],
+    [
+      "tape",
       1
     ],
     [
@@ -2606,15 +3346,35 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "teeth",
-      1
-    ],
-    [
       "tethered",
       1
     ],
     [
+      "thickness",
+      1
+    ],
+    [
+      "thread",
+      1
+    ],
+    [
+      "threader",
+      1
+    ],
+    [
+      "three",
+      1
+    ],
+    [
+      "three-column",
+      1
+    ],
+    [
       "three-quarter",
+      1
+    ],
+    [
+      "thumb",
       1
     ],
     [
@@ -2623,6 +3383,10 @@ window.IMAGE_KB = {
     ],
     [
       "ties",
+      1
+    ],
+    [
+      "tight",
       1
     ],
     [
@@ -2642,15 +3406,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "tool",
+      "too",
       1
     ],
     [
       "toolkit",
-      1
-    ],
-    [
-      "top",
       1
     ],
     [
@@ -2659,10 +3419,6 @@ window.IMAGE_KB = {
     ],
     [
       "transit",
-      1
-    ],
-    [
-      "tray",
       1
     ],
     [
@@ -2694,6 +3450,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "vinyl",
+      1
+    ],
+    [
       "vulcanizing",
       1
     ],
@@ -2702,11 +3462,27 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "wash",
+      "walls",
+      1
+    ],
+    [
+      "warm",
+      1
+    ],
+    [
+      "warning",
       1
     ],
     [
       "water",
+      1
+    ],
+    [
+      "wavy",
+      1
+    ],
+    [
+      "weight",
       1
     ],
     [
@@ -2718,7 +3494,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "wooden",
+      1
+    ],
+    [
+      "workstation",
+      1
+    ],
+    [
       "worn",
+      1
+    ],
+    [
+      "yaki",
+      1
+    ],
+    [
+      "zone",
       1
     ]
   ],
@@ -2729,14 +3521,18 @@ window.IMAGE_KB = {
     ],
     [
       "cream paper",
+      8
+    ],
+    [
+      "matte poster paper",
+      6
+    ],
+    [
+      "synthetic braiding fiber",
       5
     ],
     [
       "bakery-box cream",
-      4
-    ],
-    [
-      "matte poster paper",
       4
     ],
     [
@@ -2800,6 +3596,14 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "deep brown hair",
+      2
+    ],
+    [
+      "duckbill clips",
+      2
+    ],
+    [
       "faded saffron cloth",
       2
     ],
@@ -2812,11 +3616,27 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "honey scalp tones",
+      2
+    ],
+    [
       "lantern strings",
       2
     ],
     [
       "leaf tip",
+      2
+    ],
+    [
+      "mannequin scalp",
+      2
+    ],
+    [
+      "mannequin scalp texture",
+      2
+    ],
+    [
+      "matte charcoal tools",
       2
     ],
     [
@@ -2829,6 +3649,10 @@ window.IMAGE_KB = {
     ],
     [
       "matte production paper",
+      2
+    ],
+    [
+      "matte training paper",
       2
     ],
     [
@@ -2880,7 +3704,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "synthetic braid fiber",
+      2
+    ],
+    [
       "tire levers",
+      2
+    ],
+    [
+      "warm scalp tones",
       2
     ],
     [
@@ -2892,11 +3724,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "a geometric crown pattern",
+      1
+    ],
+    [
       "a repair stand in the present day",
       1
     ],
     [
+      "a ruler-like spacing reference",
+      1
+    ],
+    [
       "adding metal tip",
+      1
+    ],
+    [
+      "agents can see how demo zone",
       1
     ],
     [
@@ -2917,6 +3761,10 @@ window.IMAGE_KB = {
     ],
     [
       "anodized steel gray",
+      1
+    ],
+    [
+      "auburn blend",
       1
     ],
     [
@@ -2944,7 +3792,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "blonde tip mix",
+      1
+    ],
+    [
       "bottle cage bolt",
+      1
+    ],
+    [
+      "braid gel jar",
+      1
+    ],
+    [
+      "braid hang",
       1
     ],
     [
@@ -2960,11 +3820,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "brass cuffs",
+      1
+    ],
+    [
+      "brass hanging hooks",
+      1
+    ],
+    [
+      "brass hooks",
+      1
+    ],
+    [
       "Breaks one recurring action into readable anticipation",
       1
     ],
     [
       "bridge ledge",
+      1
+    ],
+    [
+      "bright beauty-school braiding station with mirror",
       1
     ],
     [
@@ -2977,6 +3853,10 @@ window.IMAGE_KB = {
     ],
     [
       "brushed brass spool",
+      1
+    ],
+    [
+      "brushed metal cuffs",
       1
     ],
     [
@@ -3056,6 +3936,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "charcoal chairs",
+      1
+    ],
+    [
+      "charcoal tags",
+      1
+    ],
+    [
       "cinderblock gray",
       1
     ],
@@ -3065,6 +3953,14 @@ window.IMAGE_KB = {
     ],
     [
       "cleaner chain after brushing",
+      1
+    ],
+    [
+      "clear spray bottle",
+      1
+    ],
+    [
+      "close hand-and-mannequin demonstration of a feed-in cornrow",
       1
     ],
     [
@@ -3088,6 +3984,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "Compares the root structure",
+      1
+    ],
+    [
       "Connects chain-checker readings",
       1
     ],
@@ -3104,7 +4004,51 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cream presentation board",
+      1
+    ],
+    [
+      "cream tray",
+      1
+    ],
+    [
+      "cream walls",
+      1
+    ],
+    [
+      "crochet latch hook",
+      1
+    ],
+    [
+      "curled end",
+      1
+    ],
+    [
+      "curled ends",
+      1
+    ],
+    [
+      "curved rows",
+      1
+    ],
+    [
       "cut rubber tire",
+      1
+    ],
+    [
+      "dark brown braids",
+      1
+    ],
+    [
+      "dark brown to honey fiber range",
+      1
+    ],
+    [
+      "dark espresso braids",
+      1
+    ],
+    [
+      "deep brown braids",
       1
     ],
     [
@@ -3160,11 +4104,39 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "edge brush",
+      1
+    ],
+    [
+      "extension storage hooks",
+      1
+    ],
+    [
       "faded saffron",
       1
     ],
     [
+      "feed-in fronts",
+      1
+    ],
+    [
+      "feed-in hairline rows",
+      1
+    ],
+    [
       "filled bags",
+      1
+    ],
+    [
+      "fingers hold tension",
+      1
+    ],
+    [
+      "first added extension piece",
+      1
+    ],
+    [
+      "five finished braid-end samples mounted vertically",
       1
     ],
     [
@@ -3181,6 +4153,10 @@ window.IMAGE_KB = {
     ],
     [
       "focused repair",
+      1
+    ],
+    [
+      "folded neck strip",
       1
     ],
     [
@@ -3228,7 +4204,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "honey ombre",
+      1
+    ],
+    [
+      "how the row looks once it stabilizes",
+      1
+    ],
+    [
       "hub shell",
+      1
+    ],
+    [
+      "human hands with neutral manicure",
       1
     ],
     [
@@ -3264,7 +4252,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "laminate counters",
+      1
+    ],
+    [
       "lantern amber",
+      1
+    ],
+    [
+      "large braid section squares at the top",
       1
     ],
     [
@@ -3300,7 +4296,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "mannequin-head shelf",
+      1
+    ],
+    [
       "masking tape",
+      1
+    ],
+    [
+      "matching finished braid thickness samples hanging below",
+      1
+    ],
+    [
+      "matte board paper",
       1
     ],
     [
@@ -3336,6 +4344,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "metal clips",
+      1
+    ],
+    [
+      "metal cuff accent finish",
+      1
+    ],
+    [
       "metal tips",
       1
     ],
@@ -3348,7 +4364,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "mint-blue arrows",
+      1
+    ],
+    [
+      "mint-blue healthy accents",
+      1
+    ],
+    [
+      "mirror glass",
+      1
+    ],
+    [
       "motion arrows",
+      1
+    ],
+    [
+      "neatly arranged braiding tools including a rat-tail comb",
       1
     ],
     [
@@ -3484,11 +4516,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "plastic comb teeth",
+      1
+    ],
+    [
       "plastic tire levers",
       1
     ],
     [
+      "plus three close fiber-texture circles comparing silky",
+      1
+    ],
+    [
       "plywood tan",
+      1
+    ],
+    [
+      "poster boards",
       1
     ],
     [
@@ -3497,6 +4541,14 @@ window.IMAGE_KB = {
     ],
     [
       "practice cakes",
+      1
+    ],
+    [
+      "practice mirrors",
+      1
+    ],
+    [
+      "pre-stretched extension bundles on hooks",
       1
     ],
     [
@@ -3513,6 +4565,10 @@ window.IMAGE_KB = {
     ],
     [
       "ragged star piping",
+      1
+    ],
+    [
+      "rat-tail combs in a crock",
       1
     ],
     [
@@ -3556,6 +4612,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "root closeup circles",
+      1
+    ],
+    [
+      "root start",
+      1
+    ],
+    [
       "rope border",
       1
     ],
@@ -3565,6 +4629,18 @@ window.IMAGE_KB = {
     ],
     [
       "rose tip",
+      1
+    ],
+    [
+      "rosewood cabinetry",
+      1
+    ],
+    [
+      "rosewood counter",
+      1
+    ],
+    [
+      "rosewood workstation",
       1
     ],
     [
@@ -3585,6 +4661,10 @@ window.IMAGE_KB = {
     ],
     [
       "rubber grips",
+      1
+    ],
+    [
+      "rubber-band plus bead finish",
       1
     ],
     [
@@ -3609,6 +4689,10 @@ window.IMAGE_KB = {
     ],
     [
       "same cape patch",
+      1
+    ],
+    [
+      "sanitation sink",
       1
     ],
     [
@@ -3640,7 +4724,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "second add",
+      1
+    ],
+    [
+      "section geometry",
+      1
+    ],
+    [
       "shell border",
+      1
+    ],
+    [
+      "shiny over-pulled roots",
       1
     ],
     [
@@ -3656,6 +4752,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "side-swoop rows",
+      1
+    ],
+    [
+      "silver cuffs",
+      1
+    ],
+    [
       "skid landing",
       1
     ],
@@ -3664,7 +4768,35 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "slight scalp visibility versus redness",
+      1
+    ],
+    [
       "slipping panic",
+      1
+    ],
+    [
+      "smooth mannequin scalp",
+      1
+    ],
+    [
+      "smooth mannequin skin",
+      1
+    ],
+    [
+      "smooth sections",
+      1
+    ],
+    [
+      "smooth wooden beads",
+      1
+    ],
+    [
+      "smoothing with thumb",
+      1
+    ],
+    [
+      "soft brush bristles",
       1
     ],
     [
@@ -3697,6 +4829,10 @@ window.IMAGE_KB = {
     ],
     [
       "sprinting across tiles",
+      1
+    ],
+    [
+      "stacked wooden finishes side by side",
       1
     ],
     [
@@ -3737,6 +4873,22 @@ window.IMAGE_KB = {
     ],
     [
       "strawberry pink accents",
+      1
+    ],
+    [
+      "stressed edges",
+      1
+    ],
+    [
+      "stressed edges before sending a client home",
+      1
+    ],
+    [
+      "styling chairs",
+      1
+    ],
+    [
+      "synthetic pre-stretched fiber",
       1
     ],
     [
@@ -3792,6 +4944,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "top-down scalp section grid strip",
+      1
+    ],
+    [
       "traffic-cone orange",
       1
     ],
@@ -3824,7 +4980,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "vinyl chairs",
+      1
+    ],
+    [
       "vulcanizing patch",
+      1
+    ],
+    [
+      "warm brown braids",
+      1
+    ],
+    [
+      "wavy texture before installation",
+      1
+    ],
+    [
+      "weight distribution",
       1
     ],
     [
@@ -3833,6 +5005,10 @@ window.IMAGE_KB = {
     ],
     [
       "wet pavement",
+      1
+    ],
+    [
+      "wide-tooth comb",
       1
     ],
     [
@@ -3848,6 +5024,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "wood laminate",
+      1
+    ],
+    [
       "worn brake pads",
       1
     ]
@@ -3855,10 +5035,21 @@ window.IMAGE_KB = {
   "bands": [
     [
       "signature",
-      30
+      40
     ]
   ],
   "runs": [
+    {
+      "slug": "20260521-1452-protective-braiding-training-guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "theme": "Protective Braiding Training Guides",
+      "imageCount": 10,
+      "status": "success",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "publicImageCount": 10,
+      "archivedImageCount": 0
+    },
     {
       "slug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
       "timestamp": "2026-05-21T04:40:39+08:00",
@@ -3894,6 +5085,1071 @@ window.IMAGE_KB = {
     }
   ],
   "images": [
+    {
+      "id": "20260521-1452-protective-braiding-training-guides-01",
+      "runSlug": "20260521-1452-protective-braiding-training-guides",
+      "runTheme": "Protective Braiding Training Guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "index": 1,
+      "title": "Box Braids And Knotless Braids Chart",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "braids",
+        "knotless",
+        "box",
+        "root",
+        "braid",
+        "circles",
+        "section",
+        "brass",
+        "chart",
+        "comparison",
+        "hang",
+        "mannequin",
+        "matte",
+        "paper",
+        "scalp",
+        "training",
+        "weight",
+        "braiding",
+        "cosmetology",
+        "cuff",
+        "finished",
+        "labels",
+        "salon",
+        "short",
+        "start",
+        "tape",
+        "tools",
+        "brown",
+        "charcoal",
+        "closeup",
+        "column",
+        "compares",
+        "corners",
+        "direct",
+        "distribution",
+        "fiber",
+        "framing",
+        "geometry",
+        "like",
+        "masking",
+        "scientific-educational",
+        "silhouette",
+        "smooth",
+        "split",
+        "squares",
+        "strong",
+        "structure",
+        "synthetic"
+      ],
+      "specificHooks": [
+        "root start",
+        "braid hang",
+        "weight distribution",
+        "root closeup circles",
+        "matte training paper",
+        "synthetic braiding fiber",
+        "smooth mannequin scalp",
+        "cream paper",
+        "matte charcoal tools",
+        "warm brown braids",
+        "Compares the root structure",
+        "section geometry"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.prompt.md",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "detailPath": "i/20260521-1452-protective-braiding-training-guides-01/",
+      "runPath": "r/20260521-1452-protective-braiding-training-guides/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished cosmetology training chart answering the query \"box braids vs knotless braids comparison\"\nScene/backdrop: neutral cream training-board background with faint salon tape marks and no room scene\nSubject: two side-by-side mannequin-head braid examples comparing classic box braids and knotless braids, showing scalp section squares, root start, braid hang, weight distribution, root closeup circles, section-grid circles, finished silhouette circles, and brass cuff samples\nStyle/medium: realistic cosmetology teaching poster combining clear mannequin photography with restrained diagram overlays and short labels only, no living-artist imitation\nComposition/framing: tall vertical comparison chart with a left column for box braids and a right column for knotless braids, large readable visual hierarchy, one header band, strong split anatomy, thumbnail legibility\nLighting/mood: bright beauty-school studio light, disciplined, practical, confidence-building\nColor palette: cream paper, matte charcoal tools, warm brown braids, mint-blue section lines, brass accent circles, soft terracotta caption bars\nMaterials/textures: matte training paper, synthetic braiding fiber, smooth mannequin scalp, plastic comb teeth, brushed brass cuff hardware, masking tape corners\nText (verbatim): \"BOX BRAIDS\" \"KNOTLESS BRAIDS\" \"root\" \"section\" \"weight\"\nConstraints: short labels only, useful for cosmetology students and salon trainers, direct search-answer image, no logos, no watermark, no dense paragraphs\nAvoid: beauty ad glamour, influencer selfie framing, generic salon stock photo bokeh, product branding, tiny unreadable text, extra unrelated tools",
+      "learningValue": "Compares the root structure, section geometry, finished hang, and perceived weight of box braids versus knotless braids so a trainee can understand why the two installs behave differently before starting a service.",
+      "compositionNotes": "The split board keeps mannequin profile, scalp squares, root closeups, and finished braid silhouette visible at once, which gives the atlas strong hooks like knotless root start, square part grid, braid hang, masking tape corners, and brass cuff sample.",
+      "formatNotes": "Direct comparison page for queries like box braids vs knotless braids comparison, box braids and knotless braids chart, and difference between knotless and box braids visual guide. Short labels only; the full explanation is preserved in the prompt card.",
+      "searchText": "box braids and knotless braids chart scientific-educational protective braiding training guides 20260521-1452-protective-braiding-training-guides use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished cosmetology training chart answering the query \"box braids vs knotless braids comparison\"\nscene/backdrop: neutral cream training-board background with faint salon tape marks and no room scene\nsubject: two side-by-side mannequin-head braid examples comparing classic box braids and knotless braids, showing scalp section squares, root start, braid hang, weight distribution, root closeup circles, section-grid circles, finished silhouette circles, and brass cuff samples\nstyle/medium: realistic cosmetology teaching poster combining clear mannequin photography with restrained diagram overlays and short labels only, no living-artist imitation\ncomposition/framing: tall vertical comparison chart with a left column for box braids and a right column for knotless braids, large readable visual hierarchy, one header band, strong split anatomy, thumbnail legibility\nlighting/mood: bright beauty-school studio light, disciplined, practical, confidence-building\ncolor palette: cream paper, matte charcoal tools, warm brown braids, mint-blue section lines, brass accent circles, soft terracotta caption bars\nmaterials/textures: matte training paper, synthetic braiding fiber, smooth mannequin scalp, plastic comb teeth, brushed brass cuff hardware, masking tape corners\ntext (verbatim): \"box braids\" \"knotless braids\" \"root\" \"section\" \"weight\"\nconstraints: short labels only, useful for cosmetology students and salon trainers, direct search-answer image, no logos, no watermark, no dense paragraphs\navoid: beauty ad glamour, influencer selfie framing, generic salon stock photo bokeh, product branding, tiny unreadable text, extra unrelated tools compares the root structure, section geometry, finished hang, and perceived weight of box braids versus knotless braids so a trainee can understand why the two installs behave differently before starting a service. the split board keeps mannequin profile, scalp squares, root closeups, and finished braid silhouette visible at once, which gives the atlas strong hooks like knotless root start, square part grid, braid hang, masking tape corners, and brass cuff sample. direct comparison page for queries like box braids vs knotless braids comparison, box braids and knotless braids chart, and difference between knotless and box braids visual guide. short labels only; the full explanation is preserved in the prompt card. root start braid hang weight distribution root closeup circles matte training paper synthetic braiding fiber smooth mannequin scalp cream paper matte charcoal tools warm brown braids compares the root structure section geometry page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1452-protective-braiding-training-guides-02",
+      "runSlug": "20260521-1452-protective-braiding-training-guides",
+      "runTheme": "Protective Braiding Training Guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "index": 2,
+      "title": "Cornrow Parting Pattern Guide",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "scalp",
+        "guide",
+        "rows",
+        "pattern",
+        "cornrow",
+        "crown",
+        "lines",
+        "part",
+        "curved",
+        "feed-in",
+        "hair",
+        "paper",
+        "training",
+        "cornrows",
+        "labels",
+        "mannequin",
+        "map",
+        "parting",
+        "patterns",
+        "short",
+        "side-swoop",
+        "top-down",
+        "braid",
+        "brown",
+        "cosmetology",
+        "deep",
+        "fiber",
+        "fronts",
+        "geometric",
+        "geometry",
+        "hairline",
+        "how",
+        "large",
+        "lighting",
+        "like",
+        "maps",
+        "matte",
+        "mint",
+        "scientific-educational",
+        "straight",
+        "straight-back",
+        "strong",
+        "students",
+        "synthetic",
+        "teaching",
+        "texture",
+        "tones",
+        "warm"
+      ],
+      "specificHooks": [
+        "curved rows",
+        "side-swoop rows",
+        "feed-in hairline rows",
+        "a geometric crown pattern",
+        "synthetic braid fiber",
+        "mannequin scalp texture",
+        "matte training paper",
+        "cream paper",
+        "deep brown hair",
+        "warm scalp tones",
+        "feed-in fronts"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.prompt.md",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "detailPath": "i/20260521-1452-protective-braiding-training-guides-02/",
+      "runPath": "r/20260521-1452-protective-braiding-training-guides/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished visual guide answering the query \"cornrow parting patterns visual guide\"\nScene/backdrop: cream cosmetology training board with no room scene and clean overhead teaching layout\nSubject: five top-down mannequin scalp studies showing straight-back cornrows, curved rows, side-swoop rows, feed-in hairline rows, and a geometric crown pattern, each with clean part lines, scalp maps, mint guide lines, and short pattern labels\nStyle/medium: realistic beauty-school teaching poster with top-down scalp photography and restrained line overlays, no living-artist imitation\nComposition/framing: wide landscape guide with one large central scalp map and four smaller pattern variations around it, clean spacing, repeated part geometry, strong thumbnail readability\nLighting/mood: bright neutral task lighting, methodical, practical, no glamour\nColor palette: cream paper, deep brown hair, warm scalp tones, mint-blue guide lines, charcoal label text, brass pin dots\nMaterials/textures: synthetic braid fiber, mannequin scalp texture, matte training paper, fine comb part lines, tape corners\nText (verbatim): \"STRAIGHT\" \"CURVED\" \"SIDE SWOOP\" \"FEED IN\" \"CROWN\"\nConstraints: direct search-answer image for cosmetology students, short labels only, large visible parts, no logos, no watermark, no dense paragraphs\nAvoid: fashion magazine styling, face-forward beauty portrait, stock photo salon blur, extra makeup emphasis, tiny text, unrelated accessories",
+      "learningValue": "Shows how different cornrow routes are planned on the scalp so students can map straight rows, curved rows, feed-in fronts, and crown patterns before their hands touch hair.",
+      "compositionNotes": "The top-down scalp maps make part geometry the main subject, which creates strong retrieval hooks like straight-back rows, side-swoop cornrows, crown pattern grid, mint guide lines, and comb-cut scalp paths.",
+      "formatNotes": "Search-first pattern guide for queries like cornrow parting patterns visual guide, cornrow scalp map, and how to part hair for cornrows. The page works even if only the short pattern labels remain readable.",
+      "searchText": "cornrow parting pattern guide scientific-educational protective braiding training guides 20260521-1452-protective-braiding-training-guides use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished visual guide answering the query \"cornrow parting patterns visual guide\"\nscene/backdrop: cream cosmetology training board with no room scene and clean overhead teaching layout\nsubject: five top-down mannequin scalp studies showing straight-back cornrows, curved rows, side-swoop rows, feed-in hairline rows, and a geometric crown pattern, each with clean part lines, scalp maps, mint guide lines, and short pattern labels\nstyle/medium: realistic beauty-school teaching poster with top-down scalp photography and restrained line overlays, no living-artist imitation\ncomposition/framing: wide landscape guide with one large central scalp map and four smaller pattern variations around it, clean spacing, repeated part geometry, strong thumbnail readability\nlighting/mood: bright neutral task lighting, methodical, practical, no glamour\ncolor palette: cream paper, deep brown hair, warm scalp tones, mint-blue guide lines, charcoal label text, brass pin dots\nmaterials/textures: synthetic braid fiber, mannequin scalp texture, matte training paper, fine comb part lines, tape corners\ntext (verbatim): \"straight\" \"curved\" \"side swoop\" \"feed in\" \"crown\"\nconstraints: direct search-answer image for cosmetology students, short labels only, large visible parts, no logos, no watermark, no dense paragraphs\navoid: fashion magazine styling, face-forward beauty portrait, stock photo salon blur, extra makeup emphasis, tiny text, unrelated accessories shows how different cornrow routes are planned on the scalp so students can map straight rows, curved rows, feed-in fronts, and crown patterns before their hands touch hair. the top-down scalp maps make part geometry the main subject, which creates strong retrieval hooks like straight-back rows, side-swoop cornrows, crown pattern grid, mint guide lines, and comb-cut scalp paths. search-first pattern guide for queries like cornrow parting patterns visual guide, cornrow scalp map, and how to part hair for cornrows. the page works even if only the short pattern labels remain readable. curved rows side-swoop rows feed-in hairline rows a geometric crown pattern synthetic braid fiber mannequin scalp texture matte training paper cream paper deep brown hair warm scalp tones feed-in fronts page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1452-protective-braiding-training-guides-03",
+      "runSlug": "20260521-1452-protective-braiding-training-guides",
+      "runTheme": "Protective Braiding Training Guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "index": 3,
+      "title": "Braid Size Section Grid Poster",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "braid",
+        "section",
+        "poster",
+        "scalp",
+        "large",
+        "grid",
+        "size",
+        "small",
+        "thickness",
+        "paper",
+        "samples",
+        "squares",
+        "braiding",
+        "chart",
+        "finished",
+        "labels",
+        "ruler",
+        "strip",
+        "below",
+        "braids",
+        "cosmetology",
+        "dark",
+        "edge",
+        "espresso",
+        "fiber",
+        "guide",
+        "hanging",
+        "honey",
+        "infographic-diagram",
+        "like",
+        "mannequin",
+        "matching",
+        "matte",
+        "query",
+        "reference",
+        "ruler-like",
+        "salon",
+        "short",
+        "spacing",
+        "square",
+        "synthetic",
+        "three-column",
+        "tones",
+        "top",
+        "top-down",
+        "training",
+        "aligned",
+        "answer"
+      ],
+      "specificHooks": [
+        "large braid section squares at the top",
+        "matching finished braid thickness samples hanging below",
+        "top-down scalp section grid strip",
+        "a ruler-like spacing reference",
+        "synthetic braiding fiber",
+        "mannequin scalp",
+        "matte poster paper",
+        "cream paper",
+        "dark espresso braids",
+        "honey scalp tones"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1452-protective-braiding-training-guides/03-braid-size-section-grid-poster.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1452-protective-braiding-training-guides/03-braid-size-section-grid-poster.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/03-braid-size-section-grid-poster.prompt.md",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/03-braid-size-section-grid-poster.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "detailPath": "i/20260521-1452-protective-braiding-training-guides-03/",
+      "runPath": "r/20260521-1452-protective-braiding-training-guides/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished cosmetology poster answering the query \"braid size chart small medium large\"\nScene/backdrop: cream beauty-school poster board with no room scene and a clean grid-driven layout\nSubject: a three-column guide showing small, medium, and large braid section squares at the top, matching finished braid thickness samples hanging below, a top-down scalp section grid strip, and a ruler-like spacing reference\nStyle/medium: realistic training infographic with photographed braid samples and crisp diagram overlays, no living-artist imitation\nComposition/framing: tall vertical poster with three clean columns, large title area, big visible section squares, clear comparison from section size to final braid thickness\nLighting/mood: bright neutral salon task light, precise, instructional, approachable\nColor palette: cream paper, dark espresso braids, honey scalp tones, mint-blue grid lines, charcoal text, terracotta header bars\nMaterials/textures: synthetic braiding fiber, mannequin scalp, matte poster paper, plastic ruler edge, tape corners\nText (verbatim): \"SMALL\" \"MEDIUM\" \"LARGE\" \"section\" \"braid\"\nConstraints: short labels only, answer the search query directly, keep the section-square geometry obvious, useful for cosmetology classrooms, no logos, no watermark, no dense text\nAvoid: beauty ad styling, dramatic shadows, irrelevant jewelry, generic salon background, tiny labels, clutter",
+      "learningValue": "Links scalp section size to finished braid thickness so a learner can plan small, medium, or large installs without guessing how a square part becomes a final braid.",
+      "compositionNotes": "The three-column poster keeps section squares, braid samples, scalp grid strip, and ruler cue aligned in one read, which strengthens hooks like small section square, medium braid thickness, ruler edge, and mint grid line.",
+      "formatNotes": "Direct lookup poster for queries like braid size chart small medium large, box braid sizes visual guide, and braid parting size chart. Short labels carry the page; the complete explanation stays in metadata.",
+      "searchText": "braid size section grid poster infographic-diagram protective braiding training guides 20260521-1452-protective-braiding-training-guides use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished cosmetology poster answering the query \"braid size chart small medium large\"\nscene/backdrop: cream beauty-school poster board with no room scene and a clean grid-driven layout\nsubject: a three-column guide showing small, medium, and large braid section squares at the top, matching finished braid thickness samples hanging below, a top-down scalp section grid strip, and a ruler-like spacing reference\nstyle/medium: realistic training infographic with photographed braid samples and crisp diagram overlays, no living-artist imitation\ncomposition/framing: tall vertical poster with three clean columns, large title area, big visible section squares, clear comparison from section size to final braid thickness\nlighting/mood: bright neutral salon task light, precise, instructional, approachable\ncolor palette: cream paper, dark espresso braids, honey scalp tones, mint-blue grid lines, charcoal text, terracotta header bars\nmaterials/textures: synthetic braiding fiber, mannequin scalp, matte poster paper, plastic ruler edge, tape corners\ntext (verbatim): \"small\" \"medium\" \"large\" \"section\" \"braid\"\nconstraints: short labels only, answer the search query directly, keep the section-square geometry obvious, useful for cosmetology classrooms, no logos, no watermark, no dense text\navoid: beauty ad styling, dramatic shadows, irrelevant jewelry, generic salon background, tiny labels, clutter links scalp section size to finished braid thickness so a learner can plan small, medium, or large installs without guessing how a square part becomes a final braid. the three-column poster keeps section squares, braid samples, scalp grid strip, and ruler cue aligned in one read, which strengthens hooks like small section square, medium braid thickness, ruler edge, and mint grid line. direct lookup poster for queries like braid size chart small medium large, box braid sizes visual guide, and braid parting size chart. short labels carry the page; the complete explanation stays in metadata. large braid section squares at the top matching finished braid thickness samples hanging below top-down scalp section grid strip a ruler-like spacing reference synthetic braiding fiber mannequin scalp matte poster paper cream paper dark espresso braids honey scalp tones page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1452-protective-braiding-training-guides-04",
+      "runSlug": "20260521-1452-protective-braiding-training-guides",
+      "runTheme": "Protective Braiding Training Guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "index": 4,
+      "title": "Feed In Braid Sequence Poster",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "poster",
+        "added",
+        "braid",
+        "braiding",
+        "feed",
+        "row",
+        "scalp",
+        "sequence",
+        "step",
+        "extension",
+        "hand",
+        "mannequin",
+        "action",
+        "arrows",
+        "cornrow",
+        "feed-in",
+        "fiber",
+        "hair",
+        "hands",
+        "how",
+        "manicure",
+        "neutral",
+        "piece",
+        "smoothing",
+        "thumb",
+        "training",
+        "add",
+        "base",
+        "brown",
+        "close",
+        "deep",
+        "demonstration",
+        "fingers",
+        "first",
+        "hand-and-mannequin",
+        "hold",
+        "honey",
+        "human",
+        "infographic-diagram",
+        "like",
+        "looks",
+        "mint-blue",
+        "once",
+        "process",
+        "progression",
+        "repeated",
+        "salon",
+        "second"
+      ],
+      "specificHooks": [
+        "close hand-and-mannequin demonstration of a feed-in cornrow",
+        "first added extension piece",
+        "second add",
+        "smoothing with thumb",
+        "synthetic braiding fiber",
+        "mannequin scalp",
+        "human hands with neutral manicure",
+        "deep brown hair",
+        "honey scalp tones",
+        "mint-blue arrows",
+        "fingers hold tension",
+        "how the row looks once it stabilizes"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1452-protective-braiding-training-guides/04-feed-in-braid-sequence-poster.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1452-protective-braiding-training-guides/04-feed-in-braid-sequence-poster.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/04-feed-in-braid-sequence-poster.prompt.md",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/04-feed-in-braid-sequence-poster.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "detailPath": "i/20260521-1452-protective-braiding-training-guides-04/",
+      "runPath": "r/20260521-1452-protective-braiding-training-guides/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical sequence poster answering the query \"feed in braid steps poster\"\nScene/backdrop: cream training poster background with no room scene and a six-step horizontal sequence\nSubject: close hand-and-mannequin demonstration of a feed-in cornrow, showing clean base row, first added extension piece, second add, smoothing with thumb, braid continuation, and finished row, with short step numbers only\nStyle/medium: realistic cosmetology process poster with clear hand action, mannequin scalp texture, and restrained diagram arrows, no living-artist imitation\nComposition/framing: wide landscape six-panel sequence with one repeated mannequin head and consistent viewing angle, generous spacing, clear action progression left to right\nLighting/mood: bright salon task light, patient, methodical, skill-building\nColor palette: cream board, deep brown hair, honey scalp tones, mint-blue arrows, charcoal number circles, terracotta footer strip\nMaterials/textures: synthetic braiding fiber, mannequin scalp, human hands with neutral manicure, matte training paper, plastic rat-tail comb\nText (verbatim): \"1\" \"2\" \"3\" \"4\" \"5\" \"6\"\nConstraints: direct search-answer image for braiding students, short labels only, focus on hand placement and added hair amount, no logos, no watermark, no dense instructions\nAvoid: glamour portrait, beauty influencer pose, stock photo salon blur, irrelevant jewelry, tiny text, messy hands",
+      "learningValue": "Walks through the repeated hand motion of feed-in braiding so a trainee can see when extension fiber is added, where fingers hold tension, and how the row looks once it stabilizes.",
+      "compositionNotes": "The six-panel rhythm makes step progression visible at thumbnail scale and creates strong hooks like added extension piece, thumb smoothing, side cornrow row, neutral manicure, and number-circle sequence.",
+      "formatNotes": "Search-shaped process page for queries like feed in braid steps poster, feed in braid visual guide, and how to do feed in braids step by step. Numeric step markers are helpful but the hand action carries the teaching burden.",
+      "searchText": "feed in braid sequence poster infographic-diagram protective braiding training guides 20260521-1452-protective-braiding-training-guides use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical sequence poster answering the query \"feed in braid steps poster\"\nscene/backdrop: cream training poster background with no room scene and a six-step horizontal sequence\nsubject: close hand-and-mannequin demonstration of a feed-in cornrow, showing clean base row, first added extension piece, second add, smoothing with thumb, braid continuation, and finished row, with short step numbers only\nstyle/medium: realistic cosmetology process poster with clear hand action, mannequin scalp texture, and restrained diagram arrows, no living-artist imitation\ncomposition/framing: wide landscape six-panel sequence with one repeated mannequin head and consistent viewing angle, generous spacing, clear action progression left to right\nlighting/mood: bright salon task light, patient, methodical, skill-building\ncolor palette: cream board, deep brown hair, honey scalp tones, mint-blue arrows, charcoal number circles, terracotta footer strip\nmaterials/textures: synthetic braiding fiber, mannequin scalp, human hands with neutral manicure, matte training paper, plastic rat-tail comb\ntext (verbatim): \"1\" \"2\" \"3\" \"4\" \"5\" \"6\"\nconstraints: direct search-answer image for braiding students, short labels only, focus on hand placement and added hair amount, no logos, no watermark, no dense instructions\navoid: glamour portrait, beauty influencer pose, stock photo salon blur, irrelevant jewelry, tiny text, messy hands walks through the repeated hand motion of feed-in braiding so a trainee can see when extension fiber is added, where fingers hold tension, and how the row looks once it stabilizes. the six-panel rhythm makes step progression visible at thumbnail scale and creates strong hooks like added extension piece, thumb smoothing, side cornrow row, neutral manicure, and number-circle sequence. search-shaped process page for queries like feed in braid steps poster, feed in braid visual guide, and how to do feed in braids step by step. numeric step markers are helpful but the hand action carries the teaching burden. close hand-and-mannequin demonstration of a feed-in cornrow first added extension piece second add smoothing with thumb synthetic braiding fiber mannequin scalp human hands with neutral manicure deep brown hair honey scalp tones mint-blue arrows fingers hold tension how the row looks once it stabilizes page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1452-protective-braiding-training-guides-05",
+      "runSlug": "20260521-1452-protective-braiding-training-guides",
+      "runTheme": "Protective Braiding Training Guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "index": 5,
+      "title": "Tight Braid Warning Signs Chart",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "scalp",
+        "chart",
+        "tight",
+        "braids",
+        "healthy",
+        "warning",
+        "caution",
+        "circles",
+        "edges",
+        "poster",
+        "redness",
+        "shiny",
+        "signs",
+        "stressed",
+        "accents",
+        "braid",
+        "braiding",
+        "bumps",
+        "hairline",
+        "icon",
+        "labels",
+        "like",
+        "mannequin",
+        "over-pulled",
+        "roots",
+        "safety",
+        "salon",
+        "short",
+        "too",
+        "before",
+        "brown",
+        "callouts",
+        "client",
+        "clues",
+        "cosmetology",
+        "deep",
+        "detail",
+        "fiber",
+        "gore",
+        "guide",
+        "hand-check",
+        "home",
+        "inset",
+        "install",
+        "installation",
+        "matte",
+        "mint-blue",
+        "paper"
+      ],
+      "specificHooks": [
+        "smooth sections",
+        "slight scalp visibility versus redness",
+        "shiny over-pulled roots",
+        "stressed edges",
+        "mannequin scalp texture",
+        "synthetic braiding fiber",
+        "matte poster paper",
+        "deep brown braids",
+        "warm scalp tones",
+        "mint-blue healthy accents",
+        "stressed edges before sending a client home"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.prompt.md",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "detailPath": "i/20260521-1452-protective-braiding-training-guides-05/",
+      "runPath": "r/20260521-1452-protective-braiding-training-guides/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical scalp-safety chart answering the query \"tight braids warning signs chart\"\nScene/backdrop: cream cosmetology safety poster board with no room scene and a clean split comparison layout\nSubject: side-by-side mannequin hairline and scalp closeups comparing healthy braid installation and too-tight installation, showing clues like relaxed hairline, smooth sections, slight scalp visibility versus redness, bumps, shiny over-pulled roots, stressed edges, warning icon circles, and one small hand-check tension inset\nStyle/medium: realistic salon safety training poster with photographic scalp detail and restrained diagram callouts, no living-artist imitation\nComposition/framing: tall vertical chart with a calm left side for healthy install and a caution right side for too tight, three close detail circles below, clear readable anatomy, short labels only\nLighting/mood: bright neutral clinic light, factual, cautionary, non-alarmist\nColor palette: cream board, deep brown braids, warm scalp tones, mint-blue healthy accents, muted red caution accents, charcoal text\nMaterials/textures: mannequin scalp texture, synthetic braiding fiber, matte poster paper, simple icon circles, tape corners\nText (verbatim): \"HEALTHY\" \"TOO TIGHT\" \"redness\" \"bumps\" \"shine\"\nConstraints: visual guide for cosmetology students and salon trainers, short labels only, show caution without gore, no logos, no watermark, no dense paragraphs\nAvoid: medical diagram styling, injury gore, beauty ad glamour, salon stock blur, tiny text, unrelated products",
+      "learningValue": "Distinguishes a comfortable install from traction-risk clues so trainees can recognize redness, bumps, shiny over-pulled roots, and stressed edges before sending a client home.",
+      "compositionNotes": "The healthy-versus-too-tight split creates clear retrieval hooks like relaxed hairline, shiny root stress, warning icon circles, hand-check inset, and caution-red callouts without relying on a lot of text.",
+      "formatNotes": "Practical safety chart for queries like tight braids warning signs chart, signs braids are too tight, and braid tension visual guide. The labels stay short while the full caution context remains in the prompt card.",
+      "searchText": "tight braid warning signs chart scientific-educational protective braiding training guides 20260521-1452-protective-braiding-training-guides use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical scalp-safety chart answering the query \"tight braids warning signs chart\"\nscene/backdrop: cream cosmetology safety poster board with no room scene and a clean split comparison layout\nsubject: side-by-side mannequin hairline and scalp closeups comparing healthy braid installation and too-tight installation, showing clues like relaxed hairline, smooth sections, slight scalp visibility versus redness, bumps, shiny over-pulled roots, stressed edges, warning icon circles, and one small hand-check tension inset\nstyle/medium: realistic salon safety training poster with photographic scalp detail and restrained diagram callouts, no living-artist imitation\ncomposition/framing: tall vertical chart with a calm left side for healthy install and a caution right side for too tight, three close detail circles below, clear readable anatomy, short labels only\nlighting/mood: bright neutral clinic light, factual, cautionary, non-alarmist\ncolor palette: cream board, deep brown braids, warm scalp tones, mint-blue healthy accents, muted red caution accents, charcoal text\nmaterials/textures: mannequin scalp texture, synthetic braiding fiber, matte poster paper, simple icon circles, tape corners\ntext (verbatim): \"healthy\" \"too tight\" \"redness\" \"bumps\" \"shine\"\nconstraints: visual guide for cosmetology students and salon trainers, short labels only, show caution without gore, no logos, no watermark, no dense paragraphs\navoid: medical diagram styling, injury gore, beauty ad glamour, salon stock blur, tiny text, unrelated products distinguishes a comfortable install from traction-risk clues so trainees can recognize redness, bumps, shiny over-pulled roots, and stressed edges before sending a client home. the healthy-versus-too-tight split creates clear retrieval hooks like relaxed hairline, shiny root stress, warning icon circles, hand-check inset, and caution-red callouts without relying on a lot of text. practical safety chart for queries like tight braids warning signs chart, signs braids are too tight, and braid tension visual guide. the labels stay short while the full caution context remains in the prompt card. smooth sections slight scalp visibility versus redness shiny over-pulled roots stressed edges mannequin scalp texture synthetic braiding fiber matte poster paper deep brown braids warm scalp tones mint-blue healthy accents stressed edges before sending a client home page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1452-protective-braiding-training-guides-06",
+      "runSlug": "20260521-1452-protective-braiding-training-guides",
+      "runTheme": "Protective Braiding Training Guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "index": 6,
+      "title": "Braiding Tool Tray Reference",
+      "taxonomy": "atlas-contact-sheet",
+      "topics": [
+        "braiding",
+        "tray",
+        "tools",
+        "comb",
+        "bottle",
+        "brush",
+        "edge",
+        "bead",
+        "clips",
+        "threader",
+        "trolley",
+        "bands",
+        "crochet",
+        "duckbill",
+        "elastic",
+        "folded",
+        "hook",
+        "latch",
+        "neck",
+        "overhead",
+        "plastic",
+        "rat-tail",
+        "rosewood",
+        "spray",
+        "strip",
+        "vinyl",
+        "arranged",
+        "atlas-contact-sheet",
+        "bristles",
+        "charcoal",
+        "gel",
+        "guide",
+        "hooks",
+        "including",
+        "like",
+        "matte",
+        "metal",
+        "minimal",
+        "neatly",
+        "reference",
+        "salon",
+        "snips",
+        "soft",
+        "styling",
+        "teeth",
+        "thread",
+        "tool",
+        "top-down"
+      ],
+      "specificHooks": [
+        "neatly arranged braiding tools including a rat-tail comb",
+        "wide-tooth comb",
+        "edge brush",
+        "duckbill clips",
+        "plastic comb teeth",
+        "soft brush bristles",
+        "metal clips",
+        "cream tray",
+        "matte charcoal tools",
+        "clear spray bottle",
+        "crochet latch hook",
+        "folded neck strip"
+      ],
+      "scaleTags": [
+        "object",
+        "tabletop"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1452-protective-braiding-training-guides/06-braiding-tool-tray-reference.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1452-protective-braiding-training-guides/06-braiding-tool-tray-reference.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/06-braiding-tool-tray-reference.prompt.md",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/06-braiding-tool-tray-reference.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "detailPath": "i/20260521-1452-protective-braiding-training-guides-06/",
+      "runPath": "r/20260521-1452-protective-braiding-training-guides/",
+      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: top-down object reference answering the query \"braiding tools visual guide\"\nScene/backdrop: cream vinyl tray on a rosewood salon trolley with no hands and no room scene\nSubject: neatly arranged braiding tools including a rat-tail comb, wide-tooth comb, edge brush, duckbill clips, sectioning clamps, braiding gel jar, mousse bottle, spray bottle, thread snips, crochet latch hook, bead threader, elastic bands, and a folded neck strip\nStyle/medium: realistic catalog-like training atlas photographed from directly overhead with gentle shadow and clear object separation, no living-artist imitation\nComposition/framing: square top-down tray layout with evenly spaced objects, one main tray and two small inset rows for tiny hardware, minimal or no text\nLighting/mood: bright overhead salon light, orderly, practical, tactile\nColor palette: cream tray, matte charcoal tools, clear spray bottle, mint-blue gel accents, brass bead threader, rosewood trolley edges\nMaterials/textures: plastic comb teeth, soft brush bristles, metal clips, clear bottle plastic, elastic bands, vinyl tray surface, wood grain trolley edge\nConstraints: strong search hooks through concrete tool nouns, no brand logos, no watermark, no dense text, no fashion styling, direct training-reference feel\nAvoid: influencer flatlay styling, makeup products, unrelated scissors sets, luxury product ad polish, busy background, dramatic props",
+      "learningValue": "Identifies the compact objects that actually belong at a braiding station, from rat-tail comb and duckbill clip to bead threader, crochet latch hook, and folded neck strip.",
+      "compositionNotes": "The overhead tray keeps each object isolated and searchable, which gives the archive precise hooks like edge brush, thread snips, bead threader, vinyl tray insert, elastic bands, and rosewood trolley edge.",
+      "formatNotes": "Search-first object atlas for queries like braiding tools visual guide, braiding tools chart, and what tools do you need for braiding hair. Minimal text is intentional; the object arrangement carries the page.",
+      "searchText": "braiding tool tray reference atlas-contact-sheet protective braiding training guides 20260521-1452-protective-braiding-training-guides use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: top-down object reference answering the query \"braiding tools visual guide\"\nscene/backdrop: cream vinyl tray on a rosewood salon trolley with no hands and no room scene\nsubject: neatly arranged braiding tools including a rat-tail comb, wide-tooth comb, edge brush, duckbill clips, sectioning clamps, braiding gel jar, mousse bottle, spray bottle, thread snips, crochet latch hook, bead threader, elastic bands, and a folded neck strip\nstyle/medium: realistic catalog-like training atlas photographed from directly overhead with gentle shadow and clear object separation, no living-artist imitation\ncomposition/framing: square top-down tray layout with evenly spaced objects, one main tray and two small inset rows for tiny hardware, minimal or no text\nlighting/mood: bright overhead salon light, orderly, practical, tactile\ncolor palette: cream tray, matte charcoal tools, clear spray bottle, mint-blue gel accents, brass bead threader, rosewood trolley edges\nmaterials/textures: plastic comb teeth, soft brush bristles, metal clips, clear bottle plastic, elastic bands, vinyl tray surface, wood grain trolley edge\nconstraints: strong search hooks through concrete tool nouns, no brand logos, no watermark, no dense text, no fashion styling, direct training-reference feel\navoid: influencer flatlay styling, makeup products, unrelated scissors sets, luxury product ad polish, busy background, dramatic props identifies the compact objects that actually belong at a braiding station, from rat-tail comb and duckbill clip to bead threader, crochet latch hook, and folded neck strip. the overhead tray keeps each object isolated and searchable, which gives the archive precise hooks like edge brush, thread snips, bead threader, vinyl tray insert, elastic bands, and rosewood trolley edge. search-first object atlas for queries like braiding tools visual guide, braiding tools chart, and what tools do you need for braiding hair. minimal text is intentional; the object arrangement carries the page. neatly arranged braiding tools including a rat-tail comb wide-tooth comb edge brush duckbill clips plastic comb teeth soft brush bristles metal clips cream tray matte charcoal tools clear spray bottle crochet latch hook folded neck strip object tabletop",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1452-protective-braiding-training-guides-07",
+      "runSlug": "20260521-1452-protective-braiding-training-guides",
+      "runTheme": "Protective Braiding Training Guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "index": 7,
+      "title": "Extension Fiber Blend Swatch Board",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "fiber",
+        "blend",
+        "hooks",
+        "braiding",
+        "color",
+        "hair",
+        "hanging",
+        "swatch",
+        "brass",
+        "honey",
+        "silky",
+        "texture",
+        "circles",
+        "mix",
+        "pre-stretched",
+        "wavy",
+        "yaki",
+        "auburn",
+        "brown",
+        "dark",
+        "extension",
+        "guide",
+        "ombre",
+        "tags",
+        "before",
+        "blonde",
+        "bundles",
+        "charcoal",
+        "chart",
+        "close",
+        "comparing",
+        "direct",
+        "fiber-texture",
+        "finishes",
+        "installation",
+        "labels",
+        "like",
+        "matte",
+        "paper",
+        "plus",
+        "range",
+        "scientific-educational",
+        "shade",
+        "swatches",
+        "synthetic",
+        "three",
+        "tip",
+        "training"
+      ],
+      "specificHooks": [
+        "honey ombre",
+        "auburn blend",
+        "blonde tip mix",
+        "plus three close fiber-texture circles comparing silky",
+        "synthetic pre-stretched fiber",
+        "matte board paper",
+        "brass hanging hooks",
+        "dark brown to honey fiber range",
+        "brass hooks",
+        "charcoal tags",
+        "wavy texture before installation"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1452-protective-braiding-training-guides/07-extension-fiber-blend-swatch-board.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1452-protective-braiding-training-guides/07-extension-fiber-blend-swatch-board.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/07-extension-fiber-blend-swatch-board.prompt.md",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/07-extension-fiber-blend-swatch-board.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "detailPath": "i/20260521-1452-protective-braiding-training-guides-07/",
+      "runPath": "r/20260521-1452-protective-braiding-training-guides/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: polished swatch guide answering the query \"braiding hair extension color blend chart\"\nScene/backdrop: cream salon training board with hanging swatches and no room scene\nSubject: eight hanging bundles of pre-stretched braiding hair showing single shades and blend combinations from natural black through dark brown, chestnut, honey ombre, auburn blend, and blonde tip mix, plus three close fiber-texture circles comparing silky, yaki, and wavy finishes\nStyle/medium: realistic cosmetology color-reference board with tactile fiber swatches and restrained callouts, no living-artist imitation\nComposition/framing: tall vertical swatch board with neat top hooks, one row of large hanging bundles, small texture circles beneath, short shade tags only if needed\nLighting/mood: bright neutral product-training light, tidy, useful, non-glamorous\nColor palette: cream board, dark brown to honey fiber range, brass hooks, charcoal tags, mint-blue divider lines\nMaterials/textures: synthetic pre-stretched fiber, matte board paper, brass hanging hooks, subtle fiber sheen, swatch ends tied with elastic\nText (verbatim): \"SILKY\" \"YAKI\" \"WAVY\"\nConstraints: direct training-reference feel, clear color and texture comparison, no logos, no watermark, no dense text, keep hooks and swatch lengths consistent\nAvoid: beauty campaign hair ad styling, model faces, giant makeup emphasis, generic wig-store glamour, tiny labels, clutter",
+      "learningValue": "Helps trainees compare braid-extension shade blends and fiber finishes so they can plan color transitions and choose silky, yaki, or wavy texture before installation.",
+      "compositionNotes": "The hanging swatch format produces strong hooks like pre-stretched bundle, honey ombre blend, auburn mix, brass hook rail, and silky-versus-yaki texture circles while staying easy to scan.",
+      "formatNotes": "Direct swatch-reference board for queries like braiding hair extension color blend chart, braiding hair color mix guide, and yaki vs silky braiding hair visual guide. Only the core finish labels need to survive in-image.",
+      "searchText": "extension fiber blend swatch board scientific-educational protective braiding training guides 20260521-1452-protective-braiding-training-guides use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: polished swatch guide answering the query \"braiding hair extension color blend chart\"\nscene/backdrop: cream salon training board with hanging swatches and no room scene\nsubject: eight hanging bundles of pre-stretched braiding hair showing single shades and blend combinations from natural black through dark brown, chestnut, honey ombre, auburn blend, and blonde tip mix, plus three close fiber-texture circles comparing silky, yaki, and wavy finishes\nstyle/medium: realistic cosmetology color-reference board with tactile fiber swatches and restrained callouts, no living-artist imitation\ncomposition/framing: tall vertical swatch board with neat top hooks, one row of large hanging bundles, small texture circles beneath, short shade tags only if needed\nlighting/mood: bright neutral product-training light, tidy, useful, non-glamorous\ncolor palette: cream board, dark brown to honey fiber range, brass hooks, charcoal tags, mint-blue divider lines\nmaterials/textures: synthetic pre-stretched fiber, matte board paper, brass hanging hooks, subtle fiber sheen, swatch ends tied with elastic\ntext (verbatim): \"silky\" \"yaki\" \"wavy\"\nconstraints: direct training-reference feel, clear color and texture comparison, no logos, no watermark, no dense text, keep hooks and swatch lengths consistent\navoid: beauty campaign hair ad styling, model faces, giant makeup emphasis, generic wig-store glamour, tiny labels, clutter helps trainees compare braid-extension shade blends and fiber finishes so they can plan color transitions and choose silky, yaki, or wavy texture before installation. the hanging swatch format produces strong hooks like pre-stretched bundle, honey ombre blend, auburn mix, brass hook rail, and silky-versus-yaki texture circles while staying easy to scan. direct swatch-reference board for queries like braiding hair extension color blend chart, braiding hair color mix guide, and yaki vs silky braiding hair visual guide. only the core finish labels need to survive in-image. honey ombre auburn blend blonde tip mix plus three close fiber-texture circles comparing silky synthetic pre-stretched fiber matte board paper brass hanging hooks dark brown to honey fiber range brass hooks charcoal tags wavy texture before installation page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1452-protective-braiding-training-guides-08",
+      "runSlug": "20260521-1452-protective-braiding-training-guides",
+      "runTheme": "Protective Braiding Training Guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "index": 8,
+      "title": "Bead Cuff And Endings Plate",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "braid",
+        "cuffs",
+        "bead",
+        "finish",
+        "wooden",
+        "beads",
+        "cuff",
+        "metal",
+        "curled",
+        "end",
+        "plate",
+        "stacked",
+        "ends",
+        "hardware",
+        "mounted",
+        "samples",
+        "side",
+        "brushed",
+        "finished",
+        "five",
+        "rubber-band",
+        "sealed",
+        "short",
+        "accent",
+        "braid-end",
+        "braiding",
+        "braids",
+        "brass",
+        "brown",
+        "dark",
+        "each",
+        "fiber",
+        "finishes",
+        "finishing",
+        "guide",
+        "hooks",
+        "label",
+        "labels",
+        "like",
+        "loose",
+        "matte",
+        "mood",
+        "plus",
+        "sample",
+        "scientific-educational",
+        "silver",
+        "smooth",
+        "students"
+      ],
+      "specificHooks": [
+        "five finished braid-end samples mounted vertically",
+        "curled end",
+        "rubber-band plus bead finish",
+        "metal cuff accent finish",
+        "synthetic braid fiber",
+        "smooth wooden beads",
+        "brushed metal cuffs",
+        "dark brown braids",
+        "brass cuffs",
+        "silver cuffs",
+        "curled ends",
+        "stacked wooden finishes side by side"
+      ],
+      "scaleTags": [
+        "page",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1452-protective-braiding-training-guides/08-bead-cuff-and-endings-plate.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1452-protective-braiding-training-guides/08-bead-cuff-and-endings-plate.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/08-bead-cuff-and-endings-plate.prompt.md",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/08-bead-cuff-and-endings-plate.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "detailPath": "i/20260521-1452-protective-braiding-training-guides-08/",
+      "runPath": "r/20260521-1452-protective-braiding-training-guides/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: finishing reference plate answering the query \"braid beads and cuffs guide\"\nScene/backdrop: cream tabletop training board with mounted braid samples and no room scene\nSubject: five finished braid-end samples mounted vertically, showing plain sealed end, curled end, rubber-band plus bead finish, metal cuff accent finish, and stacked wooden bead finish, with matching loose hardware arranged above each sample\nStyle/medium: realistic cosmetology parts plate photographed straight-on with crisp product-training clarity, no living-artist imitation\nComposition/framing: tall vertical plate with five evenly spaced columns, each column pairing a braid tip sample with its bead or cuff hardware and one short label block, minimal text\nLighting/mood: bright neutral tabletop light, tactile, orderly, practical\nColor palette: cream board, dark brown braids, brass cuffs, silver cuffs, walnut wooden beads, charcoal label text, mint divider lines\nMaterials/textures: synthetic braid fiber, smooth wooden beads, brushed metal cuffs, elastic bands, matte board paper, tiny metal hooks\nText (verbatim): \"SEALED\" \"CURL\" \"BEAD\" \"CUFF\" \"STACKED\"\nConstraints: clear finishing-method comparison for braiding students, short labels only, no logos, no watermark, no dense text, direct search-answer image\nAvoid: jewelry ad polish, fashion campaign mood, model face, unrelated accessories, tiny text, clutter",
+      "learningValue": "Shows the most common ways braid ends are finished and decorated so students can compare sealed tips, curled ends, cuffs, beads, and stacked wooden finishes side by side.",
+      "compositionNotes": "The mounted braid samples and loose hardware create strong hooks like rubber-band bead finish, stacked wooden bead tip, brushed metal cuff, curled braid end, and matte board mount.",
+      "formatNotes": "Search-facing finishing plate for queries like braid beads and cuffs guide, how to finish braid ends, and braid end styles chart. Labels stay short so the hardware and braid-tip anatomy remain the main teaching signal.",
+      "searchText": "bead cuff and endings plate scientific-educational protective braiding training guides 20260521-1452-protective-braiding-training-guides use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: finishing reference plate answering the query \"braid beads and cuffs guide\"\nscene/backdrop: cream tabletop training board with mounted braid samples and no room scene\nsubject: five finished braid-end samples mounted vertically, showing plain sealed end, curled end, rubber-band plus bead finish, metal cuff accent finish, and stacked wooden bead finish, with matching loose hardware arranged above each sample\nstyle/medium: realistic cosmetology parts plate photographed straight-on with crisp product-training clarity, no living-artist imitation\ncomposition/framing: tall vertical plate with five evenly spaced columns, each column pairing a braid tip sample with its bead or cuff hardware and one short label block, minimal text\nlighting/mood: bright neutral tabletop light, tactile, orderly, practical\ncolor palette: cream board, dark brown braids, brass cuffs, silver cuffs, walnut wooden beads, charcoal label text, mint divider lines\nmaterials/textures: synthetic braid fiber, smooth wooden beads, brushed metal cuffs, elastic bands, matte board paper, tiny metal hooks\ntext (verbatim): \"sealed\" \"curl\" \"bead\" \"cuff\" \"stacked\"\nconstraints: clear finishing-method comparison for braiding students, short labels only, no logos, no watermark, no dense text, direct search-answer image\navoid: jewelry ad polish, fashion campaign mood, model face, unrelated accessories, tiny text, clutter shows the most common ways braid ends are finished and decorated so students can compare sealed tips, curled ends, cuffs, beads, and stacked wooden finishes side by side. the mounted braid samples and loose hardware create strong hooks like rubber-band bead finish, stacked wooden bead tip, brushed metal cuff, curled braid end, and matte board mount. search-facing finishing plate for queries like braid beads and cuffs guide, how to finish braid ends, and braid end styles chart. labels stay short so the hardware and braid-tip anatomy remain the main teaching signal. five finished braid-end samples mounted vertically curled end rubber-band plus bead finish metal cuff accent finish synthetic braid fiber smooth wooden beads brushed metal cuffs dark brown braids brass cuffs silver cuffs curled ends stacked wooden finishes side by side page object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1452-protective-braiding-training-guides-09",
+      "runSlug": "20260521-1452-protective-braiding-training-guides",
+      "runTheme": "Protective Braiding Training Guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "index": 9,
+      "title": "Cosmetology Braiding Station Setup",
+      "taxonomy": "photorealistic-natural",
+      "topics": [
+        "braiding",
+        "station",
+        "mirror",
+        "extension",
+        "jar",
+        "mannequin",
+        "room",
+        "rosewood",
+        "setup",
+        "workstation",
+        "bundles",
+        "charts",
+        "cosmetology",
+        "crock",
+        "documentary",
+        "hooks",
+        "like",
+        "sanitation",
+        "tools",
+        "trolley",
+        "walls",
+        "beauty-school",
+        "boards",
+        "bottle",
+        "braid",
+        "classroom",
+        "clips",
+        "color",
+        "combs",
+        "counter",
+        "duckbill",
+        "fiber",
+        "gel",
+        "head",
+        "laminate",
+        "mood",
+        "photograph",
+        "photorealistic-natural",
+        "pinned",
+        "poster",
+        "practice",
+        "pre-stretched",
+        "rat-tail",
+        "reference",
+        "repeatable",
+        "salon",
+        "skin",
+        "smooth"
+      ],
+      "specificHooks": [
+        "rat-tail combs in a crock",
+        "pre-stretched extension bundles on hooks",
+        "duckbill clips",
+        "braid gel jar",
+        "bright beauty-school braiding station with mirror",
+        "rosewood counter",
+        "cream walls",
+        "poster boards",
+        "synthetic braiding fiber",
+        "smooth mannequin skin",
+        "wood laminate",
+        "rosewood workstation"
+      ],
+      "scaleTags": [
+        "room",
+        "object"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1452-protective-braiding-training-guides/09-cosmetology-braiding-station-setup.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1452-protective-braiding-training-guides/09-cosmetology-braiding-station-setup.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/09-cosmetology-braiding-station-setup.prompt.md",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/09-cosmetology-braiding-station-setup.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "detailPath": "i/20260521-1452-protective-braiding-training-guides-09/",
+      "runPath": "r/20260521-1452-protective-braiding-training-guides/",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: documentary training-room reference answering the query \"cosmetology braiding station setup\"\nScene/backdrop: bright beauty-school braiding station with mirror, rosewood counter, cream walls, poster boards, and a row of practice heads in the background\nSubject: one complete braiding workstation showing mannequin head on stand, rat-tail combs in a crock, pre-stretched extension bundles on hooks, duckbill clips, braid gel jar, spray bottle, edge brush, trolley drawers, sanitation jar, neck strips, and two training charts pinned beside the mirror\nStyle/medium: realistic documentary interior photo, practical and inhabitable, no living-artist imitation\nComposition/framing: eye-level room photograph focused on one station with foreground tools, mirror reflection, and enough wall context to read the setup as a repeatable classroom standard\nLighting/mood: bright salon fluorescents mixed with window light, calm, orderly, high-clarity teaching mood\nColor palette: cream walls, rosewood workstation, charcoal tools, amber-brown braids, mint-blue chart accents, brass hardware\nMaterials/textures: synthetic braiding fiber, smooth mannequin skin, wood laminate, clear plastic spray bottle, vinyl trolley tray, matte paper charts, mirror glass\nConstraints: direct training-reference image, no logos, no watermark, no glamorous model styling, make the station feel used but tidy, keep product labels unreadable\nAvoid: luxury salon ad, fashion portrait, generic stock-photo blur, crowded room chaos, dramatic color grading",
+      "learningValue": "Demonstrates what a repeatable braiding workstation looks like in practice, including where extension bundles, sanitation supplies, tools, charts, and the mannequin head live around one service mirror.",
+      "compositionNotes": "The station photograph keeps hooks like mirror station, practice-head stand, sanitation jar, extension hook rail, comb crock, trolley drawer, and pinned braid-pattern posters in one believable room-scale frame.",
+      "formatNotes": "Documentary room reference for queries like cosmetology braiding station setup, braiding station layout, and beauty school braiding classroom. The image is useful even if the wall text is imperfect because the physical station logic is the main answer.",
+      "searchText": "cosmetology braiding station setup photorealistic-natural protective braiding training guides 20260521-1452-protective-braiding-training-guides use case: photorealistic-natural\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: documentary training-room reference answering the query \"cosmetology braiding station setup\"\nscene/backdrop: bright beauty-school braiding station with mirror, rosewood counter, cream walls, poster boards, and a row of practice heads in the background\nsubject: one complete braiding workstation showing mannequin head on stand, rat-tail combs in a crock, pre-stretched extension bundles on hooks, duckbill clips, braid gel jar, spray bottle, edge brush, trolley drawers, sanitation jar, neck strips, and two training charts pinned beside the mirror\nstyle/medium: realistic documentary interior photo, practical and inhabitable, no living-artist imitation\ncomposition/framing: eye-level room photograph focused on one station with foreground tools, mirror reflection, and enough wall context to read the setup as a repeatable classroom standard\nlighting/mood: bright salon fluorescents mixed with window light, calm, orderly, high-clarity teaching mood\ncolor palette: cream walls, rosewood workstation, charcoal tools, amber-brown braids, mint-blue chart accents, brass hardware\nmaterials/textures: synthetic braiding fiber, smooth mannequin skin, wood laminate, clear plastic spray bottle, vinyl trolley tray, matte paper charts, mirror glass\nconstraints: direct training-reference image, no logos, no watermark, no glamorous model styling, make the station feel used but tidy, keep product labels unreadable\navoid: luxury salon ad, fashion portrait, generic stock-photo blur, crowded room chaos, dramatic color grading demonstrates what a repeatable braiding workstation looks like in practice, including where extension bundles, sanitation supplies, tools, charts, and the mannequin head live around one service mirror. the station photograph keeps hooks like mirror station, practice-head stand, sanitation jar, extension hook rail, comb crock, trolley drawer, and pinned braid-pattern posters in one believable room-scale frame. documentary room reference for queries like cosmetology braiding station setup, braiding station layout, and beauty school braiding classroom. the image is useful even if the wall text is imperfect because the physical station logic is the main answer. rat-tail combs in a crock pre-stretched extension bundles on hooks duckbill clips braid gel jar bright beauty-school braiding station with mirror rosewood counter cream walls poster boards synthetic braiding fiber smooth mannequin skin wood laminate rosewood workstation room object",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260521-1452-protective-braiding-training-guides-10",
+      "runSlug": "20260521-1452-protective-braiding-training-guides",
+      "runTheme": "Protective Braiding Training Guides",
+      "timestamp": "2026-05-21T14:52:06+08:00",
+      "index": 10,
+      "title": "Braiding Clinic Section Cutaway",
+      "taxonomy": "mixed-format",
+      "topics": [
+        "braiding",
+        "cutaway",
+        "section",
+        "chairs",
+        "room",
+        "zone",
+        "labels",
+        "classroom",
+        "clinic",
+        "demo",
+        "mirror",
+        "sink",
+        "storage",
+        "extension",
+        "hooks",
+        "mannequin-head",
+        "practice",
+        "presentation",
+        "shelf",
+        "short",
+        "trolley",
+        "wash",
+        "agents",
+        "architectural",
+        "believable",
+        "bench",
+        "buildable",
+        "bundles",
+        "cabinetry",
+        "carts",
+        "charcoal",
+        "counters",
+        "furniture",
+        "glass",
+        "how",
+        "interior",
+        "laminate",
+        "like",
+        "materials",
+        "mirrors",
+        "mixed-format",
+        "planning",
+        "rosewood",
+        "salon",
+        "sanitation",
+        "see",
+        "strong",
+        "styling"
+      ],
+      "specificHooks": [
+        "styling chairs",
+        "mannequin-head shelf",
+        "extension storage hooks",
+        "sanitation sink",
+        "laminate counters",
+        "mirror glass",
+        "vinyl chairs",
+        "cream presentation board",
+        "rosewood cabinetry",
+        "charcoal chairs",
+        "agents can see how demo zone",
+        "practice mirrors"
+      ],
+      "scaleTags": [
+        "architecture",
+        "room"
+      ],
+      "pngPath": "../images/2026/05/21/20260521-1452-protective-braiding-training-guides/10-braiding-clinic-section-cutaway.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/21/20260521-1452-protective-braiding-training-guides/10-braiding-clinic-section-cutaway.png",
+      "promptPath": "../prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/10-braiding-clinic-section-cutaway.prompt.md",
+      "reportPath": "../run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/10-braiding-clinic-section-cutaway.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260521-1452-protective-braiding-training-guides.md",
+      "detailPath": "i/20260521-1452-protective-braiding-training-guides-10/",
+      "runPath": "r/20260521-1452-protective-braiding-training-guides/",
+      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: architectural teaching image answering the query \"braiding clinic section cutaway\"\nScene/backdrop: cross-section view of a beauty-school braiding clinic shown as a clean cutaway drawing on cream presentation paper\nSubject: one wall-cut section of a braiding classroom with mirror stations, styling chairs, mannequin-head shelf, extension storage hooks, sanitation sink, trolley carts, poster wall, waiting bench, and instructor demo zone, with a few mannequin heads and students implied but secondary to the room layout\nStyle/medium: detailed architectural section illustration with realistic interior materials and restrained labels, no living-artist imitation\nComposition/framing: wide horizontal cutaway with the full room from floor to ceiling, one clear section slice, strong furniture rhythm, readable tool placement, short zone labels only\nLighting/mood: bright institutional daylight, clear, useful, organized\nColor palette: cream presentation board, rosewood cabinetry, charcoal chairs, amber-brown hair bundles, mint-blue label accents, brass fixtures\nMaterials/textures: laminate counters, mirror glass, vinyl chairs, matte posters, synthetic fiber bundles, metal trolley frames, tiled sink backsplash\nText (verbatim): \"DEMO\" \"PRACTICE\" \"TOOLS\" \"WASH\"\nConstraints: direct training-reference cutaway, useful for classroom planning and search, short labels only, no logos, no watermark, keep the room believable and buildable\nAvoid: dollhouse whimsy, fashion salon glamour, generic office furniture, tiny text, cluttered crowds, dramatic perspective distortion",
+      "learningValue": "Fixes the spatial logic of a braiding classroom so teachers, designers, and agents can see how demo zone, practice mirrors, tool storage, wash area, and waiting bench fit in one buildable room.",
+      "compositionNotes": "The section cutaway creates strong hooks like mirror station row, mannequin-head shelf, extension storage wall, wash sink corner, trolley carts, and zone labels anchored to a believable interior shell.",
+      "formatNotes": "Less-common planning image for queries like braiding clinic section cutaway, beauty school salon layout, and braiding classroom design reference. The short zone labels are supportive; the room anatomy is the real answer.",
+      "searchText": "braiding clinic section cutaway mixed-format protective braiding training guides 20260521-1452-protective-braiding-training-guides use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: architectural teaching image answering the query \"braiding clinic section cutaway\"\nscene/backdrop: cross-section view of a beauty-school braiding clinic shown as a clean cutaway drawing on cream presentation paper\nsubject: one wall-cut section of a braiding classroom with mirror stations, styling chairs, mannequin-head shelf, extension storage hooks, sanitation sink, trolley carts, poster wall, waiting bench, and instructor demo zone, with a few mannequin heads and students implied but secondary to the room layout\nstyle/medium: detailed architectural section illustration with realistic interior materials and restrained labels, no living-artist imitation\ncomposition/framing: wide horizontal cutaway with the full room from floor to ceiling, one clear section slice, strong furniture rhythm, readable tool placement, short zone labels only\nlighting/mood: bright institutional daylight, clear, useful, organized\ncolor palette: cream presentation board, rosewood cabinetry, charcoal chairs, amber-brown hair bundles, mint-blue label accents, brass fixtures\nmaterials/textures: laminate counters, mirror glass, vinyl chairs, matte posters, synthetic fiber bundles, metal trolley frames, tiled sink backsplash\ntext (verbatim): \"demo\" \"practice\" \"tools\" \"wash\"\nconstraints: direct training-reference cutaway, useful for classroom planning and search, short labels only, no logos, no watermark, keep the room believable and buildable\navoid: dollhouse whimsy, fashion salon glamour, generic office furniture, tiny text, cluttered crowds, dramatic perspective distortion fixes the spatial logic of a braiding classroom so teachers, designers, and agents can see how demo zone, practice mirrors, tool storage, wash area, and waiting bench fit in one buildable room. the section cutaway creates strong hooks like mirror station row, mannequin-head shelf, extension storage wall, wash sink corner, trolley carts, and zone labels anchored to a believable interior shell. less-common planning image for queries like braiding clinic section cutaway, beauty school salon layout, and braiding classroom design reference. the short zone labels are supportive; the room anatomy is the real answer. styling chairs mannequin-head shelf extension storage hooks sanitation sink laminate counters mirror glass vinyl chairs cream presentation board rosewood cabinetry charcoal chairs agents can see how demo zone practice mirrors architecture room",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
     {
       "id": "20260521-0440-lantern-kite-gecko-film-asset-bible-01",
       "runSlug": "20260521-0440-lantern-kite-gecko-film-asset-bible",
