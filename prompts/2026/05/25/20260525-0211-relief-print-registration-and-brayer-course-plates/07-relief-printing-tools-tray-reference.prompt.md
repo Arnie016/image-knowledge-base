@@ -21,7 +21,7 @@ Avoid: retail flatlay, clean lifestyle tabletop, gift guide styling, floral prop
 ```
 
 - Negative constraints: No retail flatlay, no clean lifestyle tabletop, no gift guide styling, no floral props, no polished brand packaging.
-- Intended learning value: Maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects.
+- Intended learning value: Bench hook, V gouges, U gouges, brayer, and baren define the core beginner relief-print toolkit so teachers and students can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects.
 - Composition notes: The tray border, grouped tool clusters, and short part-name tabs make the image useful as a studio inventory reference rather than a decorative flatlay.
 - Format notes: Contact-sheet atlas for `relief printing tools chart`, `linocut tool tray`, and `printmaking supplies reference`. The visible labels stay short while the retrieval-grade names live here.
 - Scale tags: `tabletop`, `object`, `tool atlas`

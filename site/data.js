@@ -566,10 +566,6 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "beginner",
-      8
-    ],
-    [
       "bicycle",
       8
     ],
@@ -647,6 +643,10 @@ window.IMAGE_KB = {
     ],
     [
       "actor",
+      7
+    ],
+    [
+      "beginner",
       7
     ],
     [
@@ -850,10 +850,6 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "maps",
-      6
-    ],
-    [
       "marking",
       6
     ],
@@ -927,6 +923,14 @@ window.IMAGE_KB = {
     ],
     [
       "still",
+      6
+    ],
+    [
+      "studio",
+      6
+    ],
+    [
+      "tabletop",
       6
     ],
     [
@@ -1058,6 +1062,10 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "maps",
+      5
+    ],
+    [
       "markers",
       5
     ],
@@ -1134,11 +1142,7 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "studio",
-      5
-    ],
-    [
-      "tabletop",
+      "tips",
       5
     ],
     [
@@ -1450,6 +1454,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "ruler",
+      4
+    ],
+    [
       "satchel",
       4
     ],
@@ -1507,10 +1515,6 @@ window.IMAGE_KB = {
     ],
     [
       "tiny",
-      4
-    ],
-    [
-      "tips",
       4
     ],
     [
@@ -1735,10 +1739,6 @@ window.IMAGE_KB = {
     ],
     [
       "disc",
-      3
-    ],
-    [
-      "distinguish",
       3
     ],
     [
@@ -2026,10 +2026,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "ruler",
-      3
-    ],
-    [
       "samples",
       3
     ],
@@ -2187,10 +2183,6 @@ window.IMAGE_KB = {
     ],
     [
       "agentic",
-      2
-    ],
-    [
-      "agents",
       2
     ],
     [
@@ -2539,6 +2531,10 @@ window.IMAGE_KB = {
     ],
     [
       "distance",
+      2
+    ],
+    [
+      "distinguish",
       2
     ],
     [
@@ -3174,10 +3170,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "relief-print",
-      2
-    ],
-    [
       "reroute",
       2
     ],
@@ -3239,6 +3231,10 @@ window.IMAGE_KB = {
     ],
     [
       "sanitation",
+      2
+    ],
+    [
+      "scarred",
       2
     ],
     [
@@ -3526,6 +3522,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "wooden",
+      2
+    ],
+    [
       "yard",
       2
     ],
@@ -3571,6 +3571,10 @@ window.IMAGE_KB = {
     ],
     [
       "advertising",
+      1
+    ],
+    [
+      "agents",
       1
     ],
     [
@@ -4206,10 +4210,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "core",
-      1
-    ],
-    [
       "cork",
       1
     ],
@@ -4315,10 +4315,6 @@ window.IMAGE_KB = {
     ],
     [
       "cuts",
-      1
-    ],
-    [
-      "cutting",
       1
     ],
     [
@@ -5774,6 +5770,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "relief-print",
+      1
+    ],
+    [
       "relieved",
       1
     ],
@@ -5919,10 +5919,6 @@ window.IMAGE_KB = {
     ],
     [
       "scallop",
-      1
-    ],
-    [
-      "scarred",
       1
     ],
     [
@@ -6143,6 +6139,10 @@ window.IMAGE_KB = {
     ],
     [
       "spokes",
+      1
+    ],
+    [
+      "spoon",
       1
     ],
     [
@@ -6583,10 +6583,6 @@ window.IMAGE_KB = {
     ],
     [
       "wine",
-      1
-    ],
-    [
-      "wooden",
       1
     ],
     [
@@ -7441,10 +7437,6 @@ window.IMAGE_KB = {
     ],
     [
       "adding too many fish at once",
-      1
-    ],
-    [
-      "agents can distinguish cutting",
       1
     ],
     [
@@ -8708,10 +8700,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "Maps the core beginner relief-print toolkit so teachers",
-      1
-    ],
-    [
       "maritime order doctrine",
       1
     ],
@@ -9932,6 +9920,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "tool atlas",
+      1
+    ],
+    [
       "top-down scalp section grid strip",
       1
     ],
@@ -10982,17 +10974,18 @@ window.IMAGE_KB = {
         "gouges",
         "bench",
         "tabs",
+        "tool",
         "tray",
+        "brayer",
+        "hook",
         "ink",
         "reference",
         "relief",
         "steel",
-        "tool",
         "tools",
         "wood",
-        "brayer",
+        "baren",
         "glove",
-        "hook",
         "knife",
         "newsprint",
         "printing",
@@ -11000,33 +10993,32 @@ window.IMAGE_KB = {
         "short",
         "tape",
         "workshop",
-        "agents",
         "atlas-contact-sheet",
-        "baren",
-        "beginner",
         "birch",
         "carving",
         "chart",
         "clusters",
         "contact-sheet",
-        "core",
-        "cutting",
         "decorative",
-        "distinguish",
         "flatlay",
         "gouge",
         "grouped",
         "handles",
         "ink-stained",
         "labels",
-        "maps",
         "masking",
         "oxidized",
         "paper",
         "pica",
         "print",
         "props",
-        "relief-print"
+        "ruler",
+        "scarred",
+        "spoon",
+        "studio",
+        "tabletop",
+        "tips",
+        "wooden"
       ],
       "specificHooks": [
         "bench hook",
@@ -11039,8 +11031,7 @@ window.IMAGE_KB = {
         "birch wood",
         "cream paper",
         "oxidized steel",
-        "Maps the core beginner relief-print toolkit so teachers",
-        "agents can distinguish cutting"
+        "tool atlas"
       ],
       "scaleTags": [
         "tabletop",
@@ -11056,10 +11047,10 @@ window.IMAGE_KB = {
       "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-07/",
       "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
       "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: tactile workshop atlas answering the query \"relief printing tools chart\"\nScene/backdrop: top-down tools tray on a stained print studio table\nSubject: brayer, bench hook, V gouges, U gouges, ink knife, registration tabs, baren, wooden spoon, pica ruler, masking tape roll, carving glove, and newsprint stack arranged as one coherent training kit\nStyle/medium: dense tactile contact-sheet atlas photographed like an internal workshop reference\nComposition/framing: landscape overhead tray layout with grouped clusters and small blue label tabs only where necessary\nLighting/mood: bright side light revealing worn tool edges and ink residue\nColor palette: gum-black, birch wood, cream paper, oxidized steel, ultramarine tabs, muted oxide-red pencil marks\nMaterials/textures: ink-stained handles, scarred bench wood, steel gouge tips, rubber roller, cloth glove, newsprint, masking tape\nText (verbatim): \"Brayer\" \"Bench Hook\" \"V Gouges\" \"U Gouges\" \"Ink Knife\" \"Reg Tabs\" \"Baren\" \"Wooden Spoon\" \"Tape\" \"Carving Glove\" \"Newsprint\" \"Pica Ruler\"\nConstraints: concrete workshop nouns for local retrieval, minimal short labels, no logos, no watermark, no decorative props\nAvoid: retail flatlay, clean lifestyle tabletop, gift guide styling, floral props, polished brand packaging",
-      "learningValue": "Maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects.",
+      "learningValue": "Bench hook, V gouges, U gouges, brayer, and baren define the core beginner relief-print toolkit so teachers and students can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects.",
       "compositionNotes": "The tray border, grouped tool clusters, and short part-name tabs make the image useful as a studio inventory reference rather than a decorative flatlay.",
       "formatNotes": "Contact-sheet atlas for relief printing tools chart, linocut tool tray, and printmaking supplies reference. The visible labels stay short while the retrieval-grade names live here.",
-      "searchText": "relief printing tools tray reference atlas-contact-sheet relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: tactile workshop atlas answering the query \"relief printing tools chart\"\nscene/backdrop: top-down tools tray on a stained print studio table\nsubject: brayer, bench hook, v gouges, u gouges, ink knife, registration tabs, baren, wooden spoon, pica ruler, masking tape roll, carving glove, and newsprint stack arranged as one coherent training kit\nstyle/medium: dense tactile contact-sheet atlas photographed like an internal workshop reference\ncomposition/framing: landscape overhead tray layout with grouped clusters and small blue label tabs only where necessary\nlighting/mood: bright side light revealing worn tool edges and ink residue\ncolor palette: gum-black, birch wood, cream paper, oxidized steel, ultramarine tabs, muted oxide-red pencil marks\nmaterials/textures: ink-stained handles, scarred bench wood, steel gouge tips, rubber roller, cloth glove, newsprint, masking tape\ntext (verbatim): \"brayer\" \"bench hook\" \"v gouges\" \"u gouges\" \"ink knife\" \"reg tabs\" \"baren\" \"wooden spoon\" \"tape\" \"carving glove\" \"newsprint\" \"pica ruler\"\nconstraints: concrete workshop nouns for local retrieval, minimal short labels, no logos, no watermark, no decorative props\navoid: retail flatlay, clean lifestyle tabletop, gift guide styling, floral props, polished brand packaging maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects. the tray border, grouped tool clusters, and short part-name tabs make the image useful as a studio inventory reference rather than a decorative flatlay. contact-sheet atlas for relief printing tools chart, linocut tool tray, and printmaking supplies reference. the visible labels stay short while the retrieval-grade names live here. bench hook v gouges u gouges ink knife ink-stained handles scarred bench wood steel gouge tips birch wood cream paper oxidized steel maps the core beginner relief-print toolkit so teachers agents can distinguish cutting tabletop object tool atlas",
+      "searchText": "relief printing tools tray reference atlas-contact-sheet relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: tactile workshop atlas answering the query \"relief printing tools chart\"\nscene/backdrop: top-down tools tray on a stained print studio table\nsubject: brayer, bench hook, v gouges, u gouges, ink knife, registration tabs, baren, wooden spoon, pica ruler, masking tape roll, carving glove, and newsprint stack arranged as one coherent training kit\nstyle/medium: dense tactile contact-sheet atlas photographed like an internal workshop reference\ncomposition/framing: landscape overhead tray layout with grouped clusters and small blue label tabs only where necessary\nlighting/mood: bright side light revealing worn tool edges and ink residue\ncolor palette: gum-black, birch wood, cream paper, oxidized steel, ultramarine tabs, muted oxide-red pencil marks\nmaterials/textures: ink-stained handles, scarred bench wood, steel gouge tips, rubber roller, cloth glove, newsprint, masking tape\ntext (verbatim): \"brayer\" \"bench hook\" \"v gouges\" \"u gouges\" \"ink knife\" \"reg tabs\" \"baren\" \"wooden spoon\" \"tape\" \"carving glove\" \"newsprint\" \"pica ruler\"\nconstraints: concrete workshop nouns for local retrieval, minimal short labels, no logos, no watermark, no decorative props\navoid: retail flatlay, clean lifestyle tabletop, gift guide styling, floral props, polished brand packaging bench hook, v gouges, u gouges, brayer, and baren define the core beginner relief-print toolkit so teachers and students can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects. the tray border, grouped tool clusters, and short part-name tabs make the image useful as a studio inventory reference rather than a decorative flatlay. contact-sheet atlas for relief printing tools chart, linocut tool tray, and printmaking supplies reference. the visible labels stay short while the retrieval-grade names live here. bench hook v gouges u gouges ink knife ink-stained handles scarred bench wood steel gouge tips birch wood cream paper oxidized steel tool atlas tabletop object tool atlas",
       "curation": {
         "status": "public",
         "reason": "",

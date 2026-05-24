@@ -8,7 +8,7 @@
 
 | Public images | Public runs | Search hooks | Formats |
 | --- | --- | --- | --- |
-| 101 | 10 | 896 | 14 |
+| 101 | 10 | 895 | 14 |
 
 ## What This Repo Publishes
 
@@ -635,7 +635,7 @@
 | Brayer Hardness And Texture Comparison Chart | Compares soft brayer coverage, medium brayer control, and hard-edge fidelity so beginners can match roller hardness to line work, solid fills, and rough texture | medium brayer control, hard-edge fidelity, side-by-side ink rolls |
 | Carving Mark Vocabulary Reference Plate | Gives students and curriculum authors a concrete visual vocabulary for common carved textures, edge mistakes, and clean relief areas they see while cutting blocks | U gouge scoop, hatch marks, stipple pits |
 | Reduction Print Step Sequence Poster | Shows the carve-print-carve rhythm of reduction linocut so students can understand shrinking printable areas and why each stage cannot be undone | second carve, second color, final carve |
-| Relief Printing Tools Tray Reference | Maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects | bench hook, V gouges, U gouges |
+| Relief Printing Tools Tray Reference | Bench hook, V gouges, U gouges, brayer, and baren define the core beginner relief-print toolkit so teachers and students can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects | bench hook, V gouges, U gouges |
 | Camera Angle And Eyeline Guide | Compares the most reusable dialogue-scene camera angles while also showing how eyeline placement and shoulder framing affect viewer orientation | HIGH ANGLE, LOW ANGLE, OVER SHOULDER |
 | Director Viewfinder Tape Marks And Apple Boxes Atlas | Identifies the small physical tools that turn abstract blocking advice into practical set work | directors cardboard viewfinder, blue and red spike tape rolls, paper floor plan |
 
