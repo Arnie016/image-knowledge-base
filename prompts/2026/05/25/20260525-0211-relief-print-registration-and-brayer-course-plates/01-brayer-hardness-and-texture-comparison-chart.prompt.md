@@ -8,8 +8,8 @@
 Use case: infographic-diagram
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
 Primary request: practical printmaking chart answering the query "brayer hardness chart"
-Scene/backdrop: cream rag-paper teaching poster pinned flat on a cork-backed print studio board, no surrounding room
-Subject: three relief-print brayers labeled soft, medium, and hard, with side-by-side ink rolls, carved line samples, solid black fills, and patchy rough proof swatches
+Scene/backdrop: cream rag-paper teaching poster pinned flat on a cork-backed print studio board
+Subject: three relief-print brayers showing soft brayer coverage, medium brayer control, hard-edge fidelity, side-by-side ink rolls, carved line samples, solid black fills, and patchy rough proof swatches
 Style/medium: realistic printmaking instruction poster with tactile studio photography blended with diagram clarity
 Composition/framing: tall centered comparison grid with one brayer row per hardness and one print-result column per texture outcome, sparse oxide-red callout arrows
 Lighting/mood: neutral skylit workshop light with calm instructional mood
@@ -21,7 +21,7 @@ Avoid: Etsy craft ad styling, glossy stationery mockup, unreadable body text, ve
 ```
 
 - Negative constraints: No Etsy craft ad styling, no glossy stationery mockup, no unreadable body text, no vector-clean fake textures, no boho decor.
-- Intended learning value: Helps beginners compare how soft, medium, and hard brayers change line fidelity, solid coverage, and rough patch texture before they waste ink and paper.
+- Intended learning value: Compares soft brayer coverage, medium brayer control, and hard-edge fidelity so beginners can match roller hardness to line work, solid fills, and rough texture.
 - Composition notes: The one-sheet grid, repeated brayer row logic, `soft`, `medium`, `hard`, `lines`, `solid`, and `rough` labels keep the search result instantly legible at thumbnail scale.
 - Format notes: Direct training chart for `brayer hardness chart`, `printmaking roller comparison`, and `linocut ink coverage guide`. Short labels are deliberate; the fuller classroom explanation lives here even if the image text varies slightly.
 - Scale tags: `page`, `tabletop`, `print studio poster`

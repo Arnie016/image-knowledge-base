@@ -8,7 +8,7 @@
 Use case: infographic-diagram
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
 Primary request: practical printmaking sequence answering the query "reduction print steps poster"
-Scene/backdrop: cream workshop poster pinned above a print bench, no people
+Scene/backdrop: cream workshop poster pinned above an ink-stained print bench
 Subject: one reduction linocut image evolving through carve and first color, second carve, second color, final carve, and final dark pull, with each stage showing the block and print result side by side
 Style/medium: art-school process poster with real print evidence, not vector infographic
 Composition/framing: tall five-stage vertical sequence from top to bottom with one carved block on the left and one proof on the right per stage

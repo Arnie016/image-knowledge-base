@@ -131,7 +131,7 @@ window.IMAGE_KB = {
     ],
     [
       "short",
-      60
+      61
     ],
     [
       "paper",
@@ -170,12 +170,12 @@ window.IMAGE_KB = {
       27
     ],
     [
-      "room",
-      27
-    ],
-    [
       "comparison",
       24
+    ],
+    [
+      "room",
+      23
     ],
     [
       "scientific-educational",
@@ -202,15 +202,15 @@ window.IMAGE_KB = {
       20
     ],
     [
-      "black",
-      19
-    ],
-    [
       "infographic-diagram",
       19
     ],
     [
       "beekeeping",
+      18
+    ],
+    [
+      "black",
       18
     ],
     [
@@ -226,15 +226,15 @@ window.IMAGE_KB = {
       17
     ],
     [
-      "how",
-      17
-    ],
-    [
       "steel",
       17
     ],
     [
       "brown",
+      16
+    ],
+    [
+      "how",
       16
     ],
     [
@@ -418,6 +418,10 @@ window.IMAGE_KB = {
       10
     ],
     [
+      "row",
+      10
+    ],
+    [
       "top-down",
       10
     ],
@@ -511,10 +515,6 @@ window.IMAGE_KB = {
     ],
     [
       "repeated",
-      9
-    ],
-    [
-      "row",
       9
     ],
     [
@@ -734,6 +734,10 @@ window.IMAGE_KB = {
       7
     ],
     [
+      "rubber",
+      7
+    ],
+    [
       "salon",
       7
     ],
@@ -763,6 +767,10 @@ window.IMAGE_KB = {
     ],
     [
       "bands",
+      6
+    ],
+    [
+      "birch",
       6
     ],
     [
@@ -894,10 +902,6 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "rubber",
-      6
-    ],
-    [
       "safety",
       6
     ],
@@ -958,10 +962,6 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "birch",
-      5
-    ],
-    [
       "block",
       5
     ],
@@ -987,6 +987,10 @@ window.IMAGE_KB = {
     ],
     [
       "circles",
+      5
+    ],
+    [
+      "compares",
       5
     ],
     [
@@ -1098,10 +1102,6 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "pinned",
-      5
-    ],
-    [
       "plus",
       5
     ],
@@ -1162,10 +1162,6 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "workshop",
-      5
-    ],
-    [
       "above",
       4
     ],
@@ -1191,6 +1187,10 @@ window.IMAGE_KB = {
     ],
     [
       "bakery-box",
+      4
+    ],
+    [
+      "base",
       4
     ],
     [
@@ -1263,10 +1263,6 @@ window.IMAGE_KB = {
     ],
     [
       "closed",
-      4
-    ],
-    [
-      "compares",
       4
     ],
     [
@@ -1398,6 +1394,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "pinned",
+      4
+    ],
+    [
       "piped",
       4
     ],
@@ -1447,10 +1447,6 @@ window.IMAGE_KB = {
     ],
     [
       "route",
-      4
-    ],
-    [
-      "ruler",
       4
     ],
     [
@@ -1546,6 +1542,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "workshop",
+      4
+    ],
+    [
       "actors",
       3
     ],
@@ -1587,10 +1587,6 @@ window.IMAGE_KB = {
     ],
     [
       "bamboo",
-      3
-    ],
-    [
-      "base",
       3
     ],
     [
@@ -1742,6 +1738,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "distinguish",
+      3
+    ],
+    [
       "dome",
       3
     ],
@@ -1838,10 +1838,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "helps",
-      3
-    ],
-    [
       "high",
       3
     ],
@@ -1871,10 +1867,6 @@ window.IMAGE_KB = {
     ],
     [
       "kitchen",
-      3
-    ],
-    [
-      "labeled",
       3
     ],
     [
@@ -1954,10 +1946,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "people",
-      3
-    ],
-    [
       "perforated",
       3
     ],
@@ -2006,10 +1994,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "relief-print",
-      3
-    ],
-    [
       "ridges",
       3
     ],
@@ -2019,6 +2003,10 @@ window.IMAGE_KB = {
     ],
     [
       "rings",
+      3
+    ],
+    [
+      "roller",
       3
     ],
     [
@@ -2035,6 +2023,14 @@ window.IMAGE_KB = {
     ],
     [
       "rough",
+      3
+    ],
+    [
+      "ruler",
+      3
+    ],
+    [
+      "samples",
       3
     ],
     [
@@ -2126,10 +2122,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "surrounding",
-      3
-    ],
-    [
       "tall",
       3
     ],
@@ -2198,6 +2190,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "agents",
+      2
+    ],
+    [
       "air",
       2
     ],
@@ -2246,6 +2242,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "areas",
+      2
+    ],
+    [
       "around",
       2
     ],
@@ -2262,6 +2262,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "backing",
+      2
+    ],
+    [
       "band",
       2
     ],
@@ -2275,6 +2279,10 @@ window.IMAGE_KB = {
     ],
     [
       "benches",
+      2
+    ],
+    [
+      "beside",
       2
     ],
     [
@@ -2319,10 +2327,6 @@ window.IMAGE_KB = {
     ],
     [
       "brand",
-      2
-    ],
-    [
-      "brayers",
       2
     ],
     [
@@ -2423,10 +2427,6 @@ window.IMAGE_KB = {
     ],
     [
       "compact",
-      2
-    ],
-    [
-      "compare",
       2
     ],
     [
@@ -2539,10 +2539,6 @@ window.IMAGE_KB = {
     ],
     [
       "distance",
-      2
-    ],
-    [
-      "distinguish",
       2
     ],
     [
@@ -2746,6 +2742,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "helps",
+      2
+    ],
+    [
       "hi-vis",
       2
     ],
@@ -2786,6 +2786,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "ink-stained",
+      2
+    ],
+    [
       "insert",
       2
     ],
@@ -2815,6 +2819,10 @@ window.IMAGE_KB = {
     ],
     [
       "knee",
+      2
+    ],
+    [
+      "labeled",
       2
     ],
     [
@@ -2943,10 +2951,6 @@ window.IMAGE_KB = {
     ],
     [
       "narrow",
-      2
-    ],
-    [
-      "nearby",
       2
     ],
     [
@@ -3170,6 +3174,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "relief-print",
+      2
+    ],
+    [
       "reroute",
       2
     ],
@@ -3202,10 +3210,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "roller",
-      2
-    ],
-    [
       "rolls",
       2
     ],
@@ -3234,15 +3238,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "samples",
-      2
-    ],
-    [
       "sanitation",
-      2
-    ],
-    [
-      "scarred",
       2
     ],
     [
@@ -3259,6 +3255,10 @@ window.IMAGE_KB = {
     ],
     [
       "second",
+      2
+    ],
+    [
+      "see",
       2
     ],
     [
@@ -3574,10 +3574,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "agents",
-      1
-    ],
-    [
       "airborne",
       1
     ],
@@ -3678,10 +3674,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "areas",
-      1
-    ],
-    [
       "argument",
       1
     ],
@@ -3738,10 +3730,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "backing",
-      1
-    ],
-    [
       "backs",
       1
     ],
@@ -3790,10 +3778,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "beginners",
-      1
-    ],
-    [
       "bell-tower",
       1
     ],
@@ -3807,10 +3791,6 @@ window.IMAGE_KB = {
     ],
     [
       "bent",
-      1
-    ],
-    [
-      "beside",
       1
     ],
     [
@@ -3878,6 +3858,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "brayers",
+      1
+    ],
+    [
       "breaks",
       1
     ],
@@ -3903,6 +3887,10 @@ window.IMAGE_KB = {
     ],
     [
       "bumps",
+      1
+    ],
+    [
+      "burnished",
       1
     ],
     [
@@ -4130,6 +4118,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "compare",
+      1
+    ],
+    [
       "comparing",
       1
     ],
@@ -4191,6 +4183,10 @@ window.IMAGE_KB = {
     ],
     [
       "continental",
+      1
+    ],
+    [
+      "control",
       1
     ],
     [
@@ -4319,6 +4315,10 @@ window.IMAGE_KB = {
     ],
     [
       "cuts",
+      1
+    ],
+    [
+      "cutting",
       1
     ],
     [
@@ -4638,6 +4638,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "fidelity",
+      1
+    ],
+    [
       "figure",
       1
     ],
@@ -4878,6 +4882,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "hard-edge",
+      1
+    ],
+    [
       "hardness",
       1
     ],
@@ -4991,10 +4999,6 @@ window.IMAGE_KB = {
     ],
     [
       "initial",
-      1
-    ],
-    [
-      "ink-stained",
       1
     ],
     [
@@ -5363,6 +5367,10 @@ window.IMAGE_KB = {
     ],
     [
       "near",
+      1
+    ],
+    [
+      "nearby",
       1
     ],
     [
@@ -5914,6 +5922,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "scarred",
+      1
+    ],
+    [
       "scenic",
       1
     ],
@@ -5959,10 +5971,6 @@ window.IMAGE_KB = {
     ],
     [
       "sectioned",
-      1
-    ],
-    [
-      "see",
       1
     ],
     [
@@ -6270,6 +6278,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "surrounding",
+      1
+    ],
+    [
       "sweater",
       1
     ],
@@ -6414,6 +6426,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "tracks",
+      1
+    ],
+    [
       "trade",
       1
     ],
@@ -6511,6 +6527,10 @@ window.IMAGE_KB = {
     ],
     [
       "vinyl",
+      1
+    ],
+    [
+      "viscosity",
       1
     ],
     [
@@ -6632,10 +6652,6 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "no surrounding room",
-      5
-    ],
-    [
       "synthetic braiding fiber",
       5
     ],
@@ -6701,10 +6717,6 @@ window.IMAGE_KB = {
     ],
     [
       "gum-black ink",
-      3
-    ],
-    [
-      "no people",
       3
     ],
     [
@@ -7240,6 +7252,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "section plate",
+      2
+    ],
+    [
       "short labels only",
       2
     ],
@@ -7425,6 +7441,10 @@ window.IMAGE_KB = {
     ],
     [
       "adding too many fish at once",
+      1
+    ],
+    [
+      "agents can distinguish cutting",
       1
     ],
     [
@@ -7860,6 +7880,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "clean relief areas they see",
+      1
+    ],
+    [
       "clean white technical-plate background with no room scene",
       1
     ],
@@ -7944,11 +7968,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "Compares soft brayer coverage",
+      1
+    ],
+    [
       "Compares the most reusable dialogue-scene camera angles",
       1
     ],
     [
       "Compares the root structure",
+      1
+    ],
+    [
+      "comparison board",
       1
     ],
     [
@@ -8029,10 +8061,6 @@ window.IMAGE_KB = {
     ],
     [
       "cream walls",
-      1
-    ],
-    [
-      "cream workshop poster pinned above a print bench",
       1
     ],
     [
@@ -8456,11 +8484,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "hatch marks",
+      "hard-edge fidelity",
       1
     ],
     [
-      "Helps beginners compare how soft",
+      "hatch marks",
       1
     ],
     [
@@ -8517,6 +8545,10 @@ window.IMAGE_KB = {
     ],
     [
       "ink knife",
+      1
+    ],
+    [
+      "ink slab guide",
       1
     ],
     [
@@ -8760,6 +8792,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "medium brayer control",
+      1
+    ],
+    [
       "medium buttercream",
       1
     ],
@@ -8869,6 +8905,10 @@ window.IMAGE_KB = {
     ],
     [
       "no software screenshot",
+      1
+    ],
+    [
+      "no surrounding room",
       1
     ],
     [
@@ -9204,6 +9244,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "print studio poster",
+      1
+    ],
+    [
       "printed board",
       1
     ],
@@ -9213,6 +9257,10 @@ window.IMAGE_KB = {
     ],
     [
       "printed teaching board",
+      1
+    ],
+    [
+      "process poster",
       1
     ],
     [
@@ -9492,10 +9540,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "section plate",
-      1
-    ],
-    [
       "sectioned press bed",
       1
     ],
@@ -9521,6 +9565,10 @@ window.IMAGE_KB = {
     ],
     [
       "Shows shot size",
+      1
+    ],
+    [
+      "side-by-side ink rolls",
       1
     ],
     [
@@ -9621,10 +9669,6 @@ window.IMAGE_KB = {
     ],
     [
       "soft gouache paint",
-      1
-    ],
-    [
-      "solid black fills",
       1
     ],
     [
@@ -9853,10 +9897,6 @@ window.IMAGE_KB = {
     ],
     [
       "three case-study columns",
-      1
-    ],
-    [
-      "three relief-print brayers labeled soft",
       1
     ],
     [
@@ -10112,7 +10152,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "with a faint ghost print nearby",
+      "with a faint ghost print beside it",
       1
     ],
     [
@@ -10125,10 +10165,6 @@ window.IMAGE_KB = {
     ],
     [
       "with clear visibility on the cage",
-      1
-    ],
-    [
-      "with side-by-side ink rolls",
       1
     ],
     [
@@ -10296,68 +10332,68 @@ window.IMAGE_KB = {
       "title": "Brayer Hardness And Texture Comparison Chart",
       "taxonomy": "infographic-diagram",
       "topics": [
-        "ink",
         "brayer",
-        "soft",
+        "ink",
         "chart",
-        "paper",
-        "solid",
-        "hard",
         "hardness",
+        "soft",
+        "coverage",
+        "paper",
+        "poster",
+        "print",
         "printmaking",
         "rag",
         "rough",
-        "brayers",
+        "solid",
+        "studio",
         "comparison",
+        "control",
+        "fidelity",
+        "hard-edge",
         "labels",
         "line",
-        "poster",
-        "print",
         "relief",
-        "studio",
         "texture",
         "arrows",
-        "beginners",
         "birch",
-        "black",
         "callout",
         "carved",
-        "compare",
+        "compares",
         "corner",
-        "coverage",
         "direct",
         "fibers",
         "fills",
         "grid",
         "gum-black",
         "handles",
-        "helps",
-        "how",
+        "hard",
         "infographic-diagram",
-        "labeled",
         "lines",
         "mood",
         "oil-based",
         "oxide-red",
         "per",
-        "relief-print",
+        "roller",
         "rollers",
         "rolls",
-        "room"
+        "row",
+        "rubber",
+        "samples",
+        "short"
       ],
       "specificHooks": [
-        "three relief-print brayers labeled soft",
-        "with side-by-side ink rolls",
+        "medium brayer control",
+        "hard-edge fidelity",
+        "side-by-side ink rolls",
         "carved line samples",
-        "solid black fills",
-        "no surrounding room",
         "rubber brayer rollers",
         "oil-based relief ink",
         "rag paper fibers",
         "cream rag paper",
         "gum-black ink",
         "ultramarine corner tabs",
-        "Helps beginners compare how soft"
+        "Compares soft brayer coverage",
+        "print studio poster"
       ],
       "scaleTags": [
         "page",
@@ -10372,11 +10408,11 @@ window.IMAGE_KB = {
       "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
       "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-01/",
       "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
-      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical printmaking chart answering the query \"brayer hardness chart\"\nScene/backdrop: cream rag-paper teaching poster pinned flat on a cork-backed print studio board, no surrounding room\nSubject: three relief-print brayers labeled soft, medium, and hard, with side-by-side ink rolls, carved line samples, solid black fills, and patchy rough proof swatches\nStyle/medium: realistic printmaking instruction poster with tactile studio photography blended with diagram clarity\nComposition/framing: tall centered comparison grid with one brayer row per hardness and one print-result column per texture outcome, sparse oxide-red callout arrows\nLighting/mood: neutral skylit workshop light with calm instructional mood\nColor palette: cream rag paper, gum-black ink, ultramarine corner tabs, oxide-red callout arrows, pale birch wood handles\nMaterials/textures: rubber brayer rollers, oil-based relief ink, rag paper fibers, birch handles, masking tape corners, dried ink smudges\nText (verbatim): \"Soft\" \"Medium\" \"Hard\" \"Lines\" \"Solid\" \"Rough\"\nConstraints: direct search-answer image for printmaking students, concise short labels only, no logos, no watermark, no long paragraphs\nAvoid: Etsy craft ad styling, glossy stationery mockup, unreadable body text, vector-clean fake textures, boho decor",
-      "learningValue": "Helps beginners compare how soft, medium, and hard brayers change line fidelity, solid coverage, and rough patch texture before they waste ink and paper.",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical printmaking chart answering the query \"brayer hardness chart\"\nScene/backdrop: cream rag-paper teaching poster pinned flat on a cork-backed print studio board\nSubject: three relief-print brayers showing soft brayer coverage, medium brayer control, hard-edge fidelity, side-by-side ink rolls, carved line samples, solid black fills, and patchy rough proof swatches\nStyle/medium: realistic printmaking instruction poster with tactile studio photography blended with diagram clarity\nComposition/framing: tall centered comparison grid with one brayer row per hardness and one print-result column per texture outcome, sparse oxide-red callout arrows\nLighting/mood: neutral skylit workshop light with calm instructional mood\nColor palette: cream rag paper, gum-black ink, ultramarine corner tabs, oxide-red callout arrows, pale birch wood handles\nMaterials/textures: rubber brayer rollers, oil-based relief ink, rag paper fibers, birch handles, masking tape corners, dried ink smudges\nText (verbatim): \"Soft\" \"Medium\" \"Hard\" \"Lines\" \"Solid\" \"Rough\"\nConstraints: direct search-answer image for printmaking students, concise short labels only, no logos, no watermark, no long paragraphs\nAvoid: Etsy craft ad styling, glossy stationery mockup, unreadable body text, vector-clean fake textures, boho decor",
+      "learningValue": "Compares soft brayer coverage, medium brayer control, and hard-edge fidelity so beginners can match roller hardness to line work, solid fills, and rough texture.",
       "compositionNotes": "The one-sheet grid, repeated brayer row logic, soft, medium, hard, lines, solid, and rough labels keep the search result instantly legible at thumbnail scale.",
       "formatNotes": "Direct training chart for brayer hardness chart, printmaking roller comparison, and linocut ink coverage guide. Short labels are deliberate; the fuller classroom explanation lives here even if the image text varies slightly.",
-      "searchText": "brayer hardness and texture comparison chart infographic-diagram relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical printmaking chart answering the query \"brayer hardness chart\"\nscene/backdrop: cream rag-paper teaching poster pinned flat on a cork-backed print studio board, no surrounding room\nsubject: three relief-print brayers labeled soft, medium, and hard, with side-by-side ink rolls, carved line samples, solid black fills, and patchy rough proof swatches\nstyle/medium: realistic printmaking instruction poster with tactile studio photography blended with diagram clarity\ncomposition/framing: tall centered comparison grid with one brayer row per hardness and one print-result column per texture outcome, sparse oxide-red callout arrows\nlighting/mood: neutral skylit workshop light with calm instructional mood\ncolor palette: cream rag paper, gum-black ink, ultramarine corner tabs, oxide-red callout arrows, pale birch wood handles\nmaterials/textures: rubber brayer rollers, oil-based relief ink, rag paper fibers, birch handles, masking tape corners, dried ink smudges\ntext (verbatim): \"soft\" \"medium\" \"hard\" \"lines\" \"solid\" \"rough\"\nconstraints: direct search-answer image for printmaking students, concise short labels only, no logos, no watermark, no long paragraphs\navoid: etsy craft ad styling, glossy stationery mockup, unreadable body text, vector-clean fake textures, boho decor helps beginners compare how soft, medium, and hard brayers change line fidelity, solid coverage, and rough patch texture before they waste ink and paper. the one-sheet grid, repeated brayer row logic, soft, medium, hard, lines, solid, and rough labels keep the search result instantly legible at thumbnail scale. direct training chart for brayer hardness chart, printmaking roller comparison, and linocut ink coverage guide. short labels are deliberate; the fuller classroom explanation lives here even if the image text varies slightly. three relief-print brayers labeled soft with side-by-side ink rolls carved line samples solid black fills no surrounding room rubber brayer rollers oil-based relief ink rag paper fibers cream rag paper gum-black ink ultramarine corner tabs helps beginners compare how soft page tabletop print studio poster",
+      "searchText": "brayer hardness and texture comparison chart infographic-diagram relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical printmaking chart answering the query \"brayer hardness chart\"\nscene/backdrop: cream rag-paper teaching poster pinned flat on a cork-backed print studio board\nsubject: three relief-print brayers showing soft brayer coverage, medium brayer control, hard-edge fidelity, side-by-side ink rolls, carved line samples, solid black fills, and patchy rough proof swatches\nstyle/medium: realistic printmaking instruction poster with tactile studio photography blended with diagram clarity\ncomposition/framing: tall centered comparison grid with one brayer row per hardness and one print-result column per texture outcome, sparse oxide-red callout arrows\nlighting/mood: neutral skylit workshop light with calm instructional mood\ncolor palette: cream rag paper, gum-black ink, ultramarine corner tabs, oxide-red callout arrows, pale birch wood handles\nmaterials/textures: rubber brayer rollers, oil-based relief ink, rag paper fibers, birch handles, masking tape corners, dried ink smudges\ntext (verbatim): \"soft\" \"medium\" \"hard\" \"lines\" \"solid\" \"rough\"\nconstraints: direct search-answer image for printmaking students, concise short labels only, no logos, no watermark, no long paragraphs\navoid: etsy craft ad styling, glossy stationery mockup, unreadable body text, vector-clean fake textures, boho decor compares soft brayer coverage, medium brayer control, and hard-edge fidelity so beginners can match roller hardness to line work, solid fills, and rough texture. the one-sheet grid, repeated brayer row logic, soft, medium, hard, lines, solid, and rough labels keep the search result instantly legible at thumbnail scale. direct training chart for brayer hardness chart, printmaking roller comparison, and linocut ink coverage guide. short labels are deliberate; the fuller classroom explanation lives here even if the image text varies slightly. medium brayer control hard-edge fidelity side-by-side ink rolls carved line samples rubber brayer rollers oil-based relief ink rag paper fibers cream rag paper gum-black ink ultramarine corner tabs compares soft brayer coverage print studio poster page tabletop print studio poster",
       "curation": {
         "status": "public",
         "reason": "",
@@ -10518,11 +10554,11 @@ window.IMAGE_KB = {
         "carving",
         "edge",
         "marks",
+        "relief",
         "vocabulary",
         "carved",
         "print",
         "proof",
-        "relief",
         "sample",
         "torn",
         "birch",
@@ -10532,6 +10568,7 @@ window.IMAGE_KB = {
         "stipple",
         "strip",
         "tabs",
+        "areas",
         "atlas-contact-sheet",
         "backing",
         "blocks",
@@ -10550,13 +10587,12 @@ window.IMAGE_KB = {
         "mistakes",
         "pits",
         "printmaking",
-        "room",
         "scoop",
+        "see",
         "specimen",
         "stock",
         "straight-on",
         "surface",
-        "surrounding",
         "texture",
         "textures",
         "ultramarine"
@@ -10566,14 +10602,14 @@ window.IMAGE_KB = {
         "hatch marks",
         "stipple pits",
         "torn edge",
-        "no surrounding room",
         "linoleum surface cuts",
         "birch backing",
         "dried ink in grooves",
         "cream stock",
         "charcoal-black impressions",
         "ultramarine tabs",
-        "edge mistakes"
+        "edge mistakes",
+        "clean relief areas they see"
       ],
       "scaleTags": [
         "page",
@@ -10588,11 +10624,11 @@ window.IMAGE_KB = {
       "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
       "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-03/",
       "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
-      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: tactile printmaking vocabulary plate answering the query \"linocut carving marks reference\"\nScene/backdrop: cream teaching plate photographed straight-on above a print studio bench, no surrounding room\nSubject: carved relief sample blocks showing V gouge line, U gouge scoop, hatch marks, stipple pits, torn edge, clean field, and ghost cut, plus a narrow strip of matching proof impressions\nStyle/medium: specimen-style printmaking reference plate with tactile closeup detail\nComposition/framing: vertical grid of carved sample rectangles with one blue label tab per sample and a torn proof strip along the bottom\nLighting/mood: soft raking light revealing carved depth and burr texture\nColor palette: cream stock, charcoal-black impressions, ultramarine tabs, oxide-red pencil ticks, gray linoleum, pale birch edges\nMaterials/textures: linoleum surface cuts, birch backing, dried ink in grooves, rag-paper proof strips, tiny masking tabs\nText (verbatim): \"V Gouge\" \"U Gouge\" \"Hatch Marks\" \"Stipple\" \"Torn Edge\" \"Clean Field\" \"Ghost Cut\"\nConstraints: concrete carving vocabulary for beginner printmakers, no long text, no logos, no watermark, keep every sample visibly different\nAvoid: craft scrapbook layout, polished vector iconography, luxury art print shop branding, unreadable notes",
+      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: tactile printmaking vocabulary plate answering the query \"linocut carving marks reference\"\nScene/backdrop: cream teaching plate photographed straight-on above a print studio bench\nSubject: carved relief sample blocks showing V gouge line, U gouge scoop, hatch marks, stipple pits, torn edge, clean field, and ghost cut, plus a narrow strip of matching proof impressions\nStyle/medium: specimen-style printmaking reference plate with tactile closeup detail\nComposition/framing: vertical grid of carved sample rectangles with one blue label tab per sample and a torn proof strip along the bottom\nLighting/mood: soft raking light revealing carved depth and burr texture\nColor palette: cream stock, charcoal-black impressions, ultramarine tabs, oxide-red pencil ticks, gray linoleum, pale birch edges\nMaterials/textures: linoleum surface cuts, birch backing, dried ink in grooves, rag-paper proof strips, tiny masking tabs\nText (verbatim): \"V Gouge\" \"U Gouge\" \"Hatch Marks\" \"Stipple\" \"Torn Edge\" \"Clean Field\" \"Ghost Cut\"\nConstraints: concrete carving vocabulary for beginner printmakers, no long text, no logos, no watermark, keep every sample visibly different\nAvoid: craft scrapbook layout, polished vector iconography, luxury art print shop branding, unreadable notes",
       "learningValue": "Gives students and curriculum authors a concrete visual vocabulary for common carved textures, edge mistakes, and clean relief areas they see while cutting blocks.",
       "compositionNotes": "The straight-on specimen grid, repeated label-tab system, and bottom proof strip let the image work as both a tactile atlas and a quick search reference for carving outcomes.",
       "formatNotes": "Reference plate for linocut carving marks reference, V gouge vs U gouge, and relief print texture vocabulary. The short labels are intentional; this prompt card stores the stable wording for indexing.",
-      "searchText": "carving mark vocabulary reference plate atlas-contact-sheet relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: tactile printmaking vocabulary plate answering the query \"linocut carving marks reference\"\nscene/backdrop: cream teaching plate photographed straight-on above a print studio bench, no surrounding room\nsubject: carved relief sample blocks showing v gouge line, u gouge scoop, hatch marks, stipple pits, torn edge, clean field, and ghost cut, plus a narrow strip of matching proof impressions\nstyle/medium: specimen-style printmaking reference plate with tactile closeup detail\ncomposition/framing: vertical grid of carved sample rectangles with one blue label tab per sample and a torn proof strip along the bottom\nlighting/mood: soft raking light revealing carved depth and burr texture\ncolor palette: cream stock, charcoal-black impressions, ultramarine tabs, oxide-red pencil ticks, gray linoleum, pale birch edges\nmaterials/textures: linoleum surface cuts, birch backing, dried ink in grooves, rag-paper proof strips, tiny masking tabs\ntext (verbatim): \"v gouge\" \"u gouge\" \"hatch marks\" \"stipple\" \"torn edge\" \"clean field\" \"ghost cut\"\nconstraints: concrete carving vocabulary for beginner printmakers, no long text, no logos, no watermark, keep every sample visibly different\navoid: craft scrapbook layout, polished vector iconography, luxury art print shop branding, unreadable notes gives students and curriculum authors a concrete visual vocabulary for common carved textures, edge mistakes, and clean relief areas they see while cutting blocks. the straight-on specimen grid, repeated label-tab system, and bottom proof strip let the image work as both a tactile atlas and a quick search reference for carving outcomes. reference plate for linocut carving marks reference, v gouge vs u gouge, and relief print texture vocabulary. the short labels are intentional; this prompt card stores the stable wording for indexing. u gouge scoop hatch marks stipple pits torn edge no surrounding room linoleum surface cuts birch backing dried ink in grooves cream stock charcoal-black impressions ultramarine tabs edge mistakes page object specimen plate",
+      "searchText": "carving mark vocabulary reference plate atlas-contact-sheet relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: tactile printmaking vocabulary plate answering the query \"linocut carving marks reference\"\nscene/backdrop: cream teaching plate photographed straight-on above a print studio bench\nsubject: carved relief sample blocks showing v gouge line, u gouge scoop, hatch marks, stipple pits, torn edge, clean field, and ghost cut, plus a narrow strip of matching proof impressions\nstyle/medium: specimen-style printmaking reference plate with tactile closeup detail\ncomposition/framing: vertical grid of carved sample rectangles with one blue label tab per sample and a torn proof strip along the bottom\nlighting/mood: soft raking light revealing carved depth and burr texture\ncolor palette: cream stock, charcoal-black impressions, ultramarine tabs, oxide-red pencil ticks, gray linoleum, pale birch edges\nmaterials/textures: linoleum surface cuts, birch backing, dried ink in grooves, rag-paper proof strips, tiny masking tabs\ntext (verbatim): \"v gouge\" \"u gouge\" \"hatch marks\" \"stipple\" \"torn edge\" \"clean field\" \"ghost cut\"\nconstraints: concrete carving vocabulary for beginner printmakers, no long text, no logos, no watermark, keep every sample visibly different\navoid: craft scrapbook layout, polished vector iconography, luxury art print shop branding, unreadable notes gives students and curriculum authors a concrete visual vocabulary for common carved textures, edge mistakes, and clean relief areas they see while cutting blocks. the straight-on specimen grid, repeated label-tab system, and bottom proof strip let the image work as both a tactile atlas and a quick search reference for carving outcomes. reference plate for linocut carving marks reference, v gouge vs u gouge, and relief print texture vocabulary. the short labels are intentional; this prompt card stores the stable wording for indexing. u gouge scoop hatch marks stipple pits torn edge linoleum surface cuts birch backing dried ink in grooves cream stock charcoal-black impressions ultramarine tabs edge mistakes clean relief areas they see page object specimen plate",
       "curation": {
         "status": "public",
         "reason": "",
@@ -10624,11 +10660,11 @@ window.IMAGE_KB = {
         "slab",
         "brayer",
         "chart",
+        "guide",
         "over-rolled",
         "proof",
         "studio",
         "tack",
-        "guide",
         "states",
         "texture",
         "under-rolled",
@@ -10656,7 +10692,6 @@ window.IMAGE_KB = {
         "palette",
         "print",
         "pulling",
-        "room",
         "rubber",
         "scientific-educational",
         "sheen",
@@ -10666,22 +10701,23 @@ window.IMAGE_KB = {
         "steel-gray",
         "sticky",
         "streaky",
-        "surrounding",
-        "tacky"
+        "tacky",
+        "tracks",
+        "viscosity"
       ],
       "specificHooks": [
         "three side-by-side ink states labeled under-rolled",
         "over-rolled with brayer tracks",
         "tack strings",
         "slab texture",
-        "no surrounding room",
         "glass or acrylic ink slab",
         "tacky oil-based ink",
         "rubber brayer sheen",
         "cream paper",
         "gum-black ink",
         "steel-gray slab",
-        "over-rolled states before pulling another bad proof"
+        "over-rolled states before pulling another bad proof",
+        "ink slab guide"
       ],
       "scaleTags": [
         "page",
@@ -10696,11 +10732,11 @@ window.IMAGE_KB = {
       "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
       "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-04/",
       "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
-      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: process chart answering the query \"block printing ink consistency guide\"\nScene/backdrop: printmaking ink slab teaching chart staged on a stained studio bench, no surrounding room\nSubject: three side-by-side ink states labeled under-rolled, balanced, and over-rolled with brayer tracks, tack strings, slab texture, and matching proof swatches\nStyle/medium: realistic studio process chart with clear tactile closeups\nComposition/framing: vertical poster with large central slab closeups, narrow proof strips below, and concise callout lines about tack and texture\nLighting/mood: neutral overhead studio light with slight gloss on wet ink\nColor palette: cream paper, gum-black ink, steel-gray slab, oxide-red arrows, ultramarine tabs, warm birch bench accents\nMaterials/textures: glass or acrylic ink slab, tacky oil-based ink, rubber brayer sheen, rag proof paper, ink knife smears, bench scratches\nText (verbatim): \"UNDER-ROLLED\" \"BALANCED\" \"OVER-ROLLED\" \"Sticky & Uneven\" \"Smooth & Velvety\" \"Slippery & Flat\" \"Excess Tack Strings\" \"Even Tack Lines\" \"Thin, Streaky Texture\"\nConstraints: direct search-answer image for block printing ink consistency guide, short labels only, no long paragraphs, no logos, no watermark\nAvoid: clean white product studio, cosmetic palette aesthetic, decorative typography, unreadable notes, fake plastic ink",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: process chart answering the query \"block printing ink consistency guide\"\nScene/backdrop: printmaking ink slab teaching chart staged on a stained studio bench\nSubject: three side-by-side ink states labeled under-rolled, balanced, and over-rolled with brayer tracks, tack strings, slab texture, and matching proof swatches\nStyle/medium: realistic studio process chart with clear tactile closeups\nComposition/framing: vertical poster with large central slab closeups, narrow proof strips below, and concise callout lines about tack and texture\nLighting/mood: neutral overhead studio light with slight gloss on wet ink\nColor palette: cream paper, gum-black ink, steel-gray slab, oxide-red arrows, ultramarine tabs, warm birch bench accents\nMaterials/textures: glass or acrylic ink slab, tacky oil-based ink, rubber brayer sheen, rag proof paper, ink knife smears, bench scratches\nText (verbatim): \"UNDER-ROLLED\" \"BALANCED\" \"OVER-ROLLED\" \"Sticky & Uneven\" \"Smooth & Velvety\" \"Slippery & Flat\" \"Excess Tack Strings\" \"Even Tack Lines\" \"Thin, Streaky Texture\"\nConstraints: direct search-answer image for block printing ink consistency guide, short labels only, no long paragraphs, no logos, no watermark\nAvoid: clean white product studio, cosmetic palette aesthetic, decorative typography, unreadable notes, fake plastic ink",
       "learningValue": "Teaches how ink body changes roller feel and print outcome so beginners can diagnose under-rolled, balanced, and over-rolled states before pulling another bad proof.",
       "compositionNotes": "The three slab closeups, printed swatch row, and paired descriptors such as sticky, smooth, and streaky keep the image useful in both search and studio troubleshooting.",
       "formatNotes": "Process chart for relief ink viscosity chart, block printing ink consistency guide, and how much ink on a brayer. Short text is deliberate; the complete classroom phrasing is preserved here.",
-      "searchText": "relief ink viscosity and slab roll chart scientific-educational relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: process chart answering the query \"block printing ink consistency guide\"\nscene/backdrop: printmaking ink slab teaching chart staged on a stained studio bench, no surrounding room\nsubject: three side-by-side ink states labeled under-rolled, balanced, and over-rolled with brayer tracks, tack strings, slab texture, and matching proof swatches\nstyle/medium: realistic studio process chart with clear tactile closeups\ncomposition/framing: vertical poster with large central slab closeups, narrow proof strips below, and concise callout lines about tack and texture\nlighting/mood: neutral overhead studio light with slight gloss on wet ink\ncolor palette: cream paper, gum-black ink, steel-gray slab, oxide-red arrows, ultramarine tabs, warm birch bench accents\nmaterials/textures: glass or acrylic ink slab, tacky oil-based ink, rubber brayer sheen, rag proof paper, ink knife smears, bench scratches\ntext (verbatim): \"under-rolled\" \"balanced\" \"over-rolled\" \"sticky & uneven\" \"smooth & velvety\" \"slippery & flat\" \"excess tack strings\" \"even tack lines\" \"thin, streaky texture\"\nconstraints: direct search-answer image for block printing ink consistency guide, short labels only, no long paragraphs, no logos, no watermark\navoid: clean white product studio, cosmetic palette aesthetic, decorative typography, unreadable notes, fake plastic ink teaches how ink body changes roller feel and print outcome so beginners can diagnose under-rolled, balanced, and over-rolled states before pulling another bad proof. the three slab closeups, printed swatch row, and paired descriptors such as sticky, smooth, and streaky keep the image useful in both search and studio troubleshooting. process chart for relief ink viscosity chart, block printing ink consistency guide, and how much ink on a brayer. short text is deliberate; the complete classroom phrasing is preserved here. three side-by-side ink states labeled under-rolled over-rolled with brayer tracks tack strings slab texture no surrounding room glass or acrylic ink slab tacky oil-based ink rubber brayer sheen cream paper gum-black ink steel-gray slab over-rolled states before pulling another bad proof page tabletop ink slab guide",
+      "searchText": "relief ink viscosity and slab roll chart scientific-educational relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: process chart answering the query \"block printing ink consistency guide\"\nscene/backdrop: printmaking ink slab teaching chart staged on a stained studio bench\nsubject: three side-by-side ink states labeled under-rolled, balanced, and over-rolled with brayer tracks, tack strings, slab texture, and matching proof swatches\nstyle/medium: realistic studio process chart with clear tactile closeups\ncomposition/framing: vertical poster with large central slab closeups, narrow proof strips below, and concise callout lines about tack and texture\nlighting/mood: neutral overhead studio light with slight gloss on wet ink\ncolor palette: cream paper, gum-black ink, steel-gray slab, oxide-red arrows, ultramarine tabs, warm birch bench accents\nmaterials/textures: glass or acrylic ink slab, tacky oil-based ink, rubber brayer sheen, rag proof paper, ink knife smears, bench scratches\ntext (verbatim): \"under-rolled\" \"balanced\" \"over-rolled\" \"sticky & uneven\" \"smooth & velvety\" \"slippery & flat\" \"excess tack strings\" \"even tack lines\" \"thin, streaky texture\"\nconstraints: direct search-answer image for block printing ink consistency guide, short labels only, no long paragraphs, no logos, no watermark\navoid: clean white product studio, cosmetic palette aesthetic, decorative typography, unreadable notes, fake plastic ink teaches how ink body changes roller feel and print outcome so beginners can diagnose under-rolled, balanced, and over-rolled states before pulling another bad proof. the three slab closeups, printed swatch row, and paired descriptors such as sticky, smooth, and streaky keep the image useful in both search and studio troubleshooting. process chart for relief ink viscosity chart, block printing ink consistency guide, and how much ink on a brayer. short text is deliberate; the complete classroom phrasing is preserved here. three side-by-side ink states labeled under-rolled over-rolled with brayer tracks tack strings slab texture glass or acrylic ink slab tacky oil-based ink rubber brayer sheen cream paper gum-black ink steel-gray slab over-rolled states before pulling another bad proof ink slab guide page tabletop ink slab guide",
       "curation": {
         "status": "public",
         "reason": "",
@@ -10736,18 +10772,17 @@ window.IMAGE_KB = {
         "block",
         "second",
         "linocut",
+        "process",
         "stage",
         "paper",
-        "process",
         "sequence",
-        "bench",
         "carved",
         "dark",
         "pull",
         "query",
         "steps",
-        "above",
         "answer",
+        "bench",
         "black",
         "deep",
         "dusty",
@@ -10758,38 +10793,38 @@ window.IMAGE_KB = {
         "five-stage",
         "infographic",
         "infographic-diagram",
+        "ink-stained",
         "layer",
         "layers",
         "misregistered",
         "muted",
         "ochre",
-        "people",
-        "pinned",
         "recesses",
         "side",
         "slightly",
         "ultramarine",
         "vector",
-        "workshop",
+        "above",
         "answering",
         "areas",
         "arrows",
         "art-school",
-        "backdrop"
+        "backdrop",
+        "backing",
+        "base"
       ],
       "specificHooks": [
         "second carve",
         "second color",
         "final carve",
         "final dark pull",
-        "cream workshop poster pinned above a print bench",
-        "no people",
         "linocut block",
         "carved recesses",
         "slightly misregistered paper edges",
         "cream paper",
         "deep black final layer",
-        "muted ochre and dusty ultramarine earlier layers"
+        "muted ochre and dusty ultramarine earlier layers",
+        "process poster"
       ],
       "scaleTags": [
         "page",
@@ -10804,11 +10839,11 @@ window.IMAGE_KB = {
       "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
       "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-05/",
       "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
-      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical printmaking sequence answering the query \"reduction print steps poster\"\nScene/backdrop: cream workshop poster pinned above a print bench, no people\nSubject: one reduction linocut image evolving through carve and first color, second carve, second color, final carve, and final dark pull, with each stage showing the block and print result side by side\nStyle/medium: art-school process poster with real print evidence, not vector infographic\nComposition/framing: tall five-stage vertical sequence from top to bottom with one carved block on the left and one proof on the right per stage\nLighting/mood: soft classroom daylight, clear and methodical\nColor palette: cream paper, deep black final layer, muted ochre and dusty ultramarine earlier layers, oxide-red arrows, gray block surface\nMaterials/textures: linocut block, carved recesses, slightly misregistered paper edges, drying tape tabs, ink-stained bench backing\nText (verbatim): \"Carve & First Color\" \"Second Carve\" \"Second Color\" \"Final Carve\" \"Final Dark Pull\"\nConstraints: answer the query reduction print steps poster, concise stage labels only, no logos, no watermark, no dense paragraph text\nAvoid: flat vector infographic, children’s craft worksheet, scrapbook collage, neon poster design, unreadable captions",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical printmaking sequence answering the query \"reduction print steps poster\"\nScene/backdrop: cream workshop poster pinned above an ink-stained print bench\nSubject: one reduction linocut image evolving through carve and first color, second carve, second color, final carve, and final dark pull, with each stage showing the block and print result side by side\nStyle/medium: art-school process poster with real print evidence, not vector infographic\nComposition/framing: tall five-stage vertical sequence from top to bottom with one carved block on the left and one proof on the right per stage\nLighting/mood: soft classroom daylight, clear and methodical\nColor palette: cream paper, deep black final layer, muted ochre and dusty ultramarine earlier layers, oxide-red arrows, gray block surface\nMaterials/textures: linocut block, carved recesses, slightly misregistered paper edges, drying tape tabs, ink-stained bench backing\nText (verbatim): \"Carve & First Color\" \"Second Carve\" \"Second Color\" \"Final Carve\" \"Final Dark Pull\"\nConstraints: answer the query reduction print steps poster, concise stage labels only, no logos, no watermark, no dense paragraph text\nAvoid: flat vector infographic, children’s craft worksheet, scrapbook collage, neon poster design, unreadable captions",
       "learningValue": "Shows the carve-print-carve rhythm of reduction linocut so students can understand shrinking printable areas and why each stage cannot be undone.",
       "compositionNotes": "The left-right block-to-proof pairing and descending five-stage ladder let the poster answer a process query without depending on dense copy.",
       "formatNotes": "Sequence poster for reduction print steps, reduction linocut process, and multi color block print guide. The short stage titles are intentional and supported by the canonical explanation here.",
-      "searchText": "reduction print step sequence poster infographic-diagram relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical printmaking sequence answering the query \"reduction print steps poster\"\nscene/backdrop: cream workshop poster pinned above a print bench, no people\nsubject: one reduction linocut image evolving through carve and first color, second carve, second color, final carve, and final dark pull, with each stage showing the block and print result side by side\nstyle/medium: art-school process poster with real print evidence, not vector infographic\ncomposition/framing: tall five-stage vertical sequence from top to bottom with one carved block on the left and one proof on the right per stage\nlighting/mood: soft classroom daylight, clear and methodical\ncolor palette: cream paper, deep black final layer, muted ochre and dusty ultramarine earlier layers, oxide-red arrows, gray block surface\nmaterials/textures: linocut block, carved recesses, slightly misregistered paper edges, drying tape tabs, ink-stained bench backing\ntext (verbatim): \"carve & first color\" \"second carve\" \"second color\" \"final carve\" \"final dark pull\"\nconstraints: answer the query reduction print steps poster, concise stage labels only, no logos, no watermark, no dense paragraph text\navoid: flat vector infographic, children’s craft worksheet, scrapbook collage, neon poster design, unreadable captions shows the carve-print-carve rhythm of reduction linocut so students can understand shrinking printable areas and why each stage cannot be undone. the left-right block-to-proof pairing and descending five-stage ladder let the poster answer a process query without depending on dense copy. sequence poster for reduction print steps, reduction linocut process, and multi color block print guide. the short stage titles are intentional and supported by the canonical explanation here. second carve second color final carve final dark pull cream workshop poster pinned above a print bench no people linocut block carved recesses slightly misregistered paper edges cream paper deep black final layer muted ochre and dusty ultramarine earlier layers page tabletop process poster",
+      "searchText": "reduction print step sequence poster infographic-diagram relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical printmaking sequence answering the query \"reduction print steps poster\"\nscene/backdrop: cream workshop poster pinned above an ink-stained print bench\nsubject: one reduction linocut image evolving through carve and first color, second carve, second color, final carve, and final dark pull, with each stage showing the block and print result side by side\nstyle/medium: art-school process poster with real print evidence, not vector infographic\ncomposition/framing: tall five-stage vertical sequence from top to bottom with one carved block on the left and one proof on the right per stage\nlighting/mood: soft classroom daylight, clear and methodical\ncolor palette: cream paper, deep black final layer, muted ochre and dusty ultramarine earlier layers, oxide-red arrows, gray block surface\nmaterials/textures: linocut block, carved recesses, slightly misregistered paper edges, drying tape tabs, ink-stained bench backing\ntext (verbatim): \"carve & first color\" \"second carve\" \"second color\" \"final carve\" \"final dark pull\"\nconstraints: answer the query reduction print steps poster, concise stage labels only, no logos, no watermark, no dense paragraph text\navoid: flat vector infographic, children’s craft worksheet, scrapbook collage, neon poster design, unreadable captions shows the carve-print-carve rhythm of reduction linocut so students can understand shrinking printable areas and why each stage cannot be undone. the left-right block-to-proof pairing and descending five-stage ladder let the poster answer a process query without depending on dense copy. sequence poster for reduction print steps, reduction linocut process, and multi color block print guide. the short stage titles are intentional and supported by the canonical explanation here. second carve second color final carve final dark pull linocut block carved recesses slightly misregistered paper edges cream paper deep black final layer muted ochre and dusty ultramarine earlier layers process poster page tabletop process poster",
       "curation": {
         "status": "public",
         "reason": "",
@@ -10867,7 +10902,6 @@ window.IMAGE_KB = {
         "hand",
         "mixed-format",
         "oxide-red",
-        "people",
         "photo",
         "rag",
         "studio",
@@ -10883,21 +10917,22 @@ window.IMAGE_KB = {
         "both",
         "bottom",
         "branding",
-        "brayer"
+        "brayer",
+        "burnished"
       ],
       "specificHooks": [
         "edge pressure",
         "sharp bevel",
         "light ink",
         "impression depth",
-        "no people",
         "woven bamboo baren texture",
         "felt blanket edge",
         "rag paper embossing",
         "gum-black ink",
         "ultramarine labels",
         "oxide-red comparison arrows",
-        "embossing depth"
+        "embossing depth",
+        "comparison board"
       ],
       "scaleTags": [
         "page",
@@ -10912,11 +10947,11 @@ window.IMAGE_KB = {
       "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
       "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-06/",
       "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
-      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical comparison board answering the query \"baren vs press relief printing\"\nScene/backdrop: cream comparison board on a print studio wall with proof strips and two tool closeups, no people\nSubject: hand baren burnishing versus etching press pull shown through paper texture, edge pressure, sharp bevel, light ink, impression depth, one baren photo, and one press roller photo\nStyle/medium: practical printmaking comparison board combining photographic proof fragments and teaching callouts\nComposition/framing: tall split-column board with baren on the left and press on the right, matching proof details stacked vertically for direct comparison\nLighting/mood: neutral classroom light with slight shadow relief to show embossing depth\nColor palette: cream board, gum-black ink, ultramarine labels, oxide-red comparison arrows, straw-colored baren, steel-gray press parts\nMaterials/textures: woven bamboo baren texture, felt blanket edge, rag paper embossing, steel roller, ink sheen, taped proof corners\nText (verbatim): \"BAREN\" \"PRESS\" \"PAPER TEXTURE\" \"PRESS PRESSURE\" \"Rough Surface\" \"Edge Pressure\" \"Sharp Bevel\" \"Light Ink\" \"Impression Depth\" \"Baren Tool\" \"Press Roller\"\nConstraints: direct search-answer image for baren vs press relief printing, short labels only, no logos, no watermark, no long paragraphs\nAvoid: generic product catalog, Japanese calligraphy poster, luxury letterpress branding, dense text blocks, slick marketing art",
+      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical comparison board answering the query \"baren vs press relief printing\"\nScene/backdrop: cream comparison board pinned to a textured print studio wall with proof strips and two tool closeups\nSubject: hand baren burnishing versus etching press pull shown through paper texture, edge pressure, sharp bevel, light ink, impression depth, one baren photo, and one press roller photo\nStyle/medium: practical printmaking comparison board combining photographic proof fragments and teaching callouts\nComposition/framing: tall split-column board with baren on the left and press on the right, matching proof details stacked vertically for direct comparison\nLighting/mood: neutral classroom light with slight shadow relief to show embossing depth\nColor palette: cream board, gum-black ink, ultramarine labels, oxide-red comparison arrows, straw-colored baren, steel-gray press parts\nMaterials/textures: woven bamboo baren texture, felt blanket edge, rag paper embossing, steel roller, ink sheen, taped proof corners\nText (verbatim): \"BAREN\" \"PRESS\" \"PAPER TEXTURE\" \"PRESS PRESSURE\" \"Rough Surface\" \"Edge Pressure\" \"Sharp Bevel\" \"Light Ink\" \"Impression Depth\" \"Baren Tool\" \"Press Roller\"\nConstraints: direct search-answer image for baren vs press relief printing, short labels only, no logos, no watermark, no long paragraphs\nAvoid: generic product catalog, Japanese calligraphy poster, luxury letterpress branding, dense text blocks, slick marketing art",
       "learningValue": "Helps students compare hand-burnished and press-pulled relief prints through paper texture, edge pressure, embossing depth, and tool context rather than vague studio lore.",
       "compositionNotes": "The left-right board, repeated proof-strip stacking, and bottom tool closeups give the image enough specificity for both practical teaching and high-intent search retrieval.",
       "formatNotes": "Comparison board for baren vs press relief printing, hand burnished vs press pulled print, and relief print impression depth. The canonical comparison language is preserved here even if the in-image labels shift slightly.",
-      "searchText": "baren versus press pressure comparison board mixed-format relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical comparison board answering the query \"baren vs press relief printing\"\nscene/backdrop: cream comparison board on a print studio wall with proof strips and two tool closeups, no people\nsubject: hand baren burnishing versus etching press pull shown through paper texture, edge pressure, sharp bevel, light ink, impression depth, one baren photo, and one press roller photo\nstyle/medium: practical printmaking comparison board combining photographic proof fragments and teaching callouts\ncomposition/framing: tall split-column board with baren on the left and press on the right, matching proof details stacked vertically for direct comparison\nlighting/mood: neutral classroom light with slight shadow relief to show embossing depth\ncolor palette: cream board, gum-black ink, ultramarine labels, oxide-red comparison arrows, straw-colored baren, steel-gray press parts\nmaterials/textures: woven bamboo baren texture, felt blanket edge, rag paper embossing, steel roller, ink sheen, taped proof corners\ntext (verbatim): \"baren\" \"press\" \"paper texture\" \"press pressure\" \"rough surface\" \"edge pressure\" \"sharp bevel\" \"light ink\" \"impression depth\" \"baren tool\" \"press roller\"\nconstraints: direct search-answer image for baren vs press relief printing, short labels only, no logos, no watermark, no long paragraphs\navoid: generic product catalog, japanese calligraphy poster, luxury letterpress branding, dense text blocks, slick marketing art helps students compare hand-burnished and press-pulled relief prints through paper texture, edge pressure, embossing depth, and tool context rather than vague studio lore. the left-right board, repeated proof-strip stacking, and bottom tool closeups give the image enough specificity for both practical teaching and high-intent search retrieval. comparison board for baren vs press relief printing, hand burnished vs press pulled print, and relief print impression depth. the canonical comparison language is preserved here even if the in-image labels shift slightly. edge pressure sharp bevel light ink impression depth no people woven bamboo baren texture felt blanket edge rag paper embossing gum-black ink ultramarine labels oxide-red comparison arrows embossing depth page object comparison board",
+      "searchText": "baren versus press pressure comparison board mixed-format relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical comparison board answering the query \"baren vs press relief printing\"\nscene/backdrop: cream comparison board pinned to a textured print studio wall with proof strips and two tool closeups\nsubject: hand baren burnishing versus etching press pull shown through paper texture, edge pressure, sharp bevel, light ink, impression depth, one baren photo, and one press roller photo\nstyle/medium: practical printmaking comparison board combining photographic proof fragments and teaching callouts\ncomposition/framing: tall split-column board with baren on the left and press on the right, matching proof details stacked vertically for direct comparison\nlighting/mood: neutral classroom light with slight shadow relief to show embossing depth\ncolor palette: cream board, gum-black ink, ultramarine labels, oxide-red comparison arrows, straw-colored baren, steel-gray press parts\nmaterials/textures: woven bamboo baren texture, felt blanket edge, rag paper embossing, steel roller, ink sheen, taped proof corners\ntext (verbatim): \"baren\" \"press\" \"paper texture\" \"press pressure\" \"rough surface\" \"edge pressure\" \"sharp bevel\" \"light ink\" \"impression depth\" \"baren tool\" \"press roller\"\nconstraints: direct search-answer image for baren vs press relief printing, short labels only, no logos, no watermark, no long paragraphs\navoid: generic product catalog, japanese calligraphy poster, luxury letterpress branding, dense text blocks, slick marketing art helps students compare hand-burnished and press-pulled relief prints through paper texture, edge pressure, embossing depth, and tool context rather than vague studio lore. the left-right board, repeated proof-strip stacking, and bottom tool closeups give the image enough specificity for both practical teaching and high-intent search retrieval. comparison board for baren vs press relief printing, hand burnished vs press pulled print, and relief print impression depth. the canonical comparison language is preserved here even if the in-image labels shift slightly. edge pressure sharp bevel light ink impression depth woven bamboo baren texture felt blanket edge rag paper embossing gum-black ink ultramarine labels oxide-red comparison arrows embossing depth comparison board page object comparison board",
       "curation": {
         "status": "public",
         "reason": "",
@@ -10965,6 +11000,7 @@ window.IMAGE_KB = {
         "short",
         "tape",
         "workshop",
+        "agents",
         "atlas-contact-sheet",
         "baren",
         "beginner",
@@ -10974,7 +11010,9 @@ window.IMAGE_KB = {
         "clusters",
         "contact-sheet",
         "core",
+        "cutting",
         "decorative",
+        "distinguish",
         "flatlay",
         "gouge",
         "grouped",
@@ -10985,27 +11023,24 @@ window.IMAGE_KB = {
         "masking",
         "oxidized",
         "paper",
-        "people",
         "pica",
         "print",
         "props",
-        "relief-print",
-        "ruler",
-        "scarred"
+        "relief-print"
       ],
       "specificHooks": [
         "bench hook",
         "V gouges",
         "U gouges",
         "ink knife",
-        "no people",
         "ink-stained handles",
         "scarred bench wood",
         "steel gouge tips",
         "birch wood",
         "cream paper",
         "oxidized steel",
-        "Maps the core beginner relief-print toolkit so teachers"
+        "Maps the core beginner relief-print toolkit so teachers",
+        "agents can distinguish cutting"
       ],
       "scaleTags": [
         "tabletop",
@@ -11020,11 +11055,11 @@ window.IMAGE_KB = {
       "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
       "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-07/",
       "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
-      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: tactile workshop atlas answering the query \"relief printing tools chart\"\nScene/backdrop: top-down tools tray on a stained print studio table, no people\nSubject: brayer, bench hook, V gouges, U gouges, ink knife, registration tabs, baren, wooden spoon, pica ruler, masking tape roll, carving glove, and newsprint stack arranged as one coherent training kit\nStyle/medium: dense tactile contact-sheet atlas photographed like an internal workshop reference\nComposition/framing: landscape overhead tray layout with grouped clusters and small blue label tabs only where necessary\nLighting/mood: bright side light revealing worn tool edges and ink residue\nColor palette: gum-black, birch wood, cream paper, oxidized steel, ultramarine tabs, muted oxide-red pencil marks\nMaterials/textures: ink-stained handles, scarred bench wood, steel gouge tips, rubber roller, cloth glove, newsprint, masking tape\nText (verbatim): \"Brayer\" \"Bench Hook\" \"V Gouges\" \"U Gouges\" \"Ink Knife\" \"Reg Tabs\" \"Baren\" \"Wooden Spoon\" \"Tape\" \"Carving Glove\" \"Newsprint\" \"Pica Ruler\"\nConstraints: concrete workshop nouns for local retrieval, minimal short labels, no logos, no watermark, no decorative props\nAvoid: retail flatlay, clean lifestyle tabletop, gift guide styling, floral props, polished brand packaging",
+      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: tactile workshop atlas answering the query \"relief printing tools chart\"\nScene/backdrop: top-down tools tray on a stained print studio table\nSubject: brayer, bench hook, V gouges, U gouges, ink knife, registration tabs, baren, wooden spoon, pica ruler, masking tape roll, carving glove, and newsprint stack arranged as one coherent training kit\nStyle/medium: dense tactile contact-sheet atlas photographed like an internal workshop reference\nComposition/framing: landscape overhead tray layout with grouped clusters and small blue label tabs only where necessary\nLighting/mood: bright side light revealing worn tool edges and ink residue\nColor palette: gum-black, birch wood, cream paper, oxidized steel, ultramarine tabs, muted oxide-red pencil marks\nMaterials/textures: ink-stained handles, scarred bench wood, steel gouge tips, rubber roller, cloth glove, newsprint, masking tape\nText (verbatim): \"Brayer\" \"Bench Hook\" \"V Gouges\" \"U Gouges\" \"Ink Knife\" \"Reg Tabs\" \"Baren\" \"Wooden Spoon\" \"Tape\" \"Carving Glove\" \"Newsprint\" \"Pica Ruler\"\nConstraints: concrete workshop nouns for local retrieval, minimal short labels, no logos, no watermark, no decorative props\nAvoid: retail flatlay, clean lifestyle tabletop, gift guide styling, floral props, polished brand packaging",
       "learningValue": "Maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects.",
       "compositionNotes": "The tray border, grouped tool clusters, and short part-name tabs make the image useful as a studio inventory reference rather than a decorative flatlay.",
       "formatNotes": "Contact-sheet atlas for relief printing tools chart, linocut tool tray, and printmaking supplies reference. The visible labels stay short while the retrieval-grade names live here.",
-      "searchText": "relief printing tools tray reference atlas-contact-sheet relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: tactile workshop atlas answering the query \"relief printing tools chart\"\nscene/backdrop: top-down tools tray on a stained print studio table, no people\nsubject: brayer, bench hook, v gouges, u gouges, ink knife, registration tabs, baren, wooden spoon, pica ruler, masking tape roll, carving glove, and newsprint stack arranged as one coherent training kit\nstyle/medium: dense tactile contact-sheet atlas photographed like an internal workshop reference\ncomposition/framing: landscape overhead tray layout with grouped clusters and small blue label tabs only where necessary\nlighting/mood: bright side light revealing worn tool edges and ink residue\ncolor palette: gum-black, birch wood, cream paper, oxidized steel, ultramarine tabs, muted oxide-red pencil marks\nmaterials/textures: ink-stained handles, scarred bench wood, steel gouge tips, rubber roller, cloth glove, newsprint, masking tape\ntext (verbatim): \"brayer\" \"bench hook\" \"v gouges\" \"u gouges\" \"ink knife\" \"reg tabs\" \"baren\" \"wooden spoon\" \"tape\" \"carving glove\" \"newsprint\" \"pica ruler\"\nconstraints: concrete workshop nouns for local retrieval, minimal short labels, no logos, no watermark, no decorative props\navoid: retail flatlay, clean lifestyle tabletop, gift guide styling, floral props, polished brand packaging maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects. the tray border, grouped tool clusters, and short part-name tabs make the image useful as a studio inventory reference rather than a decorative flatlay. contact-sheet atlas for relief printing tools chart, linocut tool tray, and printmaking supplies reference. the visible labels stay short while the retrieval-grade names live here. bench hook v gouges u gouges ink knife no people ink-stained handles scarred bench wood steel gouge tips birch wood cream paper oxidized steel maps the core beginner relief-print toolkit so teachers tabletop object tool atlas",
+      "searchText": "relief printing tools tray reference atlas-contact-sheet relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: tactile workshop atlas answering the query \"relief printing tools chart\"\nscene/backdrop: top-down tools tray on a stained print studio table\nsubject: brayer, bench hook, v gouges, u gouges, ink knife, registration tabs, baren, wooden spoon, pica ruler, masking tape roll, carving glove, and newsprint stack arranged as one coherent training kit\nstyle/medium: dense tactile contact-sheet atlas photographed like an internal workshop reference\ncomposition/framing: landscape overhead tray layout with grouped clusters and small blue label tabs only where necessary\nlighting/mood: bright side light revealing worn tool edges and ink residue\ncolor palette: gum-black, birch wood, cream paper, oxidized steel, ultramarine tabs, muted oxide-red pencil marks\nmaterials/textures: ink-stained handles, scarred bench wood, steel gouge tips, rubber roller, cloth glove, newsprint, masking tape\ntext (verbatim): \"brayer\" \"bench hook\" \"v gouges\" \"u gouges\" \"ink knife\" \"reg tabs\" \"baren\" \"wooden spoon\" \"tape\" \"carving glove\" \"newsprint\" \"pica ruler\"\nconstraints: concrete workshop nouns for local retrieval, minimal short labels, no logos, no watermark, no decorative props\navoid: retail flatlay, clean lifestyle tabletop, gift guide styling, floral props, polished brand packaging maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects. the tray border, grouped tool clusters, and short part-name tabs make the image useful as a studio inventory reference rather than a decorative flatlay. contact-sheet atlas for relief printing tools chart, linocut tool tray, and printmaking supplies reference. the visible labels stay short while the retrieval-grade names live here. bench hook v gouges u gouges ink knife ink-stained handles scarred bench wood steel gouge tips birch wood cream paper oxidized steel maps the core beginner relief-print toolkit so teachers agents can distinguish cutting tabletop object tool atlas",
       "curation": {
         "status": "public",
         "reason": "",
@@ -11161,8 +11196,8 @@ window.IMAGE_KB = {
       "taxonomy": "mixed-format",
       "topics": [
         "press",
-        "paper",
         "plate",
+        "paper",
         "bed",
         "blanket",
         "block",
@@ -11172,18 +11207,19 @@ window.IMAGE_KB = {
         "linoleum",
         "machine",
         "relief",
+        "section",
         "arrows",
         "path",
         "pressure",
         "printmaking",
         "proof",
         "roller",
-        "section",
         "sectioned",
         "small",
         "stack",
         "strip",
         "bench",
+        "birch",
         "cad",
         "edge",
         "explainer",
@@ -11201,7 +11237,6 @@ window.IMAGE_KB = {
         "parts",
         "receiving",
         "relief-print",
-        "room",
         "section-format",
         "setup",
         "side-section",
@@ -11214,14 +11249,14 @@ window.IMAGE_KB = {
         "felt blanket",
         "paper path",
         "linoleum block",
-        "no surrounding room",
         "painted steel press frame",
         "felt blanket edge",
         "smooth paper stack",
         "cream plate background",
         "steel-gray press parts",
         "gum-black arrows",
-        "Explains how paper"
+        "Explains how paper",
+        "section plate"
       ],
       "scaleTags": [
         "tabletop",
@@ -11236,11 +11271,11 @@ window.IMAGE_KB = {
       "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
       "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-09/",
       "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
-      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: section-format printmaking explainer answering the query \"relief press bed diagram\"\nScene/backdrop: cutaway teaching plate of a small relief-print press and registration setup on a bench, no surrounding room\nSubject: sectioned press bed, roller, felt blanket, paper path, linoleum block, stop guides, registration rail, pressure direction, receiving tray, and one thin proof-result strip\nStyle/medium: buildable technical plate with real workshop materials rather than abstract CAD\nComposition/framing: landscape side-section view spanning the press width, with bold arrows and one narrow proof strip above the machine\nLighting/mood: neutral instructional lighting with clear material separation\nColor palette: cream plate background, steel-gray press parts, gum-black arrows, ultramarine labels, birch bench, muted oxide-red callouts\nMaterials/textures: painted steel press frame, felt blanket edge, smooth paper stack, linoleum block, roller rubber, taped margin notes\nText (verbatim): \"Proof Result\" \"Roller\" \"Felt Blanket\" \"Paper Path\" \"Linoleum Block\" \"Sectioned Press Bed\" \"Stop Guides\" \"Registration Rail\" \"Pressure\" \"Receiving Tray\" \"Block Position\"\nConstraints: less-common section-format explainer for printmaking students, short labels only, no logos, no watermark, no dense paragraphs\nAvoid: sterile engineering CAD, glossy machine ad, blueprint overload, tiny annotations, futuristic fabrication lab",
+      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: section-format printmaking explainer answering the query \"relief press bed diagram\"\nScene/backdrop: cutaway teaching plate of a small relief-print press and registration setup on a birch bench\nSubject: sectioned press bed, roller, felt blanket, paper path, linoleum block, stop guides, registration rail, pressure direction, receiving tray, and one thin proof-result strip\nStyle/medium: buildable technical plate with real workshop materials rather than abstract CAD\nComposition/framing: landscape side-section view spanning the press width, with bold arrows and one narrow proof strip above the machine\nLighting/mood: neutral instructional lighting with clear material separation\nColor palette: cream plate background, steel-gray press parts, gum-black arrows, ultramarine labels, birch bench, muted oxide-red callouts\nMaterials/textures: painted steel press frame, felt blanket edge, smooth paper stack, linoleum block, roller rubber, taped margin notes\nText (verbatim): \"Proof Result\" \"Roller\" \"Felt Blanket\" \"Paper Path\" \"Linoleum Block\" \"Sectioned Press Bed\" \"Stop Guides\" \"Registration Rail\" \"Pressure\" \"Receiving Tray\" \"Block Position\"\nConstraints: less-common section-format explainer for printmaking students, short labels only, no logos, no watermark, no dense paragraphs\nAvoid: sterile engineering CAD, glossy machine ad, blueprint overload, tiny annotations, futuristic fabrication lab",
       "learningValue": "Explains how paper, blanket, block, rail, and pressure stack together inside a small relief-print press so students can connect setup language to machine geometry.",
       "compositionNotes": "The long side-section, proof strip header, and clear rail-to-tray flow give the image unusual spatial value compared with flatter poster-only explainers.",
       "formatNotes": "Section plate for relief press bed diagram, printmaking registration rail, and small relief press anatomy. This is a less-common atlas format and the prompt card preserves the stable machine vocabulary.",
-      "searchText": "press bed and registration rail section plate mixed-format relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: section-format printmaking explainer answering the query \"relief press bed diagram\"\nscene/backdrop: cutaway teaching plate of a small relief-print press and registration setup on a bench, no surrounding room\nsubject: sectioned press bed, roller, felt blanket, paper path, linoleum block, stop guides, registration rail, pressure direction, receiving tray, and one thin proof-result strip\nstyle/medium: buildable technical plate with real workshop materials rather than abstract cad\ncomposition/framing: landscape side-section view spanning the press width, with bold arrows and one narrow proof strip above the machine\nlighting/mood: neutral instructional lighting with clear material separation\ncolor palette: cream plate background, steel-gray press parts, gum-black arrows, ultramarine labels, birch bench, muted oxide-red callouts\nmaterials/textures: painted steel press frame, felt blanket edge, smooth paper stack, linoleum block, roller rubber, taped margin notes\ntext (verbatim): \"proof result\" \"roller\" \"felt blanket\" \"paper path\" \"linoleum block\" \"sectioned press bed\" \"stop guides\" \"registration rail\" \"pressure\" \"receiving tray\" \"block position\"\nconstraints: less-common section-format explainer for printmaking students, short labels only, no logos, no watermark, no dense paragraphs\navoid: sterile engineering cad, glossy machine ad, blueprint overload, tiny annotations, futuristic fabrication lab explains how paper, blanket, block, rail, and pressure stack together inside a small relief-print press so students can connect setup language to machine geometry. the long side-section, proof strip header, and clear rail-to-tray flow give the image unusual spatial value compared with flatter poster-only explainers. section plate for relief press bed diagram, printmaking registration rail, and small relief press anatomy. this is a less-common atlas format and the prompt card preserves the stable machine vocabulary. sectioned press bed felt blanket paper path linoleum block no surrounding room painted steel press frame felt blanket edge smooth paper stack cream plate background steel-gray press parts gum-black arrows explains how paper tabletop object section plate",
+      "searchText": "press bed and registration rail section plate mixed-format relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: section-format printmaking explainer answering the query \"relief press bed diagram\"\nscene/backdrop: cutaway teaching plate of a small relief-print press and registration setup on a birch bench\nsubject: sectioned press bed, roller, felt blanket, paper path, linoleum block, stop guides, registration rail, pressure direction, receiving tray, and one thin proof-result strip\nstyle/medium: buildable technical plate with real workshop materials rather than abstract cad\ncomposition/framing: landscape side-section view spanning the press width, with bold arrows and one narrow proof strip above the machine\nlighting/mood: neutral instructional lighting with clear material separation\ncolor palette: cream plate background, steel-gray press parts, gum-black arrows, ultramarine labels, birch bench, muted oxide-red callouts\nmaterials/textures: painted steel press frame, felt blanket edge, smooth paper stack, linoleum block, roller rubber, taped margin notes\ntext (verbatim): \"proof result\" \"roller\" \"felt blanket\" \"paper path\" \"linoleum block\" \"sectioned press bed\" \"stop guides\" \"registration rail\" \"pressure\" \"receiving tray\" \"block position\"\nconstraints: less-common section-format explainer for printmaking students, short labels only, no logos, no watermark, no dense paragraphs\navoid: sterile engineering cad, glossy machine ad, blueprint overload, tiny annotations, futuristic fabrication lab explains how paper, blanket, block, rail, and pressure stack together inside a small relief-print press so students can connect setup language to machine geometry. the long side-section, proof strip header, and clear rail-to-tray flow give the image unusual spatial value compared with flatter poster-only explainers. section plate for relief press bed diagram, printmaking registration rail, and small relief press anatomy. this is a less-common atlas format and the prompt card preserves the stable machine vocabulary. sectioned press bed felt blanket paper path linoleum block painted steel press frame felt blanket edge smooth paper stack cream plate background steel-gray press parts gum-black arrows explains how paper section plate tabletop object section plate",
       "curation": {
         "status": "public",
         "reason": "",
@@ -11288,11 +11323,11 @@ window.IMAGE_KB = {
         "example",
         "faint",
         "lifted",
-        "nearby",
         "pale",
         "printing",
         "sheen",
         "visible",
+        "beside",
         "birch",
         "black",
         "carved",
@@ -11322,7 +11357,7 @@ window.IMAGE_KB = {
         "one dark wet pull",
         "one pale ghost print",
         "gum-black ink slab",
-        "with a faint ghost print nearby",
+        "with a faint ghost print beside it",
         "wet ink sheen",
         "rag paper fibers",
         "carved linoleum grooves",
@@ -11344,11 +11379,11 @@ window.IMAGE_KB = {
       "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
       "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-10/",
       "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
-      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: documentary bench proof image answering the query \"ghost print example relief printing\"\nScene/backdrop: close printmaking bench at the moment a sheet is lifted from a freshly inked relief block, with a faint ghost print nearby\nSubject: one hand lifting fresh paper, one dark wet pull, one pale ghost print, gum-black ink slab, brayer, oxide-red registration mark, blue tape corner, and drying clips in the background\nStyle/medium: documentary workshop proof frame with tactile realism and restrained drama\nComposition/framing: landscape close-up with the lifted sheet in the foreground, block and ghost print midground, and tools receding softly behind\nLighting/mood: soft window light with gentle contrast and visible wet ink sheen\nColor palette: cream rag paper, deep black ink, ultramarine registration corner, oxide-red grease-pencil mark, weathered birch bench, steel-gray tools\nMaterials/textures: wet ink sheen, rag paper fibers, carved linoleum grooves, birch bench, rubber brayer, metal clips, tape edges\nConstraints: proof-of-use image for ghost print example relief printing, no logos, no watermark, no theatrical overdrama, no long visible text\nAvoid: moody fine-art gallery glamour, dramatic spotlight, luxury art print ad, excessive blur, fake cinematic teal-orange grade",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: documentary bench proof image answering the query \"ghost print example relief printing\"\nScene/backdrop: close printmaking bench at the moment a sheet is lifted from a freshly inked relief block, with a faint ghost print beside it\nSubject: one hand lifting fresh paper, one dark wet pull, one pale ghost print, gum-black ink slab, brayer, oxide-red registration mark, blue tape corner, and drying clips in the background\nStyle/medium: documentary workshop proof frame with tactile realism and restrained drama\nComposition/framing: landscape close-up with the lifted sheet in the foreground, block and ghost print midground, and tools receding softly behind\nLighting/mood: soft window light with gentle contrast and visible wet ink sheen\nColor palette: cream rag paper, deep black ink, ultramarine registration corner, oxide-red grease-pencil mark, weathered birch bench, steel-gray tools\nMaterials/textures: wet ink sheen, rag paper fibers, carved linoleum grooves, birch bench, rubber brayer, metal clips, tape edges\nConstraints: proof-of-use image for ghost print example relief printing, no logos, no watermark, no theatrical overdrama, no long visible text\nAvoid: moody fine-art gallery glamour, dramatic spotlight, luxury art print ad, excessive blur, fake cinematic teal-orange grade",
       "learningValue": "Demonstrates the difference between a full fresh pull and a faint ghost print in one handled bench scene, which is easier to remember than a text explanation alone.",
       "compositionNotes": "The lifted sheet, wet block, pale ghost impression, and nearby brayer create a high-utility proof frame with immediate process clarity and strong material hooks.",
       "formatNotes": "Documentary proof image for ghost print example relief printing, fresh pull linocut, and printmaking proof bench. The scene is intentionally light on visible text so the prompt card carries the canonical terminology.",
-      "searchText": "ghost print and fresh pull proof frame photorealistic-natural relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: photorealistic-natural\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: documentary bench proof image answering the query \"ghost print example relief printing\"\nscene/backdrop: close printmaking bench at the moment a sheet is lifted from a freshly inked relief block, with a faint ghost print nearby\nsubject: one hand lifting fresh paper, one dark wet pull, one pale ghost print, gum-black ink slab, brayer, oxide-red registration mark, blue tape corner, and drying clips in the background\nstyle/medium: documentary workshop proof frame with tactile realism and restrained drama\ncomposition/framing: landscape close-up with the lifted sheet in the foreground, block and ghost print midground, and tools receding softly behind\nlighting/mood: soft window light with gentle contrast and visible wet ink sheen\ncolor palette: cream rag paper, deep black ink, ultramarine registration corner, oxide-red grease-pencil mark, weathered birch bench, steel-gray tools\nmaterials/textures: wet ink sheen, rag paper fibers, carved linoleum grooves, birch bench, rubber brayer, metal clips, tape edges\nconstraints: proof-of-use image for ghost print example relief printing, no logos, no watermark, no theatrical overdrama, no long visible text\navoid: moody fine-art gallery glamour, dramatic spotlight, luxury art print ad, excessive blur, fake cinematic teal-orange grade demonstrates the difference between a full fresh pull and a faint ghost print in one handled bench scene, which is easier to remember than a text explanation alone. the lifted sheet, wet block, pale ghost impression, and nearby brayer create a high-utility proof frame with immediate process clarity and strong material hooks. documentary proof image for ghost print example relief printing, fresh pull linocut, and printmaking proof bench. the scene is intentionally light on visible text so the prompt card carries the canonical terminology. one hand lifting fresh paper one dark wet pull one pale ghost print gum-black ink slab with a faint ghost print nearby wet ink sheen rag paper fibers carved linoleum grooves cream rag paper deep black ink ultramarine registration corner proof frame tabletop object proof frame",
+      "searchText": "ghost print and fresh pull proof frame photorealistic-natural relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: photorealistic-natural\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: documentary bench proof image answering the query \"ghost print example relief printing\"\nscene/backdrop: close printmaking bench at the moment a sheet is lifted from a freshly inked relief block, with a faint ghost print beside it\nsubject: one hand lifting fresh paper, one dark wet pull, one pale ghost print, gum-black ink slab, brayer, oxide-red registration mark, blue tape corner, and drying clips in the background\nstyle/medium: documentary workshop proof frame with tactile realism and restrained drama\ncomposition/framing: landscape close-up with the lifted sheet in the foreground, block and ghost print midground, and tools receding softly behind\nlighting/mood: soft window light with gentle contrast and visible wet ink sheen\ncolor palette: cream rag paper, deep black ink, ultramarine registration corner, oxide-red grease-pencil mark, weathered birch bench, steel-gray tools\nmaterials/textures: wet ink sheen, rag paper fibers, carved linoleum grooves, birch bench, rubber brayer, metal clips, tape edges\nconstraints: proof-of-use image for ghost print example relief printing, no logos, no watermark, no theatrical overdrama, no long visible text\navoid: moody fine-art gallery glamour, dramatic spotlight, luxury art print ad, excessive blur, fake cinematic teal-orange grade demonstrates the difference between a full fresh pull and a faint ghost print in one handled bench scene, which is easier to remember than a text explanation alone. the lifted sheet, wet block, pale ghost impression, and nearby brayer create a high-utility proof frame with immediate process clarity and strong material hooks. documentary proof image for ghost print example relief printing, fresh pull linocut, and printmaking proof bench. the scene is intentionally light on visible text so the prompt card carries the canonical terminology. one hand lifting fresh paper one dark wet pull one pale ghost print gum-black ink slab with a faint ghost print beside it wet ink sheen rag paper fibers carved linoleum grooves cream rag paper deep black ink ultramarine registration corner proof frame tabletop object proof frame",
       "curation": {
         "status": "public",
         "reason": "",

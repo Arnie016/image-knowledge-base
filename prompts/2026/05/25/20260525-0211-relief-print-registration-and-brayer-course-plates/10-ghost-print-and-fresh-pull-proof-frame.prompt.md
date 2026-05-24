@@ -8,7 +8,7 @@
 Use case: photorealistic-natural
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
 Primary request: documentary bench proof image answering the query "ghost print example relief printing"
-Scene/backdrop: close printmaking bench at the moment a sheet is lifted from a freshly inked relief block, with a faint ghost print nearby
+Scene/backdrop: close printmaking bench at the moment a sheet is lifted from a freshly inked relief block, with a faint ghost print beside it
 Subject: one hand lifting fresh paper, one dark wet pull, one pale ghost print, gum-black ink slab, brayer, oxide-red registration mark, blue tape corner, and drying clips in the background
 Style/medium: documentary workshop proof frame with tactile realism and restrained drama
 Composition/framing: landscape close-up with the lifted sheet in the foreground, block and ghost print midground, and tools receding softly behind

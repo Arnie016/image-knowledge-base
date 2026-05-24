@@ -8,7 +8,7 @@
 Use case: atlas-contact-sheet
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
 Primary request: tactile workshop atlas answering the query "relief printing tools chart"
-Scene/backdrop: top-down tools tray on a stained print studio table, no people
+Scene/backdrop: top-down tools tray on a stained print studio table
 Subject: brayer, bench hook, V gouges, U gouges, ink knife, registration tabs, baren, wooden spoon, pica ruler, masking tape roll, carving glove, and newsprint stack arranged as one coherent training kit
 Style/medium: dense tactile contact-sheet atlas photographed like an internal workshop reference
 Composition/framing: landscape overhead tray layout with grouped clusters and small blue label tabs only where necessary

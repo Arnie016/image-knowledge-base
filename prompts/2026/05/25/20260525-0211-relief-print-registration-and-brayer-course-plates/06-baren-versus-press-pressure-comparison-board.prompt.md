@@ -8,7 +8,7 @@
 Use case: mixed-format
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
 Primary request: practical comparison board answering the query "baren vs press relief printing"
-Scene/backdrop: cream comparison board on a print studio wall with proof strips and two tool closeups, no people
+Scene/backdrop: cream comparison board pinned to a textured print studio wall with proof strips and two tool closeups
 Subject: hand baren burnishing versus etching press pull shown through paper texture, edge pressure, sharp bevel, light ink, impression depth, one baren photo, and one press roller photo
 Style/medium: practical printmaking comparison board combining photographic proof fragments and teaching callouts
 Composition/framing: tall split-column board with baren on the left and press on the right, matching proof details stacked vertically for direct comparison

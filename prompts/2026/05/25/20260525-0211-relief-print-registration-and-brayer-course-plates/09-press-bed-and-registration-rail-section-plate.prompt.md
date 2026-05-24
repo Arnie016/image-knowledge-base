@@ -8,7 +8,7 @@
 Use case: mixed-format
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
 Primary request: section-format printmaking explainer answering the query "relief press bed diagram"
-Scene/backdrop: cutaway teaching plate of a small relief-print press and registration setup on a bench, no surrounding room
+Scene/backdrop: cutaway teaching plate of a small relief-print press and registration setup on a birch bench
 Subject: sectioned press bed, roller, felt blanket, paper path, linoleum block, stop guides, registration rail, pressure direction, receiving tray, and one thin proof-result strip
 Style/medium: buildable technical plate with real workshop materials rather than abstract CAD
 Composition/framing: landscape side-section view spanning the press width, with bold arrows and one narrow proof strip above the machine

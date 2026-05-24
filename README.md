@@ -8,7 +8,7 @@
 
 | Public images | Public runs | Search hooks | Formats |
 | --- | --- | --- | --- |
-| 101 | 10 | 892 | 14 |
+| 101 | 10 | 896 | 14 |
 
 ## What This Repo Publishes
 
@@ -23,7 +23,7 @@
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/01-brayer-hardness-and-texture-comparison-chart.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/01-brayer-hardness-and-texture-comparison-chart.png" alt="Brayer Hardness And Texture Comparison Chart (infographic-diagram)" width="100%" /></a>
   <br /><strong>Brayer Hardness And Texture Comparison Chart</strong>
-  <br /><sub>infographic-diagram · three relief-print brayers labeled soft · with side-by-side ink rolls</sub>
+  <br /><sub>infographic-diagram · medium brayer control · hard-edge fidelity</sub>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/03-carving-mark-vocabulary-reference-plate.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/03-carving-mark-vocabulary-reference-plate.png" alt="Carving Mark Vocabulary Reference Plate (atlas-contact-sheet)" width="100%" /></a>
@@ -632,7 +632,7 @@
 
 | Panel | Human task | Labels |
 | --- | --- | --- |
-| Brayer Hardness And Texture Comparison Chart | Helps beginners compare how soft, medium, and hard brayers change line fidelity, solid coverage, and rough patch texture before they waste ink and paper | three relief-print brayers labeled soft, with side-by-side ink rolls, carved line samples |
+| Brayer Hardness And Texture Comparison Chart | Compares soft brayer coverage, medium brayer control, and hard-edge fidelity so beginners can match roller hardness to line work, solid fills, and rough texture | medium brayer control, hard-edge fidelity, side-by-side ink rolls |
 | Carving Mark Vocabulary Reference Plate | Gives students and curriculum authors a concrete visual vocabulary for common carved textures, edge mistakes, and clean relief areas they see while cutting blocks | U gouge scoop, hatch marks, stipple pits |
 | Reduction Print Step Sequence Poster | Shows the carve-print-carve rhythm of reduction linocut so students can understand shrinking printable areas and why each stage cannot be undone | second carve, second color, final carve |
 | Relief Printing Tools Tray Reference | Maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects | bench hook, V gouges, U gouges |

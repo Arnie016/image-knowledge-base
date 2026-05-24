@@ -8,7 +8,7 @@
 Use case: atlas-contact-sheet
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
 Primary request: tactile printmaking vocabulary plate answering the query "linocut carving marks reference"
-Scene/backdrop: cream teaching plate photographed straight-on above a print studio bench, no surrounding room
+Scene/backdrop: cream teaching plate photographed straight-on above a print studio bench
 Subject: carved relief sample blocks showing V gouge line, U gouge scoop, hatch marks, stipple pits, torn edge, clean field, and ghost cut, plus a narrow strip of matching proof impressions
 Style/medium: specimen-style printmaking reference plate with tactile closeup detail
 Composition/framing: vertical grid of carved sample rectangles with one blue label tab per sample and a torn proof strip along the bottom

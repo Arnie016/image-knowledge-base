@@ -8,7 +8,7 @@
 Use case: scientific-educational
 Asset type: final PNG for an indexed image knowledge base and static SEO landing page
 Primary request: process chart answering the query "block printing ink consistency guide"
-Scene/backdrop: printmaking ink slab teaching chart staged on a stained studio bench, no surrounding room
+Scene/backdrop: printmaking ink slab teaching chart staged on a stained studio bench
 Subject: three side-by-side ink states labeled under-rolled, balanced, and over-rolled with brayer tracks, tack strings, slab texture, and matching proof swatches
 Style/medium: realistic studio process chart with clear tactile closeups
 Composition/framing: vertical poster with large central slab closeups, narrow proof strips below, and concise callout lines about tack and texture
