@@ -3,7 +3,7 @@
 - Run theme: Relief Print Registration And Brayer Course Plates
 - Run slug: `20260525-0211-relief-print-registration-and-brayer-course-plates`
 - Timestamp: `2026-05-25T02:11:23+08:00`
-- Status: `in_progress`
+- Status: `success`
 - Niche audience: printmaking teachers, linocut students, community-studio technicians, art-curriculum authors, workshop organizers, prop designers, and retrieval agents that need precise visual analogies for relief-print tools, registration, proofing, and ink handling
 - Search intent:
   - `linocut registration guide`
@@ -178,3 +178,19 @@ The relief-print branch wins because it keeps the practical explainer-plate prio
 - `lighting-motivation-and-practical-lamp-guides`
 - `fermentation-vessel-and-spoilage-visual-guides`
 - `cardboard-robot-toy-catalog-fleet`
+
+## Outcome
+
+- Built-In ImageGen Output Directory: `/Users/arnav/.codex/generated_images/20260525-0211-relief-print-registration-and-brayer-course-plates/`
+- PNG count: `10`
+- Visual families explored:
+  - direct charts and instructional plates
+  - tactile tool and process references
+  - classroom deployment and proof scenes
+- Outcome notes:
+  - The strongest search-facing images were the brayer chart, registration jig guide, tools tray, and ghost-print proof frame because they pair concrete shop nouns with immediately legible physical evidence.
+  - The press-bed section plate and classroom drying-rack room view kept the batch from flattening into ten posters and widened the atlas with one less-common section format plus one real room deployment view.
+- Gallery refresh:
+  - `node image-knowledge-base/scripts/build-site-data.mjs` completed successfully.
+  - `image-knowledge-base/site/data.js`, `image-knowledge-base/site/sitemap.xml`, and `image-knowledge-base/site/robots.txt` were regenerated.
+  - The run now has ten generated per-image detail pages under `image-knowledge-base/site/i/20260525-0211-relief-print-registration-and-brayer-course-plates-*` and one per-run page under `image-knowledge-base/site/r/20260525-0211-relief-print-registration-and-brayer-course-plates/`.

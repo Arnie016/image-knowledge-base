@@ -1,0 +1,22 @@
+# Run Report
+
+- Run slug: `20260525-0211-relief-print-registration-and-brayer-course-plates`
+- Timestamp: `2026-05-25T02:11:23+08:00`
+- Theme: Relief Print Registration And Brayer Course Plates
+- Status: `success`
+- Freedom budget: `wide`
+- Primary scale: `page`
+- Secondary scale: `tabletop`
+- PNG count: `10`
+- Visual families: direct charts and instructional plates, tactile tool and process references, plus classroom deployment and proof scenes
+- Image folder: `image-knowledge-base/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates`
+- Prompt folder: `image-knowledge-base/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates`
+- Built-in ImageGen output directory: `/Users/arnav/.codex/generated_images/20260525-0211-relief-print-registration-and-brayer-course-plates/`
+- Gallery website path: `image-knowledge-base/site/index.html`
+- Gallery refresh: `completed via node image-knowledge-base/scripts/build-site-data.mjs`; builder reported `101 public images` across `9 public runs`
+- SEO artifact status: `site/data.js`, `site/sitemap.xml`, and `site/robots.txt` were regenerated; 10 per-image detail directories for this run exist under `site/i/20260525-0211-relief-print-registration-and-brayer-course-plates-*`, and the per-run directory exists under `site/r/20260525-0211-relief-print-registration-and-brayer-course-plates`
+- Research note: `image-knowledge-base/research/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/research.md`
+- Catalog updates: `image-knowledge-base/catalog/runs.jsonl`, `image-knowledge-base/catalog/images.jsonl`
+- Skill/plugin Markdown consulted: `imagegen/SKILL.md`, `imagegen/references/prompting.md`, `documents/SKILL.md`, `iconography-lab/SKILL.md`
+- Summary: This run expanded the atlas into direct-search printmaking education for art teachers, linocut students, studio technicians, curriculum authors, and agents that need concrete tool, ink, registration, and proof references. The strongest hooks were `medium brayer control`, `hard-edge fidelity`, `registration pins`, `corner tabs`, `U gouge scoop`, `tack strings`, `bench hook`, `V gouges`, `proof wall`, `registration rail`, and `ghost print`.
+- Blockers: None.
