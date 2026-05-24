@@ -1,9 +1,9 @@
 window.IMAGE_KB = {
-  "generatedAt": "2026-05-22T02:20:09+08:00",
-  "imageCount": 91,
-  "publicImageCount": 91,
+  "generatedAt": "2026-05-25T02:11:23+08:00",
+  "imageCount": 101,
+  "publicImageCount": 101,
   "archivedImageCount": 0,
-  "runCount": 8,
+  "runCount": 9,
   "rubric": {
     "version": "2026-05-06-v1",
     "scale": "1-5 per dimension, weighted to 100 overall",
@@ -69,23 +69,23 @@ window.IMAGE_KB = {
   "taxonomies": [
     [
       "scientific-educational",
-      24
+      26
     ],
     [
       "infographic-diagram",
-      17
+      19
     ],
     [
       "photorealistic-natural",
-      11
+      13
     ],
     [
       "atlas-contact-sheet",
-      9
+      11
     ],
     [
       "mixed-format",
-      8
+      10
     ],
     [
       "film-preproduction",
@@ -127,62 +127,70 @@ window.IMAGE_KB = {
   "topics": [
     [
       "labels",
-      70
+      75
     ],
     [
       "short",
-      56
+      60
+    ],
+    [
+      "paper",
+      52
     ],
     [
       "matte",
       43
     ],
     [
-      "paper",
-      43
+      "chart",
+      35
+    ],
+    [
+      "poster",
+      34
     ],
     [
       "like",
       33
     ],
     [
-      "chart",
-      32
-    ],
-    [
       "charcoal",
       31
     ],
     [
-      "poster",
-      31
-    ],
-    [
       "mood",
-      29
+      30
     ],
     [
       "guide",
-      27
+      29
     ],
     [
       "reference",
-      24
-    ],
-    [
-      "comparison",
-      22
+      27
     ],
     [
       "room",
-      22
+      27
     ],
     [
-      "logos",
-      21
+      "comparison",
+      24
     ],
     [
       "scientific-educational",
+      23
+    ],
+    [
+      "arrows",
+      21
+    ],
+    [
+      "direct",
+      21
+    ],
+    [
+      "logos",
       21
     ],
     [
@@ -190,7 +198,15 @@ window.IMAGE_KB = {
       20
     ],
     [
-      "direct",
+      "frame",
+      20
+    ],
+    [
+      "black",
+      19
+    ],
+    [
+      "infographic-diagram",
       19
     ],
     [
@@ -202,7 +218,7 @@ window.IMAGE_KB = {
       18
     ],
     [
-      "frame",
+      "plate",
       18
     ],
     [
@@ -210,31 +226,31 @@ window.IMAGE_KB = {
       17
     ],
     [
-      "infographic-diagram",
+      "how",
       17
     ],
     [
-      "arrows",
-      16
-    ],
-    [
-      "black",
-      16
+      "steel",
+      17
     ],
     [
       "brown",
       16
     ],
     [
-      "plate",
-      16
-    ],
-    [
-      "steel",
+      "color",
       15
     ],
     [
-      "color",
+      "metal",
+      15
+    ],
+    [
+      "bench",
+      14
+    ],
+    [
+      "glass",
       14
     ],
     [
@@ -242,19 +258,23 @@ window.IMAGE_KB = {
       14
     ],
     [
-      "how",
-      14
-    ],
-    [
       "inspection",
       14
     ],
     [
-      "metal",
+      "stock",
       14
     ],
     [
-      "glass",
+      "strip",
+      14
+    ],
+    [
+      "backdrop",
+      13
+    ],
+    [
+      "bottom",
       13
     ],
     [
@@ -262,11 +282,19 @@ window.IMAGE_KB = {
       13
     ],
     [
-      "stock",
+      "tools",
       13
     ],
     [
+      "answering",
+      12
+    ],
+    [
       "brushed",
+      12
+    ],
+    [
+      "documentary",
       12
     ],
     [
@@ -278,11 +306,15 @@ window.IMAGE_KB = {
       12
     ],
     [
-      "queen",
+      "photorealistic-natural",
       12
     ],
     [
-      "strip",
+      "practical",
+      12
+    ],
+    [
+      "queen",
       12
     ],
     [
@@ -290,11 +322,15 @@ window.IMAGE_KB = {
       11
     ],
     [
-      "backdrop",
+      "atlas-contact-sheet",
       11
     ],
     [
-      "bottom",
+      "edge",
+      11
+    ],
+    [
+      "marks",
       11
     ],
     [
@@ -306,7 +342,11 @@ window.IMAGE_KB = {
       11
     ],
     [
-      "tools",
+      "section",
+      11
+    ],
+    [
+      "setup",
       11
     ],
     [
@@ -334,11 +374,19 @@ window.IMAGE_KB = {
       10
     ],
     [
+      "clipped",
+      10
+    ],
+    [
+      "clips",
+      10
+    ],
+    [
       "cloth",
       10
     ],
     [
-      "documentary",
+      "dark",
       10
     ],
     [
@@ -350,19 +398,23 @@ window.IMAGE_KB = {
       10
     ],
     [
+      "ink",
+      10
+    ],
+    [
       "inset",
       10
     ],
     [
-      "photorealistic-natural",
+      "lines",
       10
     ],
     [
-      "practical",
+      "mixed-format",
       10
     ],
     [
-      "section",
+      "proof",
       10
     ],
     [
@@ -390,10 +442,6 @@ window.IMAGE_KB = {
       9
     ],
     [
-      "atlas-contact-sheet",
-      9
-    ],
-    [
       "braiding",
       9
     ],
@@ -410,10 +458,6 @@ window.IMAGE_KB = {
       9
     ],
     [
-      "clipped",
-      9
-    ],
-    [
       "comb",
       9
     ],
@@ -422,7 +466,15 @@ window.IMAGE_KB = {
       9
     ],
     [
+      "each",
+      9
+    ],
+    [
       "honey",
+      9
+    ],
+    [
+      "hooks",
       9
     ],
     [
@@ -430,11 +482,11 @@ window.IMAGE_KB = {
       9
     ],
     [
-      "linework",
+      "lighting",
       9
     ],
     [
-      "marks",
+      "linework",
       9
     ],
     [
@@ -442,7 +494,19 @@ window.IMAGE_KB = {
       9
     ],
     [
+      "photo",
+      9
+    ],
+    [
+      "print",
+      9
+    ],
+    [
       "printed",
+      9
+    ],
+    [
+      "relief",
       9
     ],
     [
@@ -451,6 +515,14 @@ window.IMAGE_KB = {
     ],
     [
       "row",
+      9
+    ],
+    [
+      "sample",
+      9
+    ],
+    [
+      "sequence",
       9
     ],
     [
@@ -466,12 +538,24 @@ window.IMAGE_KB = {
       9
     ],
     [
+      "tabs",
+      9
+    ],
+    [
+      "tape",
+      9
+    ],
+    [
       "training",
       9
     ],
     [
-      "answering",
-      8
+      "tray",
+      9
+    ],
+    [
+      "wall",
+      9
     ],
     [
       "apiary",
@@ -482,7 +566,7 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "bench",
+      "beginner",
       8
     ],
     [
@@ -494,19 +578,7 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "clips",
-      8
-    ],
-    [
       "cycle",
-      8
-    ],
-    [
-      "dark",
-      8
-    ],
-    [
-      "each",
       8
     ],
     [
@@ -530,7 +602,7 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "hooks",
+      "grease-pencil",
       8
     ],
     [
@@ -538,11 +610,7 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "lighting",
-      8
-    ],
-    [
-      "mixed-format",
+      "materials",
       8
     ],
     [
@@ -554,19 +622,19 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "photo",
-      8
-    ],
-    [
       "pine",
       8
     ],
     [
-      "sequence",
+      "process",
       8
     ],
     [
-      "setup",
+      "side",
+      8
+    ],
+    [
+      "teaching",
       8
     ],
     [
@@ -574,15 +642,11 @@ window.IMAGE_KB = {
       8
     ],
     [
-      "wall",
+      "tool",
       8
     ],
     [
       "actor",
-      7
-    ],
-    [
-      "beginner",
       7
     ],
     [
@@ -602,6 +666,14 @@ window.IMAGE_KB = {
       7
     ],
     [
+      "centered",
+      7
+    ],
+    [
+      "classroom",
+      7
+    ],
+    [
       "cup",
       7
     ],
@@ -610,7 +682,7 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "edge",
+      "example",
       7
     ],
     [
@@ -626,19 +698,11 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "grease-pencil",
-      7
-    ],
-    [
       "insets",
       7
     ],
     [
-      "lines",
-      7
-    ],
-    [
-      "materials",
+      "muted",
       7
     ],
     [
@@ -647,6 +711,10 @@ window.IMAGE_KB = {
     ],
     [
       "overlays",
+      7
+    ],
+    [
+      "pale",
       7
     ],
     [
@@ -670,10 +738,6 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "sample",
-      7
-    ],
-    [
       "search-answer",
       7
     ],
@@ -682,19 +746,11 @@ window.IMAGE_KB = {
       7
     ],
     [
-      "side",
-      7
-    ],
-    [
       "station",
       7
     ],
     [
-      "teaching",
-      7
-    ],
-    [
-      "tray",
+      "texture",
       7
     ],
     [
@@ -702,7 +758,15 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "answer",
+      6
+    ],
+    [
       "bands",
+      6
+    ],
+    [
+      "blocks",
       6
     ],
     [
@@ -726,19 +790,11 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "centered",
-      6
-    ],
-    [
-      "classroom",
-      6
-    ],
-    [
       "decorating",
       6
     ],
     [
-      "example",
+      "deep",
       6
     ],
     [
@@ -751,6 +807,10 @@ window.IMAGE_KB = {
     ],
     [
       "gloves",
+      6
+    ],
+    [
+      "grid",
       6
     ],
     [
@@ -782,6 +842,10 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "maps",
+      6
+    ],
+    [
       "marking",
       6
     ],
@@ -794,11 +858,11 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "muted",
+      "nitrile",
       6
     ],
     [
-      "nitrile",
+      "overhead",
       6
     ],
     [
@@ -806,11 +870,11 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "pale",
+      "pastry",
       6
     ],
     [
-      "pastry",
+      "path",
       6
     ],
     [
@@ -818,7 +882,19 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "pressure",
+      6
+    ],
+    [
       "production",
+      6
+    ],
+    [
+      "rack",
+      6
+    ],
+    [
+      "rubber",
       6
     ],
     [
@@ -830,6 +906,10 @@ window.IMAGE_KB = {
       6
     ],
     [
+      "small",
+      6
+    ],
+    [
       "smoker",
       6
     ],
@@ -838,11 +918,11 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "still",
+      "stacked",
       6
     ],
     [
-      "tabs",
+      "still",
       6
     ],
     [
@@ -850,15 +930,7 @@ window.IMAGE_KB = {
       6
     ],
     [
-      "tape",
-      6
-    ],
-    [
       "tip",
-      6
-    ],
-    [
-      "tool",
       6
     ],
     [
@@ -868,6 +940,10 @@ window.IMAGE_KB = {
     [
       "window",
       6
+    ],
+    [
+      "abstract",
+      5
     ],
     [
       "action",
@@ -882,11 +958,23 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "birch",
+      5
+    ],
+    [
+      "block",
+      5
+    ],
+    [
       "boards",
       5
     ],
     [
       "brake",
+      5
+    ],
+    [
+      "brayer",
       5
     ],
     [
@@ -910,6 +998,10 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "corner",
+      5
+    ],
+    [
       "cosmetology",
       5
     ],
@@ -930,6 +1022,10 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "field",
+      5
+    ],
+    [
       "finished",
       5
     ],
@@ -939,6 +1035,10 @@ window.IMAGE_KB = {
     ],
     [
       "grip",
+      5
+    ],
+    [
+      "gum-black",
       5
     ],
     [
@@ -954,11 +1054,11 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "maps",
+      "markers",
       5
     ],
     [
-      "markers",
+      "masking",
       5
     ],
     [
@@ -982,11 +1082,11 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "overhead",
+      "parchment",
       5
     ],
     [
-      "parchment",
+      "parts",
       5
     ],
     [
@@ -998,15 +1098,23 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "pinned",
+      5
+    ],
+    [
       "plus",
       5
     ],
     [
-      "process",
+      "printmaking",
       5
     ],
     [
-      "rack",
+      "rag",
+      5
+    ],
+    [
+      "registration",
       5
     ],
     [
@@ -1014,15 +1122,11 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "rubber",
-      5
-    ],
-    [
       "scalp",
       5
     ],
     [
-      "small",
+      "smooth",
       5
     ],
     [
@@ -1030,7 +1134,7 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "stacked",
+      "studio",
       5
     ],
     [
@@ -1038,7 +1142,15 @@ window.IMAGE_KB = {
       5
     ],
     [
+      "torn",
+      5
+    ],
+    [
       "tube",
+      5
+    ],
+    [
+      "ultramarine",
       5
     ],
     [
@@ -1050,7 +1162,11 @@ window.IMAGE_KB = {
       5
     ],
     [
-      "abstract",
+      "workshop",
+      5
+    ],
+    [
+      "above",
       4
     ],
     [
@@ -1059,10 +1175,6 @@ window.IMAGE_KB = {
     ],
     [
       "alert",
-      4
-    ],
-    [
-      "answer",
       4
     ],
     [
@@ -1098,10 +1210,6 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "blocks",
-      4
-    ],
-    [
       "boxes",
       4
     ],
@@ -1131,6 +1239,10 @@ window.IMAGE_KB = {
     ],
     [
       "cappings",
+      4
+    ],
+    [
+      "carved",
       4
     ],
     [
@@ -1178,15 +1290,15 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "deep",
-      4
-    ],
-    [
       "design",
       4
     ],
     [
       "dots",
+      4
+    ],
+    [
+      "drop",
       4
     ],
     [
@@ -1214,7 +1326,7 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "field",
+      "foreground",
       4
     ],
     [
@@ -1231,10 +1343,6 @@ window.IMAGE_KB = {
     ],
     [
       "graphite",
-      4
-    ],
-    [
-      "grid",
       4
     ],
     [
@@ -1266,6 +1374,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "linoleum",
+      4
+    ],
+    [
       "low",
       4
     ],
@@ -1278,19 +1390,11 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "parts",
-      4
-    ],
-    [
-      "path",
+      "oxide-red",
       4
     ],
     [
       "petal",
-      4
-    ],
-    [
-      "pinned",
       4
     ],
     [
@@ -1314,7 +1418,7 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "pressure",
+      "printing",
       4
     ],
     [
@@ -1343,6 +1447,10 @@ window.IMAGE_KB = {
     ],
     [
       "route",
+      4
+    ],
+    [
+      "ruler",
       4
     ],
     [
@@ -1390,6 +1498,10 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "three",
+      4
+    ],
+    [
       "timeline",
       4
     ],
@@ -1410,10 +1522,6 @@ window.IMAGE_KB = {
       4
     ],
     [
-      "torn",
-      4
-    ],
-    [
       "two",
       4
     ],
@@ -1426,12 +1534,16 @@ window.IMAGE_KB = {
       4
     ],
     [
+      "wet",
+      4
+    ],
+    [
       "wire",
       4
     ],
     [
-      "above",
-      3
+      "wood",
+      4
     ],
     [
       "actors",
@@ -1466,11 +1578,27 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "art",
+      3
+    ],
+    [
       "asphalt",
       3
     ],
     [
+      "bamboo",
+      3
+    ],
+    [
+      "base",
+      3
+    ],
+    [
       "beat",
+      3
+    ],
+    [
+      "before",
       3
     ],
     [
@@ -1487,6 +1615,10 @@ window.IMAGE_KB = {
     ],
     [
       "bold",
+      3
+    ],
+    [
+      "branding",
       3
     ],
     [
@@ -1578,6 +1710,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "coverage",
+      3
+    ],
+    [
       "cuffs",
       3
     ],
@@ -1614,10 +1750,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "drop",
-      3
-    ],
-    [
       "editorial",
       3
     ],
@@ -1631,6 +1763,10 @@ window.IMAGE_KB = {
     ],
     [
       "eyeline",
+      3
+    ],
+    [
+      "fibers",
       3
     ],
     [
@@ -1658,10 +1794,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "foreground",
-      3
-    ],
-    [
       "fork",
       3
     ],
@@ -1671,6 +1803,10 @@ window.IMAGE_KB = {
     ],
     [
       "gives",
+      3
+    ],
+    [
+      "glove",
       3
     ],
     [
@@ -1694,7 +1830,15 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "hand",
+      3
+    ],
+    [
       "hanging",
+      3
+    ],
+    [
+      "helps",
       3
     ],
     [
@@ -1710,7 +1854,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "ink",
+      "infographic",
       3
     ],
     [
@@ -1730,6 +1874,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "labeled",
+      3
+    ],
+    [
       "laminate",
       3
     ],
@@ -1738,15 +1886,19 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "layer",
+      3
+    ],
+    [
       "leaf",
       3
     ],
     [
-      "logbook",
+      "linocut",
       3
     ],
     [
-      "masking",
+      "logbook",
       3
     ],
     [
@@ -1774,6 +1926,18 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "order",
+      3
+    ],
+    [
+      "oxidized",
+      3
+    ],
+    [
+      "painted",
+      3
+    ],
+    [
       "panel",
       3
     ],
@@ -1790,6 +1954,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "people",
+      3
+    ],
+    [
       "perforated",
       3
     ],
@@ -1799,6 +1967,10 @@ window.IMAGE_KB = {
     ],
     [
       "pistachio",
+      3
+    ],
+    [
+      "placement",
       3
     ],
     [
@@ -1814,11 +1986,27 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "posters",
+      3
+    ],
+    [
+      "press",
+      3
+    ],
+    [
       "productivity-visual",
       3
     ],
     [
-      "proof",
+      "pull",
+      3
+    ],
+    [
+      "query",
+      3
+    ],
+    [
+      "relief-print",
       3
     ],
     [
@@ -1846,7 +2034,7 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "ruler",
+      "rough",
       3
     ],
     [
@@ -1894,7 +2082,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "smooth",
+      "soft",
+      3
+    ],
+    [
+      "solid",
       3
     ],
     [
@@ -1906,11 +2098,19 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "stack",
+      3
+    ],
+    [
       "stand",
       3
     ],
     [
       "step",
+      3
+    ],
+    [
+      "sticky",
       3
     ],
     [
@@ -1926,6 +2126,10 @@ window.IMAGE_KB = {
       3
     ],
     [
+      "surrounding",
+      3
+    ],
+    [
       "tall",
       3
     ],
@@ -1938,15 +2142,11 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "texture",
+      "textures",
       3
     ],
     [
       "them",
-      3
-    ],
-    [
-      "three",
       3
     ],
     [
@@ -1978,18 +2178,6 @@ window.IMAGE_KB = {
       3
     ],
     [
-      "wet",
-      3
-    ],
-    [
-      "wood",
-      3
-    ],
-    [
-      "workshop",
-      3
-    ],
-    [
       "active",
       2
     ],
@@ -2018,6 +2206,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "alignment",
+      2
+    ],
+    [
       "also",
       2
     ],
@@ -2031,6 +2223,10 @@ window.IMAGE_KB = {
     ],
     [
       "animation-reference",
+      2
+    ],
+    [
+      "another",
       2
     ],
     [
@@ -2066,19 +2262,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "bamboo",
-      2
-    ],
-    [
       "band",
       2
     ],
     [
-      "beeswax",
+      "baren",
       2
     ],
     [
-      "before",
+      "beeswax",
       2
     ],
     [
@@ -2095,6 +2287,10 @@ window.IMAGE_KB = {
     ],
     [
       "bio-rings",
+      2
+    ],
+    [
+      "blanket",
       2
     ],
     [
@@ -2126,7 +2322,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "branding",
+      "brayers",
       2
     ],
     [
@@ -2142,11 +2338,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "callout",
+      2
+    ],
+    [
       "calm",
       2
     ],
     [
       "cardboard",
+      2
+    ],
+    [
+      "carving",
       2
     ],
     [
@@ -2194,6 +2398,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "closeups",
+      2
+    ],
+    [
       "cloudy",
       2
     ],
@@ -2218,15 +2426,23 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "compare",
+      2
+    ],
+    [
+      "concrete",
+      2
+    ],
+    [
       "cone",
       2
     ],
     [
-      "cooling",
+      "consistency",
       2
     ],
     [
-      "corner",
+      "cooling",
       2
     ],
     [
@@ -2247,10 +2463,6 @@ window.IMAGE_KB = {
     ],
     [
       "cover",
-      2
-    ],
-    [
-      "coverage",
       2
     ],
     [
@@ -2278,6 +2490,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "cut",
+      2
+    ],
+    [
       "daily",
       2
     ],
@@ -2295,6 +2511,10 @@ window.IMAGE_KB = {
     ],
     [
       "demo",
+      2
+    ],
+    [
+      "depth",
       2
     ],
     [
@@ -2358,6 +2578,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "edges",
+      2
+    ],
+    [
       "egg",
       2
     ],
@@ -2398,6 +2622,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "felt",
+      2
+    ],
+    [
       "fencing",
       2
     ],
@@ -2407,6 +2635,10 @@ window.IMAGE_KB = {
     ],
     [
       "finger-jointed",
+      2
+    ],
+    [
+      "first",
       2
     ],
     [
@@ -2434,7 +2666,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "fresh",
+      2
+    ],
+    [
       "front",
+      2
+    ],
+    [
+      "full",
       2
     ],
     [
@@ -2458,11 +2698,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "glossy",
+      "ghost",
       2
     ],
     [
-      "glove",
+      "glossy",
       2
     ],
     [
@@ -2475,6 +2715,14 @@ window.IMAGE_KB = {
     ],
     [
       "gold",
+      2
+    ],
+    [
+      "gouge",
+      2
+    ],
+    [
+      "grooves",
       2
     ],
     [
@@ -2494,7 +2742,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "helps",
+      "handles",
       2
     ],
     [
@@ -2522,15 +2770,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "hook",
+      2
+    ],
+    [
       "housing",
       2
     ],
     [
       "infestation",
-      2
-    ],
-    [
-      "infographic",
       2
     ],
     [
@@ -2590,7 +2838,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "layer",
+      "layers",
       2
     ],
     [
@@ -2603,6 +2851,10 @@ window.IMAGE_KB = {
     ],
     [
       "lid",
+      2
+    ],
+    [
+      "line",
       2
     ],
     [
@@ -2638,6 +2890,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "margin",
+      2
+    ],
+    [
       "marigold",
       2
     ],
@@ -2670,6 +2926,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "mistakes",
+      2
+    ],
+    [
       "mites",
       2
     ],
@@ -2686,11 +2946,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "nearby",
+      2
+    ],
+    [
       "nectar",
       2
     ],
     [
       "needles",
+      2
+    ],
+    [
+      "newsprint",
       2
     ],
     [
@@ -2707,6 +2975,10 @@ window.IMAGE_KB = {
     ],
     [
       "offset",
+      2
+    ],
+    [
+      "oil-based",
       2
     ],
     [
@@ -2734,19 +3006,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "order",
-      2
-    ],
-    [
       "ots",
       2
     ],
     [
       "oval",
-      2
-    ],
-    [
-      "oxidized",
       2
     ],
     [
@@ -2762,7 +3026,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "painted",
+      "palette",
       2
     ],
     [
@@ -2786,7 +3050,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "placement",
+      "per",
       2
     ],
     [
@@ -2798,11 +3062,11 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "position",
+      "plywood",
       2
     ],
     [
-      "posters",
+      "position",
       2
     ],
     [
@@ -2850,7 +3114,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "props",
+      2
+    ],
+    [
       "protective",
+      2
+    ],
+    [
+      "pulling",
       2
     ],
     [
@@ -2858,7 +3130,15 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "rail",
+      2
+    ],
+    [
       "rat-tail",
+      2
+    ],
+    [
+      "readable",
       2
     ],
     [
@@ -2922,11 +3202,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "rosette",
+      "roller",
       2
     ],
     [
-      "rough",
+      "rolls",
+      2
+    ],
+    [
+      "rosette",
       2
     ],
     [
@@ -2958,6 +3242,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "scarred",
+      2
+    ],
+    [
       "scrapbook",
       2
     ],
@@ -2970,6 +3258,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "second",
+      2
+    ],
+    [
       "sending",
       2
     ],
@@ -2979,6 +3271,10 @@ window.IMAGE_KB = {
     ],
     [
       "shadows",
+      2
+    ],
+    [
+      "sheen",
       2
     ],
     [
@@ -3006,11 +3302,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "sink",
+      2
+    ],
+    [
       "six",
       2
     ],
     [
       "skin",
+      2
+    ],
+    [
+      "slab",
       2
     ],
     [
@@ -3022,19 +3326,15 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "soft",
-      2
-    ],
-    [
-      "solid",
-      2
-    ],
-    [
       "spacing",
       2
     ],
     [
       "spatial",
+      2
+    ],
+    [
+      "specimen",
       2
     ],
     [
@@ -3050,10 +3350,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "stack",
-      2
-    ],
-    [
       "stacks",
       2
     ],
@@ -3066,7 +3362,7 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "sticky",
+      "steel-gray",
       2
     ],
     [
@@ -3078,11 +3374,19 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "straight-on",
+      2
+    ],
+    [
       "strategic",
       2
     ],
     [
       "strategy",
+      2
+    ],
+    [
+      "strings",
       2
     ],
     [
@@ -3103,6 +3407,10 @@ window.IMAGE_KB = {
     ],
     [
       "supersedure",
+      2
+    ],
+    [
+      "surface",
       2
     ],
     [
@@ -3135,10 +3443,6 @@ window.IMAGE_KB = {
     ],
     [
       "telescoping",
-      2
-    ],
-    [
-      "textures",
       2
     ],
     [
@@ -3202,6 +3506,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "visible",
+      2
+    ],
+    [
       "waste",
       2
     ],
@@ -3228,6 +3536,10 @@ window.IMAGE_KB = {
     [
       "zone",
       2
+    ],
+    [
+      "acrylic",
+      1
     ],
     [
       "acting",
@@ -3274,15 +3586,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "alignment",
-      1
-    ],
-    [
       "all",
       1
     ],
     [
       "allen",
+      1
+    ],
+    [
+      "alone",
       1
     ],
     [
@@ -3350,11 +3662,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "aprons",
+      1
+    ],
+    [
       "aquarium-nitrogen-cycle-starter-posters",
       1
     ],
     [
       "arcs",
+      1
+    ],
+    [
+      "area",
+      1
+    ],
+    [
+      "areas",
       1
     ],
     [
@@ -3375,6 +3699,10 @@ window.IMAGE_KB = {
     ],
     [
       "arrow-callout",
+      1
+    ],
+    [
+      "art-school",
       1
     ],
     [
@@ -3410,7 +3738,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "backing",
+      1
+    ],
+    [
       "backs",
+      1
+    ],
+    [
+      "bad",
+      1
+    ],
+    [
+      "balanced",
       1
     ],
     [
@@ -3419,10 +3759,6 @@ window.IMAGE_KB = {
     ],
     [
       "barrel",
-      1
-    ],
-    [
-      "base",
       1
     ],
     [
@@ -3450,6 +3786,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "bed",
+      1
+    ],
+    [
+      "beginners",
+      1
+    ],
+    [
       "bell-tower",
       1
     ],
@@ -3471,6 +3815,10 @@ window.IMAGE_KB = {
     ],
     [
       "between",
+      1
+    ],
+    [
+      "bevel",
       1
     ],
     [
@@ -3499,6 +3847,10 @@ window.IMAGE_KB = {
     ],
     [
       "bolts",
+      1
+    ],
+    [
+      "both",
       1
     ],
     [
@@ -3566,6 +3918,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cad",
+      1
+    ],
+    [
       "cafe",
       1
     ],
@@ -3575,10 +3931,6 @@ window.IMAGE_KB = {
     ],
     [
       "cakes",
-      1
-    ],
-    [
-      "callout",
       1
     ],
     [
@@ -3603,6 +3955,10 @@ window.IMAGE_KB = {
     ],
     [
       "carts",
+      1
+    ],
+    [
+      "carve",
       1
     ],
     [
@@ -3635,6 +3991,10 @@ window.IMAGE_KB = {
     ],
     [
       "changes",
+      1
+    ],
+    [
+      "charcoal-black",
       1
     ],
     [
@@ -3718,6 +4078,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "clusters",
+      1
+    ],
+    [
       "cluttered",
       1
     ],
@@ -3762,7 +4126,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "compare",
+      "community",
       1
     ],
     [
@@ -3790,10 +4154,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "concrete",
-      1
-    ],
-    [
       "confidence",
       1
     ],
@@ -3814,15 +4174,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "consistency",
-      1
-    ],
-    [
       "consistent",
       1
     ],
     [
       "contact",
+      1
+    ],
+    [
+      "contact-sheet",
       1
     ],
     [
@@ -3847,6 +4207,10 @@ window.IMAGE_KB = {
     ],
     [
       "coral",
+      1
+    ],
+    [
+      "core",
       1
     ],
     [
@@ -3954,7 +4318,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "cut",
+      "cuts",
       1
     ],
     [
@@ -3982,6 +4346,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "decorative",
+      1
+    ],
+    [
       "decorators",
       1
     ],
@@ -4006,7 +4374,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "depth",
+      "deployment",
       1
     ],
     [
@@ -4078,6 +4446,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dried",
+      1
+    ],
+    [
       "drifting",
       1
     ],
@@ -4098,7 +4470,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "drying",
+      1
+    ],
+    [
       "duration",
+      1
+    ],
+    [
+      "dusty",
+      1
+    ],
+    [
+      "earlier",
       1
     ],
     [
@@ -4107,10 +4491,6 @@ window.IMAGE_KB = {
     ],
     [
       "economic",
-      1
-    ],
-    [
-      "edges",
       1
     ],
     [
@@ -4127,6 +4507,10 @@ window.IMAGE_KB = {
     ],
     [
       "elevation",
+      1
+    ],
+    [
+      "embossing",
       1
     ],
     [
@@ -4178,6 +4562,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "explainer",
+      1
+    ],
+    [
+      "explains",
+      1
+    ],
+    [
       "expression",
       1
     ],
@@ -4214,6 +4606,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "faint",
+      1
+    ],
+    [
       "fantasy",
       1
     ],
@@ -4242,10 +4638,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "fibers",
-      1
-    ],
-    [
       "figure",
       1
     ],
@@ -4262,6 +4654,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "fills",
+      1
+    ],
+    [
       "finance",
       1
     ],
@@ -4274,10 +4670,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "first",
-      1
-    ],
-    [
       "fish-behavior",
       1
     ],
@@ -4286,7 +4678,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "five-stage",
+      1
+    ],
+    [
       "flashpoint",
+      1
+    ],
+    [
+      "flatlay",
       1
     ],
     [
@@ -4358,10 +4758,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "full",
-      1
-    ],
-    [
       "gap",
       1
     ],
@@ -4422,6 +4818,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "gouges",
+      1
+    ],
+    [
       "graphic",
       1
     ],
@@ -4434,11 +4834,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "half-body",
+      "grouped",
       1
     ],
     [
-      "hand",
+      "guides",
+      1
+    ],
+    [
+      "half-body",
       1
     ],
     [
@@ -4467,6 +4871,18 @@ window.IMAGE_KB = {
     ],
     [
       "hanger",
+      1
+    ],
+    [
+      "hard",
+      1
+    ],
+    [
+      "hardness",
+      1
+    ],
+    [
+      "hatch",
       1
     ],
     [
@@ -4502,11 +4918,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "historical",
+      "hinge",
       1
     ],
     [
-      "hook",
+      "hinges",
+      1
+    ],
+    [
+      "historical",
       1
     ],
     [
@@ -4546,6 +4966,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "impression",
+      1
+    ],
+    [
+      "impressions",
+      1
+    ],
+    [
       "in-scene",
       1
     ],
@@ -4563,6 +4991,10 @@ window.IMAGE_KB = {
     ],
     [
       "initial",
+      1
+    ],
+    [
+      "ink-stained",
       1
     ],
     [
@@ -4598,6 +5030,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "jig",
+      1
+    ],
+    [
       "jockey",
       1
     ],
@@ -4610,15 +5046,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "knife",
+      1
+    ],
+    [
       "knot-tying",
       1
     ],
     [
       "knotless",
-      1
-    ],
-    [
-      "labeled",
       1
     ],
     [
@@ -4658,10 +5094,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "layers",
-      1
-    ],
-    [
       "leaping",
       1
     ],
@@ -4694,6 +5126,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "less-common",
+      1
+    ],
+    [
       "lets",
       1
     ],
@@ -4703,6 +5139,14 @@ window.IMAGE_KB = {
     ],
     [
       "lever",
+      1
+    ],
+    [
+      "lifted",
+      1
+    ],
+    [
+      "lifting",
       1
     ],
     [
@@ -4719,10 +5163,6 @@ window.IMAGE_KB = {
     ],
     [
       "limited",
-      1
-    ],
-    [
-      "line",
       1
     ],
     [
@@ -4786,6 +5226,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "machine",
+      1
+    ],
+    [
       "macro",
       1
     ],
@@ -4810,7 +5254,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "margin",
+      "mark",
       1
     ],
     [
@@ -4862,11 +5306,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "mistake",
+      "misregistered",
       1
     ],
     [
-      "mistakes",
+      "mistake",
       1
     ],
     [
@@ -4922,10 +5366,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "nearby",
-      1
-    ],
-    [
       "neatly",
       1
     ],
@@ -4970,6 +5410,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "ochre",
+      1
+    ],
+    [
       "off-ramp",
       1
     ],
@@ -4995,6 +5439,10 @@ window.IMAGE_KB = {
     ],
     [
       "over-pulled",
+      1
+    ],
+    [
+      "over-rolled",
       1
     ],
     [
@@ -5030,15 +5478,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "palette",
-      1
-    ],
-    [
       "pan",
       1
     ],
     [
       "panic",
+      1
+    ],
+    [
+      "paper-drop",
       1
     ],
     [
@@ -5086,10 +5534,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "per",
-      1
-    ],
-    [
       "perspective",
       1
     ],
@@ -5118,6 +5562,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "pica",
+      1
+    ],
+    [
       "pickup",
       1
     ],
@@ -5127,6 +5575,10 @@ window.IMAGE_KB = {
     ],
     [
       "pinch",
+      1
+    ],
+    [
+      "pins",
       1
     ],
     [
@@ -5142,7 +5594,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "plywood",
+      "pits",
       1
     ],
     [
@@ -5198,11 +5650,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "prop",
+      "prints",
       1
     ],
     [
-      "props",
+      "proofs",
+      1
+    ],
+    [
+      "prop",
       1
     ],
     [
@@ -5214,11 +5670,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "pull",
-      1
-    ],
-    [
-      "pulling",
+      "pulls",
       1
     ],
     [
@@ -5230,10 +5682,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "query",
-      1
-    ],
-    [
       "quick",
       1
     ],
@@ -5242,15 +5690,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "rag",
-      1
-    ],
-    [
       "ragged",
-      1
-    ],
-    [
-      "rail",
       1
     ],
     [
@@ -5274,10 +5714,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "readable",
-      1
-    ],
-    [
       "reading",
       1
     ],
@@ -5290,6 +5726,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "receiving",
+      1
+    ],
+    [
+      "recesses",
+      1
+    ],
+    [
       "recognizable",
       1
     ],
@@ -5299,6 +5743,10 @@ window.IMAGE_KB = {
     ],
     [
       "redness",
+      1
+    ],
+    [
+      "reduction",
       1
     ],
     [
@@ -5386,7 +5834,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "rolls",
+      "rollers",
       1
     ],
     [
@@ -5470,6 +5918,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "scoop",
+      1
+    ],
+    [
       "screenshot",
       1
     ],
@@ -5498,7 +5950,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "second",
+      "secondary",
+      1
+    ],
+    [
+      "section-format",
+      1
+    ],
+    [
+      "sectioned",
       1
     ],
     [
@@ -5526,6 +5986,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "sharp",
+      1
+    ],
+    [
       "shelter",
       1
     ],
@@ -5547,6 +6011,14 @@ window.IMAGE_KB = {
     ],
     [
       "shirtsleeves",
+      1
+    ],
+    [
+      "side-by-side",
+      1
+    ],
+    [
+      "side-section",
       1
     ],
     [
@@ -5582,10 +6054,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "sink",
-      1
-    ],
-    [
       "siphon",
       1
     ],
@@ -5599,6 +6067,10 @@ window.IMAGE_KB = {
     ],
     [
       "slate",
+      1
+    ],
+    [
+      "slightly",
       1
     ],
     [
@@ -5650,10 +6122,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "specimen",
-      1
-    ],
-    [
       "spike",
       1
     ],
@@ -5678,6 +6146,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "stage",
+      1
+    ],
+    [
+      "stains",
+      1
+    ],
+    [
       "stalled",
       1
     ],
@@ -5694,6 +6170,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "states",
+      1
+    ],
+    [
       "stay",
       1
     ],
@@ -5702,11 +6182,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "steps",
+      1
+    ],
+    [
       "stiff",
       1
     ],
     [
       "stiffness",
+      1
+    ],
+    [
+      "stipple",
       1
     ],
     [
@@ -5730,15 +6218,15 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "straight-on",
-      1
-    ],
-    [
       "strait",
       1
     ],
     [
       "strap",
+      1
+    ],
+    [
+      "streaky",
       1
     ],
     [
@@ -5750,19 +6238,11 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "strings",
-      1
-    ],
-    [
       "strips",
       1
     ],
     [
       "student",
-      1
-    ],
-    [
-      "studio",
       1
     ],
     [
@@ -5790,14 +6270,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "surface",
-      1
-    ],
-    [
-      "surrounding",
-      1
-    ],
-    [
       "sweater",
       1
     ],
@@ -5819,6 +6291,14 @@ window.IMAGE_KB = {
     ],
     [
       "systemic",
+      1
+    ],
+    [
+      "tack",
+      1
+    ],
+    [
+      "tacky",
       1
     ],
     [
@@ -6002,6 +6482,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "under-rolled",
+      1
+    ],
+    [
       "undersea",
       1
     ],
@@ -6014,6 +6498,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "vector",
+      1
+    ],
+    [
+      "versus",
+      1
+    ],
+    [
       "viewfinder",
       1
     ],
@@ -6022,7 +6514,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "visible",
+      "vocabulary",
       1
     ],
     [
@@ -6082,11 +6574,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "worktable",
+      1
+    ],
+    [
       "world",
       1
     ],
     [
       "worn",
+      1
+    ],
+    [
+      "woven",
       1
     ],
     [
@@ -6101,7 +6601,7 @@ window.IMAGE_KB = {
   "hooks": [
     [
       "cream paper",
-      10
+      15
     ],
     [
       "buttercream white",
@@ -6129,6 +6629,10 @@ window.IMAGE_KB = {
     ],
     [
       "charcoal black",
+      5
+    ],
+    [
+      "no surrounding room",
       5
     ],
     [
@@ -6193,6 +6697,18 @@ window.IMAGE_KB = {
     ],
     [
       "grease-pencil arrows",
+      3
+    ],
+    [
+      "gum-black ink",
+      3
+    ],
+    [
+      "no people",
+      3
+    ],
+    [
+      "oxidized steel",
       3
     ],
     [
@@ -6352,6 +6868,14 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "cream rag paper",
+      2
+    ],
+    [
+      "cream stock",
+      2
+    ],
+    [
       "crumpled paper",
       2
     ],
@@ -6393,6 +6917,10 @@ window.IMAGE_KB = {
     ],
     [
       "faded saffron cloth",
+      2
+    ],
+    [
+      "felt blanket edge",
       2
     ],
     [
@@ -6508,6 +7036,10 @@ window.IMAGE_KB = {
       2
     ],
     [
+      "masking tape",
+      2
+    ],
+    [
       "mason jar glass",
       2
     ],
@@ -6600,10 +7132,6 @@ window.IMAGE_KB = {
       2
     ],
     [
-      "oxidized steel",
-      2
-    ],
-    [
       "painted clapboard",
       2
     ],
@@ -6677,6 +7205,10 @@ window.IMAGE_KB = {
     ],
     [
       "queen sighting card",
+      2
+    ],
+    [
+      "rag paper fibers",
       2
     ],
     [
@@ -6960,6 +7492,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "aprons on hooks",
+      1
+    ],
+    [
       "aqua glass",
       1
     ],
@@ -7000,7 +7536,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "bench hook",
+      1
+    ],
+    [
       "bio balls",
+      1
+    ],
+    [
+      "birch backing",
+      1
+    ],
+    [
+      "birch plywood base",
+      1
+    ],
+    [
+      "birch wood",
       1
     ],
     [
@@ -7096,6 +7648,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "brayers in a tray",
+      1
+    ],
+    [
       "Breaks one recurring action into readable anticipation",
       1
     ],
@@ -7177,6 +7733,18 @@ window.IMAGE_KB = {
     ],
     [
       "cardboard cake boxes",
+      1
+    ],
+    [
+      "carved line samples",
+      1
+    ],
+    [
+      "carved linoleum grooves",
+      1
+    ],
+    [
+      "carved recesses",
       1
     ],
     [
@@ -7276,6 +7844,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "charcoal-black impressions",
+      1
+    ],
+    [
       "cinderblock gray",
       1
     ],
@@ -7364,6 +7936,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "community printmaking classroom with drying rack lines",
+      1
+    ],
+    [
       "commuter hi-vis yellow accents",
       1
     ],
@@ -7412,6 +7988,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "corner tabs",
+      1
+    ],
+    [
       "cotton sweater",
       1
     ],
@@ -7428,15 +8008,15 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "cream plate background",
+      1
+    ],
+    [
       "cream presentation board",
       1
     ],
     [
       "cream printouts",
-      1
-    ],
-    [
-      "cream stock",
       1
     ],
     [
@@ -7449,6 +8029,10 @@ window.IMAGE_KB = {
     ],
     [
       "cream walls",
+      1
+    ],
+    [
+      "cream workshop poster pinned above a print bench",
       1
     ],
     [
@@ -7512,6 +8096,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "deep black final layer",
+      1
+    ],
+    [
+      "deep black ink",
+      1
+    ],
+    [
       "deep brown braids",
       1
     ],
@@ -7572,6 +8164,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "dried ink in grooves",
+      1
+    ],
+    [
       "drop flower",
       1
     ],
@@ -7604,7 +8200,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "edge mistakes",
+      1
+    ],
+    [
+      "edge pressure",
+      1
+    ],
+    [
+      "embossing depth",
+      1
+    ],
+    [
       "escalation tree",
+      1
+    ],
+    [
+      "Explains how paper",
       1
     ],
     [
@@ -7648,6 +8260,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "felt blanket",
+      1
+    ],
+    [
       "filled bags",
       1
     ],
@@ -7657,6 +8273,14 @@ window.IMAGE_KB = {
     ],
     [
       "filter sponge colony",
+      1
+    ],
+    [
+      "final carve",
+      1
+    ],
+    [
+      "final dark pull",
       1
     ],
     [
@@ -7736,6 +8360,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "fresh relief prints clipped to lines",
+      1
+    ],
+    [
       "frosting tubs",
       1
     ],
@@ -7753,6 +8381,10 @@ window.IMAGE_KB = {
     ],
     [
       "glass aquarium",
+      1
+    ],
+    [
+      "glass or acrylic ink slab",
       1
     ],
     [
@@ -7808,6 +8440,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "gum-black arrows",
+      1
+    ],
+    [
+      "gum-black ink slab",
+      1
+    ],
+    [
       "H and L limit screw positions",
       1
     ],
@@ -7816,11 +8456,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "hatch marks",
+      1
+    ],
+    [
+      "Helps beginners compare how soft",
+      1
+    ],
+    [
       "hi-vis yellow",
       1
     ],
     [
       "HIGH ANGLE",
+      1
+    ],
+    [
+      "hinge placement",
       1
     ],
     [
@@ -7848,6 +8500,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "impression depth",
+      1
+    ],
+    [
       "including classic swirl",
       1
     ],
@@ -7857,6 +8513,18 @@ window.IMAGE_KB = {
     ],
     [
       "initial assessment",
+      1
+    ],
+    [
+      "ink knife",
+      1
+    ],
+    [
+      "ink stains on table",
+      1
+    ],
+    [
+      "ink-stained handles",
       1
     ],
     [
@@ -7952,6 +8620,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "light ink",
+      1
+    ],
+    [
       "lightly bent rotor causing rub",
       1
     ],
@@ -7961,6 +8633,18 @@ window.IMAGE_KB = {
     ],
     [
       "limited military response",
+      1
+    ],
+    [
+      "linocut block",
+      1
+    ],
+    [
+      "linoleum block",
+      1
+    ],
+    [
+      "linoleum surface cuts",
       1
     ],
     [
@@ -7992,6 +8676,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "Maps the core beginner relief-print toolkit so teachers",
+      1
+    ],
+    [
       "maritime order doctrine",
       1
     ],
@@ -8000,7 +8688,7 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "masking tape",
+      "masking tape hinges",
       1
     ],
     [
@@ -8088,6 +8776,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "metal drying clips",
+      1
+    ],
+    [
       "metal tips",
       1
     ],
@@ -8125,6 +8817,10 @@ window.IMAGE_KB = {
     ],
     [
       "muted green sofa",
+      1
+    ],
+    [
+      "muted ochre and dusty ultramarine earlier layers",
       1
     ],
     [
@@ -8176,10 +8872,6 @@ window.IMAGE_KB = {
       1
     ],
     [
-      "no surrounding room",
-      1
-    ],
-    [
       "normal perspective",
       1
     ],
@@ -8216,6 +8908,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "oil-based relief ink",
+      1
+    ],
+    [
       "oily chain links",
       1
     ],
@@ -8236,11 +8932,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "one dark wet pull",
+      1
+    ],
+    [
+      "one hand lifting fresh paper",
+      1
+    ],
+    [
       "one hand-drawn timeline strip",
       1
     ],
     [
+      "one linocut block",
+      1
+    ],
+    [
       "one main rooftop elevation",
+      1
+    ],
+    [
+      "one pale ghost print",
       1
     ],
     [
@@ -8260,6 +8972,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "over-rolled states before pulling another bad proof",
+      1
+    ],
+    [
+      "over-rolled with brayer tracks",
+      1
+    ],
+    [
       "over-shoulder pursuit",
       1
     ],
@@ -8272,7 +8992,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "oxide-red comparison arrows",
+      1
+    ],
+    [
+      "oxide-red grease-pencil arrows",
+      1
+    ],
+    [
       "pad location",
+      1
+    ],
+    [
+      "painted steel press frame",
       1
     ],
     [
@@ -8304,11 +9036,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "paper path",
+      1
+    ],
+    [
       "paper printouts",
       1
     ],
     [
       "paper stock",
+      1
+    ],
+    [
+      "paper-drop order without a full press",
       1
     ],
     [
@@ -8480,7 +9220,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "proof frame",
+      1
+    ],
+    [
+      "proof wall",
+      1
+    ],
+    [
       "puncture check in a water basin",
+      1
+    ],
+    [
+      "rag paper embossing",
+      1
+    ],
+    [
+      "rag paper prints",
       1
     ],
     [
@@ -8497,6 +9253,10 @@ window.IMAGE_KB = {
     ],
     [
       "reagent dropper bottles",
+      1
+    ],
+    [
+      "registration pins",
       1
     ],
     [
@@ -8628,6 +9388,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "rubber brayer rollers",
+      1
+    ],
+    [
+      "rubber brayer sheen",
+      1
+    ],
+    [
       "rubber grips",
       1
     ],
@@ -8676,6 +9444,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "scarred bench wood",
+      1
+    ],
+    [
+      "scarred linoleum block",
+      1
+    ],
+    [
       "scraper set",
       1
     ],
@@ -8704,11 +9480,27 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "second carve",
+      1
+    ],
+    [
+      "second color",
+      1
+    ],
+    [
       "section geometry",
       1
     ],
     [
       "section plate",
+      1
+    ],
+    [
+      "sectioned press bed",
+      1
+    ],
+    [
+      "sharp bevel",
       1
     ],
     [
@@ -8748,6 +9540,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "sink edge",
+      1
+    ],
+    [
       "siphon hose",
       1
     ],
@@ -8768,11 +9564,19 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "slab texture",
+      1
+    ],
+    [
       "slate gray",
       1
     ],
     [
       "slight scalp visibility versus redness",
+      1
+    ],
+    [
+      "slightly misregistered paper edges",
       1
     ],
     [
@@ -8796,6 +9600,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "smooth paper stack",
+      1
+    ],
+    [
       "smooth sections",
       1
     ],
@@ -8813,6 +9621,10 @@ window.IMAGE_KB = {
     ],
     [
       "soft gouache paint",
+      1
+    ],
+    [
+      "solid black fills",
       1
     ],
     [
@@ -8864,6 +9676,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "stacked newsprint",
+      1
+    ],
+    [
       "stacked wooden finishes side by side",
       1
     ],
@@ -8884,6 +9700,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "steel gouge tips",
+      1
+    ],
+    [
       "steel hex keys",
       1
     ],
@@ -8892,11 +9712,23 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "steel-gray press parts",
+      1
+    ],
+    [
+      "steel-gray slab",
+      1
+    ],
+    [
       "stiff buttercream",
       1
     ],
     [
       "stiff buttercream hold different edge definition across rosette",
+      1
+    ],
+    [
+      "stipple pits",
       1
     ],
     [
@@ -8937,6 +9769,14 @@ window.IMAGE_KB = {
     ],
     [
       "synthetic pre-stretched fiber",
+      1
+    ],
+    [
+      "tack strings",
+      1
+    ],
+    [
+      "tacky oil-based ink",
       1
     ],
     [
@@ -9016,6 +9856,14 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "three relief-print brayers labeled soft",
+      1
+    ],
+    [
+      "three side-by-side ink states labeled under-rolled",
+      1
+    ],
+    [
       "three-quarter views with the same patched shoulder cape",
       1
     ],
@@ -9053,6 +9901,10 @@ window.IMAGE_KB = {
     ],
     [
       "torn date labels",
+      1
+    ],
+    [
+      "torn edge",
       1
     ],
     [
@@ -9104,11 +9956,43 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "U gouge scoop",
+      1
+    ],
+    [
+      "U gouges",
+      1
+    ],
+    [
+      "ultramarine corner tabs",
+      1
+    ],
+    [
+      "ultramarine labels",
+      1
+    ],
+    [
+      "ultramarine registration corner",
+      1
+    ],
+    [
+      "ultramarine registration marks",
+      1
+    ],
+    [
+      "ultramarine tabs",
+      1
+    ],
+    [
       "under-bench drawer storage for tips and couplers",
       1
     ],
     [
       "undersea cable routes",
+      1
+    ],
+    [
+      "V gouges",
       1
     ],
     [
@@ -9125,6 +10009,10 @@ window.IMAGE_KB = {
     ],
     [
       "wall display containing a shot size chart",
+      1
+    ],
+    [
+      "wall of sample pulls and process posters",
       1
     ],
     [
@@ -9184,6 +10072,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "wet ink sheen",
+      1
+    ],
+    [
       "wet pavement",
       1
     ],
@@ -9220,6 +10112,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "with a faint ghost print nearby",
+      1
+    ],
+    [
       "with a wine bottle",
       1
     ],
@@ -9229,6 +10125,10 @@ window.IMAGE_KB = {
     ],
     [
       "with clear visibility on the cage",
+      1
+    ],
+    [
+      "with side-by-side ink rolls",
       1
     ],
     [
@@ -9260,6 +10160,10 @@ window.IMAGE_KB = {
       1
     ],
     [
+      "woven bamboo baren texture",
+      1
+    ],
+    [
       "woven towel",
       1
     ]
@@ -9267,10 +10171,21 @@ window.IMAGE_KB = {
   "bands": [
     [
       "signature",
-      91
+      101
     ]
   ],
   "runs": [
+    {
+      "slug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "theme": "Relief Print Registration And Brayer Course Plates",
+      "imageCount": 10,
+      "status": "success",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "publicImageCount": 10,
+      "archivedImageCount": 0
+    },
     {
       "slug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
       "timestamp": "2026-05-22T02:20:09+08:00",
@@ -9373,6 +10288,1086 @@ window.IMAGE_KB = {
   ],
   "images": [
     {
+      "id": "20260525-0211-relief-print-registration-and-brayer-course-plates-01",
+      "runSlug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "runTheme": "Relief Print Registration And Brayer Course Plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "index": 1,
+      "title": "Brayer Hardness And Texture Comparison Chart",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "ink",
+        "brayer",
+        "soft",
+        "chart",
+        "paper",
+        "solid",
+        "hard",
+        "hardness",
+        "printmaking",
+        "rag",
+        "rough",
+        "brayers",
+        "comparison",
+        "labels",
+        "line",
+        "poster",
+        "print",
+        "relief",
+        "studio",
+        "texture",
+        "arrows",
+        "beginners",
+        "birch",
+        "black",
+        "callout",
+        "carved",
+        "compare",
+        "corner",
+        "coverage",
+        "direct",
+        "fibers",
+        "fills",
+        "grid",
+        "gum-black",
+        "handles",
+        "helps",
+        "how",
+        "infographic-diagram",
+        "labeled",
+        "lines",
+        "mood",
+        "oil-based",
+        "oxide-red",
+        "per",
+        "relief-print",
+        "rollers",
+        "rolls",
+        "room"
+      ],
+      "specificHooks": [
+        "three relief-print brayers labeled soft",
+        "with side-by-side ink rolls",
+        "carved line samples",
+        "solid black fills",
+        "no surrounding room",
+        "rubber brayer rollers",
+        "oil-based relief ink",
+        "rag paper fibers",
+        "cream rag paper",
+        "gum-black ink",
+        "ultramarine corner tabs",
+        "Helps beginners compare how soft"
+      ],
+      "scaleTags": [
+        "page",
+        "tabletop",
+        "print studio poster"
+      ],
+      "pngPath": "../images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/01-brayer-hardness-and-texture-comparison-chart.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/01-brayer-hardness-and-texture-comparison-chart.png",
+      "promptPath": "../prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/01-brayer-hardness-and-texture-comparison-chart.prompt.md",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/01-brayer-hardness-and-texture-comparison-chart.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-01/",
+      "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical printmaking chart answering the query \"brayer hardness chart\"\nScene/backdrop: cream rag-paper teaching poster pinned flat on a cork-backed print studio board, no surrounding room\nSubject: three relief-print brayers labeled soft, medium, and hard, with side-by-side ink rolls, carved line samples, solid black fills, and patchy rough proof swatches\nStyle/medium: realistic printmaking instruction poster with tactile studio photography blended with diagram clarity\nComposition/framing: tall centered comparison grid with one brayer row per hardness and one print-result column per texture outcome, sparse oxide-red callout arrows\nLighting/mood: neutral skylit workshop light with calm instructional mood\nColor palette: cream rag paper, gum-black ink, ultramarine corner tabs, oxide-red callout arrows, pale birch wood handles\nMaterials/textures: rubber brayer rollers, oil-based relief ink, rag paper fibers, birch handles, masking tape corners, dried ink smudges\nText (verbatim): \"Soft\" \"Medium\" \"Hard\" \"Lines\" \"Solid\" \"Rough\"\nConstraints: direct search-answer image for printmaking students, concise short labels only, no logos, no watermark, no long paragraphs\nAvoid: Etsy craft ad styling, glossy stationery mockup, unreadable body text, vector-clean fake textures, boho decor",
+      "learningValue": "Helps beginners compare how soft, medium, and hard brayers change line fidelity, solid coverage, and rough patch texture before they waste ink and paper.",
+      "compositionNotes": "The one-sheet grid, repeated brayer row logic, soft, medium, hard, lines, solid, and rough labels keep the search result instantly legible at thumbnail scale.",
+      "formatNotes": "Direct training chart for brayer hardness chart, printmaking roller comparison, and linocut ink coverage guide. Short labels are deliberate; the fuller classroom explanation lives here even if the image text varies slightly.",
+      "searchText": "brayer hardness and texture comparison chart infographic-diagram relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical printmaking chart answering the query \"brayer hardness chart\"\nscene/backdrop: cream rag-paper teaching poster pinned flat on a cork-backed print studio board, no surrounding room\nsubject: three relief-print brayers labeled soft, medium, and hard, with side-by-side ink rolls, carved line samples, solid black fills, and patchy rough proof swatches\nstyle/medium: realistic printmaking instruction poster with tactile studio photography blended with diagram clarity\ncomposition/framing: tall centered comparison grid with one brayer row per hardness and one print-result column per texture outcome, sparse oxide-red callout arrows\nlighting/mood: neutral skylit workshop light with calm instructional mood\ncolor palette: cream rag paper, gum-black ink, ultramarine corner tabs, oxide-red callout arrows, pale birch wood handles\nmaterials/textures: rubber brayer rollers, oil-based relief ink, rag paper fibers, birch handles, masking tape corners, dried ink smudges\ntext (verbatim): \"soft\" \"medium\" \"hard\" \"lines\" \"solid\" \"rough\"\nconstraints: direct search-answer image for printmaking students, concise short labels only, no logos, no watermark, no long paragraphs\navoid: etsy craft ad styling, glossy stationery mockup, unreadable body text, vector-clean fake textures, boho decor helps beginners compare how soft, medium, and hard brayers change line fidelity, solid coverage, and rough patch texture before they waste ink and paper. the one-sheet grid, repeated brayer row logic, soft, medium, hard, lines, solid, and rough labels keep the search result instantly legible at thumbnail scale. direct training chart for brayer hardness chart, printmaking roller comparison, and linocut ink coverage guide. short labels are deliberate; the fuller classroom explanation lives here even if the image text varies slightly. three relief-print brayers labeled soft with side-by-side ink rolls carved line samples solid black fills no surrounding room rubber brayer rollers oil-based relief ink rag paper fibers cream rag paper gum-black ink ultramarine corner tabs helps beginners compare how soft page tabletop print studio poster",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260525-0211-relief-print-registration-and-brayer-course-plates-02",
+      "runSlug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "runTheme": "Relief Print Registration And Brayer Course Plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "index": 2,
+      "title": "Linocut Registration Jig Labeled Guide",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "registration",
+        "drop",
+        "block",
+        "paper",
+        "print",
+        "setup",
+        "guide",
+        "jig",
+        "linocut",
+        "masking",
+        "tape",
+        "arrows",
+        "bench",
+        "corner",
+        "pins",
+        "relief",
+        "base",
+        "birch",
+        "hinges",
+        "linoleum",
+        "marks",
+        "order",
+        "proof",
+        "scarred",
+        "tabs",
+        "answer",
+        "area",
+        "centered",
+        "full",
+        "grease-pencil",
+        "hinge",
+        "labels",
+        "margin",
+        "overhead",
+        "oxide-red",
+        "paper-drop",
+        "path",
+        "placement",
+        "plywood",
+        "practical",
+        "press",
+        "query",
+        "readable",
+        "scientific-educational",
+        "short",
+        "ultramarine",
+        "alignment",
+        "answering"
+      ],
+      "specificHooks": [
+        "one linocut block",
+        "corner tabs",
+        "masking tape hinges",
+        "registration pins",
+        "scarred linoleum block",
+        "birch plywood base",
+        "masking tape",
+        "cream paper",
+        "ultramarine registration marks",
+        "oxide-red grease-pencil arrows",
+        "hinge placement",
+        "paper-drop order without a full press"
+      ],
+      "scaleTags": [
+        "page",
+        "tabletop",
+        "registration setup"
+      ],
+      "pngPath": "../images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/02-linocut-registration-jig-labeled-guide.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/02-linocut-registration-jig-labeled-guide.png",
+      "promptPath": "../prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/02-linocut-registration-jig-labeled-guide.prompt.md",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/02-linocut-registration-jig-labeled-guide.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-02/",
+      "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical relief-print setup guide answering the query \"relief print registration jig\"\nScene/backdrop: top-down cream paper guide showing one simple registration setup on a scarred printmaking bench\nSubject: one linocut block, corner tabs, masking tape hinges, registration pins, print margin, paper drop area, first drop and second drop arrows, and proof sheet\nStyle/medium: tactile instructional plate that feels like a photographed art-school handout\nComposition/framing: vertical overhead diagram with the block centered, blue dashed alignment marks, and red path arrows explaining paper drop order\nLighting/mood: cool skylight mixed with soft bench shadows, practical and precise\nColor palette: cream paper, ultramarine registration marks, oxide-red grease-pencil arrows, gray linoleum, pale birch wood, gum-black notes\nMaterials/textures: scarred linoleum block, birch plywood base, masking tape, metal registration pins, smooth print paper, ink residue on bench\nText (verbatim): \"Corner Tabs\" \"Masking Tape Hinges\" \"Print Margin\" \"Linocut Block\" \"Registration Pins\" \"Paper Drop Area\" \"Proof Sheet\" \"1st Drop\" \"2nd Drop\"\nConstraints: answer the query relief print registration jig, keep labels short and readable, no long captions, no logos, no watermark\nAvoid: digital vector diagram, glossy product shot, decorative hand lettering, overpacked text, luxury stationery",
+      "learningValue": "Shows a repeatable beginner-safe registration jig so students can understand corner stops, hinge placement, and paper-drop order without a full press.",
+      "compositionNotes": "The centered block, pinned proof sheet, blue registration box, and 1st drop to 2nd drop arrow path make the setup readable as both a bench diagram and a search answer.",
+      "formatNotes": "Overhead setup guide for linocut registration guide, block printing paper drop, and relief print registration jig. The image keeps labels short; the canonical setup vocabulary is preserved here for retrieval.",
+      "searchText": "linocut registration jig labeled guide scientific-educational relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical relief-print setup guide answering the query \"relief print registration jig\"\nscene/backdrop: top-down cream paper guide showing one simple registration setup on a scarred printmaking bench\nsubject: one linocut block, corner tabs, masking tape hinges, registration pins, print margin, paper drop area, first drop and second drop arrows, and proof sheet\nstyle/medium: tactile instructional plate that feels like a photographed art-school handout\ncomposition/framing: vertical overhead diagram with the block centered, blue dashed alignment marks, and red path arrows explaining paper drop order\nlighting/mood: cool skylight mixed with soft bench shadows, practical and precise\ncolor palette: cream paper, ultramarine registration marks, oxide-red grease-pencil arrows, gray linoleum, pale birch wood, gum-black notes\nmaterials/textures: scarred linoleum block, birch plywood base, masking tape, metal registration pins, smooth print paper, ink residue on bench\ntext (verbatim): \"corner tabs\" \"masking tape hinges\" \"print margin\" \"linocut block\" \"registration pins\" \"paper drop area\" \"proof sheet\" \"1st drop\" \"2nd drop\"\nconstraints: answer the query relief print registration jig, keep labels short and readable, no long captions, no logos, no watermark\navoid: digital vector diagram, glossy product shot, decorative hand lettering, overpacked text, luxury stationery shows a repeatable beginner-safe registration jig so students can understand corner stops, hinge placement, and paper-drop order without a full press. the centered block, pinned proof sheet, blue registration box, and 1st drop to 2nd drop arrow path make the setup readable as both a bench diagram and a search answer. overhead setup guide for linocut registration guide, block printing paper drop, and relief print registration jig. the image keeps labels short; the canonical setup vocabulary is preserved here for retrieval. one linocut block corner tabs masking tape hinges registration pins scarred linoleum block birch plywood base masking tape cream paper ultramarine registration marks oxide-red grease-pencil arrows hinge placement paper-drop order without a full press page tabletop registration setup",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 98,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 4
+        }
+      }
+    },
+    {
+      "id": "20260525-0211-relief-print-registration-and-brayer-course-plates-03",
+      "runSlug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "runTheme": "Relief Print Registration And Brayer Course Plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "index": 3,
+      "title": "Carving Mark Vocabulary Reference Plate",
+      "taxonomy": "atlas-contact-sheet",
+      "topics": [
+        "gouge",
+        "plate",
+        "reference",
+        "carving",
+        "edge",
+        "marks",
+        "vocabulary",
+        "carved",
+        "print",
+        "proof",
+        "relief",
+        "sample",
+        "torn",
+        "birch",
+        "hatch",
+        "impressions",
+        "linoleum",
+        "stipple",
+        "strip",
+        "tabs",
+        "atlas-contact-sheet",
+        "backing",
+        "blocks",
+        "bottom",
+        "charcoal-black",
+        "concrete",
+        "cut",
+        "cuts",
+        "dried",
+        "field",
+        "ghost",
+        "grid",
+        "grooves",
+        "ink",
+        "linocut",
+        "mistakes",
+        "pits",
+        "printmaking",
+        "room",
+        "scoop",
+        "specimen",
+        "stock",
+        "straight-on",
+        "surface",
+        "surrounding",
+        "texture",
+        "textures",
+        "ultramarine"
+      ],
+      "specificHooks": [
+        "U gouge scoop",
+        "hatch marks",
+        "stipple pits",
+        "torn edge",
+        "no surrounding room",
+        "linoleum surface cuts",
+        "birch backing",
+        "dried ink in grooves",
+        "cream stock",
+        "charcoal-black impressions",
+        "ultramarine tabs",
+        "edge mistakes"
+      ],
+      "scaleTags": [
+        "page",
+        "object",
+        "specimen plate"
+      ],
+      "pngPath": "../images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/03-carving-mark-vocabulary-reference-plate.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/03-carving-mark-vocabulary-reference-plate.png",
+      "promptPath": "../prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/03-carving-mark-vocabulary-reference-plate.prompt.md",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/03-carving-mark-vocabulary-reference-plate.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-03/",
+      "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
+      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: tactile printmaking vocabulary plate answering the query \"linocut carving marks reference\"\nScene/backdrop: cream teaching plate photographed straight-on above a print studio bench, no surrounding room\nSubject: carved relief sample blocks showing V gouge line, U gouge scoop, hatch marks, stipple pits, torn edge, clean field, and ghost cut, plus a narrow strip of matching proof impressions\nStyle/medium: specimen-style printmaking reference plate with tactile closeup detail\nComposition/framing: vertical grid of carved sample rectangles with one blue label tab per sample and a torn proof strip along the bottom\nLighting/mood: soft raking light revealing carved depth and burr texture\nColor palette: cream stock, charcoal-black impressions, ultramarine tabs, oxide-red pencil ticks, gray linoleum, pale birch edges\nMaterials/textures: linoleum surface cuts, birch backing, dried ink in grooves, rag-paper proof strips, tiny masking tabs\nText (verbatim): \"V Gouge\" \"U Gouge\" \"Hatch Marks\" \"Stipple\" \"Torn Edge\" \"Clean Field\" \"Ghost Cut\"\nConstraints: concrete carving vocabulary for beginner printmakers, no long text, no logos, no watermark, keep every sample visibly different\nAvoid: craft scrapbook layout, polished vector iconography, luxury art print shop branding, unreadable notes",
+      "learningValue": "Gives students and curriculum authors a concrete visual vocabulary for common carved textures, edge mistakes, and clean relief areas they see while cutting blocks.",
+      "compositionNotes": "The straight-on specimen grid, repeated label-tab system, and bottom proof strip let the image work as both a tactile atlas and a quick search reference for carving outcomes.",
+      "formatNotes": "Reference plate for linocut carving marks reference, V gouge vs U gouge, and relief print texture vocabulary. The short labels are intentional; this prompt card stores the stable wording for indexing.",
+      "searchText": "carving mark vocabulary reference plate atlas-contact-sheet relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: tactile printmaking vocabulary plate answering the query \"linocut carving marks reference\"\nscene/backdrop: cream teaching plate photographed straight-on above a print studio bench, no surrounding room\nsubject: carved relief sample blocks showing v gouge line, u gouge scoop, hatch marks, stipple pits, torn edge, clean field, and ghost cut, plus a narrow strip of matching proof impressions\nstyle/medium: specimen-style printmaking reference plate with tactile closeup detail\ncomposition/framing: vertical grid of carved sample rectangles with one blue label tab per sample and a torn proof strip along the bottom\nlighting/mood: soft raking light revealing carved depth and burr texture\ncolor palette: cream stock, charcoal-black impressions, ultramarine tabs, oxide-red pencil ticks, gray linoleum, pale birch edges\nmaterials/textures: linoleum surface cuts, birch backing, dried ink in grooves, rag-paper proof strips, tiny masking tabs\ntext (verbatim): \"v gouge\" \"u gouge\" \"hatch marks\" \"stipple\" \"torn edge\" \"clean field\" \"ghost cut\"\nconstraints: concrete carving vocabulary for beginner printmakers, no long text, no logos, no watermark, keep every sample visibly different\navoid: craft scrapbook layout, polished vector iconography, luxury art print shop branding, unreadable notes gives students and curriculum authors a concrete visual vocabulary for common carved textures, edge mistakes, and clean relief areas they see while cutting blocks. the straight-on specimen grid, repeated label-tab system, and bottom proof strip let the image work as both a tactile atlas and a quick search reference for carving outcomes. reference plate for linocut carving marks reference, v gouge vs u gouge, and relief print texture vocabulary. the short labels are intentional; this prompt card stores the stable wording for indexing. u gouge scoop hatch marks stipple pits torn edge no surrounding room linoleum surface cuts birch backing dried ink in grooves cream stock charcoal-black impressions ultramarine tabs edge mistakes page object specimen plate",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260525-0211-relief-print-registration-and-brayer-course-plates-04",
+      "runSlug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "runTheme": "Relief Print Registration And Brayer Course Plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "index": 4,
+      "title": "Relief Ink Viscosity And Slab Roll Chart",
+      "taxonomy": "scientific-educational",
+      "topics": [
+        "ink",
+        "slab",
+        "brayer",
+        "chart",
+        "over-rolled",
+        "proof",
+        "studio",
+        "tack",
+        "guide",
+        "states",
+        "texture",
+        "under-rolled",
+        "balanced",
+        "bench",
+        "block",
+        "closeups",
+        "consistency",
+        "paper",
+        "printing",
+        "process",
+        "relief",
+        "strings",
+        "three",
+        "acrylic",
+        "another",
+        "bad",
+        "before",
+        "glass",
+        "gum-black",
+        "how",
+        "labeled",
+        "lines",
+        "oil-based",
+        "palette",
+        "print",
+        "pulling",
+        "room",
+        "rubber",
+        "scientific-educational",
+        "sheen",
+        "short",
+        "side-by-side",
+        "smooth",
+        "steel-gray",
+        "sticky",
+        "streaky",
+        "surrounding",
+        "tacky"
+      ],
+      "specificHooks": [
+        "three side-by-side ink states labeled under-rolled",
+        "over-rolled with brayer tracks",
+        "tack strings",
+        "slab texture",
+        "no surrounding room",
+        "glass or acrylic ink slab",
+        "tacky oil-based ink",
+        "rubber brayer sheen",
+        "cream paper",
+        "gum-black ink",
+        "steel-gray slab",
+        "over-rolled states before pulling another bad proof"
+      ],
+      "scaleTags": [
+        "page",
+        "tabletop",
+        "ink slab guide"
+      ],
+      "pngPath": "../images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/04-relief-ink-viscosity-and-slab-roll-chart.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/04-relief-ink-viscosity-and-slab-roll-chart.png",
+      "promptPath": "../prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/04-relief-ink-viscosity-and-slab-roll-chart.prompt.md",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/04-relief-ink-viscosity-and-slab-roll-chart.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-04/",
+      "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
+      "finalPrompt": "Use case: scientific-educational\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: process chart answering the query \"block printing ink consistency guide\"\nScene/backdrop: printmaking ink slab teaching chart staged on a stained studio bench, no surrounding room\nSubject: three side-by-side ink states labeled under-rolled, balanced, and over-rolled with brayer tracks, tack strings, slab texture, and matching proof swatches\nStyle/medium: realistic studio process chart with clear tactile closeups\nComposition/framing: vertical poster with large central slab closeups, narrow proof strips below, and concise callout lines about tack and texture\nLighting/mood: neutral overhead studio light with slight gloss on wet ink\nColor palette: cream paper, gum-black ink, steel-gray slab, oxide-red arrows, ultramarine tabs, warm birch bench accents\nMaterials/textures: glass or acrylic ink slab, tacky oil-based ink, rubber brayer sheen, rag proof paper, ink knife smears, bench scratches\nText (verbatim): \"UNDER-ROLLED\" \"BALANCED\" \"OVER-ROLLED\" \"Sticky & Uneven\" \"Smooth & Velvety\" \"Slippery & Flat\" \"Excess Tack Strings\" \"Even Tack Lines\" \"Thin, Streaky Texture\"\nConstraints: direct search-answer image for block printing ink consistency guide, short labels only, no long paragraphs, no logos, no watermark\nAvoid: clean white product studio, cosmetic palette aesthetic, decorative typography, unreadable notes, fake plastic ink",
+      "learningValue": "Teaches how ink body changes roller feel and print outcome so beginners can diagnose under-rolled, balanced, and over-rolled states before pulling another bad proof.",
+      "compositionNotes": "The three slab closeups, printed swatch row, and paired descriptors such as sticky, smooth, and streaky keep the image useful in both search and studio troubleshooting.",
+      "formatNotes": "Process chart for relief ink viscosity chart, block printing ink consistency guide, and how much ink on a brayer. Short text is deliberate; the complete classroom phrasing is preserved here.",
+      "searchText": "relief ink viscosity and slab roll chart scientific-educational relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: scientific-educational\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: process chart answering the query \"block printing ink consistency guide\"\nscene/backdrop: printmaking ink slab teaching chart staged on a stained studio bench, no surrounding room\nsubject: three side-by-side ink states labeled under-rolled, balanced, and over-rolled with brayer tracks, tack strings, slab texture, and matching proof swatches\nstyle/medium: realistic studio process chart with clear tactile closeups\ncomposition/framing: vertical poster with large central slab closeups, narrow proof strips below, and concise callout lines about tack and texture\nlighting/mood: neutral overhead studio light with slight gloss on wet ink\ncolor palette: cream paper, gum-black ink, steel-gray slab, oxide-red arrows, ultramarine tabs, warm birch bench accents\nmaterials/textures: glass or acrylic ink slab, tacky oil-based ink, rubber brayer sheen, rag proof paper, ink knife smears, bench scratches\ntext (verbatim): \"under-rolled\" \"balanced\" \"over-rolled\" \"sticky & uneven\" \"smooth & velvety\" \"slippery & flat\" \"excess tack strings\" \"even tack lines\" \"thin, streaky texture\"\nconstraints: direct search-answer image for block printing ink consistency guide, short labels only, no long paragraphs, no logos, no watermark\navoid: clean white product studio, cosmetic palette aesthetic, decorative typography, unreadable notes, fake plastic ink teaches how ink body changes roller feel and print outcome so beginners can diagnose under-rolled, balanced, and over-rolled states before pulling another bad proof. the three slab closeups, printed swatch row, and paired descriptors such as sticky, smooth, and streaky keep the image useful in both search and studio troubleshooting. process chart for relief ink viscosity chart, block printing ink consistency guide, and how much ink on a brayer. short text is deliberate; the complete classroom phrasing is preserved here. three side-by-side ink states labeled under-rolled over-rolled with brayer tracks tack strings slab texture no surrounding room glass or acrylic ink slab tacky oil-based ink rubber brayer sheen cream paper gum-black ink steel-gray slab over-rolled states before pulling another bad proof page tabletop ink slab guide",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 98,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 4
+        }
+      }
+    },
+    {
+      "id": "20260525-0211-relief-print-registration-and-brayer-course-plates-05",
+      "runSlug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "runTheme": "Relief Print Registration And Brayer Course Plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "index": 5,
+      "title": "Reduction Print Step Sequence Poster",
+      "taxonomy": "infographic-diagram",
+      "topics": [
+        "poster",
+        "print",
+        "carve",
+        "color",
+        "reduction",
+        "block",
+        "second",
+        "linocut",
+        "stage",
+        "paper",
+        "process",
+        "sequence",
+        "bench",
+        "carved",
+        "dark",
+        "pull",
+        "query",
+        "steps",
+        "above",
+        "answer",
+        "black",
+        "deep",
+        "dusty",
+        "each",
+        "earlier",
+        "edges",
+        "first",
+        "five-stage",
+        "infographic",
+        "infographic-diagram",
+        "layer",
+        "layers",
+        "misregistered",
+        "muted",
+        "ochre",
+        "people",
+        "pinned",
+        "recesses",
+        "side",
+        "slightly",
+        "ultramarine",
+        "vector",
+        "workshop",
+        "answering",
+        "areas",
+        "arrows",
+        "art-school",
+        "backdrop"
+      ],
+      "specificHooks": [
+        "second carve",
+        "second color",
+        "final carve",
+        "final dark pull",
+        "cream workshop poster pinned above a print bench",
+        "no people",
+        "linocut block",
+        "carved recesses",
+        "slightly misregistered paper edges",
+        "cream paper",
+        "deep black final layer",
+        "muted ochre and dusty ultramarine earlier layers"
+      ],
+      "scaleTags": [
+        "page",
+        "tabletop",
+        "process poster"
+      ],
+      "pngPath": "../images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/05-reduction-print-step-sequence-poster.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/05-reduction-print-step-sequence-poster.png",
+      "promptPath": "../prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/05-reduction-print-step-sequence-poster.prompt.md",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/05-reduction-print-step-sequence-poster.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-05/",
+      "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
+      "finalPrompt": "Use case: infographic-diagram\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical printmaking sequence answering the query \"reduction print steps poster\"\nScene/backdrop: cream workshop poster pinned above a print bench, no people\nSubject: one reduction linocut image evolving through carve and first color, second carve, second color, final carve, and final dark pull, with each stage showing the block and print result side by side\nStyle/medium: art-school process poster with real print evidence, not vector infographic\nComposition/framing: tall five-stage vertical sequence from top to bottom with one carved block on the left and one proof on the right per stage\nLighting/mood: soft classroom daylight, clear and methodical\nColor palette: cream paper, deep black final layer, muted ochre and dusty ultramarine earlier layers, oxide-red arrows, gray block surface\nMaterials/textures: linocut block, carved recesses, slightly misregistered paper edges, drying tape tabs, ink-stained bench backing\nText (verbatim): \"Carve & First Color\" \"Second Carve\" \"Second Color\" \"Final Carve\" \"Final Dark Pull\"\nConstraints: answer the query reduction print steps poster, concise stage labels only, no logos, no watermark, no dense paragraph text\nAvoid: flat vector infographic, children’s craft worksheet, scrapbook collage, neon poster design, unreadable captions",
+      "learningValue": "Shows the carve-print-carve rhythm of reduction linocut so students can understand shrinking printable areas and why each stage cannot be undone.",
+      "compositionNotes": "The left-right block-to-proof pairing and descending five-stage ladder let the poster answer a process query without depending on dense copy.",
+      "formatNotes": "Sequence poster for reduction print steps, reduction linocut process, and multi color block print guide. The short stage titles are intentional and supported by the canonical explanation here.",
+      "searchText": "reduction print step sequence poster infographic-diagram relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: infographic-diagram\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical printmaking sequence answering the query \"reduction print steps poster\"\nscene/backdrop: cream workshop poster pinned above a print bench, no people\nsubject: one reduction linocut image evolving through carve and first color, second carve, second color, final carve, and final dark pull, with each stage showing the block and print result side by side\nstyle/medium: art-school process poster with real print evidence, not vector infographic\ncomposition/framing: tall five-stage vertical sequence from top to bottom with one carved block on the left and one proof on the right per stage\nlighting/mood: soft classroom daylight, clear and methodical\ncolor palette: cream paper, deep black final layer, muted ochre and dusty ultramarine earlier layers, oxide-red arrows, gray block surface\nmaterials/textures: linocut block, carved recesses, slightly misregistered paper edges, drying tape tabs, ink-stained bench backing\ntext (verbatim): \"carve & first color\" \"second carve\" \"second color\" \"final carve\" \"final dark pull\"\nconstraints: answer the query reduction print steps poster, concise stage labels only, no logos, no watermark, no dense paragraph text\navoid: flat vector infographic, children’s craft worksheet, scrapbook collage, neon poster design, unreadable captions shows the carve-print-carve rhythm of reduction linocut so students can understand shrinking printable areas and why each stage cannot be undone. the left-right block-to-proof pairing and descending five-stage ladder let the poster answer a process query without depending on dense copy. sequence poster for reduction print steps, reduction linocut process, and multi color block print guide. the short stage titles are intentional and supported by the canonical explanation here. second carve second color final carve final dark pull cream workshop poster pinned above a print bench no people linocut block carved recesses slightly misregistered paper edges cream paper deep black final layer muted ochre and dusty ultramarine earlier layers page tabletop process poster",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260525-0211-relief-print-registration-and-brayer-course-plates-06",
+      "runSlug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "runTheme": "Relief Print Registration And Brayer Course Plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "index": 6,
+      "title": "Baren Versus Press Pressure Comparison Board",
+      "taxonomy": "mixed-format",
+      "topics": [
+        "baren",
+        "press",
+        "comparison",
+        "depth",
+        "relief",
+        "edge",
+        "ink",
+        "pressure",
+        "embossing",
+        "paper",
+        "texture",
+        "impression",
+        "labels",
+        "print",
+        "proof",
+        "tool",
+        "bevel",
+        "practical",
+        "printing",
+        "roller",
+        "sharp",
+        "arrows",
+        "bamboo",
+        "blanket",
+        "closeups",
+        "direct",
+        "felt",
+        "gum-black",
+        "hand",
+        "mixed-format",
+        "oxide-red",
+        "people",
+        "photo",
+        "rag",
+        "studio",
+        "teaching",
+        "ultramarine",
+        "versus",
+        "woven",
+        "answering",
+        "art",
+        "backdrop",
+        "base",
+        "blocks",
+        "both",
+        "bottom",
+        "branding",
+        "brayer"
+      ],
+      "specificHooks": [
+        "edge pressure",
+        "sharp bevel",
+        "light ink",
+        "impression depth",
+        "no people",
+        "woven bamboo baren texture",
+        "felt blanket edge",
+        "rag paper embossing",
+        "gum-black ink",
+        "ultramarine labels",
+        "oxide-red comparison arrows",
+        "embossing depth"
+      ],
+      "scaleTags": [
+        "page",
+        "object",
+        "comparison board"
+      ],
+      "pngPath": "../images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/06-baren-versus-press-pressure-comparison-board.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/06-baren-versus-press-pressure-comparison-board.png",
+      "promptPath": "../prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/06-baren-versus-press-pressure-comparison-board.prompt.md",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/06-baren-versus-press-pressure-comparison-board.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-06/",
+      "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
+      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: practical comparison board answering the query \"baren vs press relief printing\"\nScene/backdrop: cream comparison board on a print studio wall with proof strips and two tool closeups, no people\nSubject: hand baren burnishing versus etching press pull shown through paper texture, edge pressure, sharp bevel, light ink, impression depth, one baren photo, and one press roller photo\nStyle/medium: practical printmaking comparison board combining photographic proof fragments and teaching callouts\nComposition/framing: tall split-column board with baren on the left and press on the right, matching proof details stacked vertically for direct comparison\nLighting/mood: neutral classroom light with slight shadow relief to show embossing depth\nColor palette: cream board, gum-black ink, ultramarine labels, oxide-red comparison arrows, straw-colored baren, steel-gray press parts\nMaterials/textures: woven bamboo baren texture, felt blanket edge, rag paper embossing, steel roller, ink sheen, taped proof corners\nText (verbatim): \"BAREN\" \"PRESS\" \"PAPER TEXTURE\" \"PRESS PRESSURE\" \"Rough Surface\" \"Edge Pressure\" \"Sharp Bevel\" \"Light Ink\" \"Impression Depth\" \"Baren Tool\" \"Press Roller\"\nConstraints: direct search-answer image for baren vs press relief printing, short labels only, no logos, no watermark, no long paragraphs\nAvoid: generic product catalog, Japanese calligraphy poster, luxury letterpress branding, dense text blocks, slick marketing art",
+      "learningValue": "Helps students compare hand-burnished and press-pulled relief prints through paper texture, edge pressure, embossing depth, and tool context rather than vague studio lore.",
+      "compositionNotes": "The left-right board, repeated proof-strip stacking, and bottom tool closeups give the image enough specificity for both practical teaching and high-intent search retrieval.",
+      "formatNotes": "Comparison board for baren vs press relief printing, hand burnished vs press pulled print, and relief print impression depth. The canonical comparison language is preserved here even if the in-image labels shift slightly.",
+      "searchText": "baren versus press pressure comparison board mixed-format relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: practical comparison board answering the query \"baren vs press relief printing\"\nscene/backdrop: cream comparison board on a print studio wall with proof strips and two tool closeups, no people\nsubject: hand baren burnishing versus etching press pull shown through paper texture, edge pressure, sharp bevel, light ink, impression depth, one baren photo, and one press roller photo\nstyle/medium: practical printmaking comparison board combining photographic proof fragments and teaching callouts\ncomposition/framing: tall split-column board with baren on the left and press on the right, matching proof details stacked vertically for direct comparison\nlighting/mood: neutral classroom light with slight shadow relief to show embossing depth\ncolor palette: cream board, gum-black ink, ultramarine labels, oxide-red comparison arrows, straw-colored baren, steel-gray press parts\nmaterials/textures: woven bamboo baren texture, felt blanket edge, rag paper embossing, steel roller, ink sheen, taped proof corners\ntext (verbatim): \"baren\" \"press\" \"paper texture\" \"press pressure\" \"rough surface\" \"edge pressure\" \"sharp bevel\" \"light ink\" \"impression depth\" \"baren tool\" \"press roller\"\nconstraints: direct search-answer image for baren vs press relief printing, short labels only, no logos, no watermark, no long paragraphs\navoid: generic product catalog, japanese calligraphy poster, luxury letterpress branding, dense text blocks, slick marketing art helps students compare hand-burnished and press-pulled relief prints through paper texture, edge pressure, embossing depth, and tool context rather than vague studio lore. the left-right board, repeated proof-strip stacking, and bottom tool closeups give the image enough specificity for both practical teaching and high-intent search retrieval. comparison board for baren vs press relief printing, hand burnished vs press pulled print, and relief print impression depth. the canonical comparison language is preserved here even if the in-image labels shift slightly. edge pressure sharp bevel light ink impression depth no people woven bamboo baren texture felt blanket edge rag paper embossing gum-black ink ultramarine labels oxide-red comparison arrows embossing depth page object comparison board",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260525-0211-relief-print-registration-and-brayer-course-plates-07",
+      "runSlug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "runTheme": "Relief Print Registration And Brayer Course Plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "index": 7,
+      "title": "Relief Printing Tools Tray Reference",
+      "taxonomy": "atlas-contact-sheet",
+      "topics": [
+        "gouges",
+        "bench",
+        "tabs",
+        "tray",
+        "ink",
+        "reference",
+        "relief",
+        "steel",
+        "tool",
+        "tools",
+        "wood",
+        "brayer",
+        "glove",
+        "hook",
+        "knife",
+        "newsprint",
+        "printing",
+        "registration",
+        "short",
+        "tape",
+        "workshop",
+        "atlas-contact-sheet",
+        "baren",
+        "beginner",
+        "birch",
+        "carving",
+        "chart",
+        "clusters",
+        "contact-sheet",
+        "core",
+        "decorative",
+        "flatlay",
+        "gouge",
+        "grouped",
+        "handles",
+        "ink-stained",
+        "labels",
+        "maps",
+        "masking",
+        "oxidized",
+        "paper",
+        "people",
+        "pica",
+        "print",
+        "props",
+        "relief-print",
+        "ruler",
+        "scarred"
+      ],
+      "specificHooks": [
+        "bench hook",
+        "V gouges",
+        "U gouges",
+        "ink knife",
+        "no people",
+        "ink-stained handles",
+        "scarred bench wood",
+        "steel gouge tips",
+        "birch wood",
+        "cream paper",
+        "oxidized steel",
+        "Maps the core beginner relief-print toolkit so teachers"
+      ],
+      "scaleTags": [
+        "tabletop",
+        "object",
+        "tool atlas"
+      ],
+      "pngPath": "../images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/07-relief-printing-tools-tray-reference.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/07-relief-printing-tools-tray-reference.png",
+      "promptPath": "../prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/07-relief-printing-tools-tray-reference.prompt.md",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/07-relief-printing-tools-tray-reference.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-07/",
+      "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
+      "finalPrompt": "Use case: atlas-contact-sheet\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: tactile workshop atlas answering the query \"relief printing tools chart\"\nScene/backdrop: top-down tools tray on a stained print studio table, no people\nSubject: brayer, bench hook, V gouges, U gouges, ink knife, registration tabs, baren, wooden spoon, pica ruler, masking tape roll, carving glove, and newsprint stack arranged as one coherent training kit\nStyle/medium: dense tactile contact-sheet atlas photographed like an internal workshop reference\nComposition/framing: landscape overhead tray layout with grouped clusters and small blue label tabs only where necessary\nLighting/mood: bright side light revealing worn tool edges and ink residue\nColor palette: gum-black, birch wood, cream paper, oxidized steel, ultramarine tabs, muted oxide-red pencil marks\nMaterials/textures: ink-stained handles, scarred bench wood, steel gouge tips, rubber roller, cloth glove, newsprint, masking tape\nText (verbatim): \"Brayer\" \"Bench Hook\" \"V Gouges\" \"U Gouges\" \"Ink Knife\" \"Reg Tabs\" \"Baren\" \"Wooden Spoon\" \"Tape\" \"Carving Glove\" \"Newsprint\" \"Pica Ruler\"\nConstraints: concrete workshop nouns for local retrieval, minimal short labels, no logos, no watermark, no decorative props\nAvoid: retail flatlay, clean lifestyle tabletop, gift guide styling, floral props, polished brand packaging",
+      "learningValue": "Maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects.",
+      "compositionNotes": "The tray border, grouped tool clusters, and short part-name tabs make the image useful as a studio inventory reference rather than a decorative flatlay.",
+      "formatNotes": "Contact-sheet atlas for relief printing tools chart, linocut tool tray, and printmaking supplies reference. The visible labels stay short while the retrieval-grade names live here.",
+      "searchText": "relief printing tools tray reference atlas-contact-sheet relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: atlas-contact-sheet\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: tactile workshop atlas answering the query \"relief printing tools chart\"\nscene/backdrop: top-down tools tray on a stained print studio table, no people\nsubject: brayer, bench hook, v gouges, u gouges, ink knife, registration tabs, baren, wooden spoon, pica ruler, masking tape roll, carving glove, and newsprint stack arranged as one coherent training kit\nstyle/medium: dense tactile contact-sheet atlas photographed like an internal workshop reference\ncomposition/framing: landscape overhead tray layout with grouped clusters and small blue label tabs only where necessary\nlighting/mood: bright side light revealing worn tool edges and ink residue\ncolor palette: gum-black, birch wood, cream paper, oxidized steel, ultramarine tabs, muted oxide-red pencil marks\nmaterials/textures: ink-stained handles, scarred bench wood, steel gouge tips, rubber roller, cloth glove, newsprint, masking tape\ntext (verbatim): \"brayer\" \"bench hook\" \"v gouges\" \"u gouges\" \"ink knife\" \"reg tabs\" \"baren\" \"wooden spoon\" \"tape\" \"carving glove\" \"newsprint\" \"pica ruler\"\nconstraints: concrete workshop nouns for local retrieval, minimal short labels, no logos, no watermark, no decorative props\navoid: retail flatlay, clean lifestyle tabletop, gift guide styling, floral props, polished brand packaging maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects. the tray border, grouped tool clusters, and short part-name tabs make the image useful as a studio inventory reference rather than a decorative flatlay. contact-sheet atlas for relief printing tools chart, linocut tool tray, and printmaking supplies reference. the visible labels stay short while the retrieval-grade names live here. bench hook v gouges u gouges ink knife no people ink-stained handles scarred bench wood steel gouge tips birch wood cream paper oxidized steel maps the core beginner relief-print toolkit so teachers tabletop object tool atlas",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 100,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 5,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260525-0211-relief-print-registration-and-brayer-course-plates-08",
+      "runSlug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "runTheme": "Relief Print Registration And Brayer Course Plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "index": 8,
+      "title": "Classroom Drying Rack And Proof Wall Setup",
+      "taxonomy": "photorealistic-natural",
+      "topics": [
+        "classroom",
+        "drying",
+        "wall",
+        "rack",
+        "printmaking",
+        "prints",
+        "reference",
+        "proof",
+        "relief",
+        "sink",
+        "studio",
+        "lines",
+        "paper",
+        "posters",
+        "room",
+        "setup",
+        "brayers",
+        "clipped",
+        "print",
+        "process",
+        "proofs",
+        "sample",
+        "worktable",
+        "aprons",
+        "art",
+        "clips",
+        "community",
+        "deployment",
+        "documentary",
+        "edge",
+        "foreground",
+        "fresh",
+        "hooks",
+        "ink",
+        "metal",
+        "newsprint",
+        "photorealistic-natural",
+        "poster",
+        "pulls",
+        "rag",
+        "registration",
+        "secondary",
+        "short",
+        "stacked",
+        "stains",
+        "tray",
+        "abstract",
+        "another"
+      ],
+      "specificHooks": [
+        "fresh relief prints clipped to lines",
+        "wall of sample pulls and process posters",
+        "stacked newsprint",
+        "brayers in a tray",
+        "community printmaking classroom with drying rack lines",
+        "proof wall",
+        "sink edge",
+        "aprons on hooks",
+        "rag paper prints",
+        "metal drying clips",
+        "ink stains on table",
+        "cream paper"
+      ],
+      "scaleTags": [
+        "room",
+        "page",
+        "classroom deployment"
+      ],
+      "pngPath": "../images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/08-classroom-drying-rack-and-proof-wall-setup.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/08-classroom-drying-rack-and-proof-wall-setup.png",
+      "promptPath": "../prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/08-classroom-drying-rack-and-proof-wall-setup.prompt.md",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/08-classroom-drying-rack-and-proof-wall-setup.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-08/",
+      "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: documentary classroom reference answering the queries \"printmaking studio setup reference\" and \"relief print drying rack classroom\"\nScene/backdrop: community printmaking classroom with drying rack lines, proof wall, sink edge, aprons on hooks, and one long worktable, viewed straight-on\nSubject: fresh relief prints clipped to lines, a wall of sample pulls and process posters, stacked newsprint, brayers in a tray, and one pinned registration guide beside the proofs\nStyle/medium: documentary classroom reference photo with disciplined internal graphic language\nComposition/framing: landscape room view with the proof wall on the left, drying rack centered, sink and prints midground, and worktable foreground leading into the scene\nLighting/mood: soft overcast daylight through high windows, calm workshop atmosphere\nColor palette: cream paper, gum-black proofs, ultramarine tabs, oxide-red tape marks, gray linoleum floor, pale wood tables\nMaterials/textures: rag paper prints, metal drying clips, ink stains on table, taped posters, concrete sink, apron cotton, rubber brayers\nConstraints: answer the query printmaking studio setup reference, no brand logos, no watermark, avoid people if not necessary, poster text should stay short and secondary\nAvoid: hipster studio lifestyle ad, spotless design showroom, mural art classroom, cafe vibe, crowded unreadable wall text",
+      "learningValue": "Shows how a working printmaking classroom organizes drying prints, sample walls, tools, and cleanup surfaces so learners can picture a real bench-to-wall workflow.",
+      "compositionNotes": "The left-wall process posters, central rack of clipped proofs, sink line, and foreground worktable create a credible studio deployment image instead of another abstract poster.",
+      "formatNotes": "Room reference for printmaking studio setup reference, relief print drying rack classroom, and art room proof wall. Short in-image labels remain secondary; the full retrieval context is stored here.",
+      "searchText": "classroom drying rack and proof wall setup photorealistic-natural relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: photorealistic-natural\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: documentary classroom reference answering the queries \"printmaking studio setup reference\" and \"relief print drying rack classroom\"\nscene/backdrop: community printmaking classroom with drying rack lines, proof wall, sink edge, aprons on hooks, and one long worktable, viewed straight-on\nsubject: fresh relief prints clipped to lines, a wall of sample pulls and process posters, stacked newsprint, brayers in a tray, and one pinned registration guide beside the proofs\nstyle/medium: documentary classroom reference photo with disciplined internal graphic language\ncomposition/framing: landscape room view with the proof wall on the left, drying rack centered, sink and prints midground, and worktable foreground leading into the scene\nlighting/mood: soft overcast daylight through high windows, calm workshop atmosphere\ncolor palette: cream paper, gum-black proofs, ultramarine tabs, oxide-red tape marks, gray linoleum floor, pale wood tables\nmaterials/textures: rag paper prints, metal drying clips, ink stains on table, taped posters, concrete sink, apron cotton, rubber brayers\nconstraints: answer the query printmaking studio setup reference, no brand logos, no watermark, avoid people if not necessary, poster text should stay short and secondary\navoid: hipster studio lifestyle ad, spotless design showroom, mural art classroom, cafe vibe, crowded unreadable wall text shows how a working printmaking classroom organizes drying prints, sample walls, tools, and cleanup surfaces so learners can picture a real bench-to-wall workflow. the left-wall process posters, central rack of clipped proofs, sink line, and foreground worktable create a credible studio deployment image instead of another abstract poster. room reference for printmaking studio setup reference, relief print drying rack classroom, and art room proof wall. short in-image labels remain secondary; the full retrieval context is stored here. fresh relief prints clipped to lines wall of sample pulls and process posters stacked newsprint brayers in a tray community printmaking classroom with drying rack lines proof wall sink edge aprons on hooks rag paper prints metal drying clips ink stains on table cream paper room page classroom deployment",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260525-0211-relief-print-registration-and-brayer-course-plates-09",
+      "runSlug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "runTheme": "Relief Print Registration And Brayer Course Plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "index": 9,
+      "title": "Press Bed And Registration Rail Section Plate",
+      "taxonomy": "mixed-format",
+      "topics": [
+        "press",
+        "paper",
+        "plate",
+        "bed",
+        "blanket",
+        "block",
+        "registration",
+        "felt",
+        "rail",
+        "linoleum",
+        "machine",
+        "relief",
+        "arrows",
+        "path",
+        "pressure",
+        "printmaking",
+        "proof",
+        "roller",
+        "section",
+        "sectioned",
+        "small",
+        "stack",
+        "strip",
+        "bench",
+        "cad",
+        "edge",
+        "explainer",
+        "explains",
+        "frame",
+        "guides",
+        "gum-black",
+        "how",
+        "labels",
+        "less-common",
+        "lighting",
+        "materials",
+        "mixed-format",
+        "painted",
+        "parts",
+        "receiving",
+        "relief-print",
+        "room",
+        "section-format",
+        "setup",
+        "side-section",
+        "smooth",
+        "steel",
+        "steel-gray"
+      ],
+      "specificHooks": [
+        "sectioned press bed",
+        "felt blanket",
+        "paper path",
+        "linoleum block",
+        "no surrounding room",
+        "painted steel press frame",
+        "felt blanket edge",
+        "smooth paper stack",
+        "cream plate background",
+        "steel-gray press parts",
+        "gum-black arrows",
+        "Explains how paper"
+      ],
+      "scaleTags": [
+        "tabletop",
+        "object",
+        "section plate"
+      ],
+      "pngPath": "../images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/09-press-bed-and-registration-rail-section-plate.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/09-press-bed-and-registration-rail-section-plate.png",
+      "promptPath": "../prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/09-press-bed-and-registration-rail-section-plate.prompt.md",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/09-press-bed-and-registration-rail-section-plate.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-09/",
+      "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
+      "finalPrompt": "Use case: mixed-format\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: section-format printmaking explainer answering the query \"relief press bed diagram\"\nScene/backdrop: cutaway teaching plate of a small relief-print press and registration setup on a bench, no surrounding room\nSubject: sectioned press bed, roller, felt blanket, paper path, linoleum block, stop guides, registration rail, pressure direction, receiving tray, and one thin proof-result strip\nStyle/medium: buildable technical plate with real workshop materials rather than abstract CAD\nComposition/framing: landscape side-section view spanning the press width, with bold arrows and one narrow proof strip above the machine\nLighting/mood: neutral instructional lighting with clear material separation\nColor palette: cream plate background, steel-gray press parts, gum-black arrows, ultramarine labels, birch bench, muted oxide-red callouts\nMaterials/textures: painted steel press frame, felt blanket edge, smooth paper stack, linoleum block, roller rubber, taped margin notes\nText (verbatim): \"Proof Result\" \"Roller\" \"Felt Blanket\" \"Paper Path\" \"Linoleum Block\" \"Sectioned Press Bed\" \"Stop Guides\" \"Registration Rail\" \"Pressure\" \"Receiving Tray\" \"Block Position\"\nConstraints: less-common section-format explainer for printmaking students, short labels only, no logos, no watermark, no dense paragraphs\nAvoid: sterile engineering CAD, glossy machine ad, blueprint overload, tiny annotations, futuristic fabrication lab",
+      "learningValue": "Explains how paper, blanket, block, rail, and pressure stack together inside a small relief-print press so students can connect setup language to machine geometry.",
+      "compositionNotes": "The long side-section, proof strip header, and clear rail-to-tray flow give the image unusual spatial value compared with flatter poster-only explainers.",
+      "formatNotes": "Section plate for relief press bed diagram, printmaking registration rail, and small relief press anatomy. This is a less-common atlas format and the prompt card preserves the stable machine vocabulary.",
+      "searchText": "press bed and registration rail section plate mixed-format relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: mixed-format\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: section-format printmaking explainer answering the query \"relief press bed diagram\"\nscene/backdrop: cutaway teaching plate of a small relief-print press and registration setup on a bench, no surrounding room\nsubject: sectioned press bed, roller, felt blanket, paper path, linoleum block, stop guides, registration rail, pressure direction, receiving tray, and one thin proof-result strip\nstyle/medium: buildable technical plate with real workshop materials rather than abstract cad\ncomposition/framing: landscape side-section view spanning the press width, with bold arrows and one narrow proof strip above the machine\nlighting/mood: neutral instructional lighting with clear material separation\ncolor palette: cream plate background, steel-gray press parts, gum-black arrows, ultramarine labels, birch bench, muted oxide-red callouts\nmaterials/textures: painted steel press frame, felt blanket edge, smooth paper stack, linoleum block, roller rubber, taped margin notes\ntext (verbatim): \"proof result\" \"roller\" \"felt blanket\" \"paper path\" \"linoleum block\" \"sectioned press bed\" \"stop guides\" \"registration rail\" \"pressure\" \"receiving tray\" \"block position\"\nconstraints: less-common section-format explainer for printmaking students, short labels only, no logos, no watermark, no dense paragraphs\navoid: sterile engineering cad, glossy machine ad, blueprint overload, tiny annotations, futuristic fabrication lab explains how paper, blanket, block, rail, and pressure stack together inside a small relief-print press so students can connect setup language to machine geometry. the long side-section, proof strip header, and clear rail-to-tray flow give the image unusual spatial value compared with flatter poster-only explainers. section plate for relief press bed diagram, printmaking registration rail, and small relief press anatomy. this is a less-common atlas format and the prompt card preserves the stable machine vocabulary. sectioned press bed felt blanket paper path linoleum block no surrounding room painted steel press frame felt blanket edge smooth paper stack cream plate background steel-gray press parts gum-black arrows explains how paper tabletop object section plate",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
+      "id": "20260525-0211-relief-print-registration-and-brayer-course-plates-10",
+      "runSlug": "20260525-0211-relief-print-registration-and-brayer-course-plates",
+      "runTheme": "Relief Print Registration And Brayer Course Plates",
+      "timestamp": "2026-05-25T02:11:23+08:00",
+      "index": 10,
+      "title": "Ghost Print And Fresh Pull Proof Frame",
+      "taxonomy": "photorealistic-natural",
+      "topics": [
+        "print",
+        "ghost",
+        "proof",
+        "ink",
+        "bench",
+        "paper",
+        "wet",
+        "frame",
+        "fresh",
+        "pull",
+        "relief",
+        "brayer",
+        "rag",
+        "registration",
+        "block",
+        "corner",
+        "documentary",
+        "example",
+        "faint",
+        "lifted",
+        "nearby",
+        "pale",
+        "printing",
+        "sheen",
+        "visible",
+        "birch",
+        "black",
+        "carved",
+        "clips",
+        "dark",
+        "deep",
+        "fibers",
+        "grooves",
+        "gum-black",
+        "hand",
+        "lifting",
+        "linoleum",
+        "mark",
+        "oxide-red",
+        "photorealistic-natural",
+        "printmaking",
+        "slab",
+        "tape",
+        "tools",
+        "ultramarine",
+        "alone",
+        "answering",
+        "art"
+      ],
+      "specificHooks": [
+        "one hand lifting fresh paper",
+        "one dark wet pull",
+        "one pale ghost print",
+        "gum-black ink slab",
+        "with a faint ghost print nearby",
+        "wet ink sheen",
+        "rag paper fibers",
+        "carved linoleum grooves",
+        "cream rag paper",
+        "deep black ink",
+        "ultramarine registration corner",
+        "proof frame"
+      ],
+      "scaleTags": [
+        "tabletop",
+        "object",
+        "proof frame"
+      ],
+      "pngPath": "../images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/10-ghost-print-and-fresh-pull-proof-frame.png",
+      "pngUrl": "https://image-knowledge-base.vercel.app/images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/10-ghost-print-and-fresh-pull-proof-frame.png",
+      "promptPath": "../prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/10-ghost-print-and-fresh-pull-proof-frame.prompt.md",
+      "reportPath": "../run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "promptUrl": "https://image-knowledge-base.vercel.app/prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/10-ghost-print-and-fresh-pull-proof-frame.prompt.md",
+      "reportUrl": "https://image-knowledge-base.vercel.app/run-reports/20260525-0211-relief-print-registration-and-brayer-course-plates.md",
+      "detailPath": "i/20260525-0211-relief-print-registration-and-brayer-course-plates-10/",
+      "runPath": "r/20260525-0211-relief-print-registration-and-brayer-course-plates/",
+      "finalPrompt": "Use case: photorealistic-natural\nAsset type: final PNG for an indexed image knowledge base and static SEO landing page\nPrimary request: documentary bench proof image answering the query \"ghost print example relief printing\"\nScene/backdrop: close printmaking bench at the moment a sheet is lifted from a freshly inked relief block, with a faint ghost print nearby\nSubject: one hand lifting fresh paper, one dark wet pull, one pale ghost print, gum-black ink slab, brayer, oxide-red registration mark, blue tape corner, and drying clips in the background\nStyle/medium: documentary workshop proof frame with tactile realism and restrained drama\nComposition/framing: landscape close-up with the lifted sheet in the foreground, block and ghost print midground, and tools receding softly behind\nLighting/mood: soft window light with gentle contrast and visible wet ink sheen\nColor palette: cream rag paper, deep black ink, ultramarine registration corner, oxide-red grease-pencil mark, weathered birch bench, steel-gray tools\nMaterials/textures: wet ink sheen, rag paper fibers, carved linoleum grooves, birch bench, rubber brayer, metal clips, tape edges\nConstraints: proof-of-use image for ghost print example relief printing, no logos, no watermark, no theatrical overdrama, no long visible text\nAvoid: moody fine-art gallery glamour, dramatic spotlight, luxury art print ad, excessive blur, fake cinematic teal-orange grade",
+      "learningValue": "Demonstrates the difference between a full fresh pull and a faint ghost print in one handled bench scene, which is easier to remember than a text explanation alone.",
+      "compositionNotes": "The lifted sheet, wet block, pale ghost impression, and nearby brayer create a high-utility proof frame with immediate process clarity and strong material hooks.",
+      "formatNotes": "Documentary proof image for ghost print example relief printing, fresh pull linocut, and printmaking proof bench. The scene is intentionally light on visible text so the prompt card carries the canonical terminology.",
+      "searchText": "ghost print and fresh pull proof frame photorealistic-natural relief print registration and brayer course plates 20260525-0211-relief-print-registration-and-brayer-course-plates use case: photorealistic-natural\nasset type: final png for an indexed image knowledge base and static seo landing page\nprimary request: documentary bench proof image answering the query \"ghost print example relief printing\"\nscene/backdrop: close printmaking bench at the moment a sheet is lifted from a freshly inked relief block, with a faint ghost print nearby\nsubject: one hand lifting fresh paper, one dark wet pull, one pale ghost print, gum-black ink slab, brayer, oxide-red registration mark, blue tape corner, and drying clips in the background\nstyle/medium: documentary workshop proof frame with tactile realism and restrained drama\ncomposition/framing: landscape close-up with the lifted sheet in the foreground, block and ghost print midground, and tools receding softly behind\nlighting/mood: soft window light with gentle contrast and visible wet ink sheen\ncolor palette: cream rag paper, deep black ink, ultramarine registration corner, oxide-red grease-pencil mark, weathered birch bench, steel-gray tools\nmaterials/textures: wet ink sheen, rag paper fibers, carved linoleum grooves, birch bench, rubber brayer, metal clips, tape edges\nconstraints: proof-of-use image for ghost print example relief printing, no logos, no watermark, no theatrical overdrama, no long visible text\navoid: moody fine-art gallery glamour, dramatic spotlight, luxury art print ad, excessive blur, fake cinematic teal-orange grade demonstrates the difference between a full fresh pull and a faint ghost print in one handled bench scene, which is easier to remember than a text explanation alone. the lifted sheet, wet block, pale ghost impression, and nearby brayer create a high-utility proof frame with immediate process clarity and strong material hooks. documentary proof image for ghost print example relief printing, fresh pull linocut, and printmaking proof bench. the scene is intentionally light on visible text so the prompt card carries the canonical terminology. one hand lifting fresh paper one dark wet pull one pale ghost print gum-black ink slab with a faint ghost print nearby wet ink sheen rag paper fibers carved linoleum grooves cream rag paper deep black ink ultramarine registration corner proof frame tabletop object proof frame",
+      "curation": {
+        "status": "public",
+        "reason": "",
+        "replacement": ""
+      },
+      "rubric": {
+        "version": "2026-05-06-v1",
+        "total": 95,
+        "band": "signature",
+        "dimensions": {
+          "specificity": 5,
+          "usefulness": 4,
+          "vibe": 5,
+          "searchability": 5,
+          "novelty": 5
+        }
+      }
+    },
+    {
       "id": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides-01",
       "runSlug": "20260522-0220-cinematography-shot-size-and-blocking-visual-guides",
       "runTheme": "Cinematography Shot Size And Blocking Visual Guides",
@@ -9466,14 +11461,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -9677,14 +11672,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -11697,14 +13692,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 95,
+        "total": 93,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 3
+          "novelty": 2
         }
       }
     },
@@ -11803,14 +13798,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 95,
+        "total": 93,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 3
+          "novelty": 2
         }
       }
     },
@@ -11910,14 +13905,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 95,
+        "total": 93,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 3
+          "novelty": 2
         }
       }
     },
@@ -12017,14 +14012,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 95,
+        "total": 93,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 3
+          "novelty": 2
         }
       }
     },
@@ -12973,14 +14968,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 95,
+        "total": 93,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 3
+          "novelty": 2
         }
       }
     },
@@ -13079,14 +15074,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 95,
+        "total": 93,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 3
+          "novelty": 2
         }
       }
     },
@@ -13507,14 +15502,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 95,
+        "total": 93,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 3
+          "novelty": 2
         }
       }
     },
@@ -13828,14 +15823,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -14042,14 +16037,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -14893,14 +16888,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -14999,14 +16994,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -15317,14 +17312,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -15530,14 +17525,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -15637,14 +17632,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -17028,14 +19023,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -17240,14 +19235,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -17345,14 +19340,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -17558,14 +19553,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -18087,14 +20082,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -18194,14 +20189,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -18408,14 +20403,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },
@@ -18622,14 +20617,14 @@ window.IMAGE_KB = {
       },
       "rubric": {
         "version": "2026-05-06-v1",
-        "total": 100,
+        "total": 98,
         "band": "signature",
         "dimensions": {
           "specificity": 5,
           "usefulness": 5,
           "vibe": 5,
           "searchability": 5,
-          "novelty": 5
+          "novelty": 4
         }
       }
     },

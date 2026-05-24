@@ -4,11 +4,11 @@
 
 > A public, image-first slice of a labeled PNG atlas built for practical human tasks, explainer plates, and searchable visual reference work.
 
-[![Shot Size Ladder Reference Poster](images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.png)](prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.prompt.md)
+[![Brayer Hardness And Texture Comparison Chart](images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/01-brayer-hardness-and-texture-comparison-chart.png)](prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/01-brayer-hardness-and-texture-comparison-chart.prompt.md)
 
 | Public images | Public runs | Search hooks | Formats |
 | --- | --- | --- | --- |
-| 91 | 9 | 791 | 14 |
+| 101 | 10 | 892 | 14 |
 
 ## What This Repo Publishes
 
@@ -21,21 +21,33 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.png" alt="Shot Size Ladder Reference Poster (scientific-educational)" width="100%" /></a>
-  <br /><strong>Shot Size Ladder Reference Poster</strong>
-  <br /><sub>scientific-educational · MEDIUM CLOSE-UP · EXTREME CLOSE-UP</sub>
+  <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/01-brayer-hardness-and-texture-comparison-chart.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/01-brayer-hardness-and-texture-comparison-chart.png" alt="Brayer Hardness And Texture Comparison Chart (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Brayer Hardness And Texture Comparison Chart</strong>
+  <br /><sub>infographic-diagram · three relief-print brayers labeled soft · with side-by-side ink rolls</sub>
 </td>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/02-camera-angle-and-eyeline-guide.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/02-camera-angle-and-eyeline-guide.png" alt="Camera Angle And Eyeline Guide (infographic-diagram)" width="100%" /></a>
-  <br /><strong>Camera Angle And Eyeline Guide</strong>
-  <br /><sub>infographic-diagram · HIGH ANGLE · LOW ANGLE</sub>
+  <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/03-carving-mark-vocabulary-reference-plate.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/03-carving-mark-vocabulary-reference-plate.png" alt="Carving Mark Vocabulary Reference Plate (atlas-contact-sheet)" width="100%" /></a>
+  <br /><strong>Carving Mark Vocabulary Reference Plate</strong>
+  <br /><sub>atlas-contact-sheet · U gouge scoop · hatch marks</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/03-24mm-50mm-85mm-lens-portrait-strip.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/03-24mm-50mm-85mm-lens-portrait-strip.png" alt="24mm 50mm 85mm Lens Portrait Strip (scientific-educational)" width="100%" /></a>
-  <br /><strong>24mm 50mm 85mm Lens Portrait Strip</strong>
-  <br /><sub>scientific-educational · normal perspective · telephoto compression</sub>
+  <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/05-reduction-print-step-sequence-poster.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/05-reduction-print-step-sequence-poster.png" alt="Reduction Print Step Sequence Poster (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Reduction Print Step Sequence Poster</strong>
+  <br /><sub>infographic-diagram · second carve · second color</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/07-relief-printing-tools-tray-reference.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/07-relief-printing-tools-tray-reference.png" alt="Relief Printing Tools Tray Reference (atlas-contact-sheet)" width="100%" /></a>
+  <br /><strong>Relief Printing Tools Tray Reference</strong>
+  <br /><sub>atlas-contact-sheet · bench hook · V gouges</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/02-camera-angle-and-eyeline-guide.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/02-camera-angle-and-eyeline-guide.png" alt="Camera Angle And Eyeline Guide (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Camera Angle And Eyeline Guide</strong>
+  <br /><sub>infographic-diagram · HIGH ANGLE · LOW ANGLE</sub>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/08-director-viewfinder-tape-marks-and-apple-boxes-atlas.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/08-director-viewfinder-tape-marks-and-apple-boxes-atlas.png" alt="Director Viewfinder Tape Marks And Apple Boxes Atlas (atlas-contact-sheet)" width="100%" /></a>
@@ -69,21 +81,9 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png" alt="Aquarium Nitrogen Cycle Diagram Poster (scientific-educational)" width="100%" /></a>
-  <br /><strong>Aquarium Nitrogen Cycle Diagram Poster</strong>
-  <br /><sub>scientific-educational · decomposing food flakes · ammonia cloud</sub>
-</td>
-<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/02-fishless-cycling-timeline-chart.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/02-fishless-cycling-timeline-chart.png" alt="Fishless Cycling Timeline Chart (infographic-diagram)" width="100%" /></a>
   <br /><strong>Fishless Cycling Timeline Chart</strong>
   <br /><sub>infographic-diagram · bottled ammonia dropper · thermometer strip</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.png" alt="Ammonia Nitrite Nitrate Comparison Guide (scientific-educational)" width="100%" /></a>
-  <br /><strong>Ammonia Nitrite Nitrate Comparison Guide</strong>
-  <br /><sub>scientific-educational · ammonia test vial · nitrite test vial</sub>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/04-beneficial-bacteria-filter-media-taxonomy-plate.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/04-beneficial-bacteria-filter-media-taxonomy-plate.png" alt="Beneficial Bacteria Filter Media Taxonomy Plate (atlas-contact-sheet)" width="100%" /></a>
@@ -105,18 +105,6 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.png" alt="Box Braids And Knotless Braids Chart (scientific-educational)" width="100%" /></a>
-  <br /><strong>Box Braids And Knotless Braids Chart</strong>
-  <br /><sub>scientific-educational · root start · braid hang</sub>
-</td>
-<td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.png" alt="Cornrow Parting Pattern Guide (scientific-educational)" width="100%" /></a>
-  <br /><strong>Cornrow Parting Pattern Guide</strong>
-  <br /><sub>scientific-educational · curved rows · side-swoop rows</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/03-braid-size-section-grid-poster.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/03-braid-size-section-grid-poster.png" alt="Braid Size Section Grid Poster (infographic-diagram)" width="100%" /></a>
   <br /><strong>Braid Size Section Grid Poster</strong>
   <br /><sub>infographic-diagram · large braid section squares at the top · matching finished braid thickness samples hanging below</sub>
@@ -129,14 +117,98 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.png" alt="Tight Braid Warning Signs Chart (scientific-educational)" width="100%" /></a>
-  <br /><strong>Tight Braid Warning Signs Chart</strong>
-  <br /><sub>scientific-educational · smooth sections · slight scalp visibility versus redness</sub>
-</td>
-<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/06-braiding-tool-tray-reference.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/06-braiding-tool-tray-reference.png" alt="Braiding Tool Tray Reference (atlas-contact-sheet)" width="100%" /></a>
   <br /><strong>Braiding Tool Tray Reference</strong>
   <br /><sub>atlas-contact-sheet · neatly arranged braiding tools including a rat-tail comb · wide-tooth comb</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/02-how-to-patch-a-bicycle-tube-poster.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/02-how-to-patch-a-bicycle-tube-poster.png" alt="How To Patch A Bicycle Tube Poster (infographic-diagram)" width="100%" /></a>
+  <br /><strong>How To Patch A Bicycle Tube Poster</strong>
+  <br /><sub>infographic-diagram · tube pull · puncture check in a water basin</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/05-brake-pad-wear-and-rotor-rub-troubleshooting-board.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/05-brake-pad-wear-and-rotor-rub-troubleshooting-board.png" alt="Brake Pad Wear And Rotor Rub Troubleshooting Board (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Brake Pad Wear And Rotor Rub Troubleshooting Board</strong>
+  <br /><sub>infographic-diagram · direct comparison of healthy brake pads · worn brake pads</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/07-saddle-bag-emergency-repair-kit-layout.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/07-saddle-bag-emergency-repair-kit-layout.png" alt="Saddle Bag Emergency Repair Kit Layout (atlas-contact-sheet)" width="100%" /></a>
+  <br /><strong>Saddle Bag Emergency Repair Kit Layout</strong>
+  <br /><sub>atlas-contact-sheet · disciplined emergency saddle-bag kit including spare tube · tire levers</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/03-star-tip-versus-round-tip-border-board.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/03-star-tip-versus-round-tip-border-board.png" alt="Star Tip Versus Round Tip Border Board (infographic-diagram)" width="100%" /></a>
+  <br /><strong>Star Tip Versus Round Tip Border Board</strong>
+  <br /><sub>infographic-diagram · including shell border · rope border</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/05-how-to-fill-a-piping-bag-poster.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/05-how-to-fill-a-piping-bag-poster.png" alt="How To Fill A Piping Bag Poster (infographic-diagram)" width="100%" /></a>
+  <br /><strong>How To Fill A Piping Bag Poster</strong>
+  <br /><sub>infographic-diagram · loading buttercream · inserting coupler</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.png" alt="Cake Decorating Tools Tray Reference (atlas-contact-sheet)" width="100%" /></a>
+  <br /><strong>Cake Decorating Tools Tray Reference</strong>
+  <br /><sub>atlas-contact-sheet · disciplined decorating kit including reusable piping bags · open star tip</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/02-linocut-registration-jig-labeled-guide.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/02-linocut-registration-jig-labeled-guide.png" alt="Linocut Registration Jig Labeled Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Linocut Registration Jig Labeled Guide</strong>
+  <br /><sub>scientific-educational · one linocut block · corner tabs</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/04-relief-ink-viscosity-and-slab-roll-chart.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/04-relief-ink-viscosity-and-slab-roll-chart.png" alt="Relief Ink Viscosity And Slab Roll Chart (scientific-educational)" width="100%" /></a>
+  <br /><strong>Relief Ink Viscosity And Slab Roll Chart</strong>
+  <br /><sub>scientific-educational · three side-by-side ink states labeled under-rolled · over-rolled with brayer tracks</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/01-shot-size-ladder-reference-poster.png" alt="Shot Size Ladder Reference Poster (scientific-educational)" width="100%" /></a>
+  <br /><strong>Shot Size Ladder Reference Poster</strong>
+  <br /><sub>scientific-educational · MEDIUM CLOSE-UP · EXTREME CLOSE-UP</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/03-24mm-50mm-85mm-lens-portrait-strip.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/03-24mm-50mm-85mm-lens-portrait-strip.png" alt="24mm 50mm 85mm Lens Portrait Strip (scientific-educational)" width="100%" /></a>
+  <br /><strong>24mm 50mm 85mm Lens Portrait Strip</strong>
+  <br /><sub>scientific-educational · normal perspective · telephoto compression</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/01-aquarium-nitrogen-cycle-diagram-poster.png" alt="Aquarium Nitrogen Cycle Diagram Poster (scientific-educational)" width="100%" /></a>
+  <br /><strong>Aquarium Nitrogen Cycle Diagram Poster</strong>
+  <br /><sub>scientific-educational · decomposing food flakes · ammonia cloud</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/03-ammonia-nitrite-nitrate-comparison-guide.png" alt="Ammonia Nitrite Nitrate Comparison Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Ammonia Nitrite Nitrate Comparison Guide</strong>
+  <br /><sub>scientific-educational · ammonia test vial · nitrite test vial</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/01-box-braids-and-knotless-braids-chart.png" alt="Box Braids And Knotless Braids Chart (scientific-educational)" width="100%" /></a>
+  <br /><strong>Box Braids And Knotless Braids Chart</strong>
+  <br /><sub>scientific-educational · root start · braid hang</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/02-cornrow-parting-pattern-guide.png" alt="Cornrow Parting Pattern Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Cornrow Parting Pattern Guide</strong>
+  <br /><sub>scientific-educational · curved rows · side-swoop rows</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/05-tight-braid-warning-signs-chart.png" alt="Tight Braid Warning Signs Chart (scientific-educational)" width="100%" /></a>
+  <br /><strong>Tight Braid Warning Signs Chart</strong>
+  <br /><sub>scientific-educational · smooth sections · slight scalp visibility versus redness</sub>
 </td>
 </tr>
 <tr>
@@ -158,28 +230,16 @@
   <br /><sub>scientific-educational · brake pads touching the rim · brake cable noodle</sub>
 </td>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/02-how-to-patch-a-bicycle-tube-poster.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/02-how-to-patch-a-bicycle-tube-poster.png" alt="How To Patch A Bicycle Tube Poster (infographic-diagram)" width="100%" /></a>
-  <br /><strong>How To Patch A Bicycle Tube Poster</strong>
-  <br /><sub>infographic-diagram · tube pull · puncture check in a water basin</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/03-bike-chain-wear-and-lubrication-guide.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/03-bike-chain-wear-and-lubrication-guide.png" alt="Bike Chain Wear And Lubrication Guide (scientific-educational)" width="100%" /></a>
   <br /><strong>Bike Chain Wear And Lubrication Guide</strong>
   <br /><sub>scientific-educational · cleaner chain after brushing · lube bottle applying one drop per roller</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/04-hex-key-sizes-and-bike-bolt-reference.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/04-hex-key-sizes-and-bike-bolt-reference.png" alt="Hex Key Sizes And Bike Bolt Reference (scientific-educational)" width="100%" /></a>
   <br /><strong>Hex Key Sizes And Bike Bolt Reference</strong>
   <br /><sub>scientific-educational · seatpost clamp bolt · bottle cage bolt</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/05-brake-pad-wear-and-rotor-rub-troubleshooting-board.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/05-brake-pad-wear-and-rotor-rub-troubleshooting-board.png" alt="Brake Pad Wear And Rotor Rub Troubleshooting Board (infographic-diagram)" width="100%" /></a>
-  <br /><strong>Brake Pad Wear And Rotor Rub Troubleshooting Board</strong>
-  <br /><sub>infographic-diagram · direct comparison of healthy brake pads · worn brake pads</sub>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/06-front-and-rear-derailleur-anatomy-diagram.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/06-front-and-rear-derailleur-anatomy-diagram.png" alt="Front And Rear Derailleur Anatomy Diagram (scientific-educational)" width="100%" /></a>
@@ -189,26 +249,14 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/07-saddle-bag-emergency-repair-kit-layout.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/07-saddle-bag-emergency-repair-kit-layout.png" alt="Saddle Bag Emergency Repair Kit Layout (atlas-contact-sheet)" width="100%" /></a>
-  <br /><strong>Saddle Bag Emergency Repair Kit Layout</strong>
-  <br /><sub>atlas-contact-sheet · disciplined emergency saddle-bag kit including spare tube · tire levers</sub>
-</td>
-<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/01-piping-tip-names-and-uses-chart.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/01-piping-tip-names-and-uses-chart.png" alt="Piping Tip Names And Uses Chart (scientific-educational)" width="100%" /></a>
   <br /><strong>Piping Tip Names And Uses Chart</strong>
   <br /><sub>scientific-educational · closed star tip · round tip</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/02-buttercream-stiffness-comparison-guide.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/02-buttercream-stiffness-comparison-guide.png" alt="Buttercream Stiffness Comparison Guide (scientific-educational)" width="100%" /></a>
   <br /><strong>Buttercream Stiffness Comparison Guide</strong>
   <br /><sub>scientific-educational · medium buttercream · stiff buttercream</sub>
-</td>
-<td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/03-star-tip-versus-round-tip-border-board.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/03-star-tip-versus-round-tip-border-board.png" alt="Star Tip Versus Round Tip Border Board (infographic-diagram)" width="100%" /></a>
-  <br /><strong>Star Tip Versus Round Tip Border Board</strong>
-  <br /><sub>infographic-diagram · including shell border · rope border</sub>
 </td>
 </tr>
 <tr>
@@ -218,21 +266,33 @@
   <br /><sub>scientific-educational · taxonomy of flower-related piping nozzles including petal tip · leaf tip</sub>
 </td>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/05-how-to-fill-a-piping-bag-poster.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/05-how-to-fill-a-piping-bag-poster.png" alt="How To Fill A Piping Bag Poster (infographic-diagram)" width="100%" /></a>
-  <br /><strong>How To Fill A Piping Bag Poster</strong>
-  <br /><sub>infographic-diagram · loading buttercream · inserting coupler</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/06-cupcake-swirl-and-rosette-guide.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/06-cupcake-swirl-and-rosette-guide.png" alt="Cupcake Swirl And Rosette Guide (scientific-educational)" width="100%" /></a>
   <br /><strong>Cupcake Swirl And Rosette Guide</strong>
   <br /><sub>scientific-educational · including classic swirl · tall bakery spiral</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/07-cake-decorating-tools-tray-reference.png" alt="Cake Decorating Tools Tray Reference (atlas-contact-sheet)" width="100%" /></a>
-  <br /><strong>Cake Decorating Tools Tray Reference</strong>
-  <br /><sub>atlas-contact-sheet · disciplined decorating kit including reusable piping bags · open star tip</sub>
+  <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/06-baren-versus-press-pressure-comparison-board.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/06-baren-versus-press-pressure-comparison-board.png" alt="Baren Versus Press Pressure Comparison Board (mixed-format)" width="100%" /></a>
+  <br /><strong>Baren Versus Press Pressure Comparison Board</strong>
+  <br /><sub>mixed-format · edge pressure · sharp bevel</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/08-classroom-drying-rack-and-proof-wall-setup.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/08-classroom-drying-rack-and-proof-wall-setup.png" alt="Classroom Drying Rack And Proof Wall Setup (photorealistic-natural)" width="100%" /></a>
+  <br /><strong>Classroom Drying Rack And Proof Wall Setup</strong>
+  <br /><sub>photorealistic-natural · fresh relief prints clipped to lines · wall of sample pulls and process posters</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/09-press-bed-and-registration-rail-section-plate.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/09-press-bed-and-registration-rail-section-plate.png" alt="Press Bed And Registration Rail Section Plate (mixed-format)" width="100%" /></a>
+  <br /><strong>Press Bed And Registration Rail Section Plate</strong>
+  <br /><sub>mixed-format · sectioned press bed · felt blanket</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/10-ghost-print-and-fresh-pull-proof-frame.prompt.md"><img src="images/2026/05/25/20260525-0211-relief-print-registration-and-brayer-course-plates/10-ghost-print-and-fresh-pull-proof-frame.png" alt="Ghost Print And Fresh Pull Proof Frame (photorealistic-natural)" width="100%" /></a>
+  <br /><strong>Ghost Print And Fresh Pull Proof Frame</strong>
+  <br /><sub>photorealistic-natural · one hand lifting fresh paper · one dark wet pull</sub>
 </td>
 </tr>
 <tr>
@@ -309,30 +369,6 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.png" alt="Healthy And Patchy Brood Pattern Chart (scientific-educational)" width="100%" /></a>
-  <br /><strong>Healthy And Patchy Brood Pattern Chart</strong>
-  <br /><sub>scientific-educational · two brood frames shown side by side · plus honey band</sub>
-</td>
-<td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.png" alt="Healthy And Patchy Brood Pattern Chart (scientific-educational)" width="100%" /></a>
-  <br /><strong>Healthy And Patchy Brood Pattern Chart</strong>
-  <br /><sub>scientific-educational · two brood frames shown side by side · plus honey band</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.png" alt="Capped Brood Honey And Pollen Frame Guide (scientific-educational)" width="100%" /></a>
-  <br /><strong>Capped Brood Honey And Pollen Frame Guide</strong>
-  <br /><sub>scientific-educational · pollen crescent · capped brood oval</sub>
-</td>
-<td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.png" alt="Capped Brood Honey And Pollen Frame Guide (scientific-educational)" width="100%" /></a>
-  <br /><strong>Capped Brood Honey And Pollen Frame Guide</strong>
-  <br /><sub>scientific-educational · pollen crescent · capped brood oval</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/03-queen-cups-and-swarm-cells-poster.png" alt="Queen Cups And Swarm Cells Poster (infographic-diagram)" width="100%" /></a>
   <br /><strong>Queen Cups And Swarm Cells Poster</strong>
   <br /><sub>infographic-diagram · close-up views of queen cups · queen cells</sub>
@@ -365,18 +401,6 @@
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/06-bee-smoker-lighting-steps-poster.png" alt="Bee Smoker Lighting Steps Poster (infographic-diagram)" width="100%" /></a>
   <br /><strong>Bee Smoker Lighting Steps Poster</strong>
   <br /><sub>infographic-diagram · crumpled paper starter · burlap layer</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.png" alt="Varroa Monitoring Board Comparison Guide (scientific-educational)" width="100%" /></a>
-  <br /><strong>Varroa Monitoring Board Comparison Guide</strong>
-  <br /><sub>scientific-educational · sticky board tray · screened bottom board</sub>
-</td>
-<td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.png" alt="Varroa Monitoring Board Comparison Guide (scientific-educational)" width="100%" /></a>
-  <br /><strong>Varroa Monitoring Board Comparison Guide</strong>
-  <br /><sub>scientific-educational · sticky board tray · screened bottom board</sub>
 </td>
 </tr>
 <tr>
@@ -386,148 +410,184 @@
   <br /><sub>atlas-contact-sheet · long gauntlet gloves · ventilated leather gloves</sub>
 </td>
 <td width="50%" align="center" valign="top">
-  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.png" alt="Bee Veil Gloves And Frame Grip Guide (scientific-educational)" width="100%" /></a>
-  <br /><strong>Bee Veil Gloves And Frame Grip Guide</strong>
-  <br /><sub>scientific-educational · long gauntlet gloves · ventilated leather gloves</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/05-freshwater-tank-bacteria-zone-cutaway.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/05-freshwater-tank-bacteria-zone-cutaway.png" alt="Freshwater Tank Bacteria Zone Cutaway (mixed-format)" width="100%" /></a>
   <br /><strong>Freshwater Tank Bacteria Zone Cutaway</strong>
   <br /><sub>mixed-format · sponge and ceramic media layers · return flow</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/08-beginner-aquarium-cycling-station-setup.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/08-beginner-aquarium-cycling-station-setup.png" alt="Beginner Aquarium Cycling Station Setup (photorealistic-natural)" width="100%" /></a>
   <br /><strong>Beginner Aquarium Cycling Station Setup</strong>
   <br /><sub>photorealistic-natural · labeled test vials on a tray · clip thermometer</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/09-local-fish-store-nitrogen-cycle-training-wall.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/09-local-fish-store-nitrogen-cycle-training-wall.png" alt="Local Fish Store Nitrogen Cycle Training Wall (photorealistic-natural)" width="100%" /></a>
   <br /><strong>Local Fish Store Nitrogen Cycle Training Wall</strong>
   <br /><sub>photorealistic-natural · one clear demo tank · jars of sponge and ceramic media</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/10-aquarium-cycle-logbook-and-maintenance-card-spread.prompt.md"><img src="images/2026/05/21/20260521-1553-aquarium-nitrogen-cycle-starter-posters/10-aquarium-cycle-logbook-and-maintenance-card-spread.png" alt="Aquarium Cycle Logbook And Maintenance Card Spread (productivity-visual)" width="100%" /></a>
   <br /><strong>Aquarium Cycle Logbook And Maintenance Card Spread</strong>
   <br /><sub>productivity-visual · daily test card · water-change checklist</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/09-cosmetology-braiding-station-setup.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/09-cosmetology-braiding-station-setup.png" alt="Cosmetology Braiding Station Setup (photorealistic-natural)" width="100%" /></a>
   <br /><strong>Cosmetology Braiding Station Setup</strong>
   <br /><sub>photorealistic-natural · rat-tail combs in a crock · pre-stretched extension bundles on hooks</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1452-protective-braiding-training-guides/10-braiding-clinic-section-cutaway.prompt.md"><img src="images/2026/05/21/20260521-1452-protective-braiding-training-guides/10-braiding-clinic-section-cutaway.png" alt="Braiding Clinic Section Cutaway (mixed-format)" width="100%" /></a>
   <br /><strong>Braiding Clinic Section Cutaway</strong>
   <br /><sub>mixed-format · styling chairs · mannequin-head shelf</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/01-lantern-kite-gecko-turnaround-sheet.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/01-lantern-kite-gecko-turnaround-sheet.png" alt="Lantern Kite Gecko Turnaround Sheet (character-bible)" width="100%" /></a>
   <br /><strong>Lantern Kite Gecko Turnaround Sheet</strong>
   <br /><sub>character-bible · one small rooftop gecko courier shown in front · three-quarter views with the same patched shoulder cape</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/02-lantern-kite-gecko-expression-and-reaction-pack.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/02-lantern-kite-gecko-expression-and-reaction-pack.png" alt="Lantern Kite Gecko Expression And Reaction Pack (animation-reference)" width="100%" /></a>
   <br /><strong>Lantern Kite Gecko Expression And Reaction Pack</strong>
   <br /><sub>animation-reference · annoyed repair face · slipping panic</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/03-rooftop-gecko-species-dossier-plate.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/03-rooftop-gecko-species-dossier-plate.png" alt="Rooftop Gecko Species Dossier Plate (species-dossier)" width="100%" /></a>
   <br /><strong>Rooftop Gecko Species Dossier Plate</strong>
   <br /><sub>species-dossier · tail ribbon counterbalance · satchel scale relation</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/04-kite-repair-satchel-and-costume-detail-plate.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/04-kite-repair-satchel-and-costume-detail-plate.png" alt="Kite Repair Satchel And Costume Detail Plate (character-bible)" width="100%" /></a>
   <br /><strong>Kite Repair Satchel And Costume Detail Plate</strong>
   <br /><sub>character-bible · couriers patched shoulder cape · rounded canvas satchel shown open and closed</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/05-rooftop-chase-storyboard-beat-page.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/05-rooftop-chase-storyboard-beat-page.png" alt="Rooftop Chase Storyboard Beat Page (storyboard-sequence)" width="100%" /></a>
   <br /><strong>Rooftop Chase Storyboard Beat Page</strong>
   <br /><sub>storyboard-sequence · sprinting across tiles · skidding along a gutter</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/06-bell-tower-rooftop-camera-blocking-board.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/06-bell-tower-rooftop-camera-blocking-board.png" alt="Bell Tower Rooftop Camera Blocking Board (film-preproduction)" width="100%" /></a>
   <br /><strong>Bell Tower Rooftop Camera Blocking Board</strong>
   <br /><sub>film-preproduction · over-shoulder pursuit · leap profile</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/07-kite-catch-animation-timing-ladder.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/07-kite-catch-animation-timing-ladder.png" alt="Kite Catch Animation Timing Ladder (animation-reference)" width="100%" /></a>
   <br /><strong>Kite Catch Animation Timing Ladder</strong>
   <br /><sub>animation-reference · launch stretch · airborne twist</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/08-dusk-rooftop-continuity-environment-sheet.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/08-dusk-rooftop-continuity-environment-sheet.png" alt="Dusk Rooftop Continuity Environment Sheet (film-preproduction)" width="100%" /></a>
   <br /><strong>Dusk Rooftop Continuity Environment Sheet</strong>
   <br /><sub>film-preproduction · one main rooftop elevation · one simple location plan</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/09-seedance-to-capcut-edit-planning-board.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/09-seedance-to-capcut-edit-planning-board.png" alt="Seedance To CapCut Edit Planning Board (film-preproduction)" width="100%" /></a>
   <br /><strong>Seedance To CapCut Edit Planning Board</strong>
   <br /><sub>film-preproduction · with clear order and short labels only · no logos</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/10-lantern-kite-recovery-cinematic-proof-frame.prompt.md"><img src="images/2026/05/21/20260521-0440-lantern-kite-gecko-film-asset-bible/10-lantern-kite-recovery-cinematic-proof-frame.png" alt="Lantern Kite Recovery Cinematic Proof Frame (illustration-story)" width="100%" /></a>
   <br /><strong>Lantern Kite Recovery Cinematic Proof Frame</strong>
   <br /><sub>illustration-story · same cape patch · spool charm</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/08-bike-co-op-repair-stand-pegboard-reference.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/08-bike-co-op-repair-stand-pegboard-reference.png" alt="Bike Co-Op Repair Stand Pegboard Reference (photorealistic-natural)" width="100%" /></a>
   <br /><strong>Bike Co-Op Repair Stand Pegboard Reference</strong>
   <br /><sub>photorealistic-natural · floor pump · tire levers</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/09-public-commuter-repair-station-street-view.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/09-public-commuter-repair-station-street-view.png" alt="Public Commuter Repair Station Street View (photorealistic-natural)" width="100%" /></a>
   <br /><strong>Public Commuter Repair Station Street View</strong>
   <br /><sub>photorealistic-natural · hanging repair arm · tethered hex keys</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/10-commuter-rear-wheel-and-brake-section-cutaway.prompt.md"><img src="images/2026/05/14/20260514-0205-bicycle-repair-commuter-reference-sheets/10-commuter-rear-wheel-and-brake-section-cutaway.png" alt="Commuter Rear Wheel And Brake Section Cutaway (mixed-format)" width="100%" /></a>
   <br /><strong>Commuter Rear Wheel And Brake Section Cutaway</strong>
   <br /><sub>mixed-format · inner tube · rim wall</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/08-frosting-trouble-signs-training-wall.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/08-frosting-trouble-signs-training-wall.png" alt="Frosting Trouble Signs Training Wall (photorealistic-natural)" width="100%" /></a>
   <br /><strong>Frosting Trouble Signs Training Wall</strong>
   <br /><sub>photorealistic-natural · ragged star piping · air bubbles</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/09-pastry-school-decorating-station.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/09-pastry-school-decorating-station.png" alt="Pastry School Decorating Station (photorealistic-natural)" width="100%" /></a>
   <br /><strong>Pastry School Decorating Station</strong>
   <br /><sub>photorealistic-natural · practice cakes · piping bags</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/10-cake-finishing-bench-section-cutaway.prompt.md"><img src="images/2026/05/14/20260514-0105-bakery-icing-tip-comparison-wall/10-cake-finishing-bench-section-cutaway.png" alt="Cake Finishing Bench Section Cutaway (mixed-format)" width="100%" /></a>
   <br /><strong>Cake Finishing Bench Section Cutaway</strong>
   <br /><sub>mixed-format · under-bench drawer storage for tips and couplers · piping-bag rack</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/04-180-degree-rule-overhead-diagram.prompt.md"><img src="images/2026/05/22/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/04-180-degree-rule-overhead-diagram.png" alt="180 Degree Rule Overhead Diagram (infographic-diagram)" width="100%" /></a>
   <br /><strong>180 Degree Rule Overhead Diagram</strong>
   <br /><sub>infographic-diagram · bold camera axis line between them · safe camera positions on one side</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.png" alt="Healthy And Patchy Brood Pattern Chart (scientific-educational)" width="100%" /></a>
+  <br /><strong>Healthy And Patchy Brood Pattern Chart</strong>
+  <br /><sub>scientific-educational · two brood frames shown side by side · plus honey band</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/01-healthy-and-patchy-brood-pattern-chart.png" alt="Healthy And Patchy Brood Pattern Chart (scientific-educational)" width="100%" /></a>
+  <br /><strong>Healthy And Patchy Brood Pattern Chart</strong>
+  <br /><sub>scientific-educational · two brood frames shown side by side · plus honey band</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.png" alt="Capped Brood Honey And Pollen Frame Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Capped Brood Honey And Pollen Frame Guide</strong>
+  <br /><sub>scientific-educational · pollen crescent · capped brood oval</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/02-capped-brood-honey-and-pollen-frame-guide.png" alt="Capped Brood Honey And Pollen Frame Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Capped Brood Honey And Pollen Frame Guide</strong>
+  <br /><sub>scientific-educational · pollen crescent · capped brood oval</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.png" alt="Varroa Monitoring Board Comparison Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Varroa Monitoring Board Comparison Guide</strong>
+  <br /><sub>scientific-educational · sticky board tray · screened bottom board</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/07-varroa-monitoring-board-comparison-guide.png" alt="Varroa Monitoring Board Comparison Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Varroa Monitoring Board Comparison Guide</strong>
+  <br /><sub>scientific-educational · sticky board tray · screened bottom board</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/09-bee-veil-gloves-and-frame-grip-guide.png" alt="Bee Veil Gloves And Frame Grip Guide (scientific-educational)" width="100%" /></a>
+  <br /><strong>Bee Veil Gloves And Frame Grip Guide</strong>
+  <br /><sub>scientific-educational · long gauntlet gloves · ventilated leather gloves</sub>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="prompts/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.prompt.md"><img src="images/2026/05/21/20260521-1653-beekeeping-brood-and-hive-inspection-posters/05-langstroth-hive-box-section-diagram.png" alt="Langstroth Hive Box Section Diagram (mixed-format)" width="100%" /></a>
@@ -572,20 +632,20 @@
 
 | Panel | Human task | Labels |
 | --- | --- | --- |
-| Shot Size Ladder Reference Poster | Shows how one actor and one apartment scene scale from extreme wide to extreme close-up without changing story geography, which makes the shot-size ladder easier to remember and apply | MEDIUM CLOSE-UP, EXTREME CLOSE-UP, with the same couch |
+| Brayer Hardness And Texture Comparison Chart | Helps beginners compare how soft, medium, and hard brayers change line fidelity, solid coverage, and rough patch texture before they waste ink and paper | three relief-print brayers labeled soft, with side-by-side ink rolls, carved line samples |
+| Carving Mark Vocabulary Reference Plate | Gives students and curriculum authors a concrete visual vocabulary for common carved textures, edge mistakes, and clean relief areas they see while cutting blocks | U gouge scoop, hatch marks, stipple pits |
+| Reduction Print Step Sequence Poster | Shows the carve-print-carve rhythm of reduction linocut so students can understand shrinking printable areas and why each stage cannot be undone | second carve, second color, final carve |
+| Relief Printing Tools Tray Reference | Maps the core beginner relief-print toolkit so teachers, students, and agents can distinguish cutting, inking, registration, burnishing, measuring, and cleanup objects | bench hook, V gouges, U gouges |
 | Camera Angle And Eyeline Guide | Compares the most reusable dialogue-scene camera angles while also showing how eyeline placement and shoulder framing affect viewer orientation | HIGH ANGLE, LOW ANGLE, OVER SHOULDER |
-| 24mm 50mm 85mm Lens Portrait Strip | Demonstrates focal-length behavior through matched framing so viewers can compare distortion, camera distance, and background compression in one glance | normal perspective, telephoto compression, matte printed board |
 | Director Viewfinder Tape Marks And Apple Boxes Atlas | Identifies the small physical tools that turn abstract blocking advice into practical set work | directors cardboard viewfinder, blue and red spike tape rolls, paper floor plan |
-| Rival Doctrine Comparison Sheet | Compares two competing strategic logics in one mirrored sheet so viewers can quickly contrast posture, networks, escalation tolerance, and vulnerabilities | continental order doctrine, maritime order doctrine, strategic depth cards |
-| Conflict Escalation Decision Tree | Shows how one regional crisis can move through threshold bands, off-ramps, coalition decisions, and systemic outcomes rather than following a single linear path | trigger event, initial assessment, diplomatic engagement |
 
 ## Current Seed Run
 
-- **Theme:** Cinematography Shot Size And Blocking Visual Guides
+- **Theme:** Relief Print Registration And Brayer Course Plates
 
-- **Coverage:** 11 panels with prompt cards and a run report.
+- **Coverage:** 10 panels with prompt cards and a run report.
 
-- **Run page:** [20260522-0220-cinematography-shot-size-and-blocking-visual-guides](site/r/20260522-0220-cinematography-shot-size-and-blocking-visual-guides/index.html)
+- **Run page:** [20260525-0211-relief-print-registration-and-brayer-course-plates](site/r/20260525-0211-relief-print-registration-and-brayer-course-plates/index.html)
 
 ## Publish Automation
 
