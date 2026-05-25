@@ -1851,6 +1851,28 @@ img {
   color: var(--ink);
 }
 
+.catalog-stage,
+.lane-card,
+.license-card,
+.theme-card,
+.preview-card,
+.task-card,
+.image-card,
+.run-card,
+.hook-board,
+.builder-output,
+.education-preview {
+  box-shadow: var(--shadow-soft);
+}
+
+.inspector-panel {
+  background: rgba(251, 250, 246, 0.95);
+}
+
+.agent-dock {
+  background: rgba(255, 255, 255, 0.96);
+}
+
 .mobile-scrim {
   position: fixed;
   inset: 0;
@@ -1870,6 +1892,9 @@ img {
     --inspector-width: 340px;
   }
 
+  .market-directory-grid,
+  .catalog-browse-columns,
+  .market-shelf-grid,
   .preview-grid,
   .task-grid,
   .lane-row,
@@ -1959,6 +1984,16 @@ img {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .market-global-header {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .market-primary-nav {
+    justify-content: flex-start;
+    overflow: auto;
+    white-space: nowrap;
+  }
+
   .overview-hero,
   .catalog-shell,
   .education-shell,
@@ -1976,6 +2011,9 @@ img {
     max-height: none;
   }
 
+  .market-directory-grid,
+  .catalog-browse-columns,
+  .market-shelf-grid,
   .builder-controls,
   .summary-strip,
   .brief-grid,
@@ -1992,6 +2030,8 @@ img {
 }
 
 @media (max-width: 640px) {
+  .market-global-header,
+  .market-primary-nav,
   .surface-header,
   .site-page,
   .nav-rail {
@@ -1999,6 +2039,7 @@ img {
   }
 
   .surface-header {
+    top: 208px;
     align-items: start;
     flex-direction: column;
   }
@@ -2007,6 +2048,12 @@ img {
   .hero-actions,
   .catalog-toolbar,
   .builder-actions {
+    width: 100%;
+  }
+
+  .market-utility-links,
+  .catalog-browse-pills,
+  .catalog-browse-list {
     width: 100%;
   }
 

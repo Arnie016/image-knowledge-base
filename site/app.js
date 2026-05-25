@@ -1352,6 +1352,8 @@ function renderSubtabs() {
 }
 
 function render() {
+  if (els.search && els.search.value !== state.query) els.search.value = state.query;
+  if (els.marketSearch && els.marketSearch.value !== state.query) els.marketSearch.value = state.query;
   renderPageMeta();
   renderPages();
   renderSubtabs();
