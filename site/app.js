@@ -40,6 +40,63 @@ const AGENT_STARTER_PROMPTS = [
   "retrieve storyboard-like prompt images",
 ];
 
+const MARKET_NAV_ITEMS = [
+  { label: "Browse All", page: "catalog" },
+  { label: "Explainers", query: "comparison chart training poster labeled diagram", page: "catalog" },
+  { label: "Storyboards", query: "storyboard beat page shot blocking board", page: "catalog" },
+  { label: "Character Systems", query: "turnaround expression sheet species dossier continuity pack", page: "catalog" },
+  { label: "Prompt Boards", query: "prompt board commercial board hero frame motion handoff", page: "catalog" },
+  { label: "Textures & Surfaces", query: "texture watercolor line art paper metal leather", page: "catalog" },
+  { label: "Categories", page: "themes" },
+];
+
+const MARKET_DIRECTORY_GROUPS = [
+  {
+    title: "Asset Families",
+    items: [
+      { label: "Comparison Charts", query: "comparison chart", note: "types, side-by-side systems, choices" },
+      { label: "Training Posters", query: "training poster visual guide", note: "staff guides and revision sheets" },
+      { label: "Contact Sheets", query: "contact sheet reference layout", note: "kits, trays, repeated visual evidence" },
+      { label: "Section Cutaways", query: "section cutaway anatomy plate", note: "how parts fit together in one view" },
+      { label: "Storyboard Pages", query: "storyboard beat page", note: "shots, sequence logic, camera beats" },
+      { label: "Character Bibles", query: "turnaround expression species dossier", note: "identity, prop, costume continuity" },
+    ],
+  },
+  {
+    title: "Production Lanes",
+    items: [
+      { label: "Commercial Boards", query: "commercial board product hero frame end card", note: "15-second ad packs" },
+      { label: "Mascot Film Assets", query: "mascot turnaround species dossier capcut", note: "GPT to Seedance to CapCut handoff" },
+      { label: "Continuity Kits", query: "continuity pack setting prop action style", note: "pin-safe film context" },
+      { label: "Explainer Plates", query: "labeled diagram process guide infographic", note: "education and training use" },
+      { label: "Scenario Boards", query: "scenario board doctrine sheet pressure map", note: "speculative thesis visuals" },
+      { label: "Worldbuilding Packs", query: "map institution kit worldbuilding reference", note: "story worlds and systems" },
+    ],
+  },
+  {
+    title: "Domains",
+    items: [
+      { label: "Education", query: "education revision poster school visual guide", note: "course-ready sheets" },
+      { label: "Food & Craft", query: "bakery tools coffee visual guide craft training", note: "hospitality and hands-on teaching" },
+      { label: "Repair & Maintenance", query: "repair reference troubleshooting board", note: "mechanical teaching images" },
+      { label: "Science", query: "anatomy plate scientific educational diagram", note: "processes, systems, labeled parts" },
+      { label: "Film & Motion", query: "storyboard camera blocking motion handoff", note: "editing and sequence planning" },
+      { label: "Speculative History", query: "predictive history pressure map scenario board", note: "civilizational and geopolitical lanes" },
+    ],
+  },
+  {
+    title: "Visual Systems",
+    items: [
+      { label: "Photoreal Rooms", taxonomy: "photorealistic-natural", note: "believable deployment spaces" },
+      { label: "Infographic Diagrams", taxonomy: "infographic-diagram", note: "structured teaching-first pages" },
+      { label: "Scientific Plates", taxonomy: "scientific-educational", note: "clean, object-anchored knowledge boards" },
+      { label: "Mixed Format", taxonomy: "mixed-format", note: "scene + diagram hybrids" },
+      { label: "Atlas Contact Sheets", taxonomy: "atlas-contact-sheet", note: "object sets and tray logic" },
+      { label: "Future Film Taxonomies", query: "commercial storyboard continuity pack", note: "new lanes the automation is growing into" },
+    ],
+  },
+];
+
 const WORKFLOW_CARD_BLUEPRINTS = [
   {
     kicker: "Commercial board",
@@ -139,6 +196,12 @@ const els = {
   body: document.body,
   pages: [...document.querySelectorAll("[data-page]")],
   pageLinks: [...document.querySelectorAll("[data-page-link]")],
+  marketSearch: document.querySelector("#marketSearchInput"),
+  marketPrimaryNav: document.querySelector("#marketPrimaryNav"),
+  marketDirectory: document.querySelector("#marketDirectory"),
+  marketShelf: document.querySelector("#marketShelf"),
+  catalogBrowsePills: document.querySelector("#catalogBrowsePills"),
+  catalogBrowseColumns: document.querySelector("#catalogBrowseColumns"),
   pageKicker: document.querySelector("#pageKicker"),
   pageTitle: document.querySelector("#pageTitle"),
   proofImageCount: document.querySelector("#proofImageCount"),
@@ -207,6 +270,31 @@ function normalize(value) {
 
 function plural(count, singular, pluralValue = `${singular}s`) {
   return `${count} ${count === 1 ? singular : pluralValue}`;
+}
+
+function marketEntryCount(entry) {
+  const images = publicImages.filter((image) => {
+    if (entry.taxonomy && image.taxonomy !== entry.taxonomy) return false;
+    if (entry.topic && !image.topics.includes(entry.topic)) return false;
+    if (!entry.query) return true;
+    const parts = queryPartsFrom(entry.query);
+    if (!parts.length) return true;
+    return parts.some((part) => image.searchText.includes(part));
+  });
+  return images.length;
+}
+
+function applyMarketEntry(entry = {}) {
+  clearFilters();
+  state.view = "images";
+  if (entry.taxonomy) state.taxonomies.add(entry.taxonomy);
+  if (entry.topic) state.topics.add(entry.topic);
+  state.query = entry.query ?? "";
+  if (els.search) els.search.value = state.query;
+  if (els.marketSearch) els.marketSearch.value = state.query;
+  if (entry.page) setPage(entry.page);
+  else setPage("catalog");
+  render();
 }
 
 function toggleSet(set, value, enabled) {
@@ -464,6 +552,113 @@ function renderHomePreview() {
       </button>
     `)
     .join("");
+}
+
+function directoryEntryButton(entry, variant = "directory") {
+  const count = marketEntryCount(entry);
+  const countLabel = count ? `${count} live` : "planned lane";
+  const query = escapeHtml(entry.query ?? "");
+  const taxonomy = escapeHtml(entry.taxonomy ?? "");
+  const topic = escapeHtml(entry.topic ?? "");
+  const page = escapeHtml(entry.page ?? "catalog");
+  return `
+    <button
+      class="market-entry market-entry--${variant}"
+      type="button"
+      data-market-query="${query}"
+      data-market-taxonomy="${taxonomy}"
+      data-market-topic="${topic}"
+      data-market-page="${page}"
+    >
+      <strong>${escapeHtml(entry.label)}</strong>
+      <span>${escapeHtml(entry.note ?? "")}</span>
+      <em>${escapeHtml(countLabel)}</em>
+    </button>
+  `;
+}
+
+function renderMarketPrimaryNav() {
+  if (!els.marketPrimaryNav) return;
+  els.marketPrimaryNav.innerHTML = MARKET_NAV_ITEMS
+    .map((item) => {
+      const query = escapeHtml(item.query ?? "");
+      const page = escapeHtml(item.page ?? "catalog");
+      const isActive = state.page === item.page && !item.query;
+      return `
+        <button
+          class="market-nav-link${isActive ? " is-active" : ""}"
+          type="button"
+          data-market-query="${query}"
+          data-market-page="${page}"
+        >
+          ${escapeHtml(item.label)}
+        </button>
+      `;
+    })
+    .join("");
+}
+
+function renderMarketDirectory() {
+  if (!els.marketDirectory) return;
+  els.marketDirectory.innerHTML = MARKET_DIRECTORY_GROUPS
+    .map((group) => `
+      <article class="market-directory-card">
+        <div class="market-directory-head">
+          <strong>${escapeHtml(group.title)}</strong>
+        </div>
+        <div class="market-directory-list">
+          ${group.items.map((entry) => directoryEntryButton(entry, "directory")).join("")}
+        </div>
+      </article>
+    `)
+    .join("");
+}
+
+function renderMarketShelves() {
+  if (!els.marketShelf) return;
+  const shelfItems = MARKET_DIRECTORY_GROUPS.flatMap((group) => group.items).slice(0, 8);
+  els.marketShelf.innerHTML = shelfItems
+    .map((entry) => directoryEntryButton(entry, "shelf"))
+    .join("");
+}
+
+function renderCatalogBrowse() {
+  if (els.catalogBrowsePills) {
+    const pillItems = MARKET_DIRECTORY_GROUPS[0]?.items.concat(MARKET_DIRECTORY_GROUPS[1]?.items.slice(0, 4) ?? []) ?? [];
+    els.catalogBrowsePills.innerHTML = pillItems
+      .map((entry) => {
+        const query = escapeHtml(entry.query ?? "");
+        const taxonomy = escapeHtml(entry.taxonomy ?? "");
+        const topic = escapeHtml(entry.topic ?? "");
+        return `
+          <button
+            class="browse-pill"
+            type="button"
+            data-market-query="${query}"
+            data-market-taxonomy="${taxonomy}"
+            data-market-topic="${topic}"
+            data-market-page="catalog"
+          >
+            <strong>${escapeHtml(entry.label)}</strong>
+            <span>${escapeHtml(entry.note ?? "")}</span>
+          </button>
+        `;
+      })
+      .join("");
+  }
+
+  if (els.catalogBrowseColumns) {
+    els.catalogBrowseColumns.innerHTML = MARKET_DIRECTORY_GROUPS
+      .map((group) => `
+        <article class="catalog-browse-card">
+          <strong>${escapeHtml(group.title)}</strong>
+          <div class="catalog-browse-list">
+            ${group.items.map((entry) => directoryEntryButton(entry, "catalog")).join("")}
+          </div>
+        </article>
+      `)
+      .join("");
+  }
 }
 
 function renderTaskPreview() {
@@ -1160,6 +1355,10 @@ function render() {
   renderPageMeta();
   renderPages();
   renderSubtabs();
+  renderMarketPrimaryNav();
+  renderMarketDirectory();
+  renderMarketShelves();
+  renderCatalogBrowse();
   renderHomeMetrics();
   renderHeroWall();
   renderTaskPreview();
@@ -1498,7 +1697,21 @@ function submitAgentPrompt(prompt) {
 
 els.search?.addEventListener("input", (event) => {
   state.query = event.target.value;
+  if (els.marketSearch && els.marketSearch.value !== state.query) els.marketSearch.value = state.query;
   render();
+});
+
+els.marketSearch?.addEventListener("keydown", (event) => {
+  if (event.key !== "Enter") return;
+  event.preventDefault();
+  state.query = event.target.value;
+  if (els.search) els.search.value = state.query;
+  setPage("catalog");
+});
+
+els.marketSearch?.addEventListener("input", (event) => {
+  state.query = event.target.value;
+  if (els.search && els.search.value !== state.query) els.search.value = state.query;
 });
 
 els.agentPromptInput?.addEventListener("input", (event) => {
@@ -1570,6 +1783,17 @@ document.addEventListener("click", async (event) => {
   const pageLink = target.closest("[data-page-link]");
   if (pageLink) {
     setPage(pageLink.dataset.pageLink);
+    return;
+  }
+
+  const marketEntry = target.closest("[data-market-page]");
+  if (marketEntry) {
+    applyMarketEntry({
+      page: marketEntry.dataset.marketPage,
+      query: marketEntry.dataset.marketQuery,
+      taxonomy: marketEntry.dataset.marketTaxonomy,
+      topic: marketEntry.dataset.marketTopic,
+    });
     return;
   }
 

@@ -63,6 +63,36 @@
       </aside>
 
       <div class="surface-shell">
+        <div class="market-banner">
+          <span>Browse the atlas like a creative asset market, then ask the agent to retrieve or mutate what you find.</span>
+        </div>
+
+        <header class="market-global-header">
+          <label class="market-search" for="marketSearchInput">
+            <span class="market-search-icon">⌕</span>
+            <input
+              id="marketSearchInput"
+              type="search"
+              placeholder="Search storyboard packs, comparison charts, continuity sheets, textures, maps..."
+              autocomplete="off"
+            />
+          </label>
+          <a class="market-brand" href="#home" data-page-link="home" aria-label="Image Atlas home">
+            <span class="market-brand-mark">Image</span>
+            <span class="market-brand-copy">
+              <strong>Atlas Market</strong>
+              <small>Agentic visual knowledge base</small>
+            </span>
+          </a>
+          <div class="market-utility-links">
+            <button class="market-link" type="button" data-page-link="catalog">Browse</button>
+            <button class="market-link" type="button" data-page-link="themes">Categories</button>
+            <button class="market-link" type="button" data-page-link="education">Build pack</button>
+          </div>
+        </header>
+
+        <nav id="marketPrimaryNav" class="market-primary-nav" aria-label="Marketplace browse lanes"></nav>
+
         <header class="surface-header">
           <div>
             <p class="kicker" id="pageKicker">Image Atlas</p>
@@ -109,6 +139,27 @@
               </article>
             </section>
 
+            <section class="market-directory-section">
+              <div class="section-head">
+                <div>
+                  <p class="kicker">Browse structure</p>
+                  <h3>Navigate by asset family, domain, and visual system.</h3>
+                </div>
+                <button class="text-link" type="button" data-page-link="catalog">Open structured browser</button>
+              </div>
+              <div id="marketDirectory" class="market-directory-grid"></div>
+            </section>
+
+            <section class="market-shelf-section">
+              <div class="section-head">
+                <div>
+                  <p class="kicker">Quick shelves</p>
+                  <h3>High-signal browse lanes for production-ready image packs.</h3>
+                </div>
+              </div>
+              <div id="marketShelf" class="market-shelf-grid"></div>
+            </section>
+
             <section class="preview-section">
               <div class="section-head">
                 <div>
@@ -133,6 +184,17 @@
           </section>
 
           <section class="site-page" data-page="catalog">
+            <section class="catalog-market-strip">
+              <div class="section-head">
+                <div>
+                  <p class="kicker">Structured browse</p>
+                  <h3>Start with a lane, then drill into runs, hooks, and panels.</h3>
+                </div>
+              </div>
+              <div id="catalogBrowsePills" class="catalog-browse-pills"></div>
+              <div id="catalogBrowseColumns" class="catalog-browse-columns"></div>
+            </section>
+
             <div class="catalog-shell">
               <aside class="catalog-filters" aria-label="Browser controls">
                 <label class="search-block" for="searchInput">
